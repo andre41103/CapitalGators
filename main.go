@@ -1,8 +1,12 @@
 package main
 
-import "fmt"
+//has to syntactically appease go.mod
+import (
+	api "github.com/CapitalGators/API"
+)
 
 func main() {
 
-	fmt.Printf("Hello World!")
+	api.RunServer()
+
 }
