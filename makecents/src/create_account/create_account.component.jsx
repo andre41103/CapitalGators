@@ -1,5 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
+import './create_account.component.css';
 
 const Create_Account = () => {
     // useNavigate hook to navigate programmatically
@@ -11,11 +12,12 @@ const Create_Account = () => {
     };
 
     return (
-      <div className="create_account">
-        <h2>Welcome to the Create an Account Page!</h2>
-        <button onClick={handleLogin}>Return to Login</button>
-      </div>
+        <div className="content">
+          <h2>Welcome to the Create an Account Page!</h2>
+          <button onClick={handleLogin}>Return to Login</button>
+        </div>
     );
+    
   }
   
   export default Create_Account;
