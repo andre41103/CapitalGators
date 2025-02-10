@@ -22,7 +22,7 @@ html, body {
     width: 100%; 
 }
 
-.contentHeader {
+.content {
     text-align: center;
 }
 
@@ -30,6 +30,7 @@ html, body {
     font-family: 'Manrope', sans-serif;
     font-size: 3.5rem;
     color: black;
+   /* text-shadow: 0 0 2px #2cb67d, 0 0 5px #2cb67d;*/
 }
 
 .custom-h2 {
@@ -37,3 +38,50 @@ html, body {
     font-size: 2.0rem;
     color: black;
 }
+
+
+.form-container {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 20px; 
+    justify-content: center; 
+    margin: 20px auto;
+  }
+  
+  
+  .form-group {
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+    font-size: 1rem;
+    gap: 10px;
+  }
+  
+  
+  label {
+    font-weight: 600;
+    margin-bottom: 5px; 
+    color: Black;
+    font-size: 2rem;
+    font-family: 'Manrope', sans-serif;
+
+  }
+  
+  
+  input {
+    width: 250px; 
+    padding: 10px; 
+    border: 1px solid  #2cb67d; 
+    border-radius: 5px; 
+    font-size: 1rem;
+    font-family: 'Manrope', sans-serif;
+    background-color: white;
+    color: black;
+  }
+  
+  input:focus {
+    outline: none; 
+    border-color: #2cb67d; 
+    box-shadow: 0 0 4px rgba(44, 182, 125, 0.5); 
+    background-color: white;
+  }
