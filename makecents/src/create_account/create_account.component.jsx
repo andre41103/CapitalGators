@@ -12,8 +12,9 @@ const Create_Account = () => {
     };
 
     return (
-        <div className="content">
-          <h2>Welcome to the Create an Account Page!</h2>
+        <div className="contentHeader">
+          <h1 className='custom-h1'>Welcome to MakeCents!</h1>
+          <h2 className='custom-h2'>Below we will ask you questions that will personalize your experience with us</h2>
           <button onClick={handleLogin}>Return to Login</button>
         </div>
     );
