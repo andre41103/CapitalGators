@@ -1,6 +1,8 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import './create_account.component.css';
+import { useState } from 'react';
+
 
 const Create_Account = () => {
     // useNavigate hook to navigate programmatically
@@ -9,7 +11,24 @@ const Create_Account = () => {
     // Handle login logic
     const handleLogin = () => {
         navigate('/login');
+ 
     };
+
+    const [selectedCategories, setSelectedCategories] = useState([]);
+    const [selectedTopics, setSelectedTopics] = useState([]);
+
+    // Spending categories and news topics
+    const categories = ['Groceries', 'Rent', 'Subscriptions', 'Fitness', 'Eating out', 'Transportation'];
+    const newsTopics = ['Stock Market', 'Interest Rates', 'Technology', 'Politics', 'Currency Rates'];
+
+    // Handle category selection toggle
+    const toggleCategory = (category) => {
+        setSelectedCategories((prev) =>
+            prev.includes(category) ? prev.filter((item) => item !== category) : [...prev, category]
+        );
+    };
+
+
 
     return (
         <div className="content">
@@ -44,11 +63,26 @@ const Create_Account = () => {
             </div>
           </div>
 
+         <div className="form-container">
+         <label htmlFor='categories'>What spending categories do you want to focus on? :</label>
+            <div className="selection-boxes">
+              {categories.map((category) => (
+                <button
+                  key={category}
+                  className={`selection-button ${selectedCategories.includes(category) ? 'selected' : ''}`}
+                  onClick={() => toggleCategory(category)}
+                  > {category}
+                </button>
+              ))}
+            </div>
+         </div>
+            
+
          
         </div>
 
     );
     
-  }
+  };
   
   export default Create_Account;

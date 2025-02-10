@@ -30,7 +30,7 @@ html, body {
     font-family: 'Manrope', sans-serif;
     font-size: 3.5rem;
     color: black;
-   /* text-shadow: 0 0 2px #2cb67d, 0 0 5px #2cb67d;*/
+    text-shadow: 0 0 2px #2cb67d, 0 0 5px #2cb67d;
 }
 
 .custom-h2 {
@@ -85,3 +85,35 @@ html, body {
     box-shadow: 0 0 4px rgba(44, 182, 125, 0.5); 
     background-color: white;
   }
+
+
+.selection-boxes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; 
+    justify-content: center;
+}
+
+
+.selection-box {
+    background-color: white; 
+    border: 2px solid #2cb67d; 
+    border-radius: 20px; 
+    padding: 10px 20px; 
+    font-family: 'Manrope', sans-serif; 
+    font-size: 1rem; 
+    font-weight: 500; 
+    cursor: pointer;
+    color: #2cb67d; 
+}
+
+.selection-box:hover {
+    background-color: white; 
+    border-color: #249c6b; 
+}
+
+.selection-box.selected {
+    background-color: #2cb67d; 
+    color: white; 
+    border-color: #2cb67d; 
+}
