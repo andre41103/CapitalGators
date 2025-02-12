@@ -22,9 +22,14 @@ const Create_Account = () => {
     const newsTopics = ['Stock Market', 'Interest Rates', 'Technology', 'Politics', 'Currency Rates'];
 
     // Handle category selection toggle
+    // category represents the specific category that is being clicked
     const toggleCategory = (category) => {
+      // to be able to select and unselect a category, we have to save the prev array
         setSelectedCategories((prev) =>
+        // if the category is already selected, unselect it
+        // if the category is not selected, select it
             prev.includes(category) ? prev.filter((item) => item !== category) : [...prev, category]
+            
         );
     };
 
@@ -69,7 +74,7 @@ const Create_Account = () => {
               {categories.map((category) => (
                 <button
                   key={category}
-                  className={`selection-button ${selectedCategories.includes(category) ? 'selected' : ''}`}
+                  className={`selection-box ${selectedCategories.includes(category) ? 'selected' : ''}`}
                   onClick={() => toggleCategory(category)}
                   > {category}
                 </button>
