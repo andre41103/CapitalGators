@@ -3,8 +3,7 @@
   background-color:#e0f0e3;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
   display: flex;
-  align-content: center;
+  align-items: center;
   justify-content: center;
 }
