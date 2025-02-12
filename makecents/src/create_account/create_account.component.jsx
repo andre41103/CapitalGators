@@ -34,6 +34,19 @@ const Create_Account = () => {
     };
 
 
+    // Handle news topic selection toggle
+    // news topic represents the specific news topic that is being clicked
+    const toggleNewsTopic = (newsTopic) => {
+      // to be able to select and unselect a news topic, we have to save the prev array
+      setSelectedTopics((prev) =>
+        // if the news topic is already selected, unselect it
+        // if the news topic is not selected, select it
+            prev.includes(newsTopic) ? prev.filter((item) => item !== newsTopic) : [...prev, newsTopic]
+            
+        );
+    };
+
+
 
     return (
         <div className="content">
@@ -77,6 +90,21 @@ const Create_Account = () => {
                   className={`selection-box ${selectedCategories.includes(category) ? 'selected' : ''}`}
                   onClick={() => toggleCategory(category)}
                   > {category}
+                </button>
+              ))}
+            </div>
+         </div>
+
+
+         <div className="form-container">
+         <label htmlFor='newstopics'>What news topics most interest you? :</label>
+            <div className="selection-boxes">
+              {newsTopics.map((newsTopic) => (
+                <button
+                  key={newsTopic}
+                  className={`selection-box ${selectedTopics.includes(newsTopic) ? 'selected' : ''}`}
+                  onClick={() => toggleNewsTopic(newsTopic)}
+                  > {newsTopic}
                 </button>
               ))}
             </div>
