@@ -97,7 +97,7 @@ const Create_Account = () => {
 
 
          <div className="form-container">
-         <label htmlFor='newstopics'>What news topics most interest you? :</label>
+         <label htmlFor='newstopics'>What news topics most interest you to stay up to date? :</label>
             <div className="selection-boxes">
               {newsTopics.map((newsTopic) => (
                 <button
@@ -111,7 +111,7 @@ const Create_Account = () => {
          </div>
             
 
-         
+         <footer className="footer"></footer>
         </div>
 
     );
