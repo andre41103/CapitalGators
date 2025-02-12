@@ -51,6 +51,50 @@ func read(w http.ResponseWriter, r *http.Request) {
 	}
 
 }
+
+// this is our PUT requests
+func update(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Content-Type", "application/json")
+
+	var updatedUser Creds
+	err := json.NewDecoder(r.Body).Decode(&updatedUser)
+	if err != nil {
+		http.Error(w, "Error decoding request body", http.StatusBadRequest)
+		return
+	}
+
+	// Find user in slice
+	for index, user := range userData {
+		if user.Username == updatedUser.Username {
+			// Update user
+			userData[index] = updatedUser
+
+			// Send response
+			w.WriteHeader(http.StatusOK)
+			_ = json.NewEncoder(w).Encode(updatedUser)
+			return
+		}
+	}
+
+	// User not found
+	http.Error(w, "User not found", http.StatusNotFound)
+}
+
+// This is our DELETE function
+func delete(w http.ResponseWriter, r *http.Request) {
+
+	w.Header().Set("Content-Type", "application/json")
+	name := mux.Vars(r)["username"]
+	count := 0
+
+	for index, str := range userData {
+		if str.Username == name {
+			count = index
+		}
+	}
+
+	userData = append(userData[:count], userData[count+1:]...)
+}
 func RunServer() {
 
 	//new rouuter
@@ -58,6 +102,8 @@ func RunServer() {
 
 	router.HandleFunc("/login", read).Methods("GET")
 	router.HandleFunc("/login", post).Methods("POST")
+	router.HandleFunc("/login", update).Methods("PUT")
+	router.HandleFunc("/login", delete).Methods("DELETE")
 
 	err := http.ListenAndServe(":3000", router)
 	if err != nil {
