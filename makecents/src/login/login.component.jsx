@@ -1,6 +1,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import './login.component.css';
+import plantImage from '../assets/plantImage.png';
 
 const Login = () => {
   // useNavigate hook to navigate programmatically
@@ -15,11 +16,22 @@ const Login = () => {
     navigate('/create_account');
   };
 
+  const handleAbout = () => {
+    navigate('/about');
+  };
+
   return (
     <div className="login">
-      <h2>Welcome to the Login!</h2>
+      <div className='login-header'>MakeCents</div>
+      <div className="image-button-container">
+        <img src={plantImage} alt="Plant" className="plant-image"/>
+        <img src={plantImage} alt="Plant" className="plant-image"/>
+      </div>
       <button onClick={handleLogin}>Login</button>
       <button onClick={handleNewUser}>Create New Account</button>
+      <button onClick={handleAbout}>About MakeCents</button>
+
+      <footer className="footer"></footer>
     </div>
   );
 }
