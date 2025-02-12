@@ -15,7 +15,7 @@ body {
 }
 
 .about-header {
-    font-size: 5.5rem;
+    font-size: 5rem;
     font-weight: 900;
     padding-top: 20px;
     text-align: center;
@@ -48,7 +48,7 @@ body {
 }
 
 .plant-image {
-    height: 275px;
+    height: 200px;
 }
 
 .about {
@@ -57,7 +57,7 @@ body {
 }
 
 .image-button-container {
-    display: flex;               /* Enable flexbox */
-    justify-content: space-between; /* Distribute space evenly */
-    align-items: flex-end;         /* Vertically align items */
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
 }
