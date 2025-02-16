@@ -1,6 +1,14 @@
 package db
 
-import "go.mongodb.org/mongo-driver/bson/primitive"
+import (
+	"context"
+	"encoding/json"
+	"fmt"
+
+	"go.mongodb.org/mongo-driver/bson"
+	"go.mongodb.org/mongo-driver/bson/primitive"
+	"go.mongodb.org/mongo-driver/mongo"
+)
 
 /*
 
@@ -17,6 +25,8 @@ import "go.mongodb.org/mongo-driver/bson/primitive"
 
 */
 
+//These functions should either return a user struct object or should return the specific item in question for the user.
+
 // This file will define/contain the main actions that can be done with the User schema
 type User struct {
 	ID           primitive.ObjectID `json:"_id,omitempty" bson:"_id,omitempty"` //BSON is for mongoDB, "_" is for serialization
@@ -29,8 +39,42 @@ type User struct {
 	Newstopics   []string           `json:"news"`
 }
 
-/*func insertUser(user User) error {
-	coll
-	return nil
+func GetOneUser(user User) (string, error) {
+	//lets get the collection Users
+	coll := mongoClient.Database(db).Collection(collName)
+	var result bson.M
+
+	err := coll.FindOne(context.TODO(), bson.D{{"username", user.Username}}).Decode(&result)
+
+	if err == mongo.ErrNoDocuments {
+		fmt.Println("Could not find the document titled \" santiagobarrios \"")
+		return "An error occurred", err
+	}
+
+	if err != nil {
+		panic(err)
+	}
+
+	jsonData, err := json.MarshalIndent(result, "", "  ")
+
+	if err != nil {
+		panic(err)
+	}
+
+	fmt.Printf("%s\n", jsonData)
+
+	return "hello", nil
 }
-*/
+
+func InsertUser(user User) (string, error) {
+
+	coll := mongoClient.Database(db).Collection(collName)
+	inserted, err := coll.InsertOne(context.TODO(), user)
+
+	if err != nil {
+		panic("err")
+	}
+
+	fmt.Println("Inserted with id: ", inserted.InsertedID)
+	return "insert", nil
+}

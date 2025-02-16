@@ -8,6 +8,7 @@ import (
 	"github.com/gorilla/mux"
 )
 
+// this is a temp struct, use db.User struct for actual schema
 type Creds struct {
 	Username string `json:"username"`
 	Password string `json:"password"`

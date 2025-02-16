@@ -9,6 +9,11 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
+const db = "MakeCents"
+const collName = "Users"
+
+var mongoClient *mongo.Client
+
 func Setup() {
 	// Use the SetServerAPIOptions() method to set the version of the Stable API on the client
 	serverAPI := options.ServerAPI(options.ServerAPIVersion1)
@@ -31,4 +36,6 @@ func Setup() {
 		panic(err)
 	}
 	fmt.Println("Pinged your deployment. You successfully connected to MongoDB!")
+
+	mongoClient = client
 }
