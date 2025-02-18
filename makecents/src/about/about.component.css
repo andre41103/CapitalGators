@@ -34,7 +34,7 @@ body {
     line-height: 1.6;
 }
 
-.button {
+.about_button {
     padding: 15px 25px;
     background-color: #5EC57E;
     color: white;
@@ -48,7 +48,7 @@ body {
 }
 
 .plant-image {
-    height: 200px;
+    height: 300px;
 }
 
 .about {

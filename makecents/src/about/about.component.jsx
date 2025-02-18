@@ -21,7 +21,7 @@ const About = () => {
           </div>
           <div className="image-button-container">
               <img src={plantImage} alt="Plant" className="plant-image"/>
-              <button className='button' onClick={handleLogin}>Return to Login</button>
+              <button className='about_button' onClick={handleLogin}>Return to Login</button>
           </div>
           <div className='footer'></div>
       </div>
