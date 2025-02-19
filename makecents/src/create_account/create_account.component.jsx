@@ -110,7 +110,7 @@ const Create_Account = () => {
             </div>
          </div>
 
-         <button onClick={handleDashboard}>Go to Dashboard</button>
+         <button onClick={handleDashboard} className='buttonStyle'>Go to Dashboard</button>
             
 
          <footer className="footer"></footer>

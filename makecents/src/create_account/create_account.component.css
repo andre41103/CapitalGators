@@ -27,6 +27,7 @@ html, body {
     width: 100%;
     max-width: 900px; /* better match the title width */
     padding: 30px;
+    
 }
 
 .footer {
@@ -43,9 +44,9 @@ html, body {
     font-family: 'Manrope', sans-serif;
     font-size: 3.5rem;
     color: black;
-    text-shadow: 0 0 2px #2cb67d, 0 0 5px #2cb67d;
     margin-top: 20px;
     margin-bottom: 10px; /* Reduce bottom margin */
+    
 }
 
 .custom-h2 {
@@ -54,6 +55,7 @@ html, body {
     color: black;
     margin-top: 0;
     margin-bottom: 0;
+    
 }
 
 .form-container {
@@ -129,3 +131,13 @@ input:focus {
     color: white;
     border-color: #2cb67d;
 }
+.buttonStyle {
+    background-color: #5EC57E;
+    color: white;
+    font-weight: bold;
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
