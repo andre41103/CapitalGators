@@ -7,13 +7,14 @@ html, body {
     height: 100%;
     width: 100%;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    min-height: 100%;
 }
 
 #root {
-    height: 100%;
-    width: 100%;
+    display: flex;
+    min-height: 100%;
+    flex:1; /* does not show black when scrolling to the end */
+    
 }
 
 .content {
@@ -21,11 +22,11 @@ html, body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
-    gap: 30px;
+    justify-content: flex-start; /* content to start on the top */
+    gap: 20px; 
     width: 100%;
-    max-width: 900px; /* Increased to better match the title width */
-    padding: 20px;
+    max-width: 900px; /* better match the title width */
+    padding: 30px;
 }
 
 .footer {
@@ -35,6 +36,7 @@ html, body {
     text-align: center;
     width: 100%;
     z-index: 100;
+    position: relative;
   }
 
 .custom-h1 {
@@ -57,8 +59,7 @@ html, body {
 .form-container {
     display: flex;
     flex-direction: column; 
-    gap: 20px; /* Increased spacing between form groups */
-    align-items: stretch;
+    gap: 20px; /* Increased spacing between groups */
     width: 100%; 
     align-items: flex;
     justify-content: flex;
@@ -85,7 +86,7 @@ input {
     width: 60%; 
     max-width: 600px; 
     padding: 10px;
-    border: 1px solid #2cb67d;
+    border: 1px #2cb67d;
     border-radius: 5px;
     font-size: 1rem;
     font-family: 'Manrope', sans-serif;
@@ -95,7 +96,6 @@ input {
 input:focus {
     outline: none;
     border-color: #2cb67d;
-    box-shadow: 0 0 4px rgba(44, 182, 125, 0.5);
 }
 
 .selection-boxes {
@@ -121,7 +121,7 @@ input:focus {
 
 .selection-box:hover {
     background-color: white;
-    border-color: #249c6b;
+    border-color: #2cb67d;
 }
 
 .selection-box.selected {
