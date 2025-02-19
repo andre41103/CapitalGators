@@ -9,8 +9,8 @@ const Create_Account = () => {
     const navigate = useNavigate();
 
     // Handle login logic
-    const handleLogin = () => {
-        navigate('/login');
+    const handleDashboard = () => {
+        navigate('/dashboard');
  
     };
 
@@ -109,6 +109,8 @@ const Create_Account = () => {
               ))}
             </div>
          </div>
+
+         <button onClick={handleDashboard}>Go to Dashboard</button>
             
 
          <footer className="footer"></footer>
