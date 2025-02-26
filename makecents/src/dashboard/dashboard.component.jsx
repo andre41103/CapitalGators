@@ -8,10 +8,16 @@ const Dashboard = () => {
   const handleProfile = () => {
     navigate('/profile');
   };
+
+  const handleReceipts = () => {
+    navigate('/receipts');
+  };
+
     return (
       <div className="dashboard">
         <h2>Welcome to the Dashboard!</h2>
         <button onClick={handleProfile} className="button">Profile</button>
+        <button onClick={handleReceipts} className="button">Receipt Entry</button>
       </div>
 
       
