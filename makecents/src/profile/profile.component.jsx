@@ -56,18 +56,18 @@ const Profile = () => {
             <button onClick={handleEditInformation} className='edit-information-button-style'>Edit information</button>
           </div>
         </div>
-
+        <div className='profile-container-box'>
         <div className="info-container">
           <div className="form-group">
-            <label htmlFor='monthly income'>What is your monthly income? :</label>
-            <input type="text" id="monthly income" name="monthly income" placeholder="$" />
+            <label className="label-profile" htmlFor='monthly income'>What is your monthly income? :</label>
+            <input className="input-profile" type="text" id="monthly income" name="monthly income" placeholder="$" />
           </div>
         </div>
 
         <div className="info-container">
           <div className="form-group">
-            <label htmlFor='monthly spending goal'>What is your ideal monthly spending goal? :</label>
-            <input type="text" id="monthly spending goal" name="monthly spending goal" placeholder="$" />
+            <label className="label-profile" htmlFor='monthly spending goal'>What is your ideal monthly spending goal? :</label>
+            <input className="input-profile" type="text" id="monthly spending goal" name="monthly spending goal" placeholder="$" />
           </div>
         </div>
 
@@ -98,6 +98,7 @@ const Profile = () => {
                 </button>
               ))}
             </div>
+         </div>
          </div>
          
       </div>

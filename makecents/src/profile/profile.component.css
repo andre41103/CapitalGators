@@ -24,6 +24,7 @@
     display: flex;
     justify-content: center;
     flex-direction: column;
+    
 }
 
 .edit-information-button-style {
@@ -41,7 +42,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 20px;
+    gap: 10px;
 }
 
 .form-group {
@@ -49,6 +50,7 @@
     flex-direction: column; 
     align-items: center;
     font-size: 1rem;
+    margin-bottom:10px;
 }
 
 .selection-boxes {
@@ -57,6 +59,7 @@
     gap: 15px;
     justify-content: center;
     width: 100%;
+    margin-bottom: 10px;
 }
 
 .selection-box {
@@ -81,4 +84,34 @@
     background-color: #2cb67d;
     color: white;
     border-color: #2cb67d;
+}
+
+.profile-container-box{
+    background-color: #eaf7e9;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  gap: 20px;
+ 
+}
+.label-profile {
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: black;
+    font-size: 1.2rem; 
+    align-self: left; 
+    margin-left: 0; /* align the label to the left to match the input */
+}
+
+.input-profile {
+    width: 450px; 
+    max-width: 500px; 
+    padding: 10px;
+    border: 1px #2cb67d;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-family: 'Manrope', sans-serif;
+    background-color: white;
+    color: black;
 }
