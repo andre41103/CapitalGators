@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700;800&display=swap');
+
+.profile-container {
+    display: flex;
+    align-items: center; 
+    gap: 45px; /* spacing between avatar and text */
+    flex-direction: column;
+}
+
+.profile-header {
+    display: flex;
+    align-items: center; 
+    gap: 15px;
+}
+
+.avatar{
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    margin-right: 150px;
+}
+
+.profile-text-content {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.edit-information-button-style {
+    background-color: #5EC57E;
+    color: white;
+    font-weight: bold;
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+.info-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    font-size: 1rem;
+    margin-bottom:10px;
+}
+
+.selection-boxes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.selection-box {
+    background-color: white;
+    border: 2px solid #2cb67d;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-family: 'Manrope', sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    color: black;
+    transition: all 0.3s ease;
+}
+
+.selection-box:hover {
+    background-color: white;
+    border-color: #2cb67d;
+}
+
+.selection-box.selected {
+    background-color: #2cb67d;
+    color: white;
+    border-color: #2cb67d;
+}
+
+.profile-container-box{
+    background-color: #eaf7e9;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  gap: 20px;
+ 
+}
+.label-profile {
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: black;
+    font-size: 1.2rem; 
+    align-self: left; 
+    margin-left: 0; /* align the label to the left to match the input */
+}
+
+.input-profile {
+    width: 450px; 
+    max-width: 500px; 
+    padding: 10px;
+    border: 1px #2cb67d;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-family: 'Manrope', sans-serif;
+    background-color: white;
+    color: black;
+}
+
+.saved-button{
+    background-color: #5EC57E;
+    color: white;
+    font-weight: bold;
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 20px;
+    
+}
