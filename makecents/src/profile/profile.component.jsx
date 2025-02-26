@@ -13,6 +13,11 @@ const Profile = () => {
     navigate('/dashboard');
   };
 
+  const handleSavedInfo = () => {
+    navigate('/dashboard');
+    // I want to make the box gray again
+  };
+
   const [selectedCategories, setSelectedCategories] = useState([]);
   const [selectedTopics, setSelectedTopics] = useState([]);
   // Same as the create account page which is being edited for update to backend
@@ -99,6 +104,8 @@ const Profile = () => {
               ))}
             </div>
          </div>
+
+         <button onClick={handleSavedInfo} className='saved-button'>Save</button>
          </div>
          
       </div>
