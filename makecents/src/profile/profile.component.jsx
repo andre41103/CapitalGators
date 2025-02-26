@@ -106,6 +106,7 @@ const Profile = () => {
          </div>
 
          <button onClick={handleSavedInfo} className='saved-button'>Save</button>
+         
          </div>
          
       </div>
