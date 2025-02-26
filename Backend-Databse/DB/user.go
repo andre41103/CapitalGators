@@ -39,23 +39,35 @@ type User struct {
 	Newstopics   []string           `json:"news"`
 }
 
-func GetOneUser(user User) (string, error) {
-	//lets get the collection Users
-	coll := mongoClient.Database(db).Collection(collName)
-	var result bson.M
+func getCollection() *mongo.Collection {
 
-	err := coll.FindOne(context.TODO(), bson.D{{"username", user.Username}}).Decode(&result)
+	client := GetClient()
+	return client.Database(db).Collection(collName)
+}
+
+// Gets infor of One user: accepts a string, outputs a string (field info) and error (if there is one present)
+func GetOneUser(username string) (string, error) {
+
+	//lets get the collection Users
+	coll := getCollection()
+
+	var user bson.M
+
+	err := coll.FindOne(context.TODO(), bson.D{{Key: "username", Value: username}}).Decode(&user)
 
 	if err == mongo.ErrNoDocuments {
 		fmt.Println("Could not find the document titled \" santiagobarrios \"")
 		return "An error occurred", err
 	}
 
+	//client disconnects
 	if err != nil {
+
+		fmt.Println("The error is here")
 		panic(err)
 	}
 
-	jsonData, err := json.MarshalIndent(result, "", "  ")
+	jsonData, err := json.MarshalIndent(user, "", "  ")
 
 	if err != nil {
 		panic(err)

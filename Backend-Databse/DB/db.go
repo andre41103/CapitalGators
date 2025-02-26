@@ -3,6 +3,7 @@ package db
 import (
 	"context"
 	"fmt"
+	"log"
 
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
@@ -25,17 +26,28 @@ func Setup() {
 		panic(err)
 	}
 
-	defer func() {
-		if err = client.Disconnect(context.TODO()); err != nil {
-			panic(err)
-		}
-	}()
+	mongoClient = client
 
 	// Send a ping to confirm a successful connection
-	if err := client.Database("admin").RunCommand(context.TODO(), bson.D{{"ping", 1}}).Err(); err != nil {
+	if err := client.Database("admin").RunCommand(context.TODO(), bson.D{{Key: "ping", Value: 1}}).Err(); err != nil {
 		panic(err)
 	}
 	fmt.Println("Pinged your deployment. You successfully connected to MongoDB!")
 
-	mongoClient = client
+}
+
+func Disconnect() {
+	if err := mongoClient.Disconnect(context.TODO()); err != nil {
+		panic(err)
+	}
+
+	fmt.Println("Connection had been closed")
+}
+
+func GetClient() *mongo.Client {
+
+	if mongoClient == nil {
+		log.Fatalln("Failure in Setup, cannot get new client")
+	}
+	return mongoClient
 }
