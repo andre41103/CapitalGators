@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BAR RISTORANTE",
+        "transaction_date": "2018-08-28",
+        "items": [
+            {
+                "description": "Vassoi e Stoviglie",
+                "quantity": 2.0,
+                "price": 0.5,
+                "total_price": 1.0
+            },
+            {
+                "description": "Macedonia",
+                "quantity": 2.0,
+                "price": 5.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "Insalata Negombo",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Bufala",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Pomodorini",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Nat 1/2 lt",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 34.0
+    }
+]

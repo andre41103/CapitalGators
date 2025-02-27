@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TGIF DUBAI MALL",
+        "transaction_date": "2009-11-26",
+        "items": [
+            {
+                "description": "Ice tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "PEPSI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 39.0
+            },
+            {
+                "description": "Chkn Qusd NO ONION * open",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "FLAT LOBSTER Med",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": 15.1,
+        "total": 166.1
+    }
+]

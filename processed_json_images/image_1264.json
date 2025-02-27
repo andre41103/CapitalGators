@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2018-10-11",
+        "items": [
+            {
+                "description": "Burger Meal Deal 1 Sep18=",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.49
+            },
+            {
+                "description": "Deli Deal 1 Sep 18",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.59
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.51,
+        "tip": null,
+        "total": 21.08
+    }
+]

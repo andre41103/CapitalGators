@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Parker, Graham and Swanson",
+        "transaction_date": "2017-04-08",
+        "items": [
+            {
+                "description": "Care & Repair of Furniture",
+                "quantity": 5.0,
+                "price": 4.25,
+                "total_price": 23.37
+            },
+            {
+                "description": "Harry Potter and the Chamber\nof Secrets (Book 2) by Rowling,\nJ. K. Paperback The",
+                "quantity": 5.0,
+                "price": 7.62,
+                "total_price": 41.91
+            }
+        ],
+        "subtotal": 59.35,
+        "tax": 5.94,
+        "tip": null,
+        "total": 65.29
+    }
+]

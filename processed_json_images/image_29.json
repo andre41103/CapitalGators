@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Golden, Gross and Rivera",
+        "transaction_date": "2020-07-30",
+        "items": [
+            {
+                "description": "18\" Handmade White Top Chess\nTable Inlaid Mosaic Gemstone\nArt Halloween Gift Art",
+                "quantity": 2.0,
+                "price": 525.0,
+                "total_price": 1155.0
+            },
+            {
+                "description": "Marble Top Side Table Tiger Eye\nGem Marquetry Pietradura\nGarden Decor Arts H469",
+                "quantity": 3.0,
+                "price": 341.48,
+                "total_price": 1126.88
+            },
+            {
+                "description": "6 Pack Metal Plated Table Locks\nDining Training Table Buckles\nConnectors Hardwar",
+                "quantity": 3.0,
+                "price": 12.73,
+                "total_price": 42.01
+            },
+            {
+                "description": "36 Inches Marble Dinning Table\nTop Hand Inlaid Office Table\nwith Multi Gemstones",
+                "quantity": 5.0,
+                "price": 1451.25,
+                "total_price": 7981.87
+            }
+        ],
+        "subtotal": 9368.88,
+        "tax": 936.89,
+        "tip": null,
+        "total": 10305.77
+    }
+]
