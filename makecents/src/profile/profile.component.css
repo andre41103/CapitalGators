@@ -128,4 +128,11 @@
 
 }
 
-
+.custom-h1-profile {
+    font-family: 'Manrope', sans-serif;
+    font-size: 3.5rem;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 10px; /* Reduce bottom margin */
+    
+}
