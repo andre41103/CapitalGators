@@ -55,8 +55,8 @@ const Profile = () => {
         <div className='profile-header'>
           <img src={avatarImage} alt="Profile Avatar" className='avatar'/>
           <div className='profile-text-content'>
-           <h1 className='custom-h1'> Hello Name </h1>
-            <h1 className='custom-h1'>Email Address: example@gmail.com </h1>
+           <h1 className='custom-h1-profile'> Hello Name </h1>
+            <h1 className='custom-h1-profile'>Email Address: example@gmail.com </h1>
           
             <button onClick={handleEditInformation} className='edit-information-button-style'>Edit information</button>
           </div>
@@ -106,7 +106,7 @@ const Profile = () => {
          </div>
 
          <button onClick={handleSavedInfo} className='saved-button'>Save</button>
-         
+
          </div>
          
       </div>
