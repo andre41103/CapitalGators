@@ -46,18 +46,18 @@ func getCollection() *mongo.Collection {
 }
 
 // Gets infor of One user: accepts a string, outputs a string (field info) and error (if there is one present)
-func GetOneUser(username string) (string, error) {
+func GetOneUser(email string) (*User, error) {
 
 	//lets get the collection Users
 	coll := getCollection()
 
-	var user bson.M
+	var user User
 
-	err := coll.FindOne(context.TODO(), bson.D{{Key: "username", Value: username}}).Decode(&user)
+	err := coll.FindOne(context.TODO(), bson.D{{Key: "email", Value: email}}).Decode(&user)
 
 	if err == mongo.ErrNoDocuments {
 		fmt.Println("Could not find the document titled \" santiagobarrios \"")
-		return "An error occurred", err
+		return nil, err
 	}
 
 	//client disconnects
@@ -75,7 +75,7 @@ func GetOneUser(username string) (string, error) {
 
 	fmt.Printf("%s\n", jsonData)
 
-	return "hello", nil
+	return &user, nil
 }
 
 func InsertUser(user User) (*User, error) {
