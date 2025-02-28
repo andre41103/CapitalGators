@@ -3,22 +3,23 @@ package main
 //has to syntactically appease go.mod
 import (
 	//api "github.com/CapitalGators/API"
-	"fmt"
 
+	"log"
+	"net/http"
+
+	handle "github.com/CapitalGators/API"
 	db "github.com/CapitalGators/DB"
 )
 
 func main() {
 
-	//api.RunServer()
+	//run database and server
 	db.Setup()
-	resp, err := db.GetOneUser("santiagobarrios")
+	defer db.Disconnect()
 
+	router := handle.RunServer()
+	err := http.ListenAndServe(":3000", router)
 	if err != nil {
-		panic(err)
+		log.Fatal("error occurred when starting the server :(, ", err)
 	}
-
-	fmt.Println(resp)
-
-	db.Disconnect()
 }

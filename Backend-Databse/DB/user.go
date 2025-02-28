@@ -78,7 +78,7 @@ func GetOneUser(username string) (string, error) {
 	return "hello", nil
 }
 
-func InsertUser(user User) (string, error) {
+func InsertUser(user User) (*User, error) {
 
 	coll := mongoClient.Database(db).Collection(collName)
 	inserted, err := coll.InsertOne(context.TODO(), user)
@@ -88,5 +88,5 @@ func InsertUser(user User) (string, error) {
 	}
 
 	fmt.Println("Inserted with id: ", inserted.InsertedID)
-	return "insert", nil
+	return &user, nil
 }
