@@ -128,15 +128,4 @@
 
 }
 
-.profile-container-box.disabled {
-    background-color: #d3d3d3; /* Light gray */
-    pointer-events: none; /* Prevent interactions */
-    opacity: 0.6;
-}
-
-.profile-container-box.editable {
-    background-color: #eaf7e9; /* Normal background */
-    pointer-events: auto;
-    opacity: 1;
-}
 
