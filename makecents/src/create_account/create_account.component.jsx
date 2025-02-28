@@ -69,6 +69,13 @@ const Create_Account = () => {
 
           <div className="form-container">
             <div className="form-group">
+              <label htmlFor='password'>Password:</label>
+              <input type="text" id="password" name="password" placeholder="Enter Password" />
+            </div>
+          </div>
+
+          <div className="form-container">
+            <div className="form-group">
               <label htmlFor='monthly income'>What is your monthly income? :</label>
               <input type="text" id="monthly income" name="monthly income" placeholder="$" />
             </div>
