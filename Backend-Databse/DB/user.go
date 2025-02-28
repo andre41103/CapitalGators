@@ -33,10 +33,10 @@ type User struct {
 	Username     string             `json:"username"`
 	Password     string             `json:"password"`
 	Email        string             `json:"email"`
-	Monthincome  int                `json:"monthly_income"`
-	Spendinggoal int                `json:"spending_goal"`
-	Categories   []string           `json:"categories"`
-	Newstopics   []string           `json:"news"`
+	Monthincome  int                `json:"monthlyIncome"`
+	Spendinggoal int                `json:"spendingGoal"`
+	Categories   []string           `json:"selectedCategories"`
+	Newstopics   []string           `json:"selectedTopics"`
 }
 
 func getCollection() *mongo.Collection {
