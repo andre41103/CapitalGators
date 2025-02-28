@@ -70,7 +70,7 @@ const Create_Account = () => {
           <div className="form-container">
             <div className="form-group">
               <label htmlFor='password'>Password:</label>
-              <input type="text" id="password" name="password" placeholder="Enter Password" />
+              <input type="password" id="password" name="password" placeholder="Enter Password" />
             </div>
           </div>
 
