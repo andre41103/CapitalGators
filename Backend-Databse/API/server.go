@@ -6,6 +6,7 @@ import (
 	"net/http"
 
 	db "github.com/CapitalGators/DB"
+	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 )
 
@@ -95,7 +96,7 @@ func delete(w http.ResponseWriter, r *http.Request) {
 
 */
 
-func RunServer() *mux.Router {
+func RunServer() http.Handler {
 
 	//new rouuter
 	router := mux.NewRouter()
@@ -105,5 +106,11 @@ func RunServer() *mux.Router {
 	//router.HandleFunc("/login", update).Methods("PUT")
 	//router.HandleFunc("/login", delete).Methods("DELETE")
 
-	return router
+	corsHandler := handlers.CORS(
+		handlers.AllowedOrigins([]string{"*"}),
+		handlers.AllowedMethods([]string{"GET", "POST", "PUT", "DELETE"}),
+		handlers.AllowedHeaders([]string{"Content-Type", "Authorizatoin"}),
+	)
+
+	return corsHandler(router)
 }
