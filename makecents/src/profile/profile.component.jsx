@@ -9,13 +9,13 @@ import { useState } from 'react';
 const Profile = () => {
   const navigate = useNavigate();
 
+  const [isEditing, setIsEditing] = useState(false); // for the edit information button
   const handleEditInformation = () => {
-    navigate('/dashboard');
+    setIsEditing(true);
   };
-
   const handleSavedInfo = () => {
+    setIsEditing(false); 
     navigate('/dashboard');
-    // I want to make the box gray again
   };
 
   const [selectedCategories, setSelectedCategories] = useState([]);
@@ -61,7 +61,7 @@ const Profile = () => {
             <button onClick={handleEditInformation} className='edit-information-button-style'>Edit information</button>
           </div>
         </div>
-        <div className='profile-container-box'>
+        <div className={`profile-container-box ${isEditing ? 'enabled' : 'disabled'}`}>
         <div className="info-container">
           <div className="form-group">
             <label className="label-profile" htmlFor='monthly income'>What is your monthly income? :</label>

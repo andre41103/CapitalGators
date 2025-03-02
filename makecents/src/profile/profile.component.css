@@ -136,3 +136,8 @@
     margin-bottom: 10px; /* Reduce bottom margin */
     
 }
+.disabled {
+    pointer-events: none; 
+    opacity: 0.5; /* still see the text but it is greyed out */
+    background-color: #d9d4d4c6;
+  }
