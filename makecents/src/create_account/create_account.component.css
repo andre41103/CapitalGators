@@ -89,7 +89,7 @@ input {
     width: 60%; 
     max-width: 600px; 
     padding: 10px;
-    border: 1px #2cb67d;
+    border: 1px solid #2cb67d;
     border-radius: 5px;
     font-size: 1rem;
     font-family: 'Manrope', sans-serif;

@@ -1,23 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700;800&display=swap');
 
 .profile-container {
+    position: relative;
     display: flex;
     align-items: center; 
     gap: 45px; /* spacing between avatar and text */
     flex-direction: column;
+    padding-bottom: 40px; /* Ensure space for footer */
+
 }
 
 .profile-header {
     display: flex;
     align-items: center; 
     gap: 15px;
+    margin-top: 50px;
 }
 
 .avatar{
     width: 220px;
     height: 220px;
     object-fit: cover;
-    margin-right: 150px;
+    margin-right: 100px;
 }
 
 .profile-text-content {
@@ -88,13 +92,13 @@
 
 .profile-container-box{
     background-color: #eaf7e9;
-  padding: 30px;
+  padding: 20px;
   border-radius: 10px;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
   text-align: center;
-  gap: 20px;
- 
+  gap: 20px; 
 }
+
 .label-profile {
     font-weight: 600;
     margin-bottom: 5px;
@@ -108,7 +112,7 @@
     width: 450px; 
     max-width: 500px; 
     padding: 10px;
-    border: 1px #2cb67d;
+    border: 1px solid #2cb67d;
     border-radius: 5px;
     font-size: 1rem;
     font-family: 'Manrope', sans-serif;
@@ -141,3 +145,36 @@
     opacity: 0.5; /* still see the text but it is greyed out */
     background-color: #d9d4d4c6;
   }
+
+.dashboard-button{
+    background-color: #5EC57E;
+    color: white;
+    font-weight: bold;
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+
+}
+
+.sign-out-button{
+    position: absolute;
+    top: 50px;  
+    right: 10px; 
+    background-color: #5EC57E;
+    color: white;
+    font-weight: bold;
+    font-size: 1rem;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.profile-footer {
+    background-color: #5EC57E;
+    color: white;
+    padding: 25px;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}

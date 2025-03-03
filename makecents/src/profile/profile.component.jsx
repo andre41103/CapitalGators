@@ -15,9 +15,15 @@ const Profile = () => {
   };
   const handleSavedInfo = () => {
     setIsEditing(false); 
-    navigate('/dashboard');
   };
 
+  const handleDashboard = () => {
+    navigate('/dashboard'); 
+  };
+
+  const handleLogin = () => {
+    navigate('/login');
+  }
   const [selectedCategories, setSelectedCategories] = useState([]);
   const [selectedTopics, setSelectedTopics] = useState([]);
   // Same as the create account page which is being edited for update to backend
@@ -52,6 +58,7 @@ const Profile = () => {
 
     return (
       <div className="profile-container">
+        <button onClick={handleLogin} className='sign-out-button'>Sign out</button>
         <div className='profile-header'>
           <img src={avatarImage} alt="Profile Avatar" className='avatar'/>
           <div className='profile-text-content'>
@@ -106,9 +113,9 @@ const Profile = () => {
          </div>
 
          <button onClick={handleSavedInfo} className='saved-button'>Save</button>
-
          </div>
-         
+         <button onClick={handleDashboard} className='dashboard-button'>Return to Dashboard</button>
+         <footer className="profile-footer"></footer>
       </div>
     );
   }
