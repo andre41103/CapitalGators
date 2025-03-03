@@ -8,12 +8,6 @@ const Create_Account = () => {
     // useNavigate hook to navigate programmatically
     const navigate = useNavigate();
 
-    // Handle login logic
-    const handleLogin = () => {
-        navigate('/login');
- 
-    };
-
     const handleSubmit = async () => {
       const requestData = {
           username,
@@ -44,6 +38,8 @@ const Create_Account = () => {
       } catch (error) {
           console.error('Network error:', error);
       }
+
+      navigate('/login');
   };
 
 
