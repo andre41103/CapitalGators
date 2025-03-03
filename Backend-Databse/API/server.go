@@ -109,7 +109,7 @@ func RunServer() http.Handler {
 	corsHandler := handlers.CORS(
 		handlers.AllowedOrigins([]string{"*"}),
 		handlers.AllowedMethods([]string{"GET", "POST", "PUT", "DELETE"}),
-		handlers.AllowedHeaders([]string{"Content-Type", "Authorizatoin"}),
+		handlers.AllowedHeaders([]string{"Content-Type", "Authorization"}),
 	)
 
 	return corsHandler(router)
