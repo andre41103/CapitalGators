@@ -39,7 +39,7 @@ func read(w http.ResponseWriter, r *http.Request) {
 	//get params from mux route handling
 	params := mux.Vars(r)
 
-	user, err := db.GetOneUser(params["username"])
+	user, err := db.GetOneUser(params["email"])
 
 	if err != nil {
 		log.Fatal("An error occurred in READ function, can not get user")
@@ -96,13 +96,39 @@ func delete(w http.ResponseWriter, r *http.Request) {
 
 */
 
+func login(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Content-Type", "application/json")
+
+	var credentials db.User
+	err := json.NewDecoder(r.Body).Decode(&credentials)
+	if err != nil {
+		http.Error(w, `{"error": "Invalid request payload"}`, http.StatusBadRequest)
+		return
+	}
+
+	user, err := db.GetOneUser(credentials.Email)
+	if err != nil {
+		http.Error(w, `{"error": "User not found"}`, http.StatusUnauthorized)
+		return
+	}
+
+	if user.Password != credentials.Password {
+		http.Error(w, `{"error": "Invalid email or password"}`, http.StatusUnauthorized)
+		return
+	}
+
+	json.NewEncoder(w).Encode(user)
+}
+
+
 func RunServer() http.Handler {
 
 	//new rouuter
 	router := mux.NewRouter()
 
-	router.HandleFunc("/login", read).Methods("GET")
+	router.HandleFunc("/login", login).Methods("POST")
 	router.HandleFunc("/create_account", post).Methods("POST")
+	//router.HandleFunc("/login", read).Methods("GET")
 	//router.HandleFunc("/login", update).Methods("PUT")
 	//router.HandleFunc("/login", delete).Methods("DELETE")
 
