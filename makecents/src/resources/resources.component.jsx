@@ -10,7 +10,7 @@ const Resources = () => {
         </div>
         <div className="vertical-containers">
           <div className='resources-container-wrapper'>
-            <h3 className='container-title'>Online Resources</h3>
+            <h3 className='container-title'>Basic Spending Categories Info</h3>
           <div className="individual-vertical-container"></div>
           </div>
 
