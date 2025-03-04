@@ -9,15 +9,21 @@ import { useState } from 'react';
 const Profile = () => {
   const navigate = useNavigate();
 
+  const [isEditing, setIsEditing] = useState(false); // for the edit information button
   const handleEditInformation = () => {
-    navigate('/dashboard');
+    setIsEditing(true);
   };
-
   const handleSavedInfo = () => {
-    navigate('/dashboard');
-    // I want to make the box gray again
+    setIsEditing(false); 
   };
 
+  const handleDashboard = () => {
+    navigate('/dashboard'); 
+  };
+
+  const handleLogin = () => {
+    navigate('/login');
+  }
   const [selectedCategories, setSelectedCategories] = useState([]);
   const [selectedTopics, setSelectedTopics] = useState([]);
   // Same as the create account page which is being edited for update to backend
@@ -52,6 +58,7 @@ const Profile = () => {
 
     return (
       <div className="profile-container">
+        <button onClick={handleLogin} className='sign-out-button'>Sign out</button>
         <div className='profile-header'>
           <img src={avatarImage} alt="Profile Avatar" className='avatar'/>
           <div className='profile-text-content'>
@@ -61,7 +68,7 @@ const Profile = () => {
             <button onClick={handleEditInformation} className='edit-information-button-style'>Edit information</button>
           </div>
         </div>
-        <div className='profile-container-box'>
+        <div className={`profile-container-box ${isEditing ? 'enabled' : 'disabled'}`}>
         <div className="info-container">
           <div className="form-group">
             <label className="label-profile" htmlFor='monthly income'>What is your monthly income? :</label>
@@ -106,9 +113,9 @@ const Profile = () => {
          </div>
 
          <button onClick={handleSavedInfo} className='saved-button'>Save</button>
-
          </div>
-         
+         <button onClick={handleDashboard} className='dashboard-button'>Return to Dashboard</button>
+         <footer className="profile-footer"></footer>
       </div>
     );
   }

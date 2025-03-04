@@ -8,12 +8,46 @@ const Create_Account = () => {
     // useNavigate hook to navigate programmatically
     const navigate = useNavigate();
 
-    // Handle login logic
-    const handleLogin = () => {
-        navigate('/login');
- 
-    };
+    const handleSubmit = async () => {
+      const requestData = {
+          username,
+          password,
+          email,
+          monthlyIncome: Number(monthlyIncome),
+          spendingGoal: Number(spendingGoal),
+          selectedCategories,
+          selectedTopics,
+      };
+  
+      try {
+          const response = await fetch('http://localhost:8080/create_account', {
+              method: 'POST',
+              headers: {
+                  'Content-Type': 'application/json',
+              },
+              body: JSON.stringify(requestData),
+          });
+  
+          if (response.ok) {
+              const responseData = await response.json();
+              console.log('Account created successfully:', responseData);
+              // Optionally navigate or show success message
+          } else {
+              console.error('Error creating account:', response.statusText);
+          }
+      } catch (error) {
+          console.error('Network error:', error);
+      }
 
+      navigate('/login');
+  };
+
+
+    const [username, setName] = useState('');
+    const [email, setEmail] = useState('');
+    const [password, setPassword] = useState('');
+    const [monthlyIncome, setMonthlyIncome] = useState('');
+    const [spendingGoal, setSpendingGoal] = useState('');
     const [selectedCategories, setSelectedCategories] = useState([]);
     const [selectedTopics, setSelectedTopics] = useState([]);
 
@@ -56,35 +90,35 @@ const Create_Account = () => {
           <div className="form-container">
             <div className="form-group">
               <label htmlFor='name'>Name:</label>
-              <input type="text" id="name" name="name" placeholder="Full name" />
+              <input type="text" id="name" name="name" placeholder="Full name" value={username} onChange={(e) => setName(e.target.value)} />
             </div>
           </div>
 
           <div className="form-container">
             <div className="form-group">
               <label htmlFor='email address'>Email Address:</label>
-              <input type="text" id="email address" name="email address" placeholder="Valid Email Address" />
+              <input type="text" id="email address" name="email address" placeholder="Valid Email Address" value={email} onChange={(e) => setEmail(e.target.value)}/>
             </div>
           </div>
 
           <div className="form-container">
             <div className="form-group">
               <label htmlFor='password'>Password:</label>
-              <input type="password" id="password" name="password" placeholder="Enter Password" />
+              <input type="password" id="password" name="password" placeholder="Enter Password" value={password} onChange={(e) => setPassword(e.target.value)}/>
             </div>
           </div>
 
           <div className="form-container">
             <div className="form-group">
               <label htmlFor='monthly income'>What is your monthly income? :</label>
-              <input type="text" id="monthly income" name="monthly income" placeholder="$" />
+              <input type="number" id="monthly income" name="monthly income" placeholder="$" value={monthlyIncome} onChange={(e) => setMonthlyIncome(parseInt(e.target.value, 10) || 0)}/>
             </div>
           </div>
 
           <div className="form-container">
             <div className="form-group">
               <label htmlFor='monthly spending goal'>What is your ideal monthly spending goal? :</label>
-              <input type="text" id="monthly spending goal" name="monthly spending goal" placeholder="$" />
+              <input type="number" id="monthly spending goal" name="monthly spending goal" placeholder="$" value={spendingGoal} onChange={(e) => setSpendingGoal(parseInt(e.target.value, 10) || 0)}/>
             </div>
           </div>
 
@@ -117,7 +151,7 @@ const Create_Account = () => {
             </div>
          </div>
 
-         <button onClick={handleLogin} className='buttonStyle'>Return to Login</button>
+         <button onClick={handleSubmit} className='buttonStyle'>Return to Login</button>
             
 
          <footer className="footer"></footer>

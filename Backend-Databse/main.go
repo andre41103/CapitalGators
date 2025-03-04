@@ -18,7 +18,7 @@ func main() {
 	defer db.Disconnect()
 
 	router := handle.RunServer()
-	err := http.ListenAndServe(":5174", router)
+	err := http.ListenAndServe(":8080", router)
 	if err != nil {
 		log.Fatal("error occurred when starting the server :(, ", err)
 	}
