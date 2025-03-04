@@ -1,0 +1,9 @@
+#root {
+  font-family: 'Manrope', sans-serif;
+  background-color:#e0f0e3;
+  margin: 0 auto;
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

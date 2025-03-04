@@ -6,7 +6,6 @@ import (
 	"fmt"
 
 	"go.mongodb.org/mongo-driver/bson"
-	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"
 )
 
@@ -29,14 +28,13 @@ import (
 
 // This file will define/contain the main actions that can be done with the User schema
 type User struct {
-	ID           primitive.ObjectID `json:"_id,omitempty" bson:"_id,omitempty"` //BSON is for mongoDB, "_" is for serialization
-	Username     string             `json:"username"`
-	Password     string             `json:"password"`
-	Email        string             `json:"email"`
-	Monthincome  int                `json:"monthlyIncome"`
-	Spendinggoal int                `json:"spendingGoal"`
-	Categories   []string           `json:"selectedCategories"`
-	Newstopics   []string           `json:"selectedTopics"`
+	Username     string   `json:"username"`
+	Password     string   `json:"password"`
+	Email        string   `json:"email"`
+	Monthincome  int      `json:"monthlyIncome"`
+	Spendinggoal int      `json:"spendingGoal"`
+	Categories   []string `json:"selectedCategories"`
+	Newstopics   []string `json:"selectedTopics"`
 }
 
 func getCollection() *mongo.Collection {

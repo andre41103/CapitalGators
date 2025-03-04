@@ -1,0 +1,107 @@
+.login {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+.login-header {
+  font-size: 7rem;
+  font-weight: 900;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.content-container-login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  gap: 100px;
+}
+
+.plant-image-login {
+  height: 300px;
+}
+
+.question-login {
+  height: 25px;
+  cursor: pointer;
+  position: absolute;
+  top: 30px;
+  right: 30px;
+}
+
+.form-container-login {
+  background-color: #eaf7e9;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 400px;
+}
+
+.form-title-login {
+  font-size: 1.5rem;
+  font-weight: 1000;
+  margin-bottom: 5px;
+}
+
+.form-group-login {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: left;
+}
+
+.form-group-login label {
+  font-weight: bold;
+  margin-left: 0px;
+}
+
+.form-group-login input {
+  padding: 10px;
+  border: 1px solid #2cb67d;
+  border-radius: 5px;
+  width: 94%;
+  margin-bottom: 10px;
+}
+
+.button {
+  background-color: #5EC57E;
+  color: white;
+  font-weight: bold;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.signup-prompt {
+  margin-top: 10px;
+  color: #777;
+}
+
+.new-account-link {
+  color: #5EC57E;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.footer {
+  background-color: #5EC57E;
+  color: white;
+  padding: 25px;
+  text-align: center;
+  width: 100%;
+  margin-top: auto;
+}
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+}

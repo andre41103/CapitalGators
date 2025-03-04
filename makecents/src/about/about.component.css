@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+}
+
+.footer {
+    background-color: #5EC57E;
+    color: white;
+    padding: 25px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+.about-header {
+    font-size: 5rem;
+    font-weight: 900;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.textbox {
+    font-size: 1.5rem;
+    font-weight: 500;
+    background-color: #f2fcf5;
+    border: 2px solid #81c784;
+    padding: 20px;
+    border-radius: 15px;
+    width: 50%;
+    margin: 20px auto;
+    text-align: center;
+    line-height: 1.6;
+}
+
+.about_button {
+    padding: 15px 25px;
+    background-color: #5EC57E;
+    color: white;
+    font-weight: bold;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    width: auto;
+    margin-left: auto;
+}
+
+.plant-image {
+    height: 300px;
+}
+
+.about {
+    text-align: center;
+    padding-bottom: 75px;
+}
+
+.image-button-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
