@@ -50,52 +50,7 @@ func read(w http.ResponseWriter, r *http.Request) {
 
 }
 
-// this is our PUT requests
-/*func update(w http.ResponseWriter, r *http.Request) {
-	w.Header().Set("Content-Type", "application/json")
-
-	var updatedUser Creds
-	err := json.NewDecoder(r.Body).Decode(&updatedUser)
-	if err != nil {
-		http.Error(w, "Error decoding request body", http.StatusBadRequest)
-		return
-	}
-
-	// Find user in slice
-	for index, user := range userData {
-		if user.Username == updatedUser.Username {
-			// Update user
-			userData[index] = updatedUser
-
-			// Send response
-			w.WriteHeader(http.StatusOK)
-			_ = json.NewEncoder(w).Encode(updatedUser)
-			return
-		}
-	}
-
-	// User not found
-	http.Error(w, "User not found", http.StatusNotFound)
-}
-
-// This is our DELETE function
-func delete(w http.ResponseWriter, r *http.Request) {
-
-	w.Header().Set("Content-Type", "application/json")
-	name := mux.Vars(r)["username"]
-	count := 0
-
-	for index, str := range userData {
-		if str.Username == name {
-			count = index
-		}
-	}
-
-	userData = append(userData[:count], userData[count+1:]...)
-}
-
-*/
-
+// for login route
 func login(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json")
 
@@ -120,6 +75,58 @@ func login(w http.ResponseWriter, r *http.Request) {
 	json.NewEncoder(w).Encode(user)
 }
 
+// for create_account route
+func createAccount(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Content-Type", "application/json")
+
+	var newUser db.User
+	err := json.NewDecoder(r.Body).Decode(&newUser)
+	if err != nil {
+		http.Error(w, `{"error": "Invalid request payload"}`, http.StatusBadRequest)
+		return
+	}
+
+	user, err := db.InsertUser(newUser)
+	if err != nil {
+		http.Error(w, `{"error": "User not found"}`, http.StatusUnauthorized)
+		return
+	}
+
+	if newUser.Email == user.Email {
+		http.Error(w, `{"error": "Email is already in system. Use another email"}`, http.StatusUnauthorized)
+		return
+	}
+
+	json.NewEncoder(w).Encode(user)
+}
+
+// still in progress -> need to test
+func updateProfile(w http.ResponseWriter, r *http.Request) {
+
+	w.Header().Set("Content-Type", "application/json")
+
+	var user db.User
+
+	err := json.NewDecoder(r.Body).Decode(&user)
+
+	if err != nil {
+		http.Error(w, `{"error": "Invalid request payload"}`, http.StatusBadRequest)
+		return
+	}
+
+	//let's check this
+	params := mux.Vars(r)
+	userEmail := params["email"]
+	err = db.UpdateProfile(userEmail, user)
+
+	//rewrite error if statement
+	if err != nil {
+		http.Error(w, `{"error": "error updating user"}`, http.StatusUnauthorized)
+		return
+	}
+
+	json.NewEncoder(w).Encode(map[string]string{"message": "User successfully updated"})
+}
 
 func RunServer() http.Handler {
 
@@ -127,9 +134,9 @@ func RunServer() http.Handler {
 	router := mux.NewRouter()
 
 	router.HandleFunc("/login", login).Methods("POST")
-	router.HandleFunc("/create_account", post).Methods("POST")
-	//router.HandleFunc("/login", read).Methods("GET")
-	//router.HandleFunc("/login", update).Methods("PUT")
+	router.HandleFunc("/create_account", createAccount).Methods("POST")
+	router.HandleFunc("/profile/{email}", read).Methods("GET")
+	router.HandleFunc("/profile/{email}", updateProfile).Methods("PUT")
 	//router.HandleFunc("/login", delete).Methods("DELETE")
 
 	corsHandler := handlers.CORS(
