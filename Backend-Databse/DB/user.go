@@ -4,6 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
+	"time"
 
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
@@ -28,13 +29,13 @@ import (
 
 // This file will define/contain the main actions that can be done with the User schema
 type User struct {
-	Username     string   `json:"username"`
-	Password     string   `json:"password"`
-	Email        string   `json:"email"`
-	Monthincome  int      `json:"monthlyIncome"`
-	Spendinggoal int      `json:"spendingGoal"`
-	Categories   []string `json:"selectedCategories"`
-	Newstopics   []string `json:"selectedTopics"`
+	Username     string   `json:"username" bson:"username"`
+	Password     string   `json:"password" bson:"password"`
+	Email        string   `json:"email" bson:"email"`
+	Monthincome  int      `json:"monthlyIncome" bson:"monthlyIncome"`
+	Spendinggoal int      `json:"spendingGoal" bson:"spendingGoal"`
+	Categories   []string `json:"selectedCategories" bson:"selectedCategories"`
+	Newstopics   []string `json:"selectedTopics" bson:"selectedTopics"`
 }
 
 func getCollection() *mongo.Collection {
@@ -54,7 +55,7 @@ func GetOneUser(email string) (*User, error) {
 	err := coll.FindOne(context.TODO(), bson.D{{Key: "email", Value: email}}).Decode(&user)
 
 	if err == mongo.ErrNoDocuments {
-		fmt.Println("Could not find the document titled \" santiagobarrios \"")
+		fmt.Println("Could not find the document title")
 		return nil, err
 	}
 
@@ -76,6 +77,7 @@ func GetOneUser(email string) (*User, error) {
 	return &user, nil
 }
 
+// post info in DB
 func InsertUser(user User) (*User, error) {
 
 	coll := mongoClient.Database(db).Collection(collName)
@@ -87,4 +89,41 @@ func InsertUser(user User) (*User, error) {
 
 	fmt.Println("Inserted with id: ", inserted.InsertedID)
 	return &user, nil
+}
+
+// update user profile
+func UpdateProfile(email string, updateUser User) error {
+
+	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	defer cancel()
+
+	//get the collection -> makeCents
+	coll := getCollection()
+
+	//an identifier
+	identifier := bson.M{"email": email}
+
+	update := bson.M{
+		"$set": bson.M{
+			"username":           updateUser.Username,
+			"password":           updateUser.Password,
+			"monthlyIncome":      updateUser.Monthincome,
+			"spendingGoal":       updateUser.Spendinggoal,
+			"selectedCategories": updateUser.Categories,
+			"selectedTopics":     updateUser.Newstopics,
+		},
+	}
+
+	result, err := coll.UpdateOne(ctx, identifier, update)
+
+	if err != nil {
+		return fmt.Errorf("error updating user %v", err)
+	}
+
+	//There is no user in DB to update
+	if result.MatchedCount == 0 {
+		return fmt.Errorf("no user to update (invalid email) %v", err)
+	}
+
+	return nil
 }
