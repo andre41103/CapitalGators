@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "VILLA D'ESTE RESTAURANT",
+        "transaction_date": "2017-12-08",
+        "items": [
+            {
+                "description": "Coffee",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "Glass House Wine",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.95
+            },
+            {
+                "description": "Jumbo Coctail Shrimp",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.95
+            },
+            {
+                "description": "Escargot Bourguigonne",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.95
+            },
+            {
+                "description": "Veal Zingaria",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 23.95
+            },
+            {
+                "description": "Duckling ala Arancio",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.95
+            }
+        ],
+        "subtotal": 87.25,
+        "tax": 7.53,
+        "tip": null,
+        "total": 94.78
+    }
+]

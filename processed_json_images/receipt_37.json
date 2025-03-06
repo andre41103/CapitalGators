@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PAPPADEAU",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Lump Crab & Spinach Dip",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.95
+            },
+            {
+                "description": "Cajun Combo",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.95
+            },
+            {
+                "description": "Lunch Shrimp & Andouille",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.95
+            }
+        ],
+        "subtotal": 48.85,
+        "tax": 3.91,
+        "tip": null,
+        "total": 52.76
+    }
+]

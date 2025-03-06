@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Source",
+        "transaction_date": "2015-06-02",
+        "items": [
+            {
+                "description": "PERRIER",
+                "quantity": 1.0,
+                "price": 6.8,
+                "total_price": 5.8
+            },
+            {
+                "description": "COCA-COLA",
+                "quantity": 1.0,
+                "price": 5.8,
+                "total_price": 5.8
+            },
+            {
+                "description": "JUS ORANGE",
+                "quantity": 1.0,
+                "price": 5.4,
+                "total_price": 5.4
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.55,
+        "tip": null,
+        "total": 17.0
+    }
+]

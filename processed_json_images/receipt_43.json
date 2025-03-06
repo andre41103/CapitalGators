@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2002-11-19",
+        "items": [
+            {
+                "description": "Guaca Chicharron",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.95
+            },
+            {
+                "description": "EMPANADA",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "PARGO FRITO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 19.95
+            },
+            {
+                "description": "MAR Y CHICKEN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.0
+            },
+            {
+                "description": "SALMON A LA PLANCHA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            }
+        ],
+        "subtotal": 69.9,
+        "tax": 3.44,
+        "tip": null,
+        "total": 55.39
+    }
+]

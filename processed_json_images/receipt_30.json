@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RINCON MEXICANO",
+        "transaction_date": "2017-05-09",
+        "items": [
+            {
+                "description": "Arroz",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Taco De Pescado",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "Taco Tuesday Pollo",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "Taco D Carne Asada",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "Taco D Chorizo",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "Taco Tuesday Pastor",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Horchata",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "Taco Tuesday Pollo",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Taco D Cochinita",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "Taco D Carnitas",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.99
+            }
+        ],
+        "subtotal": 28.95,
+        "tax": 2.03,
+        "tip": null,
+        "total": 30.98
+    }
+]

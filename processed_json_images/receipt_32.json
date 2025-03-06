@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Laurel Tavern Hermosa Beach",
+        "transaction_date": "2019-01-12",
+        "items": [
+            {
+                "description": "BTL BEER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "BRUSSELS SPROUTS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "CANTONESE TENDERS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "GRILLED CHEESE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "$ ADD GARLIC FRIES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            }
+        ],
+        "subtotal": 40.5,
+        "tax": 3.85,
+        "tip": null,
+        "total": 44.35
+    }
+]

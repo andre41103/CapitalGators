@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "WINGS & THINGS",
+        "transaction_date": "2017-03-19",
+        "items": [
+            {
+                "description": "MAC&CHZ - SMALL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.19
+            },
+            {
+                "description": "COLL GRN - SMALL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.19
+            },
+            {
+                "description": "CORN BREAD",
+                "quantity": 11.0,
+                "price": null,
+                "total_price": 0.62
+            },
+            {
+                "description": "WINGS",
+                "quantity": 5.0,
+                "price": null,
+                "total_price": 5.75
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 9.5
+    }
+]

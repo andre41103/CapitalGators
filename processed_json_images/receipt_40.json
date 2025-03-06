@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CARL'S JR 1100375",
+        "transaction_date": "2016-12-19",
+        "items": [
+            {
+                "description": "Santa Fe Ckn",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 11.38
+            }
+        ],
+        "subtotal": 12.08,
+        "tax": 0.97,
+        "tip": null,
+        "total": 13.05
+    }
+]

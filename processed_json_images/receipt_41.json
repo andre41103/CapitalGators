@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SUKHOTHAI SUSHI + ASIAN\nFUSION",
+        "transaction_date": "2019-04-19",
+        "items": [
+            {
+                "description": "Chicken Fried Rice And Egg",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 7.99
+            },
+            {
+                "description": "California Tropic And Miso",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 7.99
+            },
+            {
+                "description": "Add Two Tostones",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Sprite",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "Perrier Sparkling Water",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 3.5
+            }
+        ],
+        "subtotal": 22.98,
+        "tax": 1.61,
+        "tip": 3.45,
+        "total": 28.04
+    }
+]

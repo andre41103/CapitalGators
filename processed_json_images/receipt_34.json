@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2019-05-18",
+        "items": [
+            {
+                "description": "Taco Salad",
+                "quantity": null,
+                "price": null,
+                "total_price": 15.49
+            },
+            {
+                "description": "Pechuga de Pollo",
+                "quantity": null,
+                "price": null,
+                "total_price": 18.99
+            }
+        ],
+        "subtotal": 43.47,
+        "tax": 3.26,
+        "tip": null,
+        "total": 46.73
+    }
+]
