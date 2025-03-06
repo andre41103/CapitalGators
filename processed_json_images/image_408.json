@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Wong,",
+        "transaction_date": "2011-11-18",
+        "items": [
+            {
+                "description": "Sperry Top-Sider Boys Toddlers\nLace Tie Boat Shoes Brown 13M\nNew",
+                "quantity": 4.0,
+                "price": 37.69,
+                "total_price": 165.84
+            },
+            {
+                "description": "Deer Stag Kids Landry Boys\nLace Up Sneakers Gray/Blue\nSize 6",
+                "quantity": 3.0,
+                "price": 28.99,
+                "total_price": 95.67
+            },
+            {
+                "description": "Durango Lil' Little Kid Saddle\nWestern Casual Western Tan\nBoys - Size 2 M",
+                "quantity": 1.0,
+                "price": 68.0,
+                "total_price": 74.8
+            },
+            {
+                "description": "Lotto Youth Boys Fuerzapura\nL500 Jr Soccer Cleats Size 2.5\nWhite Blue M6147 2.5Y",
+                "quantity": 3.0,
+                "price": 19.99,
+                "total_price": 65.97
+            },
+            {
+                "description": "Kids Jordan 7 Retro Sz 2y",
+                "quantity": 1.0,
+                "price": 72.0,
+                "total_price": 79.2
+            },
+            {
+                "description": "Saucony Boys' Ride ISO\nSneaker, White/Blue/Vizi Red, 7\nM US Little Kid",
+                "quantity": 5.0,
+                "price": 27.99,
+                "total_price": 153.94
+            },
+            {
+                "description": "Native Charley White\nSandals~Size Infant/Child\n6~Boys/Girls~Very Good\nCondition",
+                "quantity": 2.0,
+                "price": 13.0,
+                "total_price": 28.6
+            }
+        ],
+        "subtotal": 603.65,
+        "tax": 60.37,
+        "tip": null,
+        "total": 664.02
+    }
+]
