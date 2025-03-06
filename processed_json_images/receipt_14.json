@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Grotto Pizzeria & Tavern",
+        "transaction_date": "2017-05-12",
+        "items": [
+            {
+                "description": "Ultra",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "Bells Draft",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Cheese Bread",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "APPS OUT FIRST",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Caprese",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "_SALAD OUT FIRST",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Reg Carnivore (s)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "Pepper Rings (s)",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Reg Margherita (s)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 43.0,
+        "tax": 2.58,
+        "tip": null,
+        "total": 45.58
+    }
+]

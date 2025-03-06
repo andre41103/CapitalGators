@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "New Asia Buffet",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Weeken Dinner",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 27.96
+            },
+            {
+                "description": "Coke",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.16
+            }
+        ],
+        "subtotal": 31.12,
+        "tax": 2.8,
+        "tip": 3.39,
+        "total": 33.92
+    }
+]

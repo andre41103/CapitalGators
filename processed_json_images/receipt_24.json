@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Thai Gusto",
+        "transaction_date": "2017-06-16",
+        "items": [
+            {
+                "description": "Chang",
+                "quantity": 2.0,
+                "price": 3.5,
+                "total_price": 7.0
+            },
+            {
+                "description": "#L14 Garlic Delight",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.24
+            },
+            {
+                "description": "#L28 Red Curry",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.24
+            }
+        ],
+        "subtotal": 27.48,
+        "tax": 2.67,
+        "tip": null,
+        "total": null
+    }
+]

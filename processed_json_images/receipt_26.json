@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "McDonald's Restaurant",
+        "transaction_date": "2019-02-27",
+        "items": [
+            {
+                "description": "Dbl Qtr Cheese",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.99
+            }
+        ],
+        "subtotal": 6.64,
+        "tax": 0.63,
+        "tip": null,
+        "total": 7.27
+    }
+]

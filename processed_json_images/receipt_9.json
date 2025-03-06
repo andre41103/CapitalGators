@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Loaded Cafe",
+        "transaction_date": "2019-02-23",
+        "items": [
+            {
+                "description": "Enchi Omelete",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 25.98
+            },
+            {
+                "description": "Open Food",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.19
+            },
+            {
+                "description": "Open Food",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.19
+            },
+            {
+                "description": "Hashbrowns Side",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "Hashbrowns Side",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "Coffee Hot",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "Diet Coke",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.99
+            }
+        ],
+        "subtotal": 44.32,
+        "tax": 4.21,
+        "tip": null,
+        "total": 48.53
+    }
+]

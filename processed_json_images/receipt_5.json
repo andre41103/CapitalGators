@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Friendly Red' s\nof Windham",
+        "transaction_date": "2018-07-21",
+        "items": [
+            {
+                "description": "Cadillac Margarita",
+                "quantity": 2.0,
+                "price": 14.0,
+                "total_price": 28.0
+            },
+            {
+                "description": "Maryland Crab Cakes",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Chicken Caprese",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Chix Parm Sandwich",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Bud Light",
+                "quantity": 2.0,
+                "price": 3.7,
+                "total_price": 7.4
+            }
+        ],
+        "subtotal": 71.4,
+        "tax": 6.43,
+        "tip": null,
+        "total": 77.83
+    }
+]

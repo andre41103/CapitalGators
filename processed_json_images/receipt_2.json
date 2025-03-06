@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Katana Sushi",
+        "transaction_date": "2018-05-11",
+        "items": [
+            {
+                "description": "Hamachi Collar",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Mega Poke Bowl",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.0
+            },
+            {
+                "description": "Hamachi - Sashimi",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Maguro - Sashimi",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "Salmon - Sashimi",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Sockeye Salmon - Sashimi",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 36.0
+            },
+            {
+                "description": "Hamachi Japapeno",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Salmon Collar",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Escolar - Sashimi",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.0
+            }
+        ],
+        "subtotal": 131.0,
+        "tax": 12.71,
+        "tip": null,
+        "total": 143.71
+    }
+]

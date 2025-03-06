@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Moonstar Restaurant",
+        "transaction_date": "2018-10-29",
+        "items": [
+            {
+                "description": "WEEKDAY DINNER",
+                "quantity": null,
+                "price": 29.88,
+                "total_price": 29.88
+            }
+        ],
+        "subtotal": 29.88,
+        "tax": 3.01,
+        "tip": 4.48,
+        "total": 37.37
+    }
+]

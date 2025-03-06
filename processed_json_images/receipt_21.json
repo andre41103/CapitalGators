@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Deccan Spice",
+        "transaction_date": "2019-07-26",
+        "items": [
+            {
+                "description": "Dal Fry",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.99
+            },
+            {
+                "description": "Paneer Butter Masala",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.99
+            },
+            {
+                "description": "rice",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.98
+            },
+            {
+                "description": "Deccan Special Biryani",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.99
+            },
+            {
+                "description": "rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "Online Offer",
+                "quantity": null,
+                "price": null,
+                "total_price": -8.99
+            }
+        ],
+        "subtotal": 35.95,
+        "tax": 2.98,
+        "tip": 8.09,
+        "total": 47.02
+    }
+]

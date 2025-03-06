@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ALBETOS",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "ASADA TACO",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 8.1
+            },
+            {
+                "description": "ATM CHARGE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.75
+            }
+        ],
+        "subtotal": 8.85,
+        "tax": 0.73,
+        "tip": null,
+        "total": 9.58
+    }
+]

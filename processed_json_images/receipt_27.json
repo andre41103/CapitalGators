@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CHRIS'S HAMBURGERS",
+        "transaction_date": "2018-07-22",
+        "items": [
+            {
+                "description": "TAXABLE T1",
+                "quantity": null,
+                "price": null,
+                "total_price": -21.49
+            },
+            {
+                "description": "TAXABLE T1",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.5
+            },
+            {
+                "description": "TAXABLE T1",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.5
+            },
+            {
+                "description": "TAXABLE T1",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.5
+            },
+            {
+                "description": "TAXABLE T1",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.5
+            },
+            {
+                "description": "TAXABLE T1",
+                "quantity": null,
+                "price": null,
+                "total_price": -7.89
+            },
+            {
+                "description": "TAXABLE T1",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.095
+            },
+            {
+                "description": "TAXABLE T1",
+                "quantity": null,
+                "price": null,
+                "total_price": -5.49
+            },
+            {
+                "description": "TAXABLE T1",
+                "quantity": null,
+                "price": null,
+                "total_price": -5.49
+            },
+            {
+                "description": "TAXABLE T1",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "TAXABLE T1",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 51.82
+    }
+]

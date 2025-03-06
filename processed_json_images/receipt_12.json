@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "UMIX",
+        "transaction_date": "2016-04-24",
+        "items": [
+            {
+                "description": "PARIS",
+                "quantity": 1.0,
+                "price": 5.25,
+                "total_price": 5.25
+            },
+            {
+                "description": "LE CLASSIQUE",
+                "quantity": 1.0,
+                "price": 4.95,
+                "total_price": 4.95
+            }
+        ],
+        "subtotal": 10.2,
+        "tax": 0.84,
+        "tip": null,
+        "total": 11.04
+    }
+]

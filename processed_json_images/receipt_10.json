@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HAMMOCKS TRADING COMPANY",
+        "transaction_date": "2017-03-10",
+        "items": [
+            {
+                "description": "Coke",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "Shrimp Entree",
+                "quantity": null,
+                "price": null,
+                "total_price": 21.0
+            },
+            {
+                "description": "BBQ & Blue Chz chips",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Sprite",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "Lobster Roll",
+                "quantity": null,
+                "price": null,
+                "total_price": 21.0
+            }
+        ],
+        "subtotal": 47.0,
+        "tax": 3.29,
+        "tip": null,
+        "total": 50.29
+    }
+]

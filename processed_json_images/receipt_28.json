@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DAHU,",
+        "transaction_date": "2019-01-11",
+        "items": [
+            {
+                "description": "Green Salad",
+                "quantity": null,
+                "price": 8.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "Wagyu Cheeseburger",
+                "quantity": null,
+                "price": 2.0,
+                "total_price": 13.0
+            },
+            {
+                "description": "Medium Well",
+                "quantity": 5.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Drink of the Day",
+                "quantity": 5.0,
+                "price": 4.0,
+                "total_price": 15.0
+            },
+            {
+                "description": "Tea",
+                "quantity": null,
+                "price": 42.75,
+                "total_price": 16.0
+            }
+        ],
+        "subtotal": 41.31,
+        "tax": null,
+        "tip": 3.0,
+        "total": 44.31
+    }
+]

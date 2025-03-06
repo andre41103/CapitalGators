@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HAWWI ETHIOPIAN RESTAU",
+        "transaction_date": "2018-07-13",
+        "items": [
+            {
+                "description": "26.Fish Goulash",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 19.95
+            },
+            {
+                "description": "30.Dullet",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 20.95
+            },
+            {
+                "description": "34. Vegetarian Dish",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 21.95
+            }
+        ],
+        "subtotal": 62.85,
+        "tax": 6.91,
+        "tip": null,
+        "total": 69.76
+    }
+]
