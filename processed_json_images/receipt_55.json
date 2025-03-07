@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BIG JO'S",
+        "transaction_date": "2018-01-25",
+        "items": [
+            {
+                "description": "HB",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "French Fries",
+                "quantity": 2.0,
+                "price": 2.5,
+                "total_price": 5.0
+            },
+            {
+                "description": "Turkey Burger\nCombo",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.85
+            },
+            {
+                "description": "HB",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.35
+            },
+            {
+                "description": "CB\nCombo",
+                "quantity": 2.0,
+                "price": 7.85,
+                "total_price": 15.7
+            },
+            {
+                "description": "CB",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Chili Fries",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.35
+            }
+        ],
+        "subtotal": 51.25,
+        "tax": 5.25,
+        "tip": null,
+        "total": 56.5
+    }
+]

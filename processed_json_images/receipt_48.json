@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "730 Tavern Kitchen & Patio",
+        "transaction_date": "2017-09-23",
+        "items": [
+            {
+                "description": "Manhattan",
+                "quantity": 3.0,
+                "price": 16.0,
+                "total_price": 48.0
+            },
+            {
+                "description": "Grey Goose",
+                "quantity": 3.0,
+                "price": 9.5,
+                "total_price": 28.5
+            },
+            {
+                "description": "Rocks",
+                "quantity": 3.0,
+                "price": 1.0,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 79.5,
+        "tax": 5.57,
+        "tip": null,
+        "total": 85.07
+    }
+]

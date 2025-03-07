@@ -1,0 +1,86 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ZOCA RESTAURANT",
+        "transaction_date": "2019-07-30",
+        "items": [
+            {
+                "description": "Flying Dog Numero Uno BTL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "House Recipe",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Sandia Margarita",
+                "quantity": 2.0,
+                "price": 13.0,
+                "total_price": 26.0
+            },
+            {
+                "description": "Totem Honey Bee",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "Queso Fresco Guacamole",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Queso Fundido Mexican Street Corn Dip",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Salsa De Molcajete",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Taquitos Carne Asada",
+                "quantity": 2.0,
+                "price": 15.0,
+                "total_price": 30.0
+            },
+            {
+                "description": "Taquitos Baja California Shrimp",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Mole Enchilada",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 19.0
+            },
+            {
+                "description": "Quesadilla Chicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 152.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": null
+    }
+]

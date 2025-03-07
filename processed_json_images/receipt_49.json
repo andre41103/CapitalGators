@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DAILY GRILL\u00ae",
+        "transaction_date": "2018-11-01",
+        "items": [
+            {
+                "description": "Coke",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.65
+            },
+            {
+                "description": "Short Rib",
+                "quantity": null,
+                "price": null,
+                "total_price": 27.95
+            },
+            {
+                "description": "Diet Coke",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.65
+            },
+            {
+                "description": "Crispy Naked Wings",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.95
+            },
+            {
+                "description": "Rib Eye Steak",
+                "quantity": null,
+                "price": null,
+                "total_price": 35.75
+            }
+        ],
+        "subtotal": 82.95,
+        "tax": 8.5,
+        "tip": null,
+        "total": 91.45
+    }
+]

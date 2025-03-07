@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Araxi Burger Aventura",
+        "transaction_date": "2019-03-17",
+        "items": [
+            {
+                "description": "Vanilla Bean",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Classic Burger 4oz",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Route 66 Burger 8oz",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.0
+            }
+        ],
+        "subtotal": 30.6,
+        "tax": 2.14,
+        "tip": 6.12,
+        "total": 38.86
+    }
+]

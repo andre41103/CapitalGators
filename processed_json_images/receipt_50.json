@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KICKIN KAJUN KAPOLEI",
+        "transaction_date": "2019-07-18",
+        "items": [
+            {
+                "description": "Margarita",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Strawberry Daiquiri",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Snow Combo",
+                "quantity": null,
+                "price": null,
+                "total_price": 54.0
+            },
+            {
+                "description": "Kickin Sauce",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 74.0,
+        "tax": 3.49,
+        "tip": null,
+        "total": 77.49
+    }
+]

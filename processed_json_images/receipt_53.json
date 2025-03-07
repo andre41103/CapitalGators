@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Nancy s",
+        "transaction_date": "2016-09-24",
+        "items": [
+            {
+                "description": "gl Imp White",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.75
+            },
+            {
+                "description": "Blue Moon Tap",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Mozzarella&Tomato",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.95
+            },
+            {
+                "description": "Pork Quesadilla",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.95
+            },
+            {
+                "description": "Fren Onion Soup",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.95
+            },
+            {
+                "description": "Pork Chop",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 21.95
+            },
+            {
+                "description": "Hanger Sizzle",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24.95
+            }
+        ],
+        "subtotal": 86.5,
+        "tax": 7.68,
+        "tip": null,
+        "total": 94.18
+    }
+]

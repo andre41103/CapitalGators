@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CAFE PARISIEN LARCHMONT LLC",
+        "transaction_date": "2019-01-24",
+        "items": [
+            {
+                "description": "CROISSANT AUX RAISINS",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Cappucino",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.75
+            }
+        ],
+        "subtotal": 8.75,
+        "tax": 0.83,
+        "tip": null,
+        "total": 9.58
+    }
+]

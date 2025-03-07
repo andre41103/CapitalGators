@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BK SOUL FOOD & CATERING",
+        "transaction_date": "2019-06-23",
+        "items": [
+            {
+                "description": "WINGS (5)",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "SIDE (SM) \u00d73",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            }
+        ],
+        "subtotal": 24.5,
+        "tax": 2.17,
+        "tip": null,
+        "total": 26.67
+    }
+]

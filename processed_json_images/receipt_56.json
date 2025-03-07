@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "-ATER!",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "#7 2PC R&B MEAL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.99
+            },
+            {
+                "description": "#3 3WING MEAL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.99
+            },
+            {
+                "description": "#3 3WING MEAL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.99
+            },
+            {
+                "description": "#3 3WING MEAL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.99
+            },
+            {
+                "description": "COLL GRN - SMALL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.19
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.43,
+        "tip": null,
+        "total": 30.58
+    }
+]

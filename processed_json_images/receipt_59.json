@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Caldera\u00ae\nBREWERY",
+        "transaction_date": "2017-12-28",
+        "items": [
+            {
+                "description": "Glass Imp Stout",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Ashland Amber",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.75
+            },
+            {
+                "description": "Butter Noodles",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "Oatmeal Stout",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.75
+            },
+            {
+                "description": "Mahi Mahi TACO",
+                "quantity": null,
+                "price": null,
+                "total_price": 15.0
+            }
+        ],
+        "subtotal": 36.5,
+        "tax": 1.1,
+        "tip": null,
+        "total": 37.6
+    }
+]
