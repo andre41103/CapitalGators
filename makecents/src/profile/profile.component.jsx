@@ -20,7 +20,17 @@ const Profile = () => {
     if (userEmail) {
     fetch(`http://localhost:8080/profile/${userEmail}`)
       .then(response => response.json())
-      .then(data => setUserData({ name: data.username, email: data.email }))
+      .then(data => {
+        setUserData({
+          name: data.username,
+          email: data.email,
+          monthlyIncome: data.monthlyIncome || "",
+          spendingGoal: data.spendingGoal || "",
+        });
+        setSelectedCategories(data.selectedCategories || []);
+        setSelectedTopics(data.selectedTopics || []);
+      })
+
       .catch(error => console.error("Error fetching user data:", error));
 
   } else {
@@ -93,14 +103,14 @@ const Profile = () => {
         <div className="info-container">
           <div className="form-group">
             <label className="label-profile" htmlFor='monthly income'>What is your monthly income? :</label>
-            <input className="input-profile" type="text" id="monthly income" name="monthly income" placeholder="$" />
+            <input className="input-profile" type="text" id="monthly income" name="monthly income" placeholder="$" value={userData.monthlyIncome} onChange={(e) => setUserData({ ...userData, monthlyIncome: e.target.value })}/>
           </div>
         </div>
 
         <div className="info-container">
           <div className="form-group">
             <label className="label-profile" htmlFor='monthly spending goal'>What is your ideal monthly spending goal? :</label>
-            <input className="input-profile" type="text" id="monthly spending goal" name="monthly spending goal" placeholder="$" />
+            <input className="input-profile" type="text" id="monthly spending goal" name="monthly spending goal" placeholder="$" value={userData.spendingGoal} onChange={(e) => setUserData({ ...userData, spendingGoal: e.target.value })}/>
           </div>
         </div>
 
