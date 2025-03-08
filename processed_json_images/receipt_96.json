@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Golden Coin",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Plt Lunch 2 Choices",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.79
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.46,
+        "tip": null,
+        "total": 10.25
+    }
+]

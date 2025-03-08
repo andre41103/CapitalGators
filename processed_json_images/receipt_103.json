@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "OM INDIAN FOOD",
+        "transaction_date": "2016-04-15",
+        "items": [
+            {
+                "description": "Vegetable Biryani",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.95
+            },
+            {
+                "description": "Malai Kofta",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.95
+            },
+            {
+                "description": "Onion Naan",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.95
+            }
+        ],
+        "subtotal": 29.85,
+        "tax": 1.32,
+        "tip": null,
+        "total": 16.24
+    }
+]

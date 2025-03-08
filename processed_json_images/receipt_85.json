@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Trattoria Saporito",
+        "transaction_date": "2018-07-01",
+        "items": [
+            {
+                "description": "STUFFED ARTICHOKE*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "BK FETT AL PORCINI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 36.0
+            },
+            {
+                "description": "COSTOLETTE/ALLA/PAP*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 42.0
+            },
+            {
+                "description": "BROCCOLI RABE W/ GA*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.5
+            },
+            {
+                "description": "ESPRESSO*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.75
+            },
+            {
+                "description": "DBLD ESPRESSO*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            }
+        ],
+        "subtotal": 117.75,
+        "tax": 8.24,
+        "tip": null,
+        "total": null
+    }
+]

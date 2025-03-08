@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "King Taco",
+        "transaction_date": "2017-03-17",
+        "items": [
+            {
+                "description": "SOPE ASADA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.1
+            },
+            {
+                "description": "TACO ASADA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.59
+            },
+            {
+                "description": "TACO PASTOR",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.59
+            },
+            {
+                "description": "QUESADILLA ASADA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.89
+            },
+            {
+                "description": "ORDEN CHIPS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.5
+            }
+        ],
+        "subtotal": 12.67,
+        "tax": 1.11,
+        "tip": null,
+        "total": 13.78
+    }
+]

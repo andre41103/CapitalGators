@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "NAANCHING",
+        "transaction_date": "2019-03-24",
+        "items": [
+            {
+                "description": "Chicken Lollipop",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "Thai Fried Rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Chicken Tikka Masala",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "Naan",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Vegetable Biryani",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Mango Lassi",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            }
+        ],
+        "subtotal": 56.0,
+        "tax": 3.71,
+        "tip": 10.08,
+        "total": 69.79
+    }
+]

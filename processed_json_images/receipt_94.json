@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "POPEYE'S",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "#5 5 WING COMBO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "#6 3 TENDER ML",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.69
+            },
+            {
+                "description": "#6 3 TENDER ML",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.69
+            },
+            {
+                "description": "#11/ POP SHRMP/COMBO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.49
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.37,
+        "tip": null,
+        "total": 38.23
+    }
+]

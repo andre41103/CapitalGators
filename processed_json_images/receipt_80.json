@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "FALMOUTH RAW BAR",
+        "transaction_date": "2018-07-02",
+        "items": [
+            {
+                "description": "6 Oysters",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 19.0
+            },
+            {
+                "description": "Fish and Chips",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.0
+            },
+            {
+                "description": "MONSTAH roll",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 114.0
+            },
+            {
+                "description": ".Chicken Wings",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Patron",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 28.5
+            },
+            {
+                "description": "Sparkling Wine",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 22.0
+            },
+            {
+                "description": "Open Liquor",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            }
+        ],
+        "subtotal": 219.81,
+        "tax": 15.38,
+        "tip": null,
+        "total": 235.19
+    }
+]

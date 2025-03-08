@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "EL POLLO LOCO",
+        "transaction_date": "2017-06-28",
+        "items": [
+            {
+                "description": "Burrito Cmb",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.28
+            },
+            {
+                "description": "Bur-BRC",
+                "quantity": 2.0,
+                "price": 1.89,
+                "total_price": 3.78
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.06,
+        "tip": null,
+        "total": 13.12
+    }
+]

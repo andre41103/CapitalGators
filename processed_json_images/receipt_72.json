@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Trinity Restaurant",
+        "transaction_date": "2017-02-18",
+        "items": [
+            {
+                "description": "Quesadilla",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "Pot Roast",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "Fish An Chips",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "Side Salad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Dft Shock top",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "Dft Guiness",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 15.0
+            }
+        ],
+        "subtotal": 69.5,
+        "tax": 6.0,
+        "tip": null,
+        "total": 75.5
+    }
+]

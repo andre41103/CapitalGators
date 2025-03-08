@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LANDFALL RESTAURANT",
+        "transaction_date": "2017-06-10",
+        "items": [
+            {
+                "description": "CUP CHOWDER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            }
+        ],
+        "subtotal": 6.0,
+        "tax": 0.4,
+        "tip": 1.15,
+        "total": 7.55
+    }
+]

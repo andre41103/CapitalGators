@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Chili's Grill & Bar",
+        "transaction_date": "2018-09-15",
+        "items": [
+            {
+                "description": "TRIPLE DIPPER",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.19
+            },
+            {
+                "description": "CHICKEN WAFFLES4",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.89
+            }
+        ],
+        "subtotal": 24.08,
+        "tax": 2.29,
+        "tip": null,
+        "total": 26.37
+    }
+]

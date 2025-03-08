@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MIKUNI JAPANESE",
+        "transaction_date": "2017-07-16",
+        "items": [
+            {
+                "description": "Mojito Pitcher Original w/",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "Brussel Sprouts",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.5
+            },
+            {
+                "description": "Pepperfin",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.5
+            },
+            {
+                "description": "Spicy Drm 1 Red",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.5
+            },
+            {
+                "description": "Aerojet",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.95
+            },
+            {
+                "description": "Tommy",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.95
+            },
+            {
+                "description": "Chu Toro",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 19.0
+            },
+            {
+                "description": "Daikon Hamachi",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.5
+            },
+            {
+                "description": "Garlic Salmon",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            }
+        ],
+        "subtotal": 133.9,
+        "tax": 10.38,
+        "tip": null,
+        "total": 144.28
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Firepoint Grill",
+        "transaction_date": "2016-12-07",
+        "items": [
+            {
+                "description": "Makers Mark",
+                "quantity": 2.0,
+                "price": 11.5,
+                "total_price": 23.0
+            },
+            {
+                "description": "Side Caesar",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Chicken & Rib Combo",
+                "quantity": null,
+                "price": null,
+                "total_price": 29.0
+            },
+            {
+                "description": "Woodford Reserve",
+                "quantity": 2.0,
+                "price": 12.0,
+                "total_price": 24.0
+            },
+            {
+                "description": "Frisee Salad",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Poached Shrimp Cocktail",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.5
+            },
+            {
+                "description": "NY Stip 8oz",
+                "quantity": null,
+                "price": null,
+                "total_price": 28.0
+            }
+        ],
+        "subtotal": 137.5,
+        "tax": 5.43,
+        "tip": null,
+        "total": 142.93
+    }
+]

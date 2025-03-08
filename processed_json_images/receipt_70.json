@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "River Village Family Restaurant",
+        "transaction_date": "2008-12-19",
+        "items": [
+            {
+                "description": "Apple French Toast",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.99
+            },
+            {
+                "description": "Coffee",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.29
+            }
+        ],
+        "subtotal": 10.28,
+        "tax": 0.62,
+        "tip": null,
+        "total": 10.9
+    }
+]

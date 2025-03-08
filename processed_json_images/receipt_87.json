@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Calagero's",
+        "transaction_date": "2018-04-20",
+        "items": [
+            {
+                "description": "Shrimp Scampi",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 27.0
+            },
+            {
+                "description": "Chicken Milanese",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 46.0
+            },
+            {
+                "description": "Veal Milanese",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 27.0
+            },
+            {
+                "description": "Grey Goose",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 30.0
+            },
+            {
+                "description": "Pineapple Juice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Belvedere",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Becks Non Alcoholic",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Corona",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Comp Item",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -12.0
+            }
+        ],
+        "subtotal": 145.0,
+        "tax": 12.51,
+        "tip": null,
+        "total": 157.51
+    }
+]

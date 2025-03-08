@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Go Mongo BBQ",
+        "transaction_date": "2018-01-28",
+        "items": [
+            {
+                "description": "BBQ Dinner",
+                "quantity": 4.0,
+                "price": 10.99,
+                "total_price": 47.15
+            },
+            {
+                "description": "beverage",
+                "quantity": 2.0,
+                "price": 2.29,
+                "total_price": 4.91
+            }
+        ],
+        "subtotal": 48.54,
+        "tax": 3.52,
+        "tip": null,
+        "total": 52.06
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Anjappar Chettinad Artesia",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Ghee Dosa",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.95
+            },
+            {
+                "description": "Anjappar Mutton Meals",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.95
+            },
+            {
+                "description": "Kaldosa",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.95
+            },
+            {
+                "description": "Plain Dosa",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.95
+            }
+        ],
+        "subtotal": 36.8,
+        "tax": 3.5,
+        "tip": null,
+        "total": 40.3
+    }
+]

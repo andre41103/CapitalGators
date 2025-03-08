@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Mexican Restaurant & Bar",
+        "transaction_date": "2017-12-29",
+        "items": [
+            {
+                "description": "Coffee",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.25
+            },
+            {
+                "description": "Enmoladas with Meat\npollo",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.95
+            },
+            {
+                "description": "Chicken Tenders",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.95
+            },
+            {
+                "description": "Flautas Chicken",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.95
+            },
+            {
+                "description": "Coloradito",
+                "quantity": null,
+                "price": null,
+                "total_price": 15.95
+            }
+        ],
+        "subtotal": 50.05,
+        "tax": 5.46,
+        "tip": 9.01,
+        "total": 64.52
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Lan Sheng",
+        "transaction_date": "2017-06-13",
+        "items": [
+            {
+                "description": "Spicy Chicken w. Spicy Garli\nc Soy V.",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.95
+            },
+            {
+                "description": "Hf- Peking Duck",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.95
+            },
+            {
+                "description": "Stir Beef Fillet w. Tofu",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.95
+            },
+            {
+                "description": "Pork w. Spicy Capsicum",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.95
+            },
+            {
+                "description": "White Rice (S)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "Pork w. Spicy Tofu & Cayen",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.95
+            }
+        ],
+        "subtotal": 70.25,
+        "tax": 4.9,
+        "tip": null,
+        "total": 75.15
+    }
+]

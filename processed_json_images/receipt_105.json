@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Don Juan Mexican Restaurant",
+        "transaction_date": "2013-11-06",
+        "items": [
+            {
+                "description": "Red Sangria Glass",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "#4-COMBO FAJITAS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.95
+            },
+            {
+                "description": "#34-BURRITO SUPREME",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.95
+            }
+        ],
+        "subtotal": null,
+        "tax": 4.48,
+        "tip": null,
+        "total": 56.38
+    }
+]

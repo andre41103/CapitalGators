@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BRASAS RESTAURANT",
+        "transaction_date": "2019-03-02",
+        "items": [
+            {
+                "description": "Chicken Torta",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.5
+            },
+            {
+                "description": "Horchata",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Custom Item",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.5
+            }
+        ],
+        "subtotal": 9.0,
+        "tax": 0.97,
+        "tip": null,
+        "total": 9.97
+    }
+]

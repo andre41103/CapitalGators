@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Nick's Tuscan Grill",
+        "transaction_date": "2018-03-18",
+        "items": [
+            {
+                "description": "FUSSILLI SP",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Open Food",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.0
+            },
+            {
+                "description": "Ossobuco",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 28.0
+            },
+            {
+                "description": "Diet Coke",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "G 14 Hands Cab",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": 62.5,
+        "tax": 5.39,
+        "tip": null,
+        "total": 67.89
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Newark Buffet",
+        "transaction_date": "2019-06-29",
+        "items": [
+            {
+                "description": "WEEKEND DINNER BUFFET",
+                "quantity": 2.0,
+                "price": 19.99,
+                "total_price": 39.98
+            },
+            {
+                "description": "WEEKEND DINNER KIDS\n(3-5Y)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.99
+            },
+            {
+                "description": "WEEKEND DINNER KIDS\n(6-10Y)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "SODA DRINK",
+                "quantity": 4.0,
+                "price": 1.99,
+                "total_price": 7.96
+            },
+            {
+                "description": "WEEKEND SENIOR DINNER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.09
+            }
+        ],
+        "subtotal": 84.02,
+        "tax": 8.2,
+        "tip": null,
+        "total": 92.22
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Mc Donald's",
+        "transaction_date": "2018-03-10",
+        "items": [
+            {
+                "description": "Delivery",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "10 McNuggets EVM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.29
+            },
+            {
+                "description": "HM GrChs S-Fry Yog",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "6 Cookies",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.89
+            },
+            {
+                "description": "Baked Apple Pie",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.19
+            },
+            {
+                "description": "L French Fries",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.29
+            },
+            {
+                "description": "L Iced Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.99
+            }
+        ],
+        "subtotal": 25.04,
+        "tax": 1.11,
+        "tip": null,
+        "total": 26.15
+    }
+]

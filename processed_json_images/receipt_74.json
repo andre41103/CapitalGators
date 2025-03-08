@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Subway#44969-0",
+        "transaction_date": "2019-05-01",
+        "items": [
+            {
+                "description": "#SMS $11.99 Any 2 FtLong",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.99
+            },
+            {
+                "description": "12\" -Steak & Chse Sub\n12' -B.M.T. Sub",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 11.99,
+        "tax": 1.23,
+        "tip": null,
+        "total": 13.22
+    }
+]

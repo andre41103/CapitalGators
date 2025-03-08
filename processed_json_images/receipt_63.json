@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MARIANACCI'S",
+        "transaction_date": "2017-02-18",
+        "items": [
+            {
+                "description": "PREM WHITE",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.75
+            },
+            {
+                "description": "PREM RED",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.75
+            },
+            {
+                "description": "DIET SDA",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.75
+            },
+            {
+                "description": "7 UP",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.25
+            },
+            {
+                "description": "VONG RIPIENE",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.75
+            },
+            {
+                "description": "Chicken Parm21.75",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "SCAMPI MILAN25.",
+                "quantity": null,
+                "price": null,
+                "total_price": 75.0
+            },
+            {
+                "description": "LING VONG",
+                "quantity": null,
+                "price": null,
+                "total_price": 22.75
+            },
+            {
+                "description": "1/2 PASTA SP16.75",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "DIET SDA",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.75
+            },
+            {
+                "description": "7 UP",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.25
+            }
+        ],
+        "subtotal": 132.25,
+        "tax": 9.76,
+        "tip": null,
+        "total": 142.01
+    }
+]

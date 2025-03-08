@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "OE",
+        "transaction_date": "2018-09-25",
+        "items": [
+            {
+                "description": "Bohemia",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "Albondigas",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.95
+            },
+            {
+                "description": "Mole",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.95
+            }
+        ],
+        "subtotal": 42.9,
+        "tax": 4.08,
+        "tip": null,
+        "total": 46.98
+    }
+]

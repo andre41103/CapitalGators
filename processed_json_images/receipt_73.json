@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "OHANA HAWAIIAN BBQ",
+        "transaction_date": "2013-06-01",
+        "items": [
+            {
+                "description": "1/2 AND 1/2 COMBO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.45
+            },
+            {
+                "description": "1/2 AND 1/2 COMBO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.95
+            },
+            {
+                "description": "FOUNTAIN MEDIUM",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.79,
+        "tip": null,
+        "total": 21.69
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CITY TASTE",
+        "transaction_date": "2018-05-11",
+        "items": [
+            {
+                "description": "Philadelphia Roll",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.85
+            },
+            {
+                "description": "13. Shrimp Tempura Roll",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.25
+            },
+            {
+                "description": "Rich / Famous Roll",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.85
+            },
+            {
+                "description": "16. Spicy Salmon Roll",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.25
+            },
+            {
+                "description": "Veg / Tofu Pad Thai",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.95
+            }
+        ],
+        "subtotal": 27.15,
+        "tax": 1.63,
+        "tip": null,
+        "total": 28.78
+    }
+]

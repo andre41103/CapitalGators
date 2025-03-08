@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Place 2 Be\nyou!",
+        "transaction_date": "2018-02-17",
+        "items": [
+            {
+                "description": "American Coffee",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.75
+            },
+            {
+                "description": "Nutella Coconut Pancakes",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "American Coffee",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 1.75
+            },
+            {
+                "description": "Cheddar Grits",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": 21.5,
+        "tax": 1.37,
+        "tip": null,
+        "total": 22.87
+    }
+]

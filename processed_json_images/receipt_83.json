@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SURATI FARSAN MART",
+        "transaction_date": "2019-08-08",
+        "items": [
+            {
+                "description": "Chole Samosa",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.99
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.57,
+        "tip": null,
+        "total": 6.56
+    }
+]

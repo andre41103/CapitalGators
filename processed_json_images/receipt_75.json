@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Lin Buffet",
+        "transaction_date": "2019-02-24",
+        "items": [
+            {
+                "description": "Weekend Buffet",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 27.18
+            },
+            {
+                "description": "Drink",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.98
+            }
+        ],
+        "subtotal": 31.16,
+        "tax": 2.57,
+        "tip": null,
+        "total": 33.73
+    }
+]

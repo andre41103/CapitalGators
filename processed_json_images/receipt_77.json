@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Paradise Restaurant",
+        "transaction_date": "2018-07-21",
+        "items": [],
+        "subtotal": 20.0,
+        "tax": 2.18,
+        "tip": 3.6,
+        "total": null
+    }
+]

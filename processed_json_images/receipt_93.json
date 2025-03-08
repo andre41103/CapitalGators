@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Kaiseki",
+        "transaction_date": "2018-07-28",
+        "items": [
+            {
+                "description": "Sushi Dinner",
+                "quantity": null,
+                "price": null,
+                "total_price": 18.95
+            },
+            {
+                "description": "Lady Gaga",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.95
+            },
+            {
+                "description": "Ginger Ale",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "Fried Cheese Cake",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.95
+            }
+        ],
+        "subtotal": 39.85,
+        "tax": 3.45,
+        "tip": null,
+        "total": 43.3
+    }
+]
