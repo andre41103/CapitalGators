@@ -22,6 +22,7 @@ const Login = () => {
       const data = await response.json();
   
       if (response.ok) {
+        localStorage.setItem('userEmail', data.email);
         console.log('Login successful:', data); // Log successful login response data
         navigate('/dashboard');
       } else {

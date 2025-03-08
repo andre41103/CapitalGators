@@ -3,13 +3,34 @@ import './profile.component.css';
 import avatarImage from '../assets/avatar.png';
 
 import { useNavigate } from 'react-router-dom';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 
 const Profile = () => {
   const navigate = useNavigate();
 
   const [isEditing, setIsEditing] = useState(false); // for the edit information button
+  const [userData, setUserData] = useState({ username: '', email: '' });
+
+
+  useEffect(() => {
+    // display the user name and email
+    const userEmail = localStorage.getItem('userEmail');
+
+    if (userEmail) {
+    fetch(`http://localhost:8080/profile/${userEmail}`)
+      .then(response => response.json())
+      .then(data => setUserData({ name: data.username, email: data.email }))
+      .catch(error => console.error("Error fetching user data:", error));
+
+  } else {
+    navigate('/login'); 
+  }
+
+  }, []);
+
+
+
   const handleEditInformation = () => {
     setIsEditing(true);
   };
@@ -62,8 +83,8 @@ const Profile = () => {
         <div className='profile-header'>
           <img src={avatarImage} alt="Profile Avatar" className='avatar'/>
           <div className='profile-text-content'>
-           <h1 className='custom-h1-profile'> Hello Name </h1>
-            <h1 className='custom-h1-profile'>Email Address: example@gmail.com </h1>
+           <h1 className='custom-h1-profile'> Hello {userData.name} </h1>
+            <h1 className='custom-h1-profile'>Email Address: {userData.email} </h1>
           
             <button onClick={handleEditInformation} className='edit-information-button-style'>Edit information</button>
           </div>
