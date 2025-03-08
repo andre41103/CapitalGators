@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "COMMANDER'S PALACE",
+        "transaction_date": "2019-03-12",
+        "items": [
+            {
+                "description": "25/ CP, up",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.25
+            },
+            {
+                "description": "25/COSMO, up",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.25
+            },
+            {
+                "description": "SOUP DJ",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "TURTLE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "CATFISH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.0
+            },
+            {
+                "description": "TOSTADA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "25/GIN, up",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.25
+            },
+            {
+                "description": "25/ RAY, up",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.25
+            },
+            {
+                "description": "SOUFFLE/ALA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.5
+            }
+        ],
+        "subtotal": 50.5,
+        "tax": 5.45,
+        "tip": null,
+        "total": 55.95
+    }
+]

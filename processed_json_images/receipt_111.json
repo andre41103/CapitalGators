@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Chelokababi",
+        "transaction_date": "2018-08-18",
+        "items": [
+            {
+                "description": "Koobideh",
+                "quantity": 7.0,
+                "price": 16.5,
+                "total_price": 115.5
+            },
+            {
+                "description": "Nan-O-Sabzi",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.95
+            },
+            {
+                "description": "18% Gratuity",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 146.85,
+        "tax": 13.22,
+        "tip": 22.4,
+        "total": 160.07
+    }
+]

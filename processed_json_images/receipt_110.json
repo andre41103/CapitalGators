@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BreadFish Cafe",
+        "transaction_date": "2017-06-14",
+        "items": [
+            {
+                "description": "\u76d0",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.39
+            },
+            {
+                "description": "\u63a7\u8089\u996d",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.75
+            },
+            {
+                "description": "\u9e21\u4e1d\u51c9\u9762",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.25
+            },
+            {
+                "description": "\u725b\u8089\u9762",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.95
+            }
+        ],
+        "subtotal": 27.62,
+        "tax": 2.28,
+        "tip": null,
+        "total": null
+    }
+]

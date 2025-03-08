@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Golden Panda Buffet",
+        "transaction_date": "2018-06-02",
+        "items": [
+            {
+                "description": "Adult Dinner",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 23.98
+            },
+            {
+                "description": "Soda",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.38
+            }
+        ],
+        "subtotal": 27.36,
+        "tax": 2.6,
+        "tip": null,
+        "total": 29.96
+    }
+]

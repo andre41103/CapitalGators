@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "COLUMBUS RESTAURANT",
+        "transaction_date": "2018-01-27",
+        "items": [
+            {
+                "description": "FBD BLUE MARGARI",
+                "quantity": 2.0,
+                "price": 55.0,
+                "total_price": 110.0
+            },
+            {
+                "description": "CHEESE BURGER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.5
+            },
+            {
+                "description": "CHICKEN MARSALA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": 28.6,
+        "total": 184.47
+    }
+]
