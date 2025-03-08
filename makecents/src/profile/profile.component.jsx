@@ -103,14 +103,14 @@ const Profile = () => {
         <div className="info-container">
           <div className="form-group">
             <label className="label-profile" htmlFor='monthly income'>What is your monthly income? :</label>
-            <input className="input-profile" type="text" id="monthly income" name="monthly income" placeholder="$" value={userData.monthlyIncome} onChange={(e) => setUserData({ ...userData, monthlyIncome: e.target.value })}/>
+            <input className="input-profile" type="number" id="monthly income" name="monthly income" placeholder="$" value={userData.monthlyIncome} onChange={(e) => setUserData({ ...userData, monthlyIncome: e.target.value })}/>
           </div>
         </div>
 
         <div className="info-container">
           <div className="form-group">
             <label className="label-profile" htmlFor='monthly spending goal'>What is your ideal monthly spending goal? :</label>
-            <input className="input-profile" type="text" id="monthly spending goal" name="monthly spending goal" placeholder="$" value={userData.spendingGoal} onChange={(e) => setUserData({ ...userData, spendingGoal: e.target.value })}/>
+            <input className="input-profile" type="number" id="monthly spending goal" name="monthly spending goal" placeholder="$" value={userData.spendingGoal} onChange={(e) => setUserData({ ...userData, spendingGoal: e.target.value })}/>
           </div>
         </div>
 
