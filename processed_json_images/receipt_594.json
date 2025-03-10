@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2014-07-17",
+        "items": [
+            {
+                "description": "Giant #6",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.45
+            },
+            {
+                "description": "Regular #15 Meatba",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "Reg Combo",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.19
+            },
+            {
+                "description": "Reg Combo",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.19
+            }
+        ],
+        "subtotal": 24.33,
+        "tax": 1.96,
+        "tip": 5.26,
+        "total": 26.29
+    }
+]

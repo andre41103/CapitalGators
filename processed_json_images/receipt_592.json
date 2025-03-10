@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Barnes & Noble Booksellers",
+        "transaction_date": "2011-12-06",
+        "items": [
+            {
+                "description": "2012 America By Rail Wall Calendar",
+                "quantity": 1.0,
+                "price": 13.99,
+                "total_price": 6.99
+            }
+        ],
+        "subtotal": 6.99,
+        "tax": 0.59,
+        "tip": null,
+        "total": 7.58
+    }
+]

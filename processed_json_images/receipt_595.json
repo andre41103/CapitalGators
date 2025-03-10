@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SONIC",
+        "transaction_date": "2015-12-04",
+        "items": [
+            {
+                "description": "Combo #2 SuperSonic -Med\nFrench Fries Med",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.49
+            },
+            {
+                "description": "> SHAKE Strawb Cheesecake M\nedium",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.8
+            },
+            {
+                "description": "Onion Rings Med",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.69
+            }
+        ],
+        "subtotal": 11.98,
+        "tax": 0.84,
+        "tip": null,
+        "total": 12.82
+    }
+]

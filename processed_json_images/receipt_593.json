@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Watson LLC",
+        "transaction_date": "2011-10-26",
+        "items": [
+            {
+                "description": "Original Nintendo Gaming\nConsole with Robot, 9 games &\nextras",
+                "quantity": 1.0,
+                "price": 475.0,
+                "total_price": 522.5
+            },
+            {
+                "description": "Nintendo Switch Gaming\nConsole W/ Neon Blue & Red\nControllers,Carry Case,Cable",
+                "quantity": 2.0,
+                "price": 300.0,
+                "total_price": 660.0
+            }
+        ],
+        "subtotal": 1075.0,
+        "tax": 107.5,
+        "tip": null,
+        "total": 1182.5
+    }
+]

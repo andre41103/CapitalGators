@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AREAS USA LAX, LLC.",
+        "transaction_date": "2017-04-01",
+        "items": [
+            {
+                "description": "CHIPS JALAPENO N",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "6 GRN TKYCALI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.49
+            },
+            {
+                "description": "LG COFFEE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.99
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.66,
+        "tip": null,
+        "total": 20.13
+    }
+]
