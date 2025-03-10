@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "GIANT",
+        "transaction_date": "2014-04-23",
+        "items": [
+            {
+                "description": "REG GAS SALES",
+                "quantity": 30.0,
+                "price": 0.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 110.97,
+        "tax": 0.0,
+        "tip": null,
+        "total": 0.0
+    }
+]

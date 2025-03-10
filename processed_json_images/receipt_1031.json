@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LA NONNA",
+        "transaction_date": "2012-09-22",
+        "items": [
+            {
+                "description": "Zuppa : Muscoli",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.28
+            }
+        ],
+        "subtotal": 26.9,
+        "tax": 2.39,
+        "tip": null,
+        "total": 29.29
+    }
+]

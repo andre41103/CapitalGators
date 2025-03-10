@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GEETHA RESTAURANT",
+        "transaction_date": "2017-04-27",
+        "items": [
+            {
+                "description": "ROASTED PAPAD",
+                "quantity": 2.0,
+                "price": 25.0,
+                "total_price": 50.0
+            },
+            {
+                "description": "VEG HYDERBADI",
+                "quantity": 1.0,
+                "price": 140.0,
+                "total_price": 140.0
+            },
+            {
+                "description": "PANEER PUKARA",
+                "quantity": 1.0,
+                "price": 200.0,
+                "total_price": 200.0
+            },
+            {
+                "description": "BUTTER NAAN",
+                "quantity": 5.0,
+                "price": 40.0,
+                "total_price": 200.0
+            }
+        ],
+        "subtotal": 590.0,
+        "tax": null,
+        "tip": null,
+        "total": 0.59
+    }
+]

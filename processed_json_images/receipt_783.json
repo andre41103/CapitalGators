@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "SAFEWAY",
+        "transaction_date": "2011-07-21",
+        "items": [
+            {
+                "description": "PROCESSING FEE",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.95
+            },
+            {
+                "description": "MASTERCARD 100.00",
+                "quantity": null,
+                "price": null,
+                "total_price": 100.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 105.95
+    }
+]

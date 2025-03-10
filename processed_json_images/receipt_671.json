@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2019-09-30",
+        "items": [
+            {
+                "description": "a pair of wine glasses drawer 1\ne",
+                "quantity": 1.0,
+                "price": 7.3,
+                "total_price": 8.03
+            },
+            {
+                "description": "Wall Mounted Upside Down\nWine Bottle Rack Goblet Glass\nHolder Storage Organizer",
+                "quantity": 3.0,
+                "price": 14.98,
+                "total_price": 49.43
+            },
+            {
+                "description": "Birthday Girl Wine Glass by\nLolita",
+                "quantity": 5.0,
+                "price": 23.75,
+                "total_price": 130.63
+            }
+        ],
+        "subtotal": 170.99,
+        "tax": 17.1,
+        "tip": null,
+        "total": 188.09
+    }
+]

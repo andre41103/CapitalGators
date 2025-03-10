@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Vargas, Miller and Miller",
+        "transaction_date": "2017-07-14",
+        "items": [
+            {
+                "description": "18\"x18\" Marble White Top\nCounter Table Lapis Inlay Floral",
+                "quantity": 2.0,
+                "price": 1.0,
+                "total_price": 2640.0
+            },
+            {
+                "description": "6'x3' Black Marble Dining\nCenter Table Top Marquetry",
+                "quantity": 5.0,
+                "price": 5.0,
+                "total_price": 31661.96
+            },
+            {
+                "description": "36\" Agate Center Dining Table\nTop Precious Stone Hallway",
+                "quantity": 5.0,
+                "price": 1.0,
+                "total_price": 8195.0
+            },
+            {
+                "description": "1-4 Seater General Elastic\nFabric Protector Sofa Covers\nCouch",
+                "quantity": 4.0,
+                "price": 0.99,
+                "total_price": 4.36
+            },
+            {
+                "description": "6'x3' Elegant Marble Black Top\nDining Table Italian Inlay",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 6016.32
+            }
+        ],
+        "subtotal": 44106.94,
+        "tax": 4410.69,
+        "tip": null,
+        "total": 48517.63
+    }
+]

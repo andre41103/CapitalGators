@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2017-06-14",
+        "items": [
+            {
+                "description": "SHAMPOO",
+                "quantity": null,
+                "price": null,
+                "total_price": 160.0
+            }
+        ],
+        "subtotal": 160.0,
+        "tax": 20.8,
+        "tip": null,
+        "total": 180.8
+    }
+]

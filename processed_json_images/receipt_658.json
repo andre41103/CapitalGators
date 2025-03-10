@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "depositphotos",
+        "transaction_date": "2017-05-13",
+        "items": [
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 28.9
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 534.7
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 625.5
+    }
+]

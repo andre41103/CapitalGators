@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2017-03-17",
+        "items": [
+            {
+                "description": "Brussels Sprouts TAPA",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "Gis Prosecco Franco Amoroso",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "Coke",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.95
+            },
+            {
+                "description": "Lobster Fettuccine",
+                "quantity": null,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "Gls Pinot Noir Laetitia Limite\nCentral Coast",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "Potato Gnocchi TAPA",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Fish Special",
+                "quantity": null,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "Baileys",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "Crispy Artichokes TAPA",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "Burata",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

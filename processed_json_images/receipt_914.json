@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Sakae Sushi",
+        "transaction_date": "2013-05-01",
+        "items": [
+            {
+                "description": "Beef Kaminabe",
+                "quantity": null,
+                "price": 15.99,
+                "total_price": 15.99
+            },
+            {
+                "description": "Yakl Gyoza",
+                "quantity": null,
+                "price": 5.99,
+                "total_price": 5.99
+            },
+            {
+                "description": "Soft Shell Crab Temp",
+                "quantity": null,
+                "price": 8.99,
+                "total_price": 8.99
+            },
+            {
+                "description": "Potato Salad",
+                "quantity": null,
+                "price": 5.99,
+                "total_price": 5.99
+            },
+            {
+                "description": "Color Plate",
+                "quantity": null,
+                "price": 2.29,
+                "total_price": 16.03
+            },
+            {
+                "description": "Red Plate",
+                "quantity": null,
+                "price": 5.29,
+                "total_price": 12.58
+            },
+            {
+                "description": "Pink Plate",
+                "quantity": null,
+                "price": 4.29,
+                "total_price": 8.58
+            },
+            {
+                "description": "Genmat Ten",
+                "quantity": null,
+                "price": 1.39,
+                "total_price": 4.17
+            },
+            {
+                "description": "Wet tissue",
+                "quantity": null,
+                "price": 0.3,
+                "total_price": 0.9
+            }
+        ],
+        "subtotal": 79.22,
+        "tax": 5.1,
+        "tip": 7.92,
+        "total": 93.24
+    }
+]

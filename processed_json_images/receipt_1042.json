@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MARCOS\nJack\nIn the box",
+        "transaction_date": "2014-05-07",
+        "items": [
+            {
+                "description": "Blazin Chicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.79
+            },
+            {
+                "description": "(2) Tacos",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.99
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

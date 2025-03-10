@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2020-07-20",
+        "items": [
+            {
+                "description": "New KID CUDI \"WZRD\" Rap Hip\nHop Soul Music Men's Black\nT-Shirt Size S to 3XL",
+                "quantity": 5.0,
+                "price": 22.49,
+                "total_price": 123.69
+            },
+            {
+                "description": "Sperry Top-Sider Boys Toddlers\nLace Tie Boat Shoes Brown 13M\nNew",
+                "quantity": 1.0,
+                "price": 37.69,
+                "total_price": 41.46
+            },
+            {
+                "description": "TODDLER SHAQ HIGH TOP\nSHOES SIZE 4",
+                "quantity": 3.0,
+                "price": 9.99,
+                "total_price": 32.97
+            },
+            {
+                "description": "PLAE SAM 2.0 Shoes Sandals\nBreathable Summer Strap Navy\nBlue Size 12 Kid",
+                "quantity": 1.0,
+                "price": 15.0,
+                "total_price": 16.5
+            },
+            {
+                "description": "Lotto Soccer Turf Shoes 6 Black\nVincente Turf Jr Indoor Outdoor\nFutbol Cleats",
+                "quantity": 4.0,
+                "price": 19.99,
+                "total_price": 87.96
+            }
+        ],
+        "subtotal": 275.07,
+        "tax": 27.51,
+        "tip": null,
+        "total": 302.58
+    }
+]

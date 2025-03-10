@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GUS & PAUL'S",
+        "transaction_date": "2013-09-28",
+        "items": [
+            {
+                "description": "Open Bakery",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "Open Bakery",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 4.98
+            },
+            {
+                "description": "Open Bakery",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "Open Bakery",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "Open Bakery",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.49
+            }
+        ],
+        "subtotal": 17.95,
+        "tax": null,
+        "tip": null,
+        "total": 17.95
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Sunshine POS",
+        "transaction_date": "2001-08-07",
+        "items": [
+            {
+                "description": "Bedwetting (1 FL. Oz.)",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "C, VITAMIN-CITRUS Bioflav/500",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.95
+            },
+            {
+                "description": "ALJ (2 FL. OZ)",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.5
+            },
+            {
+                "description": "HSN-W (KSP-STRUCTURAL, T-10)",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.25
+            },
+            {
+                "description": "ACIDOPHILUS-FLORA Force (90)",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.25
+            },
+            {
+                "description": "Oregon Grape (2 FL. Oz.)",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.95
+            }
+        ],
+        "subtotal": 66.4,
+        "tax": 0.0,
+        "tip": null,
+        "total": 66.4
+    }
+]

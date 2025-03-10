@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Bharat Curry House",
+        "transaction_date": "2016-01-29",
+        "items": [
+            {
+                "description": "Chicken Meal",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.5
+            },
+            {
+                "description": "Mutton Meal",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Extra Vege (L)",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 6.0
+            }
+        ],
+        "subtotal": 25.5,
+        "tax": 1.53,
+        "tip": null,
+        "total": 27.05
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GIANT\nEAGLE",
+        "transaction_date": "2012-12-20",
+        "items": [
+            {
+                "description": "REACH FLOSS WAXD",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "REACH FLOSS WAXD",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "BRKSIN SOUR CRM",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "BRKSIN SOUR CRM",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "DIAL LHS PUMP",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.79
+            },
+            {
+                "description": "DIAL LHS PU (1.00)",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.79
+            },
+            {
+                "description": "DIAL LHS PUMP",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.79
+            },
+            {
+                "description": "DIAL LHS PU (1.00)",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.79
+            },
+            {
+                "description": "NAT BAKED FRIES",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.49
+            },
+            {
+                "description": "NAT BAKED FRIES",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.75
+            },
+            {
+                "description": "MULTIPLIED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.74
+            },
+            {
+                "description": "DIAL LHS PUMP",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.5
+            },
+            {
+                "description": "MULTIPLIED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.5
+            },
+            {
+                "description": "DIAL LHS PUMP",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.5
+            },
+            {
+                "description": "MULTIPLIED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.5
+            },
+            {
+                "description": "REACH FLOSS WAXD",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "REACH FLOSS WAXII",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "DAIRY",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.99
+            },
+            {
+                "description": "DAIRY",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.99
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.19,
+        "tip": null,
+        "total": 0.19
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CHICAGO RIB HOUSE",
+        "transaction_date": "2012-11-26",
+        "items": [
+            {
+                "description": "RM1 COFFEE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "RM1 LATTE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 2.0,
+        "tax": null,
+        "tip": null,
+        "total": 2.3
+    }
+]

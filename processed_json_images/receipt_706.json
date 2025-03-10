@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Dartrigo Motion Hospitality Cial",
+        "transaction_date": "2016-09-29",
+        "items": [
+            {
+                "description": "LUNCH NON VEG",
+                "quantity": 3.0,
+                "price": 595.0,
+                "total_price": 1755.0
+            },
+            {
+                "description": "Fresh Lime Matar",
+                "quantity": 2.0,
+                "price": 90.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "Things Up 250 ML",
+                "quantity": 1.0,
+                "price": 90.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 1755.0,
+        "tax": 264.65,
+        "tip": 70.2,
+        "total": 2199.0
+    }
+]

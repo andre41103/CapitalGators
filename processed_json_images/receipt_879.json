@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SO GONG DONG TOFU HOUSE",
+        "transaction_date": "2017-07-14",
+        "items": [
+            {
+                "description": "DIE F CORE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.75
+            },
+            {
+                "description": "I LA ZE",
+                "quantity": null,
+                "price": null,
+                "total_price": 24.95
+            },
+            {
+                "description": "& & NOODLE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.95
+            },
+            {
+                "description": "\ud559 \uc18c\uc8fc",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.95
+            }
+        ],
+        "subtotal": 49.6,
+        "tax": 4.41,
+        "tip": null,
+        "total": 54.01
+    }
+]

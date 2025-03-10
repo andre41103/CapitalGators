@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HARD ROCK CAFE COPENHAGEN",
+        "transaction_date": "2007-07-17",
+        "items": [
+            {
+                "description": "LIVE LVE ROCK M",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 180.0
+            }
+        ],
+        "subtotal": 180.0,
+        "tax": null,
+        "tip": null,
+        "total": 350.0
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "IKEA FOOD",
+        "transaction_date": "2016-04-08",
+        "items": [
+            {
+                "description": "Fish & Chips Adult",
+                "quantity": 1.0,
+                "price": 4.95,
+                "total_price": 1.0
+            },
+            {
+                "description": "Hot beverage selfser",
+                "quantity": 1.0,
+                "price": 0.95,
+                "total_price": 0.0
+            },
+            {
+                "description": "Fish & Chips Adult",
+                "quantity": 1.0,
+                "price": 4.95,
+                "total_price": 1.0
+            },
+            {
+                "description": "Hot beverage selfser",
+                "quantity": 1.0,
+                "price": 0.95,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 1.67,
+        "tax": 0.33,
+        "tip": null,
+        "total": 2.0
+    }
+]

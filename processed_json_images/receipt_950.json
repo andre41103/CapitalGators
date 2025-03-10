@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walmart",
+        "transaction_date": "2016-06-16",
+        "items": [
+            {
+                "description": null,
+                "quantity": 2.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "WIFI ROTUER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 35.0
+            }
+        ],
+        "subtotal": 35.0,
+        "tax": 2.98,
+        "tip": null,
+        "total": 37.98
+    }
+]

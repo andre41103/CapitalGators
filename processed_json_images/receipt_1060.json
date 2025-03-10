@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2015-10-06",
+        "items": [
+            {
+                "description": "Nintendo Switch Lite Gray\nCONSOLE ONLY - No\nAccessories or Charger [B5-3]",
+                "quantity": 5.0,
+                "price": 135.0,
+                "total_price": 742.5
+            },
+            {
+                "description": "SONY Playstation2 Console",
+                "quantity": 3.0,
+                "price": 60.0,
+                "total_price": 198.0
+            }
+        ],
+        "subtotal": 855.0,
+        "tax": 85.5,
+        "tip": null,
+        "total": 940.5
+    }
+]

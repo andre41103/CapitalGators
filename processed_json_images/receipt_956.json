@@ -1,0 +1,188 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "CUCUMBERS 72CT",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.68
+            },
+            {
+                "description": "GRANGE BELL PEPPERS TECT",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.97
+            },
+            {
+                "description": "JICAMA 40#",
+                "quantity": 1.42,
+                "price": 0.98,
+                "total_price": 1.39
+            },
+            {
+                "description": "YELLOW BANANAS",
+                "quantity": 0.91,
+                "price": 0.48,
+                "total_price": 0.44
+            },
+            {
+                "description": "SMALL LEMONS 200",
+                "quantity": 3.0,
+                "price": 1.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "SHALLOTS",
+                "quantity": 0.11,
+                "price": 2.98,
+                "total_price": 0.33
+            },
+            {
+                "description": "SM AVOCADOS RPC 70 SIZE",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 0.5
+            },
+            {
+                "description": "NECTARINES",
+                "quantity": 0.68,
+                "price": 1.57,
+                "total_price": 1.14
+            },
+            {
+                "description": "GALA APPLES",
+                "quantity": 0.91,
+                "price": 1.67,
+                "total_price": 1.52
+            },
+            {
+                "description": "MACINTOSH APPLES 40$",
+                "quantity": 0.4,
+                "price": 1.71,
+                "total_price": 0.71
+            },
+            {
+                "description": "SM NAVEL ORANGES 130",
+                "quantity": 5.0,
+                "price": 1.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "ROASTED SALTED ALMONDS",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.48
+            },
+            {
+                "description": "FULL PINT BLUEBERRIES",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.97
+            },
+            {
+                "description": "GRAPE TOMATOES - PI",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.36
+            },
+            {
+                "description": "CURLY LEAF PARSLEY",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.67
+            },
+            {
+                "description": "BUNCHED RED RADISHES",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.98
+            },
+            {
+                "description": "HERBS MINT - CELLO",
+                "quantity": 2.0,
+                "price": 1.96,
+                "total_price": 3.96
+            },
+            {
+                "description": "SOURDOUGH SQUARE 1 2 LOAF",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.08
+            },
+            {
+                "description": "HEB PITTED PRUNES",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.42
+            },
+            {
+                "description": "BARILLA PLUS SPAGHETTI",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.94
+            },
+            {
+                "description": "SCUODER CRNCHY PNUTBIR",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.94
+            },
+            {
+                "description": "HEB OLD FASHIONED DATS 42",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.48
+            },
+            {
+                "description": "NY CRUNCHY BAR VARIETY PAF",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.44
+            },
+            {
+                "description": "CENTRAL MARKET BULGUR",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "ORGANIC POPCORN",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.12
+            },
+            {
+                "description": "ANGEL SOFT WHITE 4DR",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "HEB 85% GROUND TURKEY",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.77
+            },
+            {
+                "description": "HEB VITAMIN D 5000IU SFTG",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.4
+            },
+            {
+                "description": "HEB LG GRADE AA 6CT EGGS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.41
+            }
+        ],
+        "subtotal": 53.11,
+        "tax": 0.17,
+        "tip": null,
+        "total": 53.28
+    }
+]

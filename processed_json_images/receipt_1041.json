@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SENSI (Soul Kitchen Co,Ltd)",
+        "transaction_date": "2017-04-06",
+        "items": [
+            {
+                "description": "Acqua panna 75cl.",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 190.0
+            },
+            {
+                "description": "Beef Tartar",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 540.0
+            },
+            {
+                "description": "Risotto Porcini",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 450.0
+            },
+            {
+                "description": "Rib eye",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1490.0
+            },
+            {
+                "description": "Roasted Lamb Rack",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1290.0
+            },
+            {
+                "description": "Acqua panna 75cl.",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 190.0
+            },
+            {
+                "description": "Panna Cotta",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 340.0
+            }
+        ],
+        "subtotal": 4490.0,
+        "tax": 345.73,
+        "tip": 449.0,
+        "total": 5284.73
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "ONE40NE",
+        "transaction_date": "2011-06-27",
+        "items": [
+            {
+                "description": "Dom Perignon Luminous Magnum 2002",
+                "quantity": 1.0,
+                "price": 150.0,
+                "total_price": null
+            },
+            {
+                "description": "Grey Goose Magnum Btl",
+                "quantity": null,
+                "price": null,
+                "total_price": 420.0
+            },
+            {
+                "description": "RedBull",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Soda Water Complimentary",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Armand de Brignac Methuselah atl",
+                "quantity": 1.0,
+                "price": 25000.0,
+                "total_price": null
+            },
+            {
+                "description": "Armand De Brignac Midas",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 120000.0
+            }
+        ],
+        "subtotal": 148180.0,
+        "tax": 24384.99,
+        "tip": 21528.5,
+        "total": 168118.5
+    }
+]

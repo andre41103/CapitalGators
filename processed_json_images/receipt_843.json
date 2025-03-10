@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "ROYAL FARMS",
+        "transaction_date": "2008-08-01",
+        "items": [],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 3.57
+    }
+]

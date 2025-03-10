@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "REGINEI ICECREAM",
+        "transaction_date": "2016-08-14",
+        "items": [
+            {
+                "description": "Special stick Kulfd",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 40.0
+            },
+            {
+                "description": "Dark Chocolate Singl\ne Scoop",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 95.0
+            },
+            {
+                "description": "Giani Special",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 71.0
+            },
+            {
+                "description": "American Nut Sr",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 85.0
+            },
+            {
+                "description": "Waffle Cone",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 72.0
+            },
+            {
+                "description": "Almond choco Fudge S",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 63.0
+            },
+            {
+                "description": "Litchi",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 83.0
+            }
+        ],
+        "subtotal": 509.0,
+        "tax": 63.63,
+        "tip": null,
+        "total": null
+    }
+]

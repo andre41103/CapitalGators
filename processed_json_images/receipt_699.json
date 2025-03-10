@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Botanist West Bridoford",
+        "transaction_date": "2018-03-25",
+        "items": [
+            {
+                "description": "Passion Basil Cr",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.95
+            },
+            {
+                "description": "Lamb Kebab",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.95
+            },
+            {
+                "description": "Black Rsary Fizz",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.75
+            },
+            {
+                "description": "Squash Pie",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.5
+            },
+            {
+                "description": "Tenderstem Broco",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "Mochachoka",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Sticky Toffee Pu",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 54.65
+    }
+]

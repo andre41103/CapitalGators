@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2016-03-01",
+        "items": [
+            {
+                "description": "Sweet Treat Only",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "Cake Only",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.19
+            },
+            {
+                "description": "Side Only",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.49
+            },
+            {
+                "description": "8pc Meal",
+                "quantity": null,
+                "price": null,
+                "total_price": 22.49
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.76,
+        "tip": null,
+        "total": 37.92
+    }
+]

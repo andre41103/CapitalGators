@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "7-ELEVEN",
+        "transaction_date": "2015-06-19",
+        "items": [
+            {
+                "description": "AZ Sweet Tea 23zCn",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "5 Hr EnergyXS 1.93z",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 6.98
+            },
+            {
+                "description": "PRM 5HrEnergy 2/Xxx",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -1.48
+            }
+        ],
+        "subtotal": 6.49,
+        "tax": 0.62,
+        "tip": null,
+        "total": 7.11
+    }
+]

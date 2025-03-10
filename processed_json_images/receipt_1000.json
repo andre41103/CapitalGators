@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MANIELE S.R.L.",
+        "transaction_date": "2016-08-04",
+        "items": [
+            {
+                "description": "CAPPUCCINO",
+                "quantity": 2.0,
+                "price": 2.5,
+                "total_price": 5.0
+            },
+            {
+                "description": "CORNETTI",
+                "quantity": 2.0,
+                "price": 1.5,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 8.0
+    }
+]

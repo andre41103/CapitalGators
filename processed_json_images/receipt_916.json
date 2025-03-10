@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Romano's Macaroni Grill",
+        "transaction_date": "2011-01-08",
+        "items": [],
+        "subtotal": null,
+        "tax": null,
+        "tip": 15.25,
+        "total": 30.0
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Harrell LLC",
+        "transaction_date": "2016-10-29",
+        "items": [
+            {
+                "description": "Lulus Women's Black Bell\nSleeve Floral Swing Dress Size S",
+                "quantity": 5.0,
+                "price": 22.95,
+                "total_price": 126.23
+            }
+        ],
+        "subtotal": 114.75,
+        "tax": 11.48,
+        "tip": null,
+        "total": 126.23
+    }
+]

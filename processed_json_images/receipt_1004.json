@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Red House At\nThe Quayside",
+        "transaction_date": "2008-04-18",
+        "items": [
+            {
+                "description": "Spinach Tofu (5)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Fried Man-Tou",
+                "quantity": 5.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Chilli Crab",
+                "quantity": 2.2,
+                "price": null,
+                "total_price": 88.0
+            },
+            {
+                "description": "Mango Sago (S)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Butter Crayfish",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 32.0
+            },
+            {
+                "description": "Baby Squid(S)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "C/Custard Prawns",
+                "quantity": 0.3,
+                "price": null,
+                "total_price": 19.5
+            },
+            {
+                "description": "Tea",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 7.2
+            },
+            {
+                "description": "Rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Pickles",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 194.7,
+        "tax": 14.99,
+        "tip": 50.0,
+        "total": 229.2
+    }
+]

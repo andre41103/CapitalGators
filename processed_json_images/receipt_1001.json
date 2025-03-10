@@ -1,0 +1,116 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "R-BEANS GREEN TRIMMED AND CLEA",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.69
+            },
+            {
+                "description": "ORGANIC ROMAINE HEARTS",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.49
+            },
+            {
+                "description": "CAULIFLOWER",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.79
+            },
+            {
+                "description": "SWEET ITALIAN PORK SAUSAGE",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "BACON TURKEY",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "BACON APPLEWOOD UNCURED",
+                "quantity": 20.0,
+                "price": 3.99,
+                "total_price": 7.98
+            },
+            {
+                "description": "A-LEMON BAG ORG 1 LB",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.69
+            },
+            {
+                "description": "PICKLE SWEET RELISH ORGANIC",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "BEANS BLACK CUBAN STYLE",
+                "quantity": 2.0,
+                "price": 0.99,
+                "total_price": 1.98
+            },
+            {
+                "description": "BEANS REFRIED PINTO ORGANIC",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.09
+            },
+            {
+                "description": "BEANS REFRIED PINTO ORGANIC",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.09
+            },
+            {
+                "description": "A-TOMATOES ON THE VINE 20 OZ",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "BEANS ORGANIC GREAT NORTHERN",
+                "quantity": 40.0,
+                "price": 1.19,
+                "total_price": 4.76
+            },
+            {
+                "description": "SPICE ONION DIP MIX",
+                "quantity": 3.0,
+                "price": 0.99,
+                "total_price": 2.97
+            },
+            {
+                "description": "A-AVOCADOS HASS BAG 4CT",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.29
+            },
+            {
+                "description": "A-GINGER FRESH 4 OZ",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.39
+            },
+            {
+                "description": "A-APPLE BAG ORG GRANNY SMITH 2",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.49
+            }
+        ],
+        "subtotal": 46.66,
+        "tax": null,
+        "tip": null,
+        "total": 46.66
+    }
+]

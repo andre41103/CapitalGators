@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "UNO",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "REG DEEP DISH, xdeep cyop.\nmushrooms, roni, chicken,\noriginal crust, garlic",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 21.79
+            },
+            {
+                "description": "WINGS TO GO, 1 buffalo sauce;",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "chicago fire",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": 31.79,
+        "tax": 2.23,
+        "tip": null,
+        "total": 34.02
+    }
+]

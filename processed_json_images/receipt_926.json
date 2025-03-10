@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Gallagher PLC",
+        "transaction_date": "2015-05-28",
+        "items": [
+            {
+                "description": "Vintage Bronze Textured Black\nIron Scroll Design 6 Bottle Wine\nHolder*",
+                "quantity": 5.0,
+                "price": 12.99,
+                "total_price": 71.45
+            },
+            {
+                "description": "Vintage Cobalt Blue Spiral\nStemmed Wine Glasses - Pair",
+                "quantity": 1.0,
+                "price": 30.0,
+                "total_price": 33.0
+            },
+            {
+                "description": "HOME ESSENTIALS GRADIENT\nSTEMLESS WINE GLASSES SET\nOF 4 20 FL OZ (591 ml) NEW",
+                "quantity": 1.0,
+                "price": 12.99,
+                "total_price": 14.29
+            }
+        ],
+        "subtotal": 107.94,
+        "tax": 10.79,
+        "tip": null,
+        "total": 118.73
+    }
+]

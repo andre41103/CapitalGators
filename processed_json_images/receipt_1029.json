@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LA VACA AZUL",
+        "transaction_date": "2014-03-21",
+        "items": [
+            {
+                "description": "AGUA SIN GAS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.6
+            },
+            {
+                "description": "PULPO PLANCHA VERDE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "PARRI. PESCADO X2",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.0
+            }
+        ],
+        "subtotal": 35.1,
+        "tax": 2.46,
+        "tip": null,
+        "total": 37.56
+    }
+]

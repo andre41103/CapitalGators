@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Soto-Reynolds\nFerguson-Garcia",
+        "transaction_date": "2015-11-10",
+        "items": [
+            {
+                "description": "12\" White Marble Corner Table",
+                "quantity": 4.0,
+                "price": 295.73,
+                "total_price": 1301.21
+            },
+            {
+                "description": "21 Inches Round Marble Patio\nTable Top with Unique Pattern\nCoffee Table for Home",
+                "quantity": 1.0,
+                "price": 424.15,
+                "total_price": 466.56
+            },
+            {
+                "description": "6'x3' Black Marble Dining\nCenter Table Top Marquetry\nInlay Outdoor Decor H3420A",
+                "quantity": 1.0,
+                "price": 5756.72,
+                "total_price": 6332.39
+            },
+            {
+                "description": "6'x3' White Large Marble Dining\nTop",
+                "quantity": 2.0,
+                "price": 5100.77,
+                "total_price": 11221.69
+            },
+            {
+                "description": "54 Inches Marble Dinning Table\nTop",
+                "quantity": 3.0,
+                "price": 4600.0,
+                "total_price": 15180.0
+            }
+        ],
+        "subtotal": 31365.33,
+        "tax": 3136.53,
+        "tip": null,
+        "total": 34501.86
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TWO BROTHERS RESTAURANT",
+        "transaction_date": "2017-01-04",
+        "items": [
+            {
+                "description": "Lamb & Beef Kebab",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.95
+            },
+            {
+                "description": "Falafel In Pita",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.95
+            }
+        ],
+        "subtotal": 19.9,
+        "tax": 1.59,
+        "tip": null,
+        "total": 21.49
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Chaiyos Land Co.,Ltd",
+        "transaction_date": "2017-01-10",
+        "items": [
+            {
+                "description": "Moscow mule",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 280.0
+            },
+            {
+                "description": "Above Eleven Water",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 100.0
+            },
+            {
+                "description": "Spinach Empanadas",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 200.0
+            },
+            {
+                "description": "Vegetarian Tempura Yasai",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 250.0
+            },
+            {
+                "description": "Tuna Tartar",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 430.0
+            },
+            {
+                "description": "Extra Avocatlo",
+                "quantity": null,
+                "price": null,
+                "total_price": 100.0
+            },
+            {
+                "description": "Singha",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 180.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 118.58,
+        "tip": 154.0,
+        "total": 1812.58
+    }
+]

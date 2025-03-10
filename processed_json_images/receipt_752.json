@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CHRISTOPHER'S\nCAKE SHOP",
+        "transaction_date": "2017-10-11",
+        "items": [
+            {
+                "description": "Cappuccino",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "Hot Chocolate",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.3
+            },
+            {
+                "description": "Surcharge",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 7.09,
+        "tax": 0.71,
+        "tip": null,
+        "total": 7.8
+    }
+]

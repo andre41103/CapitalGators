@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Hale LLC",
+        "transaction_date": "2014-02-18",
+        "items": [
+            {
+                "description": "The Fall of Berlin 1945 by\nAntony Beevor",
+                "quantity": 2.0,
+                "price": 4.49,
+                "total_price": 9.88
+            },
+            {
+                "description": "Harry Potter and the Chamber\nof Secrets (Book 2) by Rowling,\nJ. K. Paperback The",
+                "quantity": 3.0,
+                "price": 7.62,
+                "total_price": 25.15
+            },
+            {
+                "description": "Pornhub PREMIUM LIFETIME",
+                "quantity": 5.0,
+                "price": 3.99,
+                "total_price": 21.95
+            },
+            {
+                "description": "AUTO RENEW | FAST DELIVERY",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.82
+            },
+            {
+                "description": "Battlestations! (Star Trek: The\nOriginal Series)",
+                "quantity": 3.0,
+                "price": 4.49,
+                "total_price": null
+            },
+            {
+                "description": "Steam Yacht Varuna, Brand\nNew, Free shipping in the US",
+                "quantity": 4.0,
+                "price": 8.45,
+                "total_price": 37.18
+            },
+            {
+                "description": "The Home Stretch",
+                "quantity": 1.0,
+                "price": 5.38,
+                "total_price": 5.92
+            },
+            {
+                "description": "My Passion for Design by Barbra\nStreisand",
+                "quantity": 3.0,
+                "price": 5.56,
+                "total_price": 18.35
+            }
+        ],
+        "subtotal": 121.12,
+        "tax": 12.11,
+        "tip": null,
+        "total": 133.23
+    }
+]

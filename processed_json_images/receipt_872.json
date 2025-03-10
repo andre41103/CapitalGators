@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Sake Restaurant & Bar",
+        "transaction_date": "2016-06-06",
+        "items": [
+            {
+                "description": "Sencha Green Tea*",
+                "quantity": 2.0,
+                "price": 4.5,
+                "total_price": 9.0
+            },
+            {
+                "description": "Pelligrino Lg*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "Steamed Edamame*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "Nigiri Sunazuri*",
+                "quantity": 2.0,
+                "price": 9.0,
+                "total_price": 18.0
+            },
+            {
+                "description": "Nigiri Toro*",
+                "quantity": 2.0,
+                "price": 16.0,
+                "total_price": 32.0
+            },
+            {
+                "description": "Nigiri Eel Unagi*",
+                "quantity": 2.0,
+                "price": 10.0,
+                "total_price": 20.0
+            },
+            {
+                "description": "Nigiri Scal Hot*",
+                "quantity": 2.0,
+                "price": 10.0,
+                "total_price": 20.0
+            },
+            {
+                "description": "Brussels Sprouts*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "Duo Dumplings*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "Yuzu & Basil*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 15.18,
+        "tip": null,
+        "total": 167.0
+    }
+]

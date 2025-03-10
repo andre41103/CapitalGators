@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2016-07-23",
+        "items": [
+            {
+                "description": "Coffee/toa",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "Lo Juice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "$5 BREAKY",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Side pancake [1]",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "BLUE BERRY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            }
+        ],
+        "subtotal": 21.5,
+        "tax": null,
+        "tip": null,
+        "total": 24.3
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Andrews Coffee Shop",
+        "transaction_date": "2017-02-24",
+        "items": [
+            {
+                "description": "BREAKFAST SAMPLER",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.25
+            },
+            {
+                "description": "BERY PANCAK COMBO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "MUFFIN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "COFFEE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "MACCHIATO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.4
+            },
+            {
+                "description": "COKE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.4
+            }
+        ],
+        "subtotal": 39.8,
+        "tax": 3.25,
+        "tip": null,
+        "total": 39.8
+    }
+]

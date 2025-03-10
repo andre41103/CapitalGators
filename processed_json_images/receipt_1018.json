@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SELFIE COFFEE",
+        "transaction_date": "2017-11-23",
+        "items": [
+            {
+                "description": "SELFIE COFFEE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 28.0
+            }
+        ],
+        "subtotal": 28.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 28.0
+    }
+]

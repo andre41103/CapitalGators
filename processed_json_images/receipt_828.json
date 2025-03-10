@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "McDonald's Restaurant",
+        "transaction_date": "2018-07-03",
+        "items": [
+            {
+                "description": "Sausage Burrito",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 1.0,
+        "tax": 0.09,
+        "tip": null,
+        "total": 1.09
+    }
+]

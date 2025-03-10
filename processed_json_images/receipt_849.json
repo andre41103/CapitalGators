@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "WHOLE\nFOODS\u00ae",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "GNJI RAMEN MINI VEGGIE",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "OG BARTLETT PEARS",
+                "quantity": 0.82,
+                "price": 1.99,
+                "total_price": 1.63
+            },
+            {
+                "description": "365 COCONUT WATER",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.29
+            },
+            {
+                "description": "LNDB WLD BLND RICE",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "BBY BRSSL SPRT 500GR",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            }
+        ],
+        "subtotal": 21.9,
+        "tax": 0.55,
+        "tip": null,
+        "total": 22.45
+    }
+]

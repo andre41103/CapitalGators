@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KTCHN Restaurant",
+        "transaction_date": "2014-11-22",
+        "items": [
+            {
+                "description": "Rioja Glass g1",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 28.0
+            },
+            {
+                "description": "Espresso",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "L Burger",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "BYO Omelette",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "20% gratuity",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.2
+            }
+        ],
+        "subtotal": 66.0,
+        "tax": 5.86,
+        "tip": 13.2,
+        "total": 85.06
+    }
+]

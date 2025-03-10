@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.parking",
+        "merchant_name": "Minneapolis - Saint Paud\nINTERNATIONAL AIRPORT",
+        "transaction_date": "2013-06-03",
+        "items": [],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 14.0
+    }
+]

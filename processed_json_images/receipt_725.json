@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2018-02-24",
+        "items": [
+            {
+                "description": "Int. Super Clean",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 47.01
+            }
+        ],
+        "subtotal": 47.01,
+        "tax": 2.99,
+        "tip": null,
+        "total": 50.0
+    }
+]

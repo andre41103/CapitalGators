@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Smith LLC",
+        "transaction_date": "2012-03-09",
+        "items": [
+            {
+                "description": "CCNA 200-301 50 GB AUG 2020\nCisco Video/Official Books/Exam\nDumps/Licences",
+                "quantity": 5.0,
+                "price": 1.99,
+                "total_price": 10.94
+            },
+            {
+                "description": "Day Trading Joe Ross New Hard\ncover English edition",
+                "quantity": 2.0,
+                "price": 125.0,
+                "total_price": 275.0
+            }
+        ],
+        "subtotal": 259.95,
+        "tax": 26.0,
+        "tip": null,
+        "total": 285.95
+    }
+]

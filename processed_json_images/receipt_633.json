@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Life is burritoful.",
+        "transaction_date": "2014-08-01",
+        "items": [
+            {
+                "description": "Chicken Burrito",
+                "quantity": 2.0,
+                "price": 6.7,
+                "total_price": 13.4
+            },
+            {
+                "description": "Guacamole",
+                "quantity": 2.0,
+                "price": 1.95,
+                "total_price": 3.9
+            },
+            {
+                "description": "Chips & Guac",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.3
+            }
+        ],
+        "subtotal": 20.6,
+        "tax": 1.85,
+        "tip": null,
+        "total": 22.45
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "The UPS Store",
+        "transaction_date": "2015-12-28",
+        "items": [
+            {
+                "description": "Ground Residential",
+                "quantity": null,
+                "price": null,
+                "total_price": 59.22
+            },
+            {
+                "description": "mat'ls standard pack",
+                "quantity": null,
+                "price": null,
+                "total_price": 35.0
+            },
+            {
+                "description": "standard pack serve",
+                "quantity": null,
+                "price": null,
+                "total_price": 18.0
+            }
+        ],
+        "subtotal": 112.22,
+        "tax": 2.49,
+        "tip": null,
+        "total": null
+    }
+]

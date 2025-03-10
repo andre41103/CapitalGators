@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Paris Texas",
+        "transaction_date": "2015-04-07",
+        "items": [
+            {
+                "description": "Spiked Lemonade",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "Crab Cake Starter",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.95
+            },
+            {
+                "description": "Seafood Nachos",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.25
+            },
+            {
+                "description": "Scoop Ice Cream",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.95
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.17,
+        "tip": null,
+        "total": 27.65
+    }
+]

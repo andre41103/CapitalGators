@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TIRE",
+        "transaction_date": "2012-07-05",
+        "items": [
+            {
+                "description": "CERTIFIED CER-3",
+                "quantity": null,
+                "price": null,
+                "total_price": 112.99
+            }
+        ],
+        "subtotal": 112.99,
+        "tax": null,
+        "tip": null,
+        "total": 127.68
+    }
+]

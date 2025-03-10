@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SHIEKH SHOES LLC",
+        "transaction_date": "2002-06-19",
+        "items": [
+            {
+                "description": "A FRC1 MID",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 79.97
+            }
+        ],
+        "subtotal": null,
+        "tax": 6.2,
+        "tip": null,
+        "total": 86.17
+    }
+]

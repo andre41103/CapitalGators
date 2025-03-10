@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BEST BUY",
+        "transaction_date": "2013-11-09",
+        "items": [
+            {
+                "description": "PS4-ASSASSINS CREED IV: BLACK",
+                "quantity": null,
+                "price": null,
+                "total_price": 59.99
+            },
+            {
+                "description": "PS4-KNACK",
+                "quantity": null,
+                "price": null,
+                "total_price": 29.99
+            },
+            {
+                "description": "PS4-KILLZONE 4",
+                "quantity": null,
+                "price": null,
+                "total_price": 29.99
+            },
+            {
+                "description": "MY BEST BUY\nMY BEST BUY",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 119.97,
+        "tax": 7.8,
+        "tip": null,
+        "total": 127.77
+    }
+]

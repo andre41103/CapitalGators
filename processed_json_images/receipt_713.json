@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Khansama Tandoori\nRestaurant",
+        "transaction_date": "2016-05-30",
+        "items": [
+            {
+                "description": "Tandoori Roti",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Garlic Naan",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "Ch.Tikka 4 pc",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "Haryali Tikka 4pcs",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "Mutton Bhuna",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "Chicken Korma",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.5
+            },
+            {
+                "description": "Daal Makhni",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "Sweet Lassi",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Lime Soda",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Chivas 12Yrs Large",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Kadahi Prawns",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            }
+        ],
+        "subtotal": 104.0,
+        "tax": 7.28,
+        "tip": null,
+        "total": 111.3
+    }
+]

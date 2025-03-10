@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Berghotel\nGrosse Scheidegg",
+        "transaction_date": "2007-07-30",
+        "items": [
+            {
+                "description": "2xLatte Macchiato",
+                "quantity": null,
+                "price": 4.5,
+                "total_price": 9.0
+            },
+            {
+                "description": "1xGloki",
+                "quantity": null,
+                "price": 5.0,
+                "total_price": 5.0
+            },
+            {
+                "description": "1xSchweinschnitzel",
+                "quantity": null,
+                "price": 22.0,
+                "total_price": 22.0
+            },
+            {
+                "description": "1xCh\u00e4ssp\u00e4tzli",
+                "quantity": null,
+                "price": 18.5,
+                "total_price": 18.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.85,
+        "tip": null,
+        "total": 54.5
+    }
+]

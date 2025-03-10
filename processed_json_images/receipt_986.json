@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Montgomery Ward",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "DF M/NY/BO0",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "CO M HICANV",
+                "quantity": null,
+                "price": null,
+                "total_price": 19.99
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.31,
+        "tip": null,
+        "total": 27.39
+    }
+]

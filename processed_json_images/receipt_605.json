@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BATON ROUGE DECARIE",
+        "transaction_date": "2017-04-29",
+        "items": [
+            {
+                "description": "COWBOY STEAK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 39.0
+            },
+            {
+                "description": "8oz HAUT SURLONGE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "ASAL MIXTE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "A CP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            }
+        ],
+        "subtotal": 71.0,
+        "tax": null,
+        "tip": null,
+        "total": 81.63
+    }
+]

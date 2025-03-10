@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Koh Grill&Sushi Bar",
+        "transaction_date": "2015-02-24",
+        "items": [
+            {
+                "description": "M19 SHIOK !!! Maki",
+                "quantity": 5.0,
+                "price": 16.8,
+                "total_price": 84.0
+            },
+            {
+                "description": "M25 SHIOK! 2nd Maki",
+                "quantity": 2.0,
+                "price": 16.8,
+                "total_price": 33.6
+            },
+            {
+                "description": "S32 Sake Sashimi",
+                "quantity": 2.0,
+                "price": 8.0,
+                "total_price": 16.0
+            },
+            {
+                "description": "Ebi Tempura",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Y17 Enoki Buta Maki",
+                "quantity": 3.0,
+                "price": 3.0,
+                "total_price": 9.0
+            },
+            {
+                "description": "A4 Yaki Udon",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "A23 Seafood Chaahan",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Iced Grn Tea",
+                "quantity": 2.0,
+                "price": 1.5,
+                "total_price": 3.0
+            },
+            {
+                "description": "Pepsi Cola",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            }
+        ],
+        "subtotal": 177.6,
+        "tax": 12.45,
+        "tip": null,
+        "total": 190.05
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "White Group",
+        "transaction_date": "2019-02-08",
+        "items": [
+            {
+                "description": "Women Dress Gradient Color\nLong Sleeve Sexy Club Bodycon\nMini",
+                "quantity": 5.0,
+                "price": 7.59,
+                "total_price": 41.75
+            },
+            {
+                "description": "Pre-Owned Women's Nah Nah\nDress Size 8 Black Sheer Formal\nSexy",
+                "quantity": 3.0,
+                "price": 12.99,
+                "total_price": 42.87
+            },
+            {
+                "description": "Unbranded Dress Sleeveless\nCowl Neck Gold Silver Purple\nMetallic Size 6 S",
+                "quantity": 5.0,
+                "price": 10.0,
+                "total_price": 55.0
+            },
+            {
+                "description": "Rebecca Minkoff Black Polyester\nFringe and Lambskin Dress Sz",
+                "quantity": 5.0,
+                "price": 9.99,
+                "total_price": 54.95
+            }
+        ],
+        "subtotal": 176.87,
+        "tax": 17.69,
+        "tip": null,
+        "total": 194.56
+    }
+]

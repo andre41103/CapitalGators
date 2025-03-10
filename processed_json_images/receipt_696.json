@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Cartwheel!",
+        "transaction_date": "2017-09-07",
+        "items": [
+            {
+                "description": "PS4 GAME",
+                "quantity": null,
+                "price": 59.99,
+                "total_price": 33.99
+            },
+            {
+                "description": "MOUNTAIN DEW FC",
+                "quantity": null,
+                "price": 3.99,
+                "total_price": 1.95
+            }
+        ],
+        "subtotal": 35.94,
+        "tax": null,
+        "tip": null,
+        "total": 38.38
+    }
+]

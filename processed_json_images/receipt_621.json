@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Subway#4415-0",
+        "transaction_date": "2014-11-14",
+        "items": [
+            {
+                "description": "12\" Tuna Sub",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.75
+            },
+            {
+                "description": "21oz Fountain Drink",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.6
+            }
+        ],
+        "subtotal": 8.35,
+        "tax": null,
+        "tip": null,
+        "total": 9.01
+    }
+]

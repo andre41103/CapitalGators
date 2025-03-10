@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "EXPRESS HOTEL PVT LTD",
+        "transaction_date": "2017-12-27",
+        "items": [
+            {
+                "description": "GUJARATI THALI",
+                "quantity": 4.0,
+                "price": 296.61,
+                "total_price": 1186.44
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 1186.44
+    }
+]

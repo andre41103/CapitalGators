@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Restaurant at Elderberry Pond",
+        "transaction_date": "2017-04-13",
+        "items": [
+            {
+                "description": "ICED TEA",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "SPECIAL 4",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "DESSERT SPECIAL",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "DECAFFINATED COFFEE",
+                "quantity": 2.0,
+                "price": 3.0,
+                "total_price": 6.0
+            },
+            {
+                "description": "VEG PASTA",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            }
+        ],
+        "subtotal": 40.5,
+        "tax": 3.24,
+        "tip": null,
+        "total": 43.74
+    }
+]

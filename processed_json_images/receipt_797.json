@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Pizza Hut India",
+        "transaction_date": "2017-05-31",
+        "items": [
+            {
+                "description": "68 Chili Cheese",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 139.0
+            },
+            {
+                "description": "CrmofMushrum",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 129.0
+            },
+            {
+                "description": "Med Cheese Maxx\nVegieSupreme",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 671.0
+            }
+        ],
+        "subtotal": 603.5,
+        "tax": null,
+        "tip": 60.35,
+        "total": 664.0
+    }
+]

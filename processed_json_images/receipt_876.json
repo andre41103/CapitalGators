@@ -1,0 +1,86 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Red House Seafood",
+        "transaction_date": "2013-03-06",
+        "items": [
+            {
+                "description": "Fried Man-Tou",
+                "quantity": 8.0,
+                "price": null,
+                "total_price": 5.6
+            },
+            {
+                "description": "Thai Coconut",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 9.6
+            },
+            {
+                "description": "Mineral Water (S)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "Chilli Crab",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 50.0
+            },
+            {
+                "description": "Razor Claw",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 52.0
+            },
+            {
+                "description": "Lime Juice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Cereal Shelled Prauns(",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "Deep Fried Sheffed Pra",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "Tea,Water&T6/1",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Rice",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 2.4
+            },
+            {
+                "description": "Baby Kal Low (My",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "Pickle",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            }
+        ],
+        "subtotal": 202.6,
+        "tax": null,
+        "tip": null,
+        "total": 238.5
+    }
+]

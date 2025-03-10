@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TAP",
+        "transaction_date": "2016-04-06",
+        "items": [
+            {
+                "description": "Moon Goddness Pint",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 75.0
+            },
+            {
+                "description": "The Living End",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 165.0
+            },
+            {
+                "description": "Chicken Wrap Full",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 78.0
+            },
+            {
+                "description": "Fries",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 64.0
+            },
+            {
+                "description": "Cajun Wings",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 58.0
+            }
+        ],
+        "subtotal": 440.0,
+        "tax": null,
+        "tip": 44.0,
+        "total": 484.0
+    }
+]

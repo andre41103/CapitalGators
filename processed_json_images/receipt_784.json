@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "BAVARIAN BLACK PNT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "QUAD BOCK 11 PNT",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "FARMER JON OATMEAL PNT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.95
+            },
+            {
+                "description": "CALAMARI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.95
+            },
+            {
+                "description": "ONIION RINGS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.95
+            },
+            {
+                "description": "SHADY BROOK FARMS TURKEY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.25
+            },
+            {
+                "description": "PULLED PORK SANDWICH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.5
+            },
+            {
+                "description": "HEATLAND STEAK FAJITAS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.95
+            },
+            {
+                "description": "DIET COKE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            }
+        ],
+        "subtotal": 96.55,
+        "tax": 8.57,
+        "tip": null,
+        "total": 122.5
+    }
+]

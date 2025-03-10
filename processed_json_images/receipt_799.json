@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Oskar Blues Mama\nLittle Yella Pils",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Duck Confit Taco",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "Hawaiian Taco",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "Korean Taco",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            }
+        ],
+        "subtotal": 14.5,
+        "tax": 1.42,
+        "tip": null,
+        "total": 15.92
+    }
+]

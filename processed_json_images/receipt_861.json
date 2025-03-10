@@ -1,0 +1,86 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "WASA\nVACCINATION",
+        "transaction_date": "2006-01-10",
+        "items": [
+            {
+                "description": "HAVRIX",
+                "quantity": null,
+                "price": null,
+                "total_price": 495.0
+            },
+            {
+                "description": "HAVRIX",
+                "quantity": null,
+                "price": null,
+                "total_price": 495.0
+            },
+            {
+                "description": "TWINRIK BARN",
+                "quantity": null,
+                "price": null,
+                "total_price": 495.0
+            },
+            {
+                "description": "TYFOID",
+                "quantity": null,
+                "price": null,
+                "total_price": 290.0
+            },
+            {
+                "description": "TYFOID",
+                "quantity": null,
+                "price": null,
+                "total_price": 290.0
+            },
+            {
+                "description": "TYFOID",
+                "quantity": null,
+                "price": null,
+                "total_price": 290.0
+            },
+            {
+                "description": "DUKORAL/KOL.",
+                "quantity": null,
+                "price": null,
+                "total_price": 225.0
+            },
+            {
+                "description": "DUKORAL/KOL.",
+                "quantity": null,
+                "price": null,
+                "total_price": 225.0
+            },
+            {
+                "description": "DUKORAL/KOL.",
+                "quantity": null,
+                "price": null,
+                "total_price": 225.0
+            },
+            {
+                "description": "DUKORAL/KOL.",
+                "quantity": null,
+                "price": null,
+                "total_price": 225.0
+            },
+            {
+                "description": "DUKORAL/KOL.",
+                "quantity": null,
+                "price": null,
+                "total_price": 225.0
+            },
+            {
+                "description": "DUKORAL/KOL.",
+                "quantity": null,
+                "price": null,
+                "total_price": 225.0
+            }
+        ],
+        "subtotal": 3705.0,
+        "tax": null,
+        "tip": 175.0,
+        "total": 3880.0
+    }
+]

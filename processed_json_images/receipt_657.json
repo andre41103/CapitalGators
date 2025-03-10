@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "TEA",
+                "quantity": 1.0,
+                "price": 75.0,
+                "total_price": 75.0
+            },
+            {
+                "description": "GARLIC NAAN",
+                "quantity": 1.0,
+                "price": 95.0,
+                "total_price": 95.0
+            },
+            {
+                "description": "SIZZLING MO\nMO CHICKEN",
+                "quantity": 1.0,
+                "price": 335.0,
+                "total_price": 335.0
+            }
+        ],
+        "subtotal": 505.0,
+        "tax": 72.22,
+        "tip": 50.5,
+        "total": 627.72
+    }
+]

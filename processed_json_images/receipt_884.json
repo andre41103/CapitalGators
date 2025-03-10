@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SHIZEN",
+        "transaction_date": "2015-01-29",
+        "items": [
+            {
+                "description": "Spicy Garlic Miso Ramen",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Choice of Three",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "Open Invitation",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "Body and Soul",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "Suprise Ending",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "Sapporo (Draft)",
+                "quantity": 2.0,
+                "price": 5.5,
+                "total_price": 11.0
+            },
+            {
+                "description": "Open Food",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            }
+        ],
+        "subtotal": 76.0,
+        "tax": 6.45,
+        "tip": null,
+        "total": 82.45
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Khmer Grill Coffee and Bakery",
+        "transaction_date": "2016-11-10",
+        "items": [
+            {
+                "description": "Anchor Beer Mug",
+                "quantity": 5.0,
+                "price": 0.75,
+                "total_price": 3.75
+            },
+            {
+                "description": "Big Bottle Water",
+                "quantity": 1.0,
+                "price": 1.5,
+                "total_price": 1.5
+            },
+            {
+                "description": "Espresso",
+                "quantity": 2.0,
+                "price": 1.5,
+                "total_price": 3.0
+            },
+            {
+                "description": "Fried Chicken with\nGinger",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "Grill Beef (Slice Beef)",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "Lime Juice",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "Steak with Green\nPepper",
+                "quantity": 3.0,
+                "price": 5.0,
+                "total_price": 15.0
+            },
+            {
+                "description": "Distcount",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Service Charge",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": 0.0,
+        "total": 30.25
+    }
+]

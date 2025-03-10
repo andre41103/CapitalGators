@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Chavez-Wilcox",
+        "transaction_date": "2019-11-10",
+        "items": [
+            {
+                "description": "Day Trading Joe Ross New Hard\ncover English edition",
+                "quantity": 4.0,
+                "price": 125.0,
+                "total_price": 550.0
+            },
+            {
+                "description": "Rage By Bob Woodward -\nDonald Trump NEW\nHARDCOVER Sept 2020",
+                "quantity": 5.0,
+                "price": 22.93,
+                "total_price": 126.12
+            },
+            {
+                "description": "Florida's List of Protected Plants\nin Words and Pictures",
+                "quantity": 2.0,
+                "price": 5.5,
+                "total_price": 12.1
+            },
+            {
+                "description": "The Art of Glen Loates",
+                "quantity": 1.0,
+                "price": 6.08,
+                "total_price": 6.69
+            }
+        ],
+        "subtotal": 631.73,
+        "tax": 63.17,
+        "tip": null,
+        "total": 694.9
+    }
+]

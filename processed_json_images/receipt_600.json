@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LATITUDE 31",
+        "transaction_date": "2015-03-06",
+        "items": [
+            {
+                "description": "PASTILLA FRUITS DE MER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 95.0
+            },
+            {
+                "description": "SIDI ALI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.0
+            },
+            {
+                "description": "CAFE AMERICAIN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.0
+            },
+            {
+                "description": "LUNGO FORTE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.0
+            },
+            {
+                "description": "TAJINE FRUITS DE MER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 130.0
+            },
+            {
+                "description": "FILET DE LOUP ROTI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 150.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 40.91,
+        "tip": null,
+        "total": 450.0
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "NIQues",
+        "transaction_date": "2016-11-14",
+        "items": [],
+        "subtotal": 76.81,
+        "tax": 6.22,
+        "tip": null,
+        "total": 83.03
+    }
+]

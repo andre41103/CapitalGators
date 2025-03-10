@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Drips\nBakery Cafe",
+        "transaction_date": "2012-08-20",
+        "items": [
+            {
+                "description": "Latte",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 9.6
+            },
+            {
+                "description": "Blackberry Almond Tart",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "Crumbly Apple Crumble Tait",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "Dessert Of The Day",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.8
+            },
+            {
+                "description": "Cinnamon Pear Tart",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            }
+        ],
+        "subtotal": 39.9,
+        "tax": null,
+        "tip": null,
+        "total": 39.9
+    }
+]

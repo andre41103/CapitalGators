@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2017-06-20",
+        "items": [
+            {
+                "description": "Strips 4ct",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.35
+            },
+            {
+                "description": "CFA Sand",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.09
+            },
+            {
+                "description": "Nugget 8ct",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.09
+            },
+            {
+                "description": "Fries LG",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.78
+            }
+        ],
+        "subtotal": 14.31,
+        "tax": 1.18,
+        "tip": null,
+        "total": 15.49
+    }
+]

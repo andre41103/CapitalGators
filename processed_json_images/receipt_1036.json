@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Opium Mar SL",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Coca Cola",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Draft",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Nachos",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Patatas Bravas",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Ensalada Bogavant",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.0
+            },
+            {
+                "description": "Ensalada Aguaca",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "Amer icana",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "Pina Colada",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Voss 37,5cl",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 90.0
+    }
+]

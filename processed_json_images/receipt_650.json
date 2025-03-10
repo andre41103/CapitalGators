@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KFC SALAK TINGGI",
+        "transaction_date": "2015-04-01",
+        "items": [
+            {
+                "description": "LTD SET E HS T",
+                "quantity": 3.0,
+                "price": 10.95,
+                "total_price": 32.85
+            },
+            {
+                "description": "UPGRADE DRK GOTT",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "UPG SJORA (R) T T",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.3
+            },
+            {
+                "description": "UPGRADE DRK CROT T",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.3
+            },
+            {
+                "description": "UPS SJORA (RO) T",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "UPGRADE DRK ORT T",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.3
+            },
+            {
+                "description": "UPG SJORA CRO T",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "CRSH",
+                "quantity": null,
+                "price": null,
+                "total_price": 50.0
+            }
+        ],
+        "subtotal": 36.75,
+        "tax": null,
+        "tip": null,
+        "total": 36.75
+    }
+]

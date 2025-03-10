@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Park PLC",
+        "transaction_date": "2016-06-28",
+        "items": [
+            {
+                "description": "Pier 1 Multi-color Cordial\nLiqueur Wine Glasses Set of 4",
+                "quantity": 5.0,
+                "price": 30.0,
+                "total_price": 165.0
+            },
+            {
+                "description": "Luigi Bormioli Crescendo Wine\nCarafe (48oz)",
+                "quantity": 1.0,
+                "price": 14.1,
+                "total_price": 15.51
+            },
+            {
+                "description": "Wine Glasses Set Of 4",
+                "quantity": 4.0,
+                "price": 6.0,
+                "total_price": 26.4
+            },
+            {
+                "description": "Vintage wine 2 bottles holder\nIron & rattan rack",
+                "quantity": 2.0,
+                "price": 55.0,
+                "total_price": 121.0
+            },
+            {
+                "description": "6 Spiegelau Crystal Tasting\nWine Glasses, Germany detailed\nstems excellent shape",
+                "quantity": 3.0,
+                "price": 59.0,
+                "total_price": 194.7
+            }
+        ],
+        "subtotal": 475.1,
+        "tax": 47.51,
+        "tip": null,
+        "total": 522.61
+    }
+]

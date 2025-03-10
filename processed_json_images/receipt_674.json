@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TIONG\nBAHRU\nBAKERY",
+        "transaction_date": "2016-01-11",
+        "items": [
+            {
+                "description": "Flat White",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "Brioche - Apple",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.2
+            }
+        ],
+        "subtotal": 9.06,
+        "tax": 0.64,
+        "tip": null,
+        "total": 9.7
+    }
+]

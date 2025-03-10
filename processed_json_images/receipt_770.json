@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DAVID YURMAN",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "LRG OVAL LINK C",
+                "quantity": null,
+                "price": null,
+                "total_price": 1500.0011
+            }
+        ],
+        "subtotal": 1500.0,
+        "tax": 90.0,
+        "tip": null,
+        "total": 1590.0
+    }
+]

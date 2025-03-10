@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DOzore Travel Plaza",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Sides",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Whole Pork Steak",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.64
+            },
+            {
+                "description": "3 Ribo",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.74
+            },
+            {
+                "description": "51008",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Sides",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "4402 SOA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.19
+            }
+        ],
+        "subtotal": 22.57,
+        "tax": 1.74,
+        "tip": null,
+        "total": 24.31
+    }
+]

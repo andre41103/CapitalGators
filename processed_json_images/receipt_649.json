@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Ford, Myers and Walton",
+        "transaction_date": "2016-02-06",
+        "items": [
+            {
+                "description": "Tiffany and Co Pair 2 Stemless\nWine\nGlasses",
+                "quantity": 1.0,
+                "price": 74.99,
+                "total_price": 82.49
+            }
+        ],
+        "subtotal": 74.99,
+        "tax": 7.5,
+        "tip": null,
+        "total": 82.49
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Foley-Alexander",
+        "transaction_date": "2011-07-05",
+        "items": [
+            {
+                "description": "Nintendo 64 Console with Box,\nFoam and extra oem controller",
+                "quantity": 5.0,
+                "price": 120.0,
+                "total_price": 660.0
+            },
+            {
+                "description": "Nintendo Gameboy Pocket\nConsole Green with Box\n59",
+                "quantity": 4.0,
+                "price": 65.0,
+                "total_price": 286.0
+            },
+            {
+                "description": "Sony PlayStation 3 Slim 120GB\nBlack Console",
+                "quantity": 1.0,
+                "price": 99.99,
+                "total_price": 109.99
+            }
+        ],
+        "subtotal": 959.99,
+        "tax": 96.0,
+        "tip": null,
+        "total": 1055.99
+    }
+]

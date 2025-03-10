@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Knox-Snyder",
+        "transaction_date": "2012-11-13",
+        "items": [
+            {
+                "description": "Sony PlayStation 5 Console -\nWhite - Disc Version -",
+                "quantity": 4.0,
+                "price": 499.99,
+                "total_price": 2199.96
+            },
+            {
+                "description": "Ex+ PlayStation PS Vita console\nPCH-1000AB04 PCH-1000\nSapphire Blue 4GB 001904",
+                "quantity": 2.0,
+                "price": 149.98,
+                "total_price": 329.96
+            },
+            {
+                "description": "Nintendo DS Lite Onyx Black\nSystem Console & 6 games\nMario Charger Stylus",
+                "quantity": 1.0,
+                "price": 69.99,
+                "total_price": 76.99
+            },
+            {
+                "description": "Nintendo Switch Console Tablet\nOnly Unpatched Hackable Low\nSerial Number",
+                "quantity": 4.0,
+                "price": 249.99,
+                "total_price": 1099.96
+            },
+            {
+                "description": "Sony PlayStation 5 Digital\nEdition 825GB Video Game\nConsole - White",
+                "quantity": 5.0,
+                "price": 550.0,
+                "total_price": 3025.0
+            },
+            {
+                "description": "Sega V Saturn Victor Console\nRG-JX1 Gray Tested Working\nJapan",
+                "quantity": 2.0,
+                "price": 119.99,
+                "total_price": 263.98
+            },
+            {
+                "description": "Nintendo Switch Lite Yellow\nCONSOLE ONLY - No",
+                "quantity": 4.0,
+                "price": 135.0,
+                "total_price": 594.0
+            }
+        ],
+        "subtotal": 6899.85,
+        "tax": 689.99,
+        "tip": null,
+        "total": 7589.84
+    }
+]

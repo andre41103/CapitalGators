@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Adams-Campbell",
+        "transaction_date": "2013-12-25",
+        "items": [
+            {
+                "description": "Minecraft Creative Stuffed Plush\nKids Childrens Gift Cute Toy\nBirthday Christmas",
+                "quantity": 1.0,
+                "price": 7.25,
+                "total_price": 7.98
+            },
+            {
+                "description": "Easy No Tie Rubber Shoe Laces\nColored Trainers Snickers Kids\n+ Adults Shoelaces",
+                "quantity": 4.0,
+                "price": 1.55,
+                "total_price": 6.82
+            },
+            {
+                "description": "SEVENTEEN Semicolon Special\nAlbum [Photocard / Digi Pack\nCover / Mini Card]",
+                "quantity": 2.0,
+                "price": 4.99,
+                "total_price": 10.98
+            },
+            {
+                "description": "Sperry Top-Sider Boys Toddlers\nLace Tie Boat Shoes Brown 13M\nNew",
+                "quantity": 1.0,
+                "price": 37.69,
+                "total_price": 41.46
+            },
+            {
+                "description": "Lands' End Kids Boys Snow\nWinter Boots Size 5 Blue Warm\nZip Up Easy On Easy Off",
+                "quantity": 3.0,
+                "price": 9.5,
+                "total_price": 31.35
+            }
+        ],
+        "subtotal": 89.62,
+        "tax": 8.96,
+        "tip": null,
+        "total": 98.58
+    }
+]

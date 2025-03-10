@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TASTE S.R.L.",
+        "transaction_date": "2010-08-30",
+        "items": [
+            {
+                "description": "MOCACCINO",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.3
+            },
+            {
+                "description": "LATTE IN GHIACCIO",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "LIGHT LADY",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "COFFEE CRACK",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.3
+            },
+            {
+                "description": "FRUTTINO",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "PASS. CARAMELLO",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "MUFFIN LOVE",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "APPLE PIE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 18.1
+    }
+]

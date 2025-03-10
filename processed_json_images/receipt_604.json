@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Pacheco-Booker",
+        "transaction_date": "2016-02-08",
+        "items": [
+            {
+                "description": "Round Rug Carpet For Living",
+                "quantity": 1.0,
+                "price": 9.87,
+                "total_price": 10.86
+            },
+            {
+                "description": "Yilong 5.5'x8' Handwoven Silk",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 3309.87,
+        "tax": 330.99,
+        "tip": null,
+        "total": 3640.86
+    }
+]

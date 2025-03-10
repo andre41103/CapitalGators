@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "FAMILY\nDOLLAR",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "COCA COLA 1.25 LTR",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "RIP IT ENERGY DRINK CITRUS 16FL OZ",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 1.0,
+        "tax": null,
+        "tip": null,
+        "total": 2.18
+    }
+]

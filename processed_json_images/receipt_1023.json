@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SANTA FE MEXICAN",
+        "transaction_date": "2016-07-24",
+        "items": [
+            {
+                "description": "Jmb Tx Marg Ro",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 31.5
+            },
+            {
+                "description": "Patron Anejo",
+                "quantity": 6.0,
+                "price": null,
+                "total_price": 58.5
+            },
+            {
+                "description": "Corona",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            }
+        ],
+        "subtotal": 93.5,
+        "tax": 8.33,
+        "tip": null,
+        "total": 99.83
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Meatology",
+        "transaction_date": "2017-12-01",
+        "items": [
+            {
+                "description": "Borsodi 0.51",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 600.0
+            },
+            {
+                "description": "Frissen facsart narancsl\u00e9",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 750.0
+            },
+            {
+                "description": "Bacon and cheese burger",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.9
+            },
+            {
+                "description": "Kacsa ropog\u00f3sra s\u00fctve",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.9
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 8.15
+    }
+]

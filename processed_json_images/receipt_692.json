@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ochn TER",
+        "transaction_date": "2018-12-03",
+        "items": [
+            {
+                "description": "POLAND SPRINGS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "SIMPLE GRILL DOG",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 15.57
+            },
+            {
+                "description": "GREEN CHILE DOG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.19
+            },
+            {
+                "description": "SHAKE - CHOCOLATE",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 13.38
+            },
+            {
+                "description": "2$ Beer Special",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "TO STAY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 43.64,
+        "tax": 3.87,
+        "tip": null,
+        "total": 47.51
+    }
+]

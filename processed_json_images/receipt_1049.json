@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Walton and Sons",
+        "transaction_date": "2017-04-07",
+        "items": [
+            {
+                "description": "Elisa Cavaletti Daniela\nDallavalle Shift Dress Grey And\nWhite .Size M",
+                "quantity": 4.0,
+                "price": 60.0,
+                "total_price": 264.0
+            },
+            {
+                "description": "Jones Wear Dress Women White\nPink Floral Sleeveless Formal\nTea Dress Size 12",
+                "quantity": 3.0,
+                "price": 20.0,
+                "total_price": 66.0
+            }
+        ],
+        "subtotal": 300.0,
+        "tax": 30.0,
+        "tip": null,
+        "total": 330.0
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Reynolds PLC",
+        "transaction_date": "2015-12-13",
+        "items": [
+            {
+                "description": "Leed's Wine Companion Bottle\nCorkscrew Opener Gift Box Set\nwith Foil Cutter",
+                "quantity": 2.0,
+                "price": 7.5,
+                "total_price": 16.5
+            },
+            {
+                "description": "Metal Storage Shelf Wine Glass\nRack Wine Glasses for The\nCabinet",
+                "quantity": 3.0,
+                "price": 22.42,
+                "total_price": 73.99
+            },
+            {
+                "description": "Iron Glass Holder Organizer Wall\nMounted Kitchen Bar 5 Bottles\nWine Rack Display",
+                "quantity": 2.0,
+                "price": 44.33,
+                "total_price": 97.53
+            },
+            {
+                "description": "Black Pug wine holder",
+                "quantity": 5.0,
+                "price": 12.95,
+                "total_price": 71.23
+            },
+            {
+                "description": "confetti wine glass",
+                "quantity": 2.0,
+                "price": 15.0,
+                "total_price": 33.0
+            },
+            {
+                "description": "Vintage Set of 4 Clear Iridescent\nRainbow Glass Glasses\nChampagne Wine",
+                "quantity": 4.0,
+                "price": 15.95,
+                "total_price": 70.18
+            }
+        ],
+        "subtotal": 329.47,
+        "tax": 32.95,
+        "tip": null,
+        "total": 362.42
+    }
+]

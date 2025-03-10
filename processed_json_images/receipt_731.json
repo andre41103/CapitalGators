@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KFC GOSIER DRIVE",
+        "transaction_date": "2015-11-25",
+        "items": [
+            {
+                "description": "MINI TW-SP",
+                "quantity": 2.0,
+                "price": 2.25,
+                "total_price": 4.5
+            },
+            {
+                "description": "SCE SUPP",
+                "quantity": 3.0,
+                "price": 0.1,
+                "total_price": 0.3
+            },
+            {
+                "description": "JUS",
+                "quantity": 1.0,
+                "price": 2.2,
+                "total_price": 2.2
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 7.0
+    }
+]

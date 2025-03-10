@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walmart",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "MI BOX",
+                "quantity": null,
+                "price": null,
+                "total_price": 69.0
+            }
+        ],
+        "subtotal": 69.0,
+        "tax": 4.49,
+        "tip": null,
+        "total": 73.49
+    }
+]

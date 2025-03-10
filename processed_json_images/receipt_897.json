@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CTC/Fuelco",
+        "transaction_date": "2011-07-24",
+        "items": [
+            {
+                "description": "FORMULA SYN 5W30",
+                "quantity": 1.0,
+                "price": 8.89,
+                "total_price": 8.89
+            },
+            {
+                "description": "BV MONTCLAIR 500ML",
+                "quantity": 1.0,
+                "price": 1.29,
+                "total_price": 1.29
+            },
+            {
+                "description": "CH CADBURY REG",
+                "quantity": 1.0,
+                "price": 1.49,
+                "total_price": 1.49
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.52,
+        "tip": null,
+        "total": 13.19
+    }
+]

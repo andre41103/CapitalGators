@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BOMBAY BARBEQUE",
+        "transaction_date": "2016-09-22",
+        "items": [
+            {
+                "description": "LUN BUF VEG AD",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 1256.0
+            },
+            {
+                "description": "LUN BUF VEG KID",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 360.0
+            },
+            {
+                "description": "Comp.\nCHARDSA SAUVIGNON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "ICE TEA (all flav",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Comp.\nCARLSBERG PINT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 1616.0,
+        "tax": null,
+        "tip": 81.0,
+        "total": 1799.0
+    }
+]

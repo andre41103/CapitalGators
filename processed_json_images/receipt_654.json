@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PORTUGAL WINE BAR & GRILL",
+        "transaction_date": "2016-11-27",
+        "items": [
+            {
+                "description": "GRILL CHICKEN BREAST",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.95
+            },
+            {
+                "description": "CALAMARI (ARROZ)RICE STE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.95
+            },
+            {
+                "description": "COD FISH (BRAS) STYLE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.95
+            },
+            {
+                "description": "SERRADURA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.95
+            },
+            {
+                "description": "FLAN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "EXPRESSO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.5
+            }
+        ],
+        "subtotal": 57.3,
+        "tax": 4.03,
+        "tip": null,
+        "total": 61.33
+    }
+]

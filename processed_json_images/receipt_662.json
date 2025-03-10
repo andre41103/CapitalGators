@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "NIKMATI HOKBEN TOKYO BOWL",
+        "transaction_date": "2018-01-18",
+        "items": [
+            {
+                "description": "HOKA HEMAT RB 1",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20.91
+            },
+            {
+                "description": "CHICKEN TOFU 1 PCS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "COLD OCHA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.91
+            }
+        ],
+        "subtotal": 36.82,
+        "tax": null,
+        "tip": 3682.0,
+        "total": 40.5
+    }
+]

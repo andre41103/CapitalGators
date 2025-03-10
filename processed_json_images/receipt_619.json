@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HYOTAN JAPANESE\nRESTAURANT",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "740 Omakase",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 155.0
+            }
+        ],
+        "subtotal": 157.0,
+        "tax": 10.36,
+        "tip": 15.7,
+        "total": 183.05
+    }
+]

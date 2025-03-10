@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2017-10-06",
+        "items": [
+            {
+                "description": "Small shrimps in beer",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 280.0
+            },
+            {
+                "description": "Fish deep fried",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 350.0
+            },
+            {
+                "description": "Pineapple juice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 60.0
+            },
+            {
+                "description": "Milk glass",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 60.0
+            },
+            {
+                "description": "Russian salad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 150.0
+            },
+            {
+                "description": "Eggplants and potato\nChinese style",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 180.0
+            },
+            {
+                "description": "Vareniki",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 100.0
+            },
+            {
+                "description": "Stout beer 0.580 L",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 190.0
+            }
+        ],
+        "subtotal": 1370.0,
+        "tax": 89.63,
+        "tip": null,
+        "total": null
+    }
+]

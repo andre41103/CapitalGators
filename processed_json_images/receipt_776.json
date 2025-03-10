@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Sala 4 Mare",
+        "transaction_date": "2016-03-24",
+        "items": [
+            {
+                "description": "COPERTO",
+                "quantity": 2.0,
+                "price": 5.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "SAUTE DI COZZE",
+                "quantity": 2.0,
+                "price": 20.0,
+                "total_price": 40.0
+            },
+            {
+                "description": "ACQUA GASSATA",
+                "quantity": 1.0,
+                "price": 4.0,
+                "total_price": 4.0
+            },
+            {
+                "description": "CANTINA",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 54.0
+    }
+]

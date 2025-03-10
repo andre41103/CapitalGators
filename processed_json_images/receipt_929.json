@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BLEND CAFE",
+        "transaction_date": "2016-02-06",
+        "items": [
+            {
+                "description": "Crab Cake & Calamari",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Sweet Platains And\nWalnuts Tres Leches",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Mofongo Shrimp",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "Water",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "red snapper",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "Water",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 56.0,
+        "tax": 4.48,
+        "tip": null,
+        "total": 60.48
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "McDonald's.",
+        "transaction_date": "2014-11-21",
+        "items": [
+            {
+                "description": "L Dr. Pepper",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "L Coke",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "McChicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 3.0,
+        "tax": 0.24,
+        "tip": null,
+        "total": 3.24
+    }
+]

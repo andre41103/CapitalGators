@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ARRABBA'S",
+        "transaction_date": "2017-02-25",
+        "items": [
+            {
+                "description": "Ot House Red HH",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.79
+            },
+            {
+                "description": "House Red HH",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.79
+            },
+            {
+                "description": "Grilled Asparagus",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.59
+            },
+            {
+                "description": "Parmesan, fett alfredo$",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Cid Beverage, coke",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 24.79,
+        "tax": null,
+        "tip": 2.99,
+        "total": null
+    }
+]

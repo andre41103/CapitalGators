@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "WILLY:S",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "RISINGSBO 50CL 2.8%",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.39,
+        "tip": null,
+        "total": 13.0
+    }
+]

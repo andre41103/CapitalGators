@@ -1,0 +1,92 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "F W WOOLWORTH",
+        "transaction_date": "1997-09-20",
+        "items": [
+            {
+                "description": "SESAME STREET R",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.79
+            },
+            {
+                "description": "SESAME STREET R",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.79
+            },
+            {
+                "description": "SALINE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.18
+            },
+            {
+                "description": "AO DISC",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.58
+            },
+            {
+                "description": "SESAME STREET R",
+                "quantity": null,
+                "price": null,
+                "total_price": -4.79
+            },
+            {
+                "description": "SWEDISH RED FIS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.3
+            },
+            {
+                "description": "SWEDISH RED FIS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.3
+            },
+            {
+                "description": "SINGLE CANDOLIE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.95
+            },
+            {
+                "description": "100UL LITE SET",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.79
+            },
+            {
+                "description": "SHOWER/SHW8OZ",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.74
+            },
+            {
+                "description": "PERF THED",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "REESE'S P.B.CUP",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.35
+            },
+            {
+                "description": "J MUSKETEERS 10",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.89
+            }
+        ],
+        "subtotal": 18.14,
+        "tax": 1.2,
+        "tip": null,
+        "total": 19.34
+    }
+]

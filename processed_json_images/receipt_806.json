@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Nando's",
+        "transaction_date": "2017-02-14",
+        "items": [
+            {
+                "description": "Butterfly Chicken Breast",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.85
+            },
+            {
+                "description": "Butterfly Chicken Breast",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.85
+            },
+            {
+                "description": "Perinaise",
+                "quantity": 2.0,
+                "price": 0.5,
+                "total_price": 1.0
+            },
+            {
+                "description": "Regular Coleslaw",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.4
+            },
+            {
+                "description": "Chilli Wrap",
+                "quantity": 2.0,
+                "price": 0.85,
+                "total_price": 1.7
+            },
+            {
+                "description": "Military Discount",
+                "quantity": null,
+                "price": null,
+                "total_price": -4.0
+            }
+        ],
+        "subtotal": 19.34,
+        "tax": 3.46,
+        "tip": null,
+        "total": 22.8
+    }
+]

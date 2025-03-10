@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Perez Group",
+        "transaction_date": "2015-10-25",
+        "items": [
+            {
+                "description": "NWT Women's MAX EDITION\nClassy Gray Knit Stretch Dress\nside bow tie 3/4 sleeve XL",
+                "quantity": 3.0,
+                "price": 12.5,
+                "total_price": 41.25
+            },
+            {
+                "description": "Rebecca Minkoff Black Polyester\nFringe and Lambskin Dress Sz\n12",
+                "quantity": 2.0,
+                "price": 9.99,
+                "total_price": 21.98
+            },
+            {
+                "description": "balmain dress 36",
+                "quantity": 4.0,
+                "price": 1.0,
+                "total_price": 6820.0
+            },
+            {
+                "description": "sandro dress",
+                "quantity": 5.0,
+                "price": 80.0,
+                "total_price": 440.0
+            },
+            {
+                "description": "Kate Spade NY Sleeveless Ponte\nFit & Flare Solid Black Dress\nSize 6",
+                "quantity": 2.0,
+                "price": 49.99,
+                "total_price": 109.98
+            }
+        ],
+        "subtotal": 6757.46,
+        "tax": 675.75,
+        "tip": null,
+        "total": 7433.21
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LUCINA 2009 SRL",
+        "transaction_date": "2014-11-14",
+        "items": [
+            {
+                "description": "COPERTO",
+                "quantity": 2.0,
+                "price": 1.0,
+                "total_price": 2.0
+            },
+            {
+                "description": "SYRAH CASALE DEL GIL",
+                "quantity": null,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "ACQUA LISCIA",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "PATATA AL CARTOCCIO",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "SPAGHE. ALLA CARBONAR",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "LASAGNE BOLOGNESE",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "MILLEFOGLIE",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 58.0
+    }
+]

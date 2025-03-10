@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2015-06-21",
+        "items": [
+            {
+                "description": "34-18-03-MADILL\n28",
+                "quantity": 1.0,
+                "price": 60.0,
+                "total_price": -60.0
+            }
+        ],
+        "subtotal": -60.0,
+        "tax": -5.7,
+        "tip": null,
+        "total": -65.7
+    }
+]

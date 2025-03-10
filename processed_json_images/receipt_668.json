@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Maestrosoft Pte Ltd)",
+        "transaction_date": "2013-05-23",
+        "items": [
+            {
+                "description": "Prawn Masala",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Aloo Gopi Masala",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.5
+            },
+            {
+                "description": "Butter Chicken Masala",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "Mushroom 65",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "Onion Pakoda",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "Steamed Basmathi Rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "Garlic Naan",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.8
+            },
+            {
+                "description": "Fresh Lime sweet",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 48.3,
+        "tax": 3.72,
+        "tip": 4.83,
+        "total": 56.85
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "OLDCASTLE PUB",
+        "transaction_date": "2014-10-24",
+        "items": [
+            {
+                "description": "Domestic Draft",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "PEPPERONI PIZZA, 9\"",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            }
+        ],
+        "subtotal": 24.0,
+        "tax": 2.13,
+        "tip": null,
+        "total": 26.13
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RAJAJI INC",
+        "transaction_date": "2017-06-26",
+        "items": [
+            {
+                "description": "Gosht Biryani",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.95
+            }
+        ],
+        "subtotal": 17.95,
+        "tax": 1.79,
+        "tip": null,
+        "total": 19.74
+    }
+]

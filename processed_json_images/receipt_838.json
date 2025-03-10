@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2018-06-14",
+        "items": [
+            {
+                "description": "Premium Buffet",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 796000.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 928136.0
+    }
+]

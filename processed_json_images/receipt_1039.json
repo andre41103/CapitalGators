@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TRAMWAY GARDEN BUFFET",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "BUFFET",
+                "quantity": 2.0,
+                "price": 238.0,
+                "total_price": 476.0
+            },
+            {
+                "description": "ICED TEA GLASS",
+                "quantity": 2.0,
+                "price": 33.0,
+                "total_price": 66.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 542.0
+    }
+]

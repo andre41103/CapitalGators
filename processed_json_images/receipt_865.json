@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PORCH DOGS",
+        "transaction_date": "2014-06-07",
+        "items": [
+            {
+                "description": "Jack Daniels",
+                "quantity": 4.0,
+                "price": 8.5,
+                "total_price": 34.0
+            },
+            {
+                "description": "FRIED PICKLES",
+                "quantity": 2.0,
+                "price": 6.49,
+                "total_price": 12.98
+            },
+            {
+                "description": "10 WINGS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.49
+            },
+            {
+                "description": "CURLEY FRIES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "Happy Hour",
+                "quantity": null,
+                "price": null,
+                "total_price": -23.49
+            }
+        ],
+        "subtotal": 61.46,
+        "tax": 3.08,
+        "tip": 0.0,
+        "total": 41.05
+    }
+]

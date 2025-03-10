@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BUDDHA BAR LONDON",
+        "transaction_date": "2014-08-29",
+        "items": [
+            {
+                "description": "Still Water",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "Chablis France - 125#1",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.6
+            },
+            {
+                "description": "16% Pinot Noir, France - 125ml",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.5
+            },
+            {
+                "description": "MISO Soup",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 57.6
+            },
+            {
+                "description": "Octopus NI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 111.0
+            },
+            {
+                "description": "California Maki",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -216.5
+            },
+            {
+                "description": "Buddha Bar Maki",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 23.5
+            },
+            {
+                "description": "BB Beef Tartare",
+                "quantity": null,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "Love Food Give Food",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 96.1,
+        "tax": 16.18,
+        "tip": 13.11,
+        "total": 111.21
+    }
+]

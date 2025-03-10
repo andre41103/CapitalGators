@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Beer Harbour",
+        "transaction_date": "2018-09-08",
+        "items": [
+            {
+                "description": "Beer Harbour",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.95
+            },
+            {
+                "description": "BeG Burger",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.85
+            },
+            {
+                "description": "Agua",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.9
+            }
+        ],
+        "subtotal": 27.85,
+        "tax": 1.95,
+        "tip": null,
+        "total": 29.8
+    }
+]

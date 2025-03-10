@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "COMMODITIES NATUR",
+        "transaction_date": "2012-01-28",
+        "items": [],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 159.48
+    }
+]

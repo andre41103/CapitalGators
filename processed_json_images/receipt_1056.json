@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Menudo Grande",
+                "quantity": 2.0,
+                "price": 5.5,
+                "total_price": 11.0
+            },
+            {
+                "description": "Pan Mant.",
+                "quantity": 2.0,
+                "price": 0.5,
+                "total_price": 1.0
+            },
+            {
+                "description": "Arroz de Camaron",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.99
+            },
+            {
+                "description": "Hot Cakes c/ 1 Huevo",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.99
+            },
+            {
+                "description": "Hashbrown",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "To Go",
+                "quantity": 4.0,
+                "price": 0.25,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 27.48,
+        "tax": 2.27,
+        "tip": null,
+        "total": 29.75
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Bikerowave Cooperative Inc",
+        "transaction_date": "2013-03-21",
+        "items": [
+            {
+                "description": "Used Part\nDerailleur",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Hour",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            }
+        ],
+        "subtotal": 10.0,
+        "tax": 0.27,
+        "tip": null,
+        "total": 10.27
+    }
+]

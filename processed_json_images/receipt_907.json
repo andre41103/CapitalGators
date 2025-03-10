@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "McDonald's Restaurants Pte Ltd",
+        "transaction_date": "2016-06-13",
+        "items": [
+            {
+                "description": "SuperRed Burger Upz",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.55
+            },
+            {
+                "description": "Med Ice Lemon Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.5
+            },
+            {
+                "description": "Super Red Burger",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.1
+            },
+            {
+                "description": "McFlurry LemonCustard",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.9
+            }
+        ],
+        "subtotal": 18.05,
+        "tax": 1.18,
+        "tip": null,
+        "total": 18.05
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LO SPAZIO",
+        "transaction_date": "2017-06-19",
+        "items": [
+            {
+                "description": "SET DINNER",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 376.0
+            },
+            {
+                "description": "Daily Soup",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Set Salmon Skewer",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Set Mussels",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Set Pork Chop",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 65.0
+            },
+            {
+                "description": "Set Bistecca",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 75.0
+            },
+            {
+                "description": "Set Dessert",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Set Molten Cheesecake",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 35.0
+            }
+        ],
+        "subtotal": 551.0,
+        "tax": null,
+        "tip": 55.0,
+        "total": 606.0
+    }
+]

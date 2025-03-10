@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Ted's Montana Grill",
+        "transaction_date": "2016-07-05",
+        "items": [
+            {
+                "description": "Corona Light",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "Chicken Cadillac Sandwich",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "Side Fries",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Teds Margarita",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "Bison Swiss & Mush Burger",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "House Salad",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

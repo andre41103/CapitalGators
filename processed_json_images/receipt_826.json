@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Barber Inc",
+        "transaction_date": "2020-04-13",
+        "items": [
+            {
+                "description": "PlayStation 5 Console Disc\nVersion",
+                "quantity": 1.0,
+                "price": 899.99,
+                "total_price": 989.99
+            },
+            {
+                "description": "nes nintendo entertainment\nsystem console system With\n500 In 1 Cartridge, Pistol",
+                "quantity": 1.0,
+                "price": 99.0,
+                "total_price": 108.9
+            },
+            {
+                "description": "NEW Sony PlayStation 4 PS4\nSlim 1TB Fortnite Neo Versa\nGaming Console Bundle",
+                "quantity": 4.0,
+                "price": 399.99,
+                "total_price": 1759.96
+            }
+        ],
+        "subtotal": 2598.95,
+        "tax": 259.89,
+        "tip": null,
+        "total": 2858.84
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "UNICO AUTO DETAILING",
+        "transaction_date": "2018-05-18",
+        "items": [
+            {
+                "description": "STANDARD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 125.0
+            },
+            {
+                "description": "Custom Item",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 85.0
+            }
+        ],
+        "subtotal": 210.0,
+        "tax": 18.64,
+        "tip": null,
+        "total": 228.64
+    }
+]

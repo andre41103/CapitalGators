@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walmart",
+        "transaction_date": "2009-12-04",
+        "items": [
+            {
+                "description": "CELERY",
+                "quantity": null,
+                "price": 1.44,
+                "total_price": 0.74
+            },
+            {
+                "description": "BABY CARROTS",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "BEAD CHAIN",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.44
+            },
+            {
+                "description": "CUBE TAP",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.94
+            },
+            {
+                "description": "CUBE TAP",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.94
+            },
+            {
+                "description": "CUBE TAP",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.94
+            },
+            {
+                "description": "TETRAFIN 185",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.12
+            },
+            {
+                "description": "CAULIFLOWER",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.97
+            },
+            {
+                "description": "TOM GRAPE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.96
+            },
+            {
+                "description": "DorE Cof co",
+                "quantity": null,
+                "price": null,
+                "total_price": 49.0
+            },
+            {
+                "description": "VS MOTION",
+                "quantity": null,
+                "price": null,
+                "total_price": 47.2
+            }
+        ],
+        "subtotal": 96.49,
+        "tax": 5.61,
+        "tip": null,
+        "total": 102.1
+    }
+]

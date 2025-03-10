@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TOYS AUS",
+        "transaction_date": "2012-09-21",
+        "items": [
+            {
+                "description": "HOBBIT 3.75IN2 PACK FIGS",
+                "quantity": null,
+                "price": 14.99,
+                "total_price": 13.69
+            },
+            {
+                "description": "HOBBIT 3.75IN2 PACK FIGS",
+                "quantity": null,
+                "price": 14.99,
+                "total_price": 13.69
+            },
+            {
+                "description": "THE HOBBIT\n3.75IN FIGURE",
+                "quantity": null,
+                "price": 9.99,
+                "total_price": 9.13
+            },
+            {
+                "description": "HOBBIT 3.75IN2 PACK FIGS",
+                "quantity": null,
+                "price": 14.99,
+                "total_price": 13.7
+            },
+            {
+                "description": "PULL BACK\nTRAIN SET",
+                "quantity": null,
+                "price": 2.99,
+                "total_price": 2.74
+            }
+        ],
+        "subtotal": 52.95,
+        "tax": 3.48,
+        "tip": null,
+        "total": 56.43
+    }
+]

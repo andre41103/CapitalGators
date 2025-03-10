@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "DARTMOUTH BOOKSTORE, INC.",
+        "transaction_date": "2011-07-01",
+        "items": [
+            {
+                "description": "WITH LOVE AND SQU211100",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.95
+            },
+            {
+                "description": "DREAMS OF BEING E080500",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            }
+        ],
+        "subtotal": 25.95,
+        "tax": null,
+        "tip": null,
+        "total": 24.65
+    }
+]

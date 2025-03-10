@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KMART TUGGERANONG",
+        "transaction_date": "2017-07-19",
+        "items": [
+            {
+                "description": "%PAPER CARRY BAG",
+                "quantity": null,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "%BOLS GUMMI BEARS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.75
+            },
+            {
+                "description": "%BELGIAN DARK BLOCK",
+                "quantity": 5.0,
+                "price": 1.0,
+                "total_price": 5.0
+            },
+            {
+                "description": "%BELGIAN WHITE BLCK",
+                "quantity": 9.0,
+                "price": 1.0,
+                "total_price": 9.0
+            },
+            {
+                "description": "%BELGIAN HNUT BLOCK",
+                "quantity": 5.0,
+                "price": 1.0,
+                "total_price": null
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2021-04-24",
+        "items": [
+            {
+                "description": "Burent Orange Long Dress With\nBeads SUE WONG SIZE 2",
+                "quantity": 2.0,
+                "price": 75.0,
+                "total_price": 165.0
+            },
+            {
+                "description": "NWT Women's MAX EDITION\nClassy Gray Knit Stretch Dress\nside bow tie 3/4 sleeve XL",
+                "quantity": 2.0,
+                "price": 12.5,
+                "total_price": 27.5
+            }
+        ],
+        "subtotal": 175.0,
+        "tax": 17.5,
+        "tip": null,
+        "total": 192.5
+    }
+]

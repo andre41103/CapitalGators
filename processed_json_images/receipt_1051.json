@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Aurora Village",
+        "transaction_date": "2017-01-31",
+        "items": [
+            {
+                "description": "PUCK LIGHTS",
+                "quantity": null,
+                "price": null,
+                "total_price": 18.99
+            },
+            {
+                "description": "CPN/ 862760",
+                "quantity": null,
+                "price": null,
+                "total_price": -4.0
+            }
+        ],
+        "subtotal": 14.99,
+        "tax": 1.8,
+        "tip": null,
+        "total": 66.79
+    }
+]

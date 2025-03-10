@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RESTORAN\nWEI KEE",
+        "transaction_date": "2009-05-21",
+        "items": [
+            {
+                "description": "DUCK",
+                "quantity": null,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "RICE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.6
+            },
+            {
+                "description": "DRINKS",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 19.6
+    }
+]

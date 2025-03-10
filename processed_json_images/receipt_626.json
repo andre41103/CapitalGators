@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Barber LLC",
+        "transaction_date": "2017-07-23",
+        "items": [
+            {
+                "description": "YILONG 6.56'x9.84' Handmade\nSilk Carpet Blue Bedroom\nIndoor Area Rug 0785",
+                "quantity": 3.0,
+                "price": 4.0,
+                "total_price": 15840.0
+            },
+            {
+                "description": "YILONG 4'x6' Golden Handmade\nSilk Rugs Vintage Classic\nOriental Carpet 086B",
+                "quantity": 4.0,
+                "price": 4.0,
+                "total_price": 21120.0
+            },
+            {
+                "description": "YILONG 4'x6' Golden Hand\nKnotted Silk Rugs Antistatic\nFamily Room Carpet 085B",
+                "quantity": 1.0,
+                "price": 4.0,
+                "total_price": 5280.0
+            },
+            {
+                "description": "Yilong 1'x1.5' 400Lines Area\nRug High Density Hand knotted\nSilk Carpet 221H",
+                "quantity": 3.0,
+                "price": 540.0,
+                "total_price": 1782.0
+            },
+            {
+                "description": "Morocco Area Rug Round Carpet\nBohemian Style Tassel Mat Door\nRoom Decor Blanket",
+                "quantity": 5.0,
+                "price": 41.39,
+                "total_price": 227.65
+            },
+            {
+                "description": "Fluffy Floor Mat Anti-Skid\nShaggy Area Rugs Dining Living\nRoom Carpet Home Decor",
+                "quantity": 3.0,
+                "price": 3.89,
+                "total_price": 12.84
+            }
+        ],
+        "subtotal": 40238.62,
+        "tax": 4023.86,
+        "tip": null,
+        "total": 44262.48
+    }
+]

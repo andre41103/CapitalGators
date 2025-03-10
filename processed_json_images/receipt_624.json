@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2014-10-31",
+        "items": [
+            {
+                "description": "FISH & SHRIMP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.99
+            },
+            {
+                "description": "3P STRIPCOMBO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.19
+            },
+            {
+                "description": "SPICY\nTXTL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.37
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 16.55
+    }
+]

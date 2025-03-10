@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "6\" Egg & Cheese Bkfst Sub",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.55
+            },
+            {
+                "description": "Bottled Juice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            }
+        ],
+        "subtotal": 7.64,
+        "tax": 0.41,
+        "tip": null,
+        "total": 8.05
+    }
+]

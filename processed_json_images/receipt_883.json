@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Sheetz",
+        "transaction_date": "2015-11-11",
+        "items": [
+            {
+                "description": "Turkey 6\"",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.19
+            },
+            {
+                "description": "Regular Drink",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "Veterans Day 2015",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.98
+            }
+        ],
+        "subtotal": 0.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 0.0
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Stora FEUKOT10",
+        "transaction_date": "2015-08-21",
+        "items": [
+            {
+                "description": "CE\nTOMATO",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "LETTUCE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.75
+            },
+            {
+                "description": "Little Cajun Fries",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "Soda",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "CB",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Five Guys Fries",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Soda",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            }
+        ],
+        "subtotal": 23.12,
+        "tax": 4.63,
+        "tip": null,
+        "total": 27.75
+    }
+]

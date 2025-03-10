@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CASINO SUPERMARCHE",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "SAC MARGUERITE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.19
+            },
+            {
+                "description": "PEPSI.M.6X33",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.86
+            },
+            {
+                "description": "GTEUX PLT RO",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "BAG JBON EMM",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.26
+            },
+            {
+                "description": "GTEUX PLT RO",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "CANDEREL",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.69
+            },
+            {
+                "description": "ACTIVIA VAN 4\u00d7125G",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.59
+            },
+            {
+                "description": "LAIT IL CASINO",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.01
+            },
+            {
+                "description": "NESCAFE 50G",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.95
+            },
+            {
+                "description": "KLEENEX BOITE X80",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.74
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 17.29
+    }
+]

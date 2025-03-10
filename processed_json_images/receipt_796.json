@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "QuikTrip",
+        "transaction_date": "2015-12-21",
+        "items": [],
+        "subtotal": 21.9,
+        "tax": 0.0,
+        "tip": null,
+        "total": 21.9
+    }
+]

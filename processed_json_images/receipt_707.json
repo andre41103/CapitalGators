@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LION CITY\nRESTAURANT",
+        "transaction_date": "2015-04-24",
+        "items": [
+            {
+                "description": "SATAY",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "OPEN FOOD/BEV",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "FRIED NOODLES",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "SHRIMP WONTON",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "OPEN FOOD/BEV",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "OPEN FOOD/BEV",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "OPEN FOOD/BEV",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 6.24,
+        "tip": null,
+        "total": 54.24
+    }
+]

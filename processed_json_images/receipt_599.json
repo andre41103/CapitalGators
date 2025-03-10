@@ -1,0 +1,128 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Olive C\nCarder",
+        "transaction_date": "2013-03-23",
+        "items": [
+            {
+                "description": "Raspberry Lemonade",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.8
+            },
+            {
+                "description": "Disc COMP ITEM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Seafood Alfredo",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.25
+            },
+            {
+                "description": "Disc COMP ITEM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Sub Caesar Salad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.95
+            },
+            {
+                "description": "Soft Drink",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.55
+            },
+            {
+                "description": "Disc COMP ITEM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -2.55
+            },
+            {
+                "description": "Malbec 1oz Sample",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "L Caesar Salad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.75
+            },
+            {
+                "description": "Add Soup",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -7.75
+            },
+            {
+                "description": "Disc COMP ITEM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.65
+            },
+            {
+                "description": "* Chicken & Gnocchi",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Water",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Soup & Salad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.95
+            },
+            {
+                "description": "Disc COMP ITEM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -6.95
+            },
+            {
+                "description": "Minestrone\nGuest No.4",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Kids Chicken Fingers",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.75
+            },
+            {
+                "description": "Disc COMP ITEM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "* Salad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 0.0,
+        "tax": null,
+        "tip": null,
+        "total": 0.0
+    }
+]

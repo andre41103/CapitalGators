@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2015-12-06",
+        "items": [
+            {
+                "description": "Hot Sampler",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 29.95
+            },
+            {
+                "description": "Apple Crumble",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.95
+            },
+            {
+                "description": "Chowder Cup",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.95
+            },
+            {
+                "description": "Boba Watermelon",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.95
+            },
+            {
+                "description": "Water Daiquiri",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 27.9
+            }
+        ],
+        "subtotal": 87.7,
+        "tax": 7.9,
+        "tip": null,
+        "total": 95.6
+    }
+]

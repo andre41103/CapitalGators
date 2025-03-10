@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "EFEWOL RESTAURACION S.L.",
+        "transaction_date": "2015-03-26",
+        "items": [
+            {
+                "description": "1/2 H GULAS",
+                "quantity": 1.0,
+                "price": 5.9,
+                "total_price": 5.9
+            },
+            {
+                "description": "AGUA",
+                "quantity": 1.0,
+                "price": 1.5,
+                "total_price": 1.5
+            },
+            {
+                "description": "TAPA FIDEOS TOSTADOS",
+                "quantity": 1.0,
+                "price": 2.9,
+                "total_price": 2.9
+            },
+            {
+                "description": "TAPA CHISTORRA SALTEAD\nCARNES",
+                "quantity": 1.0,
+                "price": 2.2,
+                "total_price": 2.2
+            },
+            {
+                "description": "1/2 TIRAS PRESA",
+                "quantity": 1.0,
+                "price": 6.8,
+                "total_price": 6.8
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

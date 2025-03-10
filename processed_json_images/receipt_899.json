@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "YOSHINOYA HANAMARU MID VALLEY",
+        "transaction_date": "2015-10-16",
+        "items": [
+            {
+                "description": "Green Tea",
+                "quantity": 1.0,
+                "price": 1.5,
+                "total_price": 1.5
+            },
+            {
+                "description": "Cntama Beef Bowl (R)",
+                "quantity": 1.0,
+                "price": 13.8,
+                "total_price": 13.8
+            },
+            {
+                "description": "Miso + Green Tea",
+                "quantity": 1.0,
+                "price": 3.8,
+                "total_price": 3.8
+            },
+            {
+                "description": "Intama Spicy Chic Tenpura Bowl ( R )",
+                "quantity": 1.0,
+                "price": 14.8,
+                "total_price": 14.8
+            }
+        ],
+        "subtotal": 31.98,
+        "tax": null,
+        "tip": null,
+        "total": 33.9
+    }
+]

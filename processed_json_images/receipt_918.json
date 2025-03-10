@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "XBOX ONE ELITE WIRELESS CONTROLLER",
+                "quantity": null,
+                "price": 149.99,
+                "total_price": 83.99
+            },
+            {
+                "description": "$50 TRADE-I\nTOWARD ELITE CTLR",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "SAVE 30% ON\nXBOX ACCESSORY",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 83.99,
+        "tax": 5.04,
+        "tip": null,
+        "total": 89.03
+    }
+]

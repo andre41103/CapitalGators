@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THE ENGLISH, TEA ROOM",
+        "transaction_date": "2014-09-26",
+        "items": [
+            {
+                "description": "ORGANIC LEAF TEA POT",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "ENGLISH CREAM SCONES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "CHICKEN HAM AND CHEESE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 38.5,
+        "tax": 3.5,
+        "tip": null,
+        "total": 38.5
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Welcome Break Group Ltd.",
+        "transaction_date": "2018-08-01",
+        "items": [
+            {
+                "description": "BALINCH",
+                "quantity": 2.0,
+                "price": 7.99,
+                "total_price": 15.98
+            },
+            {
+                "description": "YORKSHIRE TEA",
+                "quantity": 2.0,
+                "price": 2.4,
+                "total_price": 4.8
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.45,
+        "tip": null,
+        "total": 20.78
+    }
+]

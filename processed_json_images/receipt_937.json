@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Roy and Sons",
+        "transaction_date": "2013-05-01",
+        "items": [
+            {
+                "description": "Lotto Youth Boys Fuerzapura\nL500 Jr Soccer Cleats Size 1.5",
+                "quantity": 1.0,
+                "price": 19.99,
+                "total_price": 21.99
+            },
+            {
+                "description": "Kid's Unicorn Sunglasses Girls\nRainbow Mythical Fashion\nShades",
+                "quantity": 5.0,
+                "price": 9.95,
+                "total_price": 54.73
+            },
+            {
+                "description": "Nike Oncore High Jr 6.0 (Kids)\nSize 4Y",
+                "quantity": 1.0,
+                "price": 25.0,
+                "total_price": 27.5
+            },
+            {
+                "description": "Joma Boys Youth Super Copa\n102 Soccer Cleats 2.5",
+                "quantity": 2.0,
+                "price": 19.99,
+                "total_price": 43.98
+            }
+        ],
+        "subtotal": 134.72,
+        "tax": 13.47,
+        "tip": null,
+        "total": 148.19
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Coles Supermarkets Australia Pty Ltd",
+        "transaction_date": "2013-03-18",
+        "items": [
+            {
+                "description": "WHITE CHOC SAUCE 1EACH",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "SAUCE CARAMEL DIP 130GRAM",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "DIPPING SAUCE ANY 2 FOR $3",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "*COLES COOKED MUSSELS 500GRAM",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.5
+            },
+            {
+                "description": "D/L JOHN WEST PRAWNS PERKG",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.43
+            },
+            {
+                "description": "COLES ITALIAN SALAD 150GRAM",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.9
+            },
+            {
+                "description": "%OAK BANANA 600ML:600 600ML",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.92
+            },
+            {
+                "description": "MUSHROOMS EXOTIC:GOU 100GRAM",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.98
+            },
+            {
+                "description": "%DARE ESPRESSO MILK 500ML",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.2
+            },
+            {
+                "description": "%BIG M LIMIT EDT MILK 600ML",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.2
+            },
+            {
+                "description": "D/L PANTALICA CHEESE PERKG",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.61
+            },
+            {
+                "description": "KIWI BERRY 125GRAM",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.98
+            },
+            {
+                "description": "MACRO MEATS KANGAROO PERKG",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.55
+            },
+            {
+                "description": "D/L PRIMO BACON MIDD PERKG",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.78
+            },
+            {
+                "description": "HON&BAL DRESSING 125ML",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "RASPBERRIES 125GRAM",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.98
+            },
+            {
+                "description": "LAWSONS TRADITIONAL 800GRAM",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "NATURAL MACADAMIAS PERKG",
+                "quantity": 0.047,
+                "price": 33.98,
+                "total_price": 1.6
+            },
+            {
+                "description": "%ARNOTTS TIM TAM BISC 90GRAM",
+                "quantity": 4.0,
+                "price": 1.89,
+                "total_price": 7.56
+            },
+            {
+                "description": "%C 1/2 FAM HT CHICKEN 1EACH",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.0
+            }
+        ],
+        "subtotal": 70.19,
+        "tax": 2.08,
+        "tip": null,
+        "total": 70.2
+    }
+]

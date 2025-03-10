@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2013-07-28",
+        "items": [
+            {
+                "description": "OPEN LOOP\nOPEN LOOP JUST FOR YOU FY11",
+                "quantity": null,
+                "price": null,
+                "total_price": 200.0
+            },
+            {
+                "description": "OPEN LOOP F\nOPEN LOOP FEE",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.95
+            },
+            {
+                "description": "OPEN LOOP\nOPEN LOOP JUST FOR YOU FY11",
+                "quantity": null,
+                "price": null,
+                "total_price": 200.0
+            },
+            {
+                "description": "OPEN LOOP F\nOPEN LOOP FEE",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.95
+            },
+            {
+                "description": "RZ CARD\nREWARD ZONE CARD",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "SHOPKICK\nSHOPKICK",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 411.9,
+        "tax": 0.0,
+        "tip": null,
+        "total": 411.9
+    }
+]

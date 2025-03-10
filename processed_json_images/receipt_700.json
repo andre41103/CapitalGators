@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Framingham",
+        "transaction_date": "2014-06-14",
+        "items": [
+            {
+                "description": "MEX PIZZA BEEF",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.19
+            },
+            {
+                "description": "BAJA CHAL BF",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 4.78
+            },
+            {
+                "description": "CHZ GRD BF",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.69
+            },
+            {
+                "description": "CR SP DLTSUP",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "SK POT WEDGE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.89
+            },
+            {
+                "description": "MD PEPSI",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.89
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.15,
+        "tip": null,
+        "total": 17.58
+    }
+]

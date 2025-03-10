@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SAFEWAY",
+        "transaction_date": "2010-07-29",
+        "items": [
+            {
+                "description": "ROTINI WHL WHT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "SFWY BRD 100% WHT\nCardSav .69",
+                "quantity": null,
+                "price": 2.19,
+                "total_price": 1.5
+            },
+            {
+                "description": "GREEN BELL PEPPERS\nCardSav",
+                "quantity": null,
+                "price": 1.29,
+                "total_price": 0.5
+            },
+            {
+                "description": "RED BELL PEPPERS\nCardSav",
+                "quantity": null,
+                "price": 1.5,
+                "total_price": 1.0
+            },
+            {
+                "description": "YELLOW ONION",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "MC\nSCANNED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -5.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 2.49
+    }
+]

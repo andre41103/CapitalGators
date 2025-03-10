@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "BLOOMTHODALE'S. NEWPORT BEACH",
+        "transaction_date": "2008-06-01",
+        "items": [
+            {
+                "description": "CLINIQUE",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 46.0
+            },
+            {
+                "description": "CLINIQUE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.5
+            },
+            {
+                "description": "CLINIQUE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.5
+            }
+        ],
+        "subtotal": 79.0,
+        "tax": 6.12,
+        "tip": null,
+        "total": 85.12
+    }
+]

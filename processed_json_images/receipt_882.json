@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Butler, Tucker and Hernandez",
+        "transaction_date": "2018-04-23",
+        "items": [
+            {
+                "description": "Zara Yellow Shift Dress XS",
+                "quantity": 3.0,
+                "price": 24.75,
+                "total_price": 81.68
+            },
+            {
+                "description": "Jams World Hawaiian\nDress\nRayon sz.L",
+                "quantity": 5.0,
+                "price": 65.0,
+                "total_price": 357.5
+            },
+            {
+                "description": "Lularoe Nicole Dress Size Small\nLight Solid Grey/ White Ringer\nTee Trim",
+                "quantity": 4.0,
+                "price": 3.75,
+                "total_price": 16.5
+            }
+        ],
+        "subtotal": 414.25,
+        "tax": 41.43,
+        "tip": null,
+        "total": 455.68
+    }
+]

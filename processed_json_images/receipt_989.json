@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TEQUILA\nTEX-MEX",
+        "transaction_date": "2018-07-16",
+        "items": [
+            {
+                "description": "D/COKE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "FANTA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.6
+            },
+            {
+                "description": "PASSION COOLER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.25
+            },
+            {
+                "description": "GUACAMOLE&TOR",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "TEX MEX FAVORITES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "TEX MEX FAVORITES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "BURRITO CHKN TINGA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "LRG STILL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.95
+            },
+            {
+                "description": "CREPA DE PLATANO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.75
+            },
+            {
+                "description": "TOFFEE PUDD/ICE CREAM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.75
+            },
+            {
+                "description": "PECAN PIE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": 7.23,
+        "total": 65.13
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Bistro Boodin",
+        "transaction_date": "2016-08-21",
+        "items": [
+            {
+                "description": "SODA -- COKE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.45
+            },
+            {
+                "description": "SODA -- Coke",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.45
+            },
+            {
+                "description": "SODA -- Coke",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.45
+            },
+            {
+                "description": "CRAB MAC. & CHEE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.95
+            },
+            {
+                "description": "CLAM BB",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 31.9
+            },
+            {
+                "description": "PIZZA BASIL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.85
+            }
+        ],
+        "subtotal": 84.15,
+        "tax": 7.66,
+        "tip": null,
+        "total": 95.18
+    }
+]

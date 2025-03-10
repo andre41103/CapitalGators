@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "INTERNATIONAL DUITA",
+        "transaction_date": "2016-12-28",
+        "items": [],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 11.0
+    }
+]

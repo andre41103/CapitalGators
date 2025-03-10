@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "IKEA Helsingborg",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "SOUBB LADA 14X1",
+                "quantity": null,
+                "price": null,
+                "total_price": 39.0
+            },
+            {
+                "description": "SKUEB LADA 14\u00d71",
+                "quantity": null,
+                "price": null,
+                "total_price": 39.0
+            },
+            {
+                "description": "FABLER LADA 53",
+                "quantity": null,
+                "price": null,
+                "total_price": 69.0
+            },
+            {
+                "description": "JONAS SKRIVB M",
+                "quantity": null,
+                "price": null,
+                "total_price": 995.0
+            },
+            {
+                "description": "BESTA HYLLA 60%",
+                "quantity": null,
+                "price": null,
+                "total_price": 595.0
+            },
+            {
+                "description": "EXPEDIT BOKHYLL",
+                "quantity": null,
+                "price": null,
+                "total_price": 479.0
+            }
+        ],
+        "subtotal": 2216.0,
+        "tax": null,
+        "tip": null,
+        "total": 2216.0
+    }
+]

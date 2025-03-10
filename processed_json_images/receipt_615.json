@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Hess and Sons",
+        "transaction_date": "2014-08-11",
+        "items": [
+            {
+                "description": "Nintendo Wii Black Console\nRVL-001 Bundle 10 games\nComplete Gamecube\nCompatible",
+                "quantity": 3.0,
+                "price": 100.0,
+                "total_price": 330.0
+            },
+            {
+                "description": "Nintendo 64 console complete\nin box with extra controller",
+                "quantity": 3.0,
+                "price": 249.99,
+                "total_price": 824.97
+            },
+            {
+                "description": "Nintendo 64 N64 Console Black\nJapan Tested Working NUSHA",
+                "quantity": 1.0,
+                "price": 49.99,
+                "total_price": 54.99
+            },
+            {
+                "description": "Nintendo 64 N64 Game Console\nSystem + Controller Cords\nWORKING",
+                "quantity": 2.0,
+                "price": 100.0,
+                "total_price": 220.0
+            },
+            {
+                "description": "SONY Playstation2 Console\nSCPH-39000 \" Aqua Color \" /\nTESTED 11181",
+                "quantity": 4.0,
+                "price": 45.0,
+                "total_price": 198.0
+            }
+        ],
+        "subtotal": 1479.96,
+        "tax": 148.0,
+        "tip": null,
+        "total": 1627.96
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DAIRY QUEEN",
+        "transaction_date": "2017-04-27",
+        "items": [
+            {
+                "description": "MD COOKIE BLZ",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "OREO",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "XTRA COOKIE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.79
+            }
+        ],
+        "subtotal": 5.07,
+        "tax": 0.29,
+        "tip": null,
+        "total": 5.07
+    }
+]

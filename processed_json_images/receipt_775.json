@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GRISTEDES",
+        "transaction_date": "2013-12-08",
+        "items": [
+            {
+                "description": "BAG NAVEL ORANGES 4L",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.99
+            },
+            {
+                "description": "EVIAN WATER 1.5 LTR",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "EVIAN WATER 1.5 LTR",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "SHOP RITE EGG NOG",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.69
+            },
+            {
+                "description": "APPLES, FUJI, LARGE",
+                "quantity": 1.45,
+                "price": 1.0,
+                "total_price": 4.34
+            },
+            {
+                "description": "ONIONS, YELLOW/BROWN",
+                "quantity": 0.38,
+                "price": 1.0,
+                "total_price": 0.38
+            },
+            {
+                "description": "TABLE TALK APPLE PIE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.69
+            },
+            {
+                "description": "TABLE TALK APPLE PIE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.69
+            },
+            {
+                "description": "PETER RAB MINI CARRO",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            }
+        ],
+        "subtotal": 22.85,
+        "tax": 0.35,
+        "tip": null,
+        "total": 23.2
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Thistle Heathrow - Restaurant",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Brawn Cocktail",
+                "quantity": 2.0,
+                "price": 5.5,
+                "total_price": 11.0
+            },
+            {
+                "description": "Spaghetti C Must",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.95
+            },
+            {
+                "description": "Poached Salmon",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "Ben & Jerry's Id",
+                "quantity": 2.0,
+                "price": 2.55,
+                "total_price": 5.5
+            },
+            {
+                "description": "diet Coke 330ml",
+                "quantity": 2.0,
+                "price": 2.5,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 7.55,
+        "tip": null,
+        "total": 45.35
+    }
+]

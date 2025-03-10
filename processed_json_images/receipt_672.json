@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "STAPLES",
+        "transaction_date": "2016-03-07",
+        "items": [
+            {
+                "description": "1.00 BOX SEAL SKU",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 1.0,
+        "tax": 0.08,
+        "tip": null,
+        "total": 1.08
+    }
+]

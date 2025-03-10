@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Dunkin' Donuts",
+        "transaction_date": "2012-08-15",
+        "items": [
+            {
+                "description": "Donut",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.95
+            }
+        ],
+        "subtotal": 0.95,
+        "tax": 0.07,
+        "tip": null,
+        "total": 1.02
+    }
+]

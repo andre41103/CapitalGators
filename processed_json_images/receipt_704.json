@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Jarvis, Soto and Wilkins",
+        "transaction_date": "2013-03-28",
+        "items": [
+            {
+                "description": "Sperry Infant Size 6 Boat Shoes",
+                "quantity": 4.0,
+                "price": 0.99,
+                "total_price": 4.36
+            },
+            {
+                "description": "2 Pair-Wonder Nation Childrens\nTucker Boots NEW Size 10 Black",
+                "quantity": 4.0,
+                "price": 12.99,
+                "total_price": 57.16
+            }
+        ],
+        "subtotal": 55.92,
+        "tax": 5.59,
+        "tip": null,
+        "total": 61.51
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "VINELAND SHELL",
+        "transaction_date": "2016-03-21",
+        "items": [
+            {
+                "description": "UNLD CR #07",
+                "quantity": 4.251,
+                "price": 5.999,
+                "total_price": 25.5
+            }
+        ],
+        "subtotal": 25.5,
+        "tax": 0.0,
+        "tip": null,
+        "total": 25.5
+    }
+]

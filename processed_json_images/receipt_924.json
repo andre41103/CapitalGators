@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "save-on-foods",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Dish Scrunge",
+                "quantity": 5.0,
+                "price": 2.99,
+                "total_price": 14.95
+            },
+            {
+                "description": "Vendor Coupon",
+                "quantity": -5.0,
+                "price": 2.99,
+                "total_price": -14.95
+            }
+        ],
+        "subtotal": 14.95,
+        "tax": null,
+        "tip": null,
+        "total": 0.0
+    }
+]

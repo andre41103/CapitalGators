@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "Northgate Valero, 7067",
+        "transaction_date": "2014-05-06",
+        "items": [
+            {
+                "description": "UNLEADED CA",
+                "quantity": null,
+                "price": null,
+                "total_price": 30.0
+            }
+        ],
+        "subtotal": 30.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 30.0
+    }
+]

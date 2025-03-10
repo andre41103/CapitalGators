@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Clean & Green Car Wash",
+        "transaction_date": "2015-04-06",
+        "items": [
+            {
+                "description": "Premier Wash",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Express Special",
+                "quantity": null,
+                "price": null,
+                "total_price": 40.0
+            },
+            {
+                "description": "Unlimted discount",
+                "quantity": null,
+                "price": null,
+                "total_price": -5.0
+            },
+            {
+                "description": "CLUB",
+                "quantity": null,
+                "price": null,
+                "total_price": -14.0
+            }
+        ],
+        "subtotal": 35.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 35.0
+    }
+]

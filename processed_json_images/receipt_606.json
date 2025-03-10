@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2018-04-09",
+        "items": [
+            {
+                "description": "Lorem Ipsum",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 22.99
+            },
+            {
+                "description": "Dipiscing",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 15.99
+            },
+            {
+                "description": "Aliquam molestie",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "Auctor vitae",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.2
+            },
+            {
+                "description": "Pharetr",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.85
+            },
+            {
+                "description": "Semper",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 8.3
+            }
+        ],
+        "subtotal": null,
+        "tax": 15.95,
+        "tip": null,
+        "total": 66.32
+    }
+]

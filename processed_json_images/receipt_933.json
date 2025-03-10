@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walmart",
+        "transaction_date": "2010-10-14",
+        "items": [
+            {
+                "description": "HALF\nHALF",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.68
+            },
+            {
+                "description": "HALF\nHALF",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.68
+            },
+            {
+                "description": "GV BRWN RICE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.76
+            },
+            {
+                "description": "GV LONG RICE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.28
+            },
+            {
+                "description": "GV 2 RF MLK",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.08
+            },
+            {
+                "description": "RAMEN-BEEF12",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.82
+            }
+        ],
+        "subtotal": 10.3,
+        "tax": null,
+        "tip": null,
+        "total": 10.3
+    }
+]

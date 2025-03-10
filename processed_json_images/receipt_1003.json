@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "JTH'S",
+        "transaction_date": "2015-08-16",
+        "items": [
+            {
+                "description": "Child Ice Cream",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Salmon",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 39.0
+            },
+            {
+                "description": "Stuffed Chicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 39.0
+            },
+            {
+                "description": "Market Fresh",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 48.0
+            },
+            {
+                "description": "Child Salmon",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "Petit Filet",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 59.0
+            },
+            {
+                "description": "Baked Potato",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 39.06
+            }
+        ],
+        "subtotal": 217.0,
+        "tax": null,
+        "tip": null,
+        "total": 301.0
+    }
+]

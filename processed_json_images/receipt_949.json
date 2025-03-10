@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Subway Sandwiches & Salads",
+        "transaction_date": "2012-10-05",
+        "items": [
+            {
+                "description": "EGG&HAM\n6r",
+                "quantity": 1.0,
+                "price": 6.3,
+                "total_price": 12011.0
+            },
+            {
+                "description": "BEVERAGE",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 15005.0
+            }
+        ],
+        "subtotal": 6.3,
+        "tax": 0.38,
+        "tip": null,
+        "total": 6.68
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "NUDORU Ramen Bar",
+        "transaction_date": "2017-06-24",
+        "items": [
+            {
+                "description": "Custom Ramen",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.5
+            },
+            {
+                "description": "Spicy Miso",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Pork Shoulder",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Sweet Corn",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Memma Bamboo shoot",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Egg",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Custom Ramen",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.5
+            },
+            {
+                "description": "Shio",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Pork Belly",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Sweet Corn",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Memma Bamboo shoot",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Egg",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Dragon series (IPA)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.0
+            }
+        ],
+        "subtotal": 36.0,
+        "tax": 1.81,
+        "tip": null,
+        "total": 37.81
+    }
+]

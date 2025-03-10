@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "JOE'S NO FRILLS",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "CAMP BROTH CHICK",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.69
+            },
+            {
+                "description": "NESTLE WATER",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.33
+            },
+            {
+                "description": "ARZ CHICK PEAS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.97
+            },
+            {
+                "description": "0% PLAIN",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "NO NAME WINTER",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.49
+            },
+            {
+                "description": "WW SILK UNSWTNED",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.88
+            },
+            {
+                "description": "BANANA",
+                "quantity": 0.83,
+                "price": 1.23,
+                "total_price": 1.02
+            },
+            {
+                "description": "ONION SPANISH",
+                "quantity": 0.445,
+                "price": 2.84,
+                "total_price": 1.26
+            }
+        ],
+        "subtotal": 16.63,
+        "tax": null,
+        "tip": null,
+        "total": 16.63
+    }
+]

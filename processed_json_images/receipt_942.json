@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "Bur Lingaut",
+        "transaction_date": "2017-04-09",
+        "items": [
+            {
+                "description": "REG 87 EA #02",
+                "quantity": null,
+                "price": 0.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 0.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 0.0
+    }
+]

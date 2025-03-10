@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "California Pizza Kitchen",
+        "transaction_date": "2018-04-21",
+        "items": [],
+        "subtotal": 15.0,
+        "tax": null,
+        "tip": 2.0,
+        "total": 17.0
+    }
+]

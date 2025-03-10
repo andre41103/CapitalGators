@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PEACHTREE VALERO",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "PARTS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.95
+            },
+            {
+                "description": "LABOR 3",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            }
+        ],
+        "subtotal": 21.45,
+        "tax": 0.0,
+        "tip": null,
+        "total": 21.45
+    }
+]

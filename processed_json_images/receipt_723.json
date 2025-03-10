@@ -1,0 +1,146 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2013-09-02",
+        "items": [
+            {
+                "description": "HUGGIES",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.54
+            },
+            {
+                "description": "MFR COUPON",
+                "quantity": null,
+                "price": 8.99,
+                "total_price": -1.0
+            },
+            {
+                "description": "HUGGIES",
+                "quantity": null,
+                "price": 1.97,
+                "total_price": 1.87
+            },
+            {
+                "description": "CUP",
+                "quantity": null,
+                "price": 7.49,
+                "total_price": 5.1
+            },
+            {
+                "description": "NIPPLE",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "SOFTSOAP LHS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "COLGAT MANUA",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "MFR COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.75
+            },
+            {
+                "description": "COLGATE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "KLEENEX",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.84
+            },
+            {
+                "description": "MFR COUPON",
+                "quantity": null,
+                "price": 2.99,
+                "total_price": -1.0
+            },
+            {
+                "description": "VIVA",
+                "quantity": null,
+                "price": 12.49,
+                "total_price": 11.86
+            },
+            {
+                "description": "COTTONELLE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.49
+            },
+            {
+                "description": "MFR COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.5
+            },
+            {
+                "description": "COTTONELLE",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.16
+            },
+            {
+                "description": "MFR COUPON",
+                "quantity": null,
+                "price": 6.49,
+                "total_price": -2.5
+            },
+            {
+                "description": "SCOTT BATH",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.44
+            },
+            {
+                "description": "MFR COUPON",
+                "quantity": null,
+                "price": 10.99,
+                "total_price": -1.0
+            },
+            {
+                "description": "KLEENEX",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.4
+            },
+            {
+                "description": "MFR COUPON",
+                "quantity": null,
+                "price": 5.69,
+                "total_price": -0.5
+            },
+            {
+                "description": "KLEENEX",
+                "quantity": null,
+                "price": 1.69,
+                "total_price": 1.6
+            },
+            {
+                "description": "MFR COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.5
+            }
+        ],
+        "subtotal": 59.51,
+        "tax": 4.1,
+        "tip": null,
+        "total": 63.61
+    }
+]

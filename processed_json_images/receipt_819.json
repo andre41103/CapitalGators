@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2015-05-08",
+        "items": [
+            {
+                "description": "Glass Prosecco",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "Tuscan Toasts",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "Spelt Squid Salad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "Prawns Ravioli",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "Ravioli Ricotta",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Rosato",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 21.0
+            },
+            {
+                "description": "Bread & E.V.O. Oil",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "Tiramisu",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Ice Cream",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 16.32,
+        "tip": null,
+        "total": 110.25
+    }
+]

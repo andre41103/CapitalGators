@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2015-10-09",
+        "items": [
+            {
+                "description": "Draft Beer",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "16\\n Pleasure",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.99
+            },
+            {
+                "description": "Build Own\\nBurg",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.99
+            },
+            {
+                "description": "Pepper Jack",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.59
+            },
+            {
+                "description": "Fries",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            }
+        ],
+        "subtotal": 21.15,
+        "tax": 1.48,
+        "tip": null,
+        "total": 22.63
+    }
+]

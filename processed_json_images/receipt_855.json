@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "*Nando's*",
+        "transaction_date": "2015-11-10",
+        "items": [
+            {
+                "description": "1/4 Chicken",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.35
+            },
+            {
+                "description": "1/2 Chicken",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.1
+            },
+            {
+                "description": "Churrasco Burger",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.45
+            },
+            {
+                "description": "Churrasco Burger",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.95
+            },
+            {
+                "description": "Churrasco Burger",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.95
+            },
+            {
+                "description": "Spier Merlot Btl",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.75
+            }
+        ],
+        "subtotal": 50.84,
+        "tax": 9.71,
+        "tip": null,
+        "total": 60.55
+    }
+]

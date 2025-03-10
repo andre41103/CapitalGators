@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Century 21 Car Wash",
+        "transaction_date": "2014-02-27",
+        "items": [
+            {
+                "description": "FULL SERVICE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.99
+            },
+            {
+                "description": "PLATINUM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.0
+            },
+            {
+                "description": "LAVA WAX",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.99
+            }
+        ],
+        "subtotal": 31.98,
+        "tax": 0.0,
+        "tip": null,
+        "total": 31.98
+    }
+]

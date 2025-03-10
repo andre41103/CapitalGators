@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Kiwiana Restaurant",
+        "transaction_date": "2017-02-05",
+        "items": [
+            {
+                "description": "bloody mary",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "Mimosa Special",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Coffee",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.75
+            },
+            {
+                "description": "Florentine",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

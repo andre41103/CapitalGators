@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "McDonald's Boat Quay",
+        "transaction_date": "2012-11-15",
+        "items": [
+            {
+                "description": "1-HoneyChipotle Shake",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Medium Coke Light",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "McDouble",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "McChix BLT Upsize",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.56,
+        "tip": null,
+        "total": 8.5
+    }
+]

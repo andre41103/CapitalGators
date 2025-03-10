@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TAFIGET",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "T-MOBILE CE",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "T-MOBILE CE",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.99
+            }
+        ],
+        "subtotal": 19.98,
+        "tax": 1.25,
+        "tip": null,
+        "total": 21.23
+    }
+]

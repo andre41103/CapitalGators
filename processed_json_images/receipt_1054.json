@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "COLUMBUS RESTAURANT",
+        "transaction_date": "2016-06-12",
+        "items": [
+            {
+                "description": "COKE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "ICE TEA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "Paella x2",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 150.0
+            },
+            {
+                "description": "PINA COLADA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 35.0
+            },
+            {
+                "description": "MANGO DAIQ",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 35.0
+            }
+        ],
+        "subtotal": 229.0,
+        "tax": 20.61,
+        "tip": 45.8,
+        "total": 295.41
+    }
+]

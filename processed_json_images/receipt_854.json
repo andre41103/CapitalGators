@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "\"The Restaurant\"",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Lemonade",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "COBB SALAD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.0
+            },
+            {
+                "description": "Duck Confit",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 27.0
+            },
+            {
+                "description": "CIOPPINO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 28.0
+            },
+            {
+                "description": "Duck Confit",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 27.0
+            },
+            {
+                "description": "Seared Salmon",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 27.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 11.38,
+        "tip": null,
+        "total": 141.38
+    }
+]

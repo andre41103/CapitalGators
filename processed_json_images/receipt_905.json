@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BB",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "3pc MLD MX DNR CMB",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.29
+            },
+            {
+                "description": "3pc MLD MX DNR CMB",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.29
+            },
+            {
+                "description": "Blackened Ranch",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 14.58,
+        "tax": 1.03,
+        "tip": null,
+        "total": 15.61
+    }
+]

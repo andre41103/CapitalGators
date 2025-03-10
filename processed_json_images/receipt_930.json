@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RISTORANTE \"ALLA BUONA\"",
+        "transaction_date": "2014-07-12",
+        "items": [
+            {
+                "description": "INSALATA CONTADINA",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "INSALATA CONTADINA",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "ACQUA VETRO NAT",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "CAFFE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 20.0
+    }
+]

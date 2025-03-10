@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BILTEMA",
+        "transaction_date": "2014-06-04",
+        "items": [
+            {
+                "description": "DEODORANT MAN 50ML",
+                "quantity": 2.0,
+                "price": 9.9,
+                "total_price": 19.8
+            },
+            {
+                "description": "FRAMLAMPA",
+                "quantity": 1.0,
+                "price": 39.9,
+                "total_price": 39.9
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 60.0
+    }
+]

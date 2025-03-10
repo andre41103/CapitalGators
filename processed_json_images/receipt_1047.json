@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Basic Hotel Innsbruck",
+        "transaction_date": null,
+        "items": [],
+        "subtotal": null,
+        "tax": 0.5414,
+        "tip": null,
+        "total": null
+    }
+]

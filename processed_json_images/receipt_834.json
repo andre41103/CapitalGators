@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BRITE BUY WINES & SPIRITS",
+        "transaction_date": "2006-04-10",
+        "items": [
+            {
+                "description": "BAILEYS LITRE",
+                "quantity": 2.0,
+                "price": 27.99,
+                "total_price": 55.98
+            },
+            {
+                "description": "STOLI_ 80 1.75",
+                "quantity": 17.71,
+                "price": 38.99,
+                "total_price": 38.99
+            }
+        ],
+        "subtotal": 94.97,
+        "tax": 7.96,
+        "tip": null,
+        "total": 182.93
+    }
+]

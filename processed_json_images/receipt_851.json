@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TEMPLE BAR\nTHE",
+        "transaction_date": "2014-07-23",
+        "items": [
+            {
+                "description": "PINT HEINEKEN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.45
+            },
+            {
+                "description": "PINT CARLSBERG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.45
+            },
+            {
+                "description": "CRISPS",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 19.9
+    }
+]

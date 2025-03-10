@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "rue 21",
+        "transaction_date": "2012-05-14",
+        "items": [
+            {
+                "description": "DIRTY BLUE 5 PCKT BSC",
+                "quantity": 1.0,
+                "price": 14.99,
+                "total_price": 14.99
+            },
+            {
+                "description": "FLAT PLAID LARGE BLUE",
+                "quantity": 1.0,
+                "price": 19.99,
+                "total_price": 19.99
+            },
+            {
+                "description": "PINK EDITOR PANT",
+                "quantity": 1.0,
+                "price": 12.99,
+                "total_price": 12.99
+            },
+            {
+                "description": "SCREEN TANK PINK HROSCOP",
+                "quantity": 1.0,
+                "price": 7.99,
+                "total_price": 7.99
+            }
+        ],
+        "subtotal": 55.96,
+        "tax": null,
+        "tip": null,
+        "total": 55.96
+    }
+]

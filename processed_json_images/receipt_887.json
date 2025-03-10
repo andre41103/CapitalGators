@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "oasiria",
+        "transaction_date": "2014-08-08",
+        "items": [
+            {
+                "description": "Formule Habuger",
+                "quantity": 2.0,
+                "price": 80.0,
+                "total_price": 100.0
+            },
+            {
+                "description": "Frite",
+                "quantity": 2.0,
+                "price": 20.0,
+                "total_price": 40.6
+            },
+            {
+                "description": "Supp fomage",
+                "quantity": 2.0,
+                "price": 5.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "Pom's 33cl",
+                "quantity": 2.0,
+                "price": 20.0,
+                "total_price": 40.0
+            },
+            {
+                "description": "Supp forage",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Formule Husbuger",
+                "quantity": null,
+                "price": null,
+                "total_price": 50.0
+            },
+            {
+                "description": "Frite",
+                "quantity": null,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "Fanta citron 33cl",
+                "quantity": null,
+                "price": null,
+                "total_price": 20.0
+            }
+        ],
+        "subtotal": 285.0,
+        "tax": 25.91,
+        "tip": null,
+        "total": 28.5
+    }
+]

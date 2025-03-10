@@ -1,0 +1,104 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Cub",
+        "transaction_date": "2013-04-09",
+        "items": [
+            {
+                "description": "HNT SPAGETTI SAUCE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.88
+            },
+            {
+                "description": "EE SPAGHETTI PASTA",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.88
+            },
+            {
+                "description": "MRCHN INST LUNCH",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.49
+            },
+            {
+                "description": "EE COFEE FRNCH RST",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.74
+            },
+            {
+                "description": "ESTL EVRDY PNT BTR",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.35
+            },
+            {
+                "description": "CUB WHITE BREAD",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.19
+            },
+            {
+                "description": "SHPERS VALU SALAMI",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "ICEBERG LETTUCE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.48
+            },
+            {
+                "description": null,
+                "quantity": 1.76,
+                "price": 1.0,
+                "total_price": null
+            },
+            {
+                "description": "BANANAS YELLOW",
+                "quantity": 2.75,
+                "price": 1.0,
+                "total_price": 1.04
+            },
+            {
+                "description": "POTATO RUSSET RA",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.05
+            },
+            {
+                "description": "OLD 0 PNK LMNADE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.59
+            },
+            {
+                "description": "CUB HMOGENIZD MILK",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "ESENTL EDAY CHEESE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "CUB LARGE EGGS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.98
+            }
+        ],
+        "subtotal": 28.64,
+        "tax": 0.0,
+        "tip": null,
+        "total": 28.64
+    }
+]

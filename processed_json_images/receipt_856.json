@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Berjaya Starbucks Coffee Company\nSdn Bhd",
+        "transaction_date": "2012-03-22",
+        "items": [
+            {
+                "description": "CarMacchiato",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "Blk Tea Latte",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.5
+            },
+            {
+                "description": "Red Whoopie",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.5
+            },
+            {
+                "description": "BananaChocChiMuf",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.9
+            },
+            {
+                "description": "Bramblebrry Tazo",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 45.9
+    }
+]

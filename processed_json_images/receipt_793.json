@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Forbes, Newton and Clayton",
+        "transaction_date": "2020-11-25",
+        "items": [
+            {
+                "description": "Elisa Cavaletti Daniela\nDallavalle Shift Dress Grey And\nWhite .Size M",
+                "quantity": 2.0,
+                "price": 60.0,
+                "total_price": 132.0
+            },
+            {
+                "description": "Socialite White Black Striped A\nLine Dress With Pockets Large",
+                "quantity": 4.0,
+                "price": 10.0,
+                "total_price": 44.0
+            },
+            {
+                "description": "Adult Kids Pokemon Pikachu\nKigurumi Pajama Cosplay\nChristmas Costume Sleepwear",
+                "quantity": 2.0,
+                "price": 9.95,
+                "total_price": 21.89
+            },
+            {
+                "description": "Vintage 90s Sostanza Plus Size\nDress 22W Floral Cottagecore",
+                "quantity": 4.0,
+                "price": 49.96,
+                "total_price": 219.82
+            },
+            {
+                "description": "Banana Republic Maroon\nAbstract ruffled wrap Dress\nWith slip xs 0",
+                "quantity": 4.0,
+                "price": 5.0,
+                "total_price": 22.0
+            },
+            {
+                "description": "Free People Lace Dress One\nShoulder Size L",
+                "quantity": 2.0,
+                "price": 12.0,
+                "total_price": 26.4
+            },
+            {
+                "description": "Lilly Pulitzer 8 Sunkissed with\nGlow Janice Shift Dress",
+                "quantity": 4.0,
+                "price": 56.89,
+                "total_price": 250.32
+            }
+        ],
+        "subtotal": 651.3,
+        "tax": 65.13,
+        "tip": null,
+        "total": 716.43
+    }
+]

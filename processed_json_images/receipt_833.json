@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "First watch",
+        "transaction_date": "2017-10-15",
+        "items": [
+            {
+                "description": "No Beverage",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Farmer's Biscuit Sandwich",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.49
+            }
+        ],
+        "subtotal": 9.49,
+        "tax": 0.67,
+        "tip": null,
+        "total": 10.16
+    }
+]

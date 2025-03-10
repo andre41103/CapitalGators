@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Rustom's",
+        "transaction_date": "2015-05-16",
+        "items": [
+            {
+                "description": "CARAMEL CUSTARD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 225.0
+            },
+            {
+                "description": "Mutton DHAN SAK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 495.0
+            },
+            {
+                "description": "KOLMI NA KEBAB",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 295.0
+            },
+            {
+                "description": "PARSI ROTLI (2PCS)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 70.0
+            },
+            {
+                "description": "RASPBERRY ICED TEA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 120.0
+            },
+            {
+                "description": "SALLI BOTI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 395.0
+            },
+            {
+                "description": "VENGNA NA KEBAB",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 225.0
+            }
+        ],
+        "subtotal": 1825.0,
+        "tax": null,
+        "tip": 182.5,
+        "total": 2367.43
+    }
+]

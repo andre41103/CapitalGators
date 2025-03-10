@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2017-09-27",
+        "items": [
+            {
+                "description": "ACQUA MINERALE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "BRUSCH",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "BRANZINO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 39.0
+            },
+            {
+                "description": "CHICKEN TRE COLORE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.0
+            },
+            {
+                "description": "POTATO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "CAPPUC",
+                "quantity": 2.0,
+                "price": 6.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "TIRAMISU",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "TARTUFO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            }
+        ],
+        "subtotal": 125.0,
+        "tax": 8.75,
+        "tip": null,
+        "total": 133.75
+    }
+]

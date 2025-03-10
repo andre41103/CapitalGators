@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walmart",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "ROTELLA10W30",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.84
+            },
+            {
+                "description": "RIVER PEBBLE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "SOLAR SALT",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.64
+            },
+            {
+                "description": "TOP SOIL",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.92
+            }
+        ],
+        "subtotal": 23.9,
+        "tax": 2.08,
+        "tip": null,
+        "total": 25.98
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SUC. PILARES",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "MERMELADA SMUCKERS",
+                "quantity": 1.0,
+                "price": 52.0,
+                "total_price": 52.0
+            },
+            {
+                "description": "TOTOPOS TORTILLAS",
+                "quantity": 2.0,
+                "price": 19.7,
+                "total_price": 39.4
+            },
+            {
+                "description": "LA SIERRA 580 GRS",
+                "quantity": 1.0,
+                "price": 16.9,
+                "total_price": 15.9
+            },
+            {
+                "description": "FRIJOL LA COSTENA",
+                "quantity": 1.0,
+                "price": 11.9,
+                "total_price": 11.9
+            },
+            {
+                "description": "AGUA MINERAL MINER",
+                "quantity": 1.0,
+                "price": 8.9,
+                "total_price": 8.7
+            },
+            {
+                "description": "UVA_RED_GLOBO 1 KG",
+                "quantity": 0.645,
+                "price": 33.9,
+                "total_price": 21.87
+            },
+            {
+                "description": "LECHUGA FRANCESA H",
+                "quantity": 1.0,
+                "price": 19.9,
+                "total_price": 19.9
+            },
+            {
+                "description": "TOTIS TOTIS 300 GR",
+                "quantity": 1.0,
+                "price": 27.0,
+                "total_price": 27.0
+            },
+            {
+                "description": "COL_MORADA",
+                "quantity": 0.84,
+                "price": 14.93,
+                "total_price": 12.52
+            },
+            {
+                "description": "COL_BLANCA",
+                "quantity": 0.46,
+                "price": 6.0,
+                "total_price": 2.76
+            },
+            {
+                "description": "LECHE EVAPORADA C",
+                "quantity": 3.0,
+                "price": 13.1,
+                "total_price": 32.4
+            },
+            {
+                "description": "SOPES TORTILLAS OC",
+                "quantity": 1.0,
+                "price": 28.95,
+                "total_price": 28.95
+            },
+            {
+                "description": "BROCOLI",
+                "quantity": 0.485,
+                "price": 17.5,
+                "total_price": 6.98
+            },
+            {
+                "description": "LECHE CONDENSADA",
+                "quantity": 2.0,
+                "price": 80.0,
+                "total_price": 30.08
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

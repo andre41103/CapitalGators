@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Seoul\nGarden",
+        "transaction_date": "2017-03-01",
+        "items": [
+            {
+                "description": "Water - L",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Chadolbaki",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 65.0
+            },
+            {
+                "description": "Gim Bab",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 45.0
+            },
+            {
+                "description": "Rabokki",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 50.0
+            },
+            {
+                "description": "Jab Che",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 50.0
+            },
+            {
+                "description": "Dolsot Bibim Bab",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 55.0
+            }
+        ],
+        "subtotal": 270.0,
+        "tax": null,
+        "tip": null,
+        "total": 270.0
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Huck Finn's",
+        "transaction_date": "2015-05-21",
+        "items": [
+            {
+                "description": "Cajun Burger",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 36.0
+            },
+            {
+                "description": "Thin Catfish",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "French Fries",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Side Salad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 4.29,
+        "tip": null,
+        "total": 48.29
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Thai Thai Restaurant",
+        "transaction_date": "2017-08-27",
+        "items": [
+            {
+                "description": "Yum Woon Sen",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.95
+            },
+            {
+                "description": "Brother Roll",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.95
+            },
+            {
+                "description": "Sashimi Dinner",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.95
+            },
+            {
+                "description": "Sapporo 22 oz.",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.25
+            },
+            {
+                "description": "Chardonay",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.45
+            }
+        ],
+        "subtotal": 54.55,
+        "tax": 3.82,
+        "tip": null,
+        "total": 58.37
+    }
+]

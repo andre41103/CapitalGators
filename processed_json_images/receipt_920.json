@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Apple Retail Netherlands B.V.",
+        "transaction_date": "2013-06-26",
+        "items": [],
+        "subtotal": null,
+        "tax": 4.33,
+        "tip": null,
+        "total": 24.95
+    }
+]

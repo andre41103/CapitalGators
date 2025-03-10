@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "OLIVE GARDEN 1184",
+        "transaction_date": "2013-05-24",
+        "items": [
+            {
+                "description": "Bellini Peach Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.05
+            },
+            {
+                "description": "CYO Sampler 3",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.25
+            },
+            {
+                "description": "Mixed Grill",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.75
+            },
+            {
+                "description": "* Salad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Raspberry Lemonade",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.05
+            },
+            {
+                "description": "L Fettuccine Alfredo",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.5
+            },
+            {
+                "description": "* Zuppa Toscana",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Peach-Mango Smoothie",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.55
+            },
+            {
+                "description": "L Seafood Alfredo",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.95
+            },
+            {
+                "description": "Zuppa Toscana",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

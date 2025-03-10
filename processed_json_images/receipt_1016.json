@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Strickland, Ferguson and Ellis",
+        "transaction_date": "2020-12-29",
+        "items": [
+            {
+                "description": "HP Compaq 6200 Pro SFF\nDesktop Computer Pentium\nWindows 10 System 500GB 1TB",
+                "quantity": 1.0,
+                "price": 113.96,
+                "total_price": 125.36
+            },
+            {
+                "description": "HP T520 Thin Client Computer\nAMD GX-212JC 1.2GHz 4GB RAM",
+                "quantity": 4.0,
+                "price": 37.75,
+                "total_price": 166.1
+            },
+            {
+                "description": "Dell Desktop Computer Intel\nCore i5 Windows 10 pro 64\n250gb 3.1ghz 4gb Ram",
+                "quantity": 3.0,
+                "price": 240.24,
+                "total_price": 792.79
+            },
+            {
+                "description": "Custom Build HP Desktop\nComputer 16GB | 2TB | SSD |\nWindows 10 Windows 7 PC WiFi",
+                "quantity": 4.0,
+                "price": 329.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "Desktop Computer Super\nWritemaster Intel Core Duo",
+                "quantity": 2.0,
+                "price": 22.71,
+                "total_price": 49.96
+            },
+            {
+                "description": "Gaming PC Desktop Computer\n15 8GB 120GB SSD+1TB Win10\nWIFI +Keyboard",
+                "quantity": 2.0,
+                "price": 168.88,
+                "total_price": 371.54
+            }
+        ],
+        "subtotal": 2684.86,
+        "tax": 268.49,
+        "tip": null,
+        "total": 2953.35
+    }
+]

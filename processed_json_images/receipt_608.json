@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Carl's Jr",
+        "transaction_date": "2015-09-29",
+        "items": [
+            {
+                "description": "TERIYAKI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.79
+            },
+            {
+                "description": "TERIYAKI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.79
+            },
+            {
+                "description": "MEATLESS BGR",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.79
+            },
+            {
+                "description": "$1 LG DRINK",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "$1 LG DRINK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 16.37,
+        "tax": 1.16,
+        "tip": null,
+        "total": null
+    }
+]

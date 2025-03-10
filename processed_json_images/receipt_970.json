@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2016-09-11",
+        "items": [
+            {
+                "description": "Jamaican Jerk Chick",
+                "quantity": 1.0,
+                "price": 56.0,
+                "total_price": 56.0
+            },
+            {
+                "description": "Lobster Penne Pasta",
+                "quantity": 1.0,
+                "price": 65.0,
+                "total_price": 65.0
+            },
+            {
+                "description": "Fire Grilled Ribeye",
+                "quantity": 1.0,
+                "price": 109.0,
+                "total_price": 109.0
+            },
+            {
+                "description": "Well Done",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "Fountain Soda Coke-",
+                "quantity": 1.0,
+                "price": 15.0,
+                "total_price": 15.0
+            },
+            {
+                "description": "Fountain Soda Sprit",
+                "quantity": 1.0,
+                "price": 15.0,
+                "total_price": 15.0
+            },
+            {
+                "description": "Cucumber Cooler",
+                "quantity": 1.0,
+                "price": 23.0,
+                "total_price": 23.0
+            },
+            {
+                "description": "Arwa Large",
+                "quantity": 1.0,
+                "price": 15.0,
+                "total_price": 15.0
+            }
+        ],
+        "subtotal": 298.0,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

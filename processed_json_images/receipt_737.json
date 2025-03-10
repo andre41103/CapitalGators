@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Smith-Ross",
+        "transaction_date": "2019-11-23",
+        "items": [
+            {
+                "description": "4 pcs Kids Size Cartoon Peppa\nPink Pig Cotton Face Masks\nMouth Cover Washable",
+                "quantity": 3.0,
+                "price": 11.88,
+                "total_price": 39.2
+            },
+            {
+                "description": "Jordan B'Loyal Boys Grade\nSchool Sneakers US 3Y",
+                "quantity": 2.0,
+                "price": 9.0,
+                "total_price": 19.8
+            }
+        ],
+        "subtotal": 53.64,
+        "tax": 5.36,
+        "tip": null,
+        "total": 59.0
+    }
+]

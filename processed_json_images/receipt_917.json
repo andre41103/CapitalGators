@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2018-07-26",
+        "items": [
+            {
+                "description": "ONION PAKORA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "AVOCADO SALAD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "KHICHOI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "GLU FREE NAAN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "BREAKSIDE IPA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.0
+            }
+        ],
+        "subtotal": 1.0,
+        "tax": null,
+        "tip": null,
+        "total": 52.8
+    }
+]

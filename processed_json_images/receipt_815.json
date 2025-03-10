@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Butler PLC",
+        "transaction_date": "2013-03-08",
+        "items": [
+            {
+                "description": "B311 Nintendo 3DS console\nCosmo Black Japan x",
+                "quantity": 5.0,
+                "price": 11.99,
+                "total_price": 65.95
+            },
+            {
+                "description": "Sega Game Gear Micro console\n4 color complete set 30th\nAnniversary GG w/window",
+                "quantity": 3.0,
+                "price": 249.98,
+                "total_price": 824.93
+            },
+            {
+                "description": "Xbox 360 console with games",
+                "quantity": 3.0,
+                "price": 41.0,
+                "total_price": 135.3
+            },
+            {
+                "description": "Microsoft Xbox One X 1TB 4k\nUltra HD Console black",
+                "quantity": 3.0,
+                "price": 249.0,
+                "total_price": 821.7
+            },
+            {
+                "description": "Microsoft Xbox 360 S 4GB Black\nConsole",
+                "quantity": 4.0,
+                "price": 119.99,
+                "total_price": 527.96
+            },
+            {
+                "description": "Nintendo Wii Console With\nCables And Accessories And\nNew Super Mario Bros Disc!",
+                "quantity": 5.0,
+                "price": 29.99,
+                "total_price": 164.94
+            },
+            {
+                "description": "Microsoft Xbox 360 Console 49\nGame Bundle 250GB Black",
+                "quantity": 3.0,
+                "price": 25.0,
+                "total_price": 82.5
+            }
+        ],
+        "subtotal": 2384.8,
+        "tax": 238.48,
+        "tip": null,
+        "total": 2623.28
+    }
+]

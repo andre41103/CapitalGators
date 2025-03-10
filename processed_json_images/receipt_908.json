@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Macy's",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "MENS HOSIERY",
+                "quantity": null,
+                "price": 20.0,
+                "total_price": 0.8
+            },
+            {
+                "description": "MENS HOSIERY",
+                "quantity": null,
+                "price": 20.0,
+                "total_price": 0.8
+            },
+            {
+                "description": "MENS HOSIERY",
+                "quantity": null,
+                "price": 20.0,
+                "total_price": 1.8
+            },
+            {
+                "description": "MENS HOSIERY",
+                "quantity": null,
+                "price": 20.0,
+                "total_price": 1.96
+            }
+        ],
+        "subtotal": 5.36,
+        "tax": 0.48,
+        "tip": null,
+        "total": 5.84
+    }
+]

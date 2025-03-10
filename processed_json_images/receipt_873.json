@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walmart",
+        "transaction_date": "2014-02-05",
+        "items": [
+            {
+                "description": "SAFE 24 GUN",
+                "quantity": null,
+                "price": null,
+                "total_price": 497.0
+            },
+            {
+                "description": "SHOVEL",
+                "quantity": null,
+                "price": null,
+                "total_price": 29.96
+            }
+        ],
+        "subtotal": 526.96,
+        "tax": 33.46,
+        "tip": null,
+        "total": 560.42
+    }
+]

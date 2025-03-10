@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Parker LLC",
+        "transaction_date": "2015-01-19",
+        "items": [
+            {
+                "description": "Round Indian Braided Jute\nCarpet | Hand Woven Brown\nRound Shape Living Room Rug",
+                "quantity": 4.0,
+                "price": 49.99,
+                "total_price": 219.96
+            },
+            {
+                "description": "3D Stones Florals Corridor\nCarpet Doorway Mat Soft\nAntislip Living Room Area Rug",
+                "quantity": 5.0,
+                "price": 15.19,
+                "total_price": 83.55
+            },
+            {
+                "description": "Tie Dyeing Fluffy Rugs Anti-Skid\nArea Rug Dining Room Carpet\nFloor Bedroom Mat",
+                "quantity": 1.0,
+                "price": 25.48,
+                "total_price": 28.03
+            },
+            {
+                "description": "Handwoven Carpet Pastel\nColour Geometric 5x7 Wool\nKilim Rugs Check Living Room",
+                "quantity": 1.0,
+                "price": 175.0,
+                "total_price": 192.5
+            },
+            {
+                "description": "Faux Fur Animal Print Hide Skin\nRug Cowhide Area Rug Floor\nMat Carpet 33.5\"X43\"",
+                "quantity": 3.0,
+                "price": 26.03,
+                "total_price": 85.9
+            },
+            {
+                "description": "Rug Jute Natural Handmade\nVintage Oriental Reversible\nOval Shaped Floor Carpet",
+                "quantity": 3.0,
+                "price": 49.36,
+                "total_price": 162.89
+            },
+            {
+                "description": "YILONG 8'x10' Red HandKnotted\nSilk Carpet Living Room Oriental\nArea Rugs 185B",
+                "quantity": 3.0,
+                "price": 16.0,
+                "total_price": 52.0
+            }
+        ],
+        "subtotal": 48702.56,
+        "tax": 4870.26,
+        "tip": null,
+        "total": 53572.82
+    }
+]

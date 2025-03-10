@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2015-12-05",
+        "items": [
+            {
+                "description": "MISC BAR",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 4.35
+            },
+            {
+                "description": "MISC FOOD",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "COUS COUS FRITTERS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "KING PRAWN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "FISH N CHIPS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "LEMON SOLE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "LAMB NECK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "BROWNIE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 4.35,
+        "tip": null,
+        "total": 40.85
+    }
+]

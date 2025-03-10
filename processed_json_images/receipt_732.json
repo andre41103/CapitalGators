@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Piola - Brickell",
+        "transaction_date": "2013-12-28",
+        "items": [
+            {
+                "description": "Panna",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.58
+            },
+            {
+                "description": "Quattro For",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "Piola",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "Creme di Papaya",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.58
+            },
+            {
+                "description": "Coppa Piola",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.5
+            }
+        ],
+        "subtotal": 46.0,
+        "tax": 3.68,
+        "tip": null,
+        "total": 49.68
+    }
+]

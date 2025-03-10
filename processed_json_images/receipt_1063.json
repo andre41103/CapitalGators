@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2016-06-01",
+        "items": [
+            {
+                "description": "ZUCHINNI GREEN",
+                "quantity": 0.778,
+                "price": 5.99,
+                "total_price": 4.66
+            },
+            {
+                "description": "BANANA CAVENDISH\nSPECIAL",
+                "quantity": 0.442,
+                "price": 2.99,
+                "total_price": 0.99
+            },
+            {
+                "description": "SPECIAL",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "POTATOES BRUSHED",
+                "quantity": 1.328,
+                "price": 2.99,
+                "total_price": 3.97
+            },
+            {
+                "description": "BROCCOLI",
+                "quantity": 0.808,
+                "price": 5.99,
+                "total_price": 4.84
+            },
+            {
+                "description": "BRUSSEL SPROUTS",
+                "quantity": 0.322,
+                "price": 15.99,
+                "total_price": 5.15
+            },
+            {
+                "description": "SPECIAL",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "GRAPES GREEN",
+                "quantity": 1.174,
+                "price": 5.99,
+                "total_price": 7.03
+            },
+            {
+                "description": "PEAS SNOW",
+                "quantity": 0.218,
+                "price": 14.99,
+                "total_price": 3.27
+            },
+            {
+                "description": "TOMATOES GRAPE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "LETTUCE ICEBERG",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.49
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 24.2
+    }
+]

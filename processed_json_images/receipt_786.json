@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Firehouse Pizza & Pub",
+        "transaction_date": "2013-06-03",
+        "items": [
+            {
+                "description": "Lagunitas $4 Special",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "P. Epper, PhD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "LG Firehouse Del (1)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.83
+            }
+        ],
+        "subtotal": 23.82,
+        "tax": 1.54,
+        "tip": null,
+        "total": 25.76
+    }
+]

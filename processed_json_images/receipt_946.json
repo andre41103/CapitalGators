@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2016-01-04",
+        "items": [
+            {
+                "description": "Cannona",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 76.0
+            },
+            {
+                "description": "P. Pizza all aglio",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "Panna cotta",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "Pollo Diavola",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.0
+            },
+            {
+                "description": "Risotto Mushroom",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 21.5
+            },
+            {
+                "description": "S.O. Meat Balls",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "Tiramisu",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.5
+            },
+            {
+                "description": "Vongole Soup",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.5
+            }
+        ],
+        "subtotal": 185.5,
+        "tax": 14.28,
+        "tip": null,
+        "total": 218.33
+    }
+]

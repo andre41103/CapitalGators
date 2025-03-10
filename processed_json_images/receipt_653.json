@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Starbucks Coffee",
+        "transaction_date": "2011-12-31",
+        "items": [
+            {
+                "description": "G Decaf /Week",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.95
+            }
+        ],
+        "subtotal": 1.95,
+        "tax": 0.15,
+        "tip": null,
+        "total": 2.1
+    }
+]

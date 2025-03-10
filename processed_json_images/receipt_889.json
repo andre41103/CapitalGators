@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HEERING",
+        "transaction_date": "2015-07-31",
+        "items": [
+            {
+                "description": "SODAVAND",
+                "quantity": 1.0,
+                "price": 42.0,
+                "total_price": 42.0
+            },
+            {
+                "description": "VAND 1 LTR",
+                "quantity": 1.0,
+                "price": 25.0,
+                "total_price": 25.0
+            },
+            {
+                "description": "TORSK",
+                "quantity": 2.0,
+                "price": 200.0,
+                "total_price": 400.0
+            },
+            {
+                "description": "B\u00d8F BEARNAISE",
+                "quantity": 2.0,
+                "price": 220.0,
+                "total_price": 440.0
+            },
+            {
+                "description": "FRUGTSALAT",
+                "quantity": 2.0,
+                "price": 90.0,
+                "total_price": 180.0
+            },
+            {
+                "description": "CHEESE CAKE",
+                "quantity": 1.0,
+                "price": 90.0,
+                "total_price": 90.0
+            }
+        ],
+        "subtotal": 1177.0,
+        "tax": 235.4,
+        "tip": null,
+        "total": 1177.0
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2013-10-14",
+        "items": [
+            {
+                "description": "Nike Kid's Air Jordan 4 Retro\n'Laser' 7y White/Gray\n705334-105",
+                "quantity": 3.0,
+                "price": 120.0,
+                "total_price": 396.0
+            },
+            {
+                "description": "Joma Youth Boys Gol 205 Piso\nMultitaco Soccer Cleats 5.5\nWhite Blue Yellow NEW",
+                "quantity": 3.0,
+                "price": 19.99,
+                "total_price": 65.97
+            },
+            {
+                "description": "Joma Boys Youth Gol-102\nSoccer Cleats Shoes Size 2\nWhite Red 2Y NEW",
+                "quantity": 2.0,
+                "price": 19.99,
+                "total_price": 43.98
+            },
+            {
+                "description": "kid shoes soccer",
+                "quantity": 1.0,
+                "price": 24.0,
+                "total_price": 26.4
+            },
+            {
+                "description": "Kid's Unicorn Sunglasses Girls\nRainbow Mythical Fashion\nShades",
+                "quantity": 4.0,
+                "price": 9.95,
+                "total_price": 43.78
+            },
+            {
+                "description": "Tip Top Kids Boys Black Laces\nOxford Shoes 12 Kids",
+                "quantity": 2.0,
+                "price": 44.0,
+                "total_price": 96.8
+            },
+            {
+                "description": "Fila Shoes Sneakers Kids size 11\nRed black Gray",
+                "quantity": 2.0,
+                "price": 15.0,
+                "total_price": 33.0
+            }
+        ],
+        "subtotal": 641.75,
+        "tax": 64.17,
+        "tip": null,
+        "total": 705.92
+    }
+]

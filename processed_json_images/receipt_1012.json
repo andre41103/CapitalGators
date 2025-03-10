@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Restaurant Ethan",
+        "transaction_date": "2015-08-23",
+        "items": [
+            {
+                "description": "15.Dumplings au porc et nappa",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.95
+            },
+            {
+                "description": "41.Riz au poulet et mais",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.95
+            },
+            {
+                "description": "63.Pate de riz saute au boeuf",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.95
+            },
+            {
+                "description": "129.Riz au Char Siu et canard laque",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "158.Soupe au Char Siu Canard avec Verm",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.95
+            },
+            {
+                "description": "119.Choy sum a la sauce aux huitres",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "The au lait glace Petit",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "83. The au citron glace Petit",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "D1.Original Petit",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 50.8,
+        "tax": null,
+        "tip": 8.76,
+        "total": 67.17
+    }
+]

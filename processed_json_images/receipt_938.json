@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Ribs & Rumps",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Fillet 300g",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 150.0
+            },
+            {
+                "description": "Mushroom Sauce",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 28.0
+            },
+            {
+                "description": "Rump 200g",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 85.0
+            },
+            {
+                "description": "Welon Mojito",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 35.0
+            },
+            {
+                "description": "Appl&Elderflowr",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 35.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 333.0
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2015-02-17",
+        "items": [
+            {
+                "description": "ADD CAESAR",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.89
+            },
+            {
+                "description": "PLAIN.BURGER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.97
+            },
+            {
+                "description": "ROAST.BEEF.DIP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.43
+            },
+            {
+                "description": "S/D.Bf.Gravy",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.49
+            },
+            {
+                "description": "POP., SPRITE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.29
+            },
+            {
+                "description": "BUD LIGHT.XL",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 15.98
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

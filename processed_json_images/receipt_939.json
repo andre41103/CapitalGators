@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TARGET",
+        "transaction_date": "2011-11-25",
+        "items": [
+            {
+                "description": "AMAZON FIRE",
+                "quantity": null,
+                "price": 199.0,
+                "total_price": 123.32
+            }
+        ],
+        "subtotal": 123.32,
+        "tax": 7.44,
+        "tip": null,
+        "total": 124.59
+    }
+]

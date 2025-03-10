@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THYME",
+        "transaction_date": "2017-07-22",
+        "items": [
+            {
+                "description": "COFFEE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "THYME SALAD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "ADD STEAK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "CHICKEN PARMIGIANA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "BREAD PUDDING",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "ALA MODE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Choc Mousse",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            }
+        ],
+        "subtotal": 56.0,
+        "tax": 4.13,
+        "tip": null,
+        "total": 60.13
+    }
+]

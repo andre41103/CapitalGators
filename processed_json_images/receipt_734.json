@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BARNEY'S BURGERS",
+        "transaction_date": "2011-08-03",
+        "items": [
+            {
+                "description": "Full Skiny Cut Fries",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.75
+            },
+            {
+                "description": "Pesto Burger",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.25
+            },
+            {
+                "description": "Alpine Burger",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.25
+            }
+        ],
+        "subtotal": 25.25,
+        "tax": 2.22,
+        "tip": 0.7,
+        "total": 28.17
+    }
+]

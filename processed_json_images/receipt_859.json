@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Moore and Sons",
+        "transaction_date": "2011-10-29",
+        "items": [
+            {
+                "description": "16\"x16\" Marble Top Customize\nTable Lapis Lazuli Marquetry\nInlaid Halloween Gift",
+                "quantity": 3.0,
+                "price": 800.0,
+                "total_price": 2640.0
+            },
+            {
+                "description": "Carnelian Stone Floral Pattern\nDinette Table Top Marble Coffee\nTable 30 Inches",
+                "quantity": 1.0,
+                "price": 993.75,
+                "total_price": 1093.13
+            },
+            {
+                "description": "24 Inches Marble Sofa Table Top\nInlay Coffee Table with\nMalachite Stone Work",
+                "quantity": 3.0,
+                "price": 615.0,
+                "total_price": 2029.5
+            },
+            {
+                "description": "6'x3' Black Marble Top Dining\nTable Scagliola Inlay Antique\nArts Kitchen Decor",
+                "quantity": 3.0,
+                "price": 5.0,
+                "total_price": 17377.7
+            },
+            {
+                "description": "48 Inches Marble Reception\nTable Top Inlay with Multi Color\nStones Dinning Table",
+                "quantity": 5.0,
+                "price": 2.0,
+                "total_price": 11958.37
+            },
+            {
+                "description": "18\"x18\" Marble White Table Top\nLapis Inlay Pietradura Floral\nHome Decor Art Gift",
+                "quantity": 5.0,
+                "price": 1.0,
+                "total_price": 6536.48
+            },
+            {
+                "description": "6'x3' Marble Dining Center\nTable With Black Top Floral",
+                "quantity": 3.0,
+                "price": 6.0,
+                "total_price": 19933.32
+            }
+        ],
+        "subtotal": 55971.36,
+        "tax": 5597.14,
+        "tip": null,
+        "total": 61568.5
+    }
+]

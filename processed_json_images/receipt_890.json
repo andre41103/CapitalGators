@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Horton's The Steakhouse",
+        "transaction_date": "2016-03-13",
+        "items": [
+            {
+                "description": "Morton's Salad",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "Baked Potato",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "Steamed Broccoli",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "Diet Coke",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.25
+            },
+            {
+                "description": "Morton's Hot Choc Cake",
+                "quantity": null,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "GI MER Charles Krug",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "Filet Mignon, 6oz",
+                "quantity": null,
+                "price": null,
+                "total_price": 42.0
+            },
+            {
+                "description": "Chicken Bianco",
+                "quantity": null,
+                "price": null,
+                "total_price": 28.0
+            }
+        ],
+        "subtotal": 129.25,
+        "tax": 10.66,
+        "tip": null,
+        "total": 139.91
+    }
+]

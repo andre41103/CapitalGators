@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "SPEEDWAY",
+        "transaction_date": "2015-02-12",
+        "items": [
+            {
+                "description": "PALL MALL MN WHITE BX 100",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.02
+            },
+            {
+                "description": "TRIDENT SFT CHW ORG Each",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.49
+            },
+            {
+                "description": "TRID UNWRPD 1.99",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -0.5
+            }
+        ],
+        "subtotal": 7.01,
+        "tax": 0.35,
+        "tip": null,
+        "total": 7.36
+    }
+]

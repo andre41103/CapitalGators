@@ -1,0 +1,140 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Erdbeer-Minze",
+                "quantity": 2.0,
+                "price": 0.39,
+                "total_price": 0.78
+            },
+            {
+                "description": "Joghurt mild 500g",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.45
+            },
+            {
+                "description": "Gehackte Tomaten",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.39
+            },
+            {
+                "description": "Kidney-bohnen",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.39
+            },
+            {
+                "description": "Gouda gerieben",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.59
+            },
+            {
+                "description": "Bio Apfelmus",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.79
+            },
+            {
+                "description": "Katzenna. Gefl. 400g",
+                "quantity": 2.0,
+                "price": 0.49,
+                "total_price": 0.98
+            },
+            {
+                "description": "Katzennahr.Rind 400g",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.49
+            },
+            {
+                "description": "Katzennah. Ente 400g",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.49
+            },
+            {
+                "description": "Hummus Pikant",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "H-Milch 1,5% OGT",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.63
+            },
+            {
+                "description": "H\u00e4hncheninnenfilet",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.29
+            },
+            {
+                "description": "Goldessa Kr\u00e4uter",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.85
+            },
+            {
+                "description": "6 Sonntags-Br\u00f6tchen",
+                "quantity": 2.0,
+                "price": 0.99,
+                "total_price": 1.98
+            },
+            {
+                "description": "Knoblauch",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "Broccoli 1000g",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.49
+            },
+            {
+                "description": "Champign. braun",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.09
+            },
+            {
+                "description": "Bananen",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.3
+            },
+            {
+                "description": "Gurken",
+                "quantity": 0.306,
+                "price": 0.99,
+                "total_price": 0.44
+            },
+            {
+                "description": "Mineralwasser",
+                "quantity": 6.0,
+                "price": 0.19,
+                "total_price": 1.14
+            },
+            {
+                "description": "Pfand 0,25 EM",
+                "quantity": 6.0,
+                "price": 0.25,
+                "total_price": 1.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 19.8
+    }
+]

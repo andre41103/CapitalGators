@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2014-03-30",
+        "items": [
+            {
+                "description": "Cheese Burger",
+                "quantity": null,
+                "price": null,
+                "total_price": 385.0
+            },
+            {
+                "description": "Potato Fries",
+                "quantity": null,
+                "price": null,
+                "total_price": 60.0
+            },
+            {
+                "description": "KIDS Creamy Macaroni",
+                "quantity": null,
+                "price": null,
+                "total_price": 190.0
+            }
+        ],
+        "subtotal": 635.0,
+        "tax": null,
+        "tip": 56.7,
+        "total": 691.7
+    }
+]

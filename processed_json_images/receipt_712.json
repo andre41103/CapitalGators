@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "#12 Beach Club",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.59
+            },
+            {
+                "description": "Choc Chip Cookie",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.59
+            },
+            {
+                "description": "Dr Pepper (lg)",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.89
+            },
+            {
+                "description": "Regular Chips",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.29
+            },
+            {
+                "description": "Regular Chips",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.29
+            }
+        ],
+        "subtotal": 34.9,
+        "tax": 3.1,
+        "tip": null,
+        "total": 45.0
+    }
+]

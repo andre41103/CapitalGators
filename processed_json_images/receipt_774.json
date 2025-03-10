@@ -1,0 +1,98 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2013-10-16",
+        "items": [
+            {
+                "description": "ONIONS SPANISH",
+                "quantity": 1.26,
+                "price": 0.39,
+                "total_price": 0.49
+            },
+            {
+                "description": "GARLIC",
+                "quantity": 0.15,
+                "price": 2.98,
+                "total_price": 0.45
+            },
+            {
+                "description": "BANANAS",
+                "quantity": 2.95,
+                "price": 0.29,
+                "total_price": 0.86
+            },
+            {
+                "description": "1LB CELLO CARROT",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.59
+            },
+            {
+                "description": "JCS HONEY GLAZED HAM",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.85
+            },
+            {
+                "description": "BOAR S HEAD HARD SALAMI",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "ITALIAN FRENCH BREAD",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "PARSLEY CURLY",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.69
+            },
+            {
+                "description": "KALE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.89
+            },
+            {
+                "description": "BABY SPINACH BAG 2.5lb",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "APPLES MACINTOSH MICHIGAN",
+                "quantity": 1.32,
+                "price": 0.49,
+                "total_price": 0.65
+            },
+            {
+                "description": "AVOCADO",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.79
+            },
+            {
+                "description": "ZIMA YELLOW GRAPE TOMATOES",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.29
+            },
+            {
+                "description": "RUSSET POTATOES 10LB",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            }
+        ],
+        "subtotal": 17.4,
+        "tax": 0.38,
+        "tip": null,
+        "total": 17.4
+    }
+]

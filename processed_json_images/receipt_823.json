@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Panera Bread",
+        "transaction_date": "2014-07-06",
+        "items": [
+            {
+                "description": "Apple Crunch Muffin",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 5.97
+            },
+            {
+                "description": "Sesame Bagel",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.05
+            },
+            {
+                "description": "Sliced",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Plain Cream Cheese",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.2
+            }
+        ],
+        "subtotal": 8.22,
+        "tax": 0.0,
+        "tip": null,
+        "total": 8.22
+    }
+]

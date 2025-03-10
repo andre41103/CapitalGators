@@ -1,0 +1,86 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Mothercare",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Union Jack Nappies",
+                "quantity": null,
+                "price": null,
+                "total_price": 29.99
+            },
+            {
+                "description": "Baby's First Crown",
+                "quantity": null,
+                "price": null,
+                "total_price": 95000.0
+            },
+            {
+                "description": "'One Loves Granny' Bib",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.99
+            },
+            {
+                "description": "Corgi Onesie",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.99
+            },
+            {
+                "description": "Commonwealth Map Blanket",
+                "quantity": null,
+                "price": null,
+                "total_price": 75.0
+            },
+            {
+                "description": "Big Ben Nightlight",
+                "quantity": null,
+                "price": null,
+                "total_price": 99.99
+            },
+            {
+                "description": "Swan Puree Multipack",
+                "quantity": null,
+                "price": null,
+                "total_price": 500.0
+            },
+            {
+                "description": "Silver Spoon Dummy \u00d7 12",
+                "quantity": null,
+                "price": null,
+                "total_price": 950.0
+            },
+            {
+                "description": "Training Throne",
+                "quantity": null,
+                "price": null,
+                "total_price": 2999.99
+            },
+            {
+                "description": "Horse-drawn Pram",
+                "quantity": null,
+                "price": null,
+                "total_price": 247500.0
+            },
+            {
+                "description": "Secure Cot",
+                "quantity": null,
+                "price": null,
+                "total_price": 2000.0
+            },
+            {
+                "description": "Cot Guard Detail",
+                "quantity": null,
+                "price": null,
+                "total_price": 3999999.99
+            }
+        ],
+        "subtotal": 4299176.94,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

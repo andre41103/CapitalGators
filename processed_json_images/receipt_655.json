@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.hotel",
+        "merchant_name": "Brookwood House Hotel",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Australian Surfers",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.69
+            },
+            {
+                "description": "Paradise White Wine",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "1 Litre Bottle",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Chicken Risotto",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.81
+            },
+            {
+                "description": "Roast Lamb",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.81
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 32.31
+    }
+]

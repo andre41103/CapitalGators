@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Coffee Roll",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.58
+            },
+            {
+                "description": "50 Munchkins",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.99
+            }
+        ],
+        "subtotal": 13.57,
+        "tax": 0.32,
+        "tip": null,
+        "total": 13.89
+    }
+]

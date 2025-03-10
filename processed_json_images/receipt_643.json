@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DISNEY PARKS",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "PLSH MM STRP RMP 18M",
+                "quantity": null,
+                "price": null,
+                "total_price": 24.95
+            },
+            {
+                "description": "BABY SK 2PK MM ATH",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.95
+            },
+            {
+                "description": "D15 ORNR STCKD WDW",
+                "quantity": null,
+                "price": null,
+                "total_price": 19.95
+            },
+            {
+                "description": "WDW LETTER MAGNET",
+                "quantity": 2.0,
+                "price": 5.95,
+                "total_price": 11.9
+            },
+            {
+                "description": "D15 LS METAL MAG WDW",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.95
+            },
+            {
+                "description": "NMEMMPERKC",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.95
+            }
+        ],
+        "subtotal": 86.65,
+        "tax": 5.64,
+        "tip": null,
+        "total": 92.29
+    }
+]

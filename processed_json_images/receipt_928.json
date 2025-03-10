@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Restaurant KEUNG KEE",
+        "transaction_date": "2018-02-15",
+        "items": [
+            {
+                "description": "Soupe aux estomac de porc",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.95
+            },
+            {
+                "description": "de Boeuf en Cube Frit",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.95
+            },
+            {
+                "description": "Tofu Avec Porc Hach\u00e9 \u00c9pic\u00e9",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.95
+            },
+            {
+                "description": "39.Bass vert \u00e0 la Vapeur",
+                "quantity": null,
+                "price": null,
+                "total_price": 36.95
+            },
+            {
+                "description": "Riz \u00e0 la Vapeur (M)",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.5
+            }
+        ],
+        "subtotal": 76.3,
+        "tax": null,
+        "tip": null,
+        "total": 87.73
+    }
+]

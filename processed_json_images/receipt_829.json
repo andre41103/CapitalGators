@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Peli Peli",
+        "transaction_date": "2012-10-24",
+        "items": [
+            {
+                "description": "Chilean Sea Bass",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 32.0
+            },
+            {
+                "description": "House RED GLS (R)",
+                "quantity": 2.0,
+                "price": 5.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "Peli Peach Bellini",
+                "quantity": 2.0,
+                "price": 9.0,
+                "total_price": 18.0
+            },
+            {
+                "description": "STUFFED MUSHROOMS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Sweet & Spicy Peli Peli",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Well Vodka",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 77.0,
+        "tax": 4.62,
+        "tip": null,
+        "total": 41.62
+    }
+]

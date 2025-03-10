@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SM CENTERPOINT BLOG.",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "KANEBO FW C BRIGHTNG U",
+                "quantity": 14.0,
+                "price": 49.75,
+                "total_price": 702.0
+            },
+            {
+                "description": "KANEBO FW C BRIGHTNG U",
+                "quantity": null,
+                "price": null,
+                "total_price": 702.0
+            }
+        ],
+        "subtotal": 2100.5,
+        "tax": null,
+        "tip": null,
+        "total": 1827.76
+    }
+]

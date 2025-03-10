@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "San Carlos - Ducky's Car Wash",
+        "transaction_date": "2018-02-04",
+        "items": [
+            {
+                "description": "*Exp Extra OperP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 90.0
+            }
+        ],
+        "subtotal": 90.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 90.0
+    }
+]

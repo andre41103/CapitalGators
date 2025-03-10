@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Wu-Brock",
+        "transaction_date": "2014-07-15",
+        "items": [
+            {
+                "description": "6'x3' Marvelous Marble Dining\nOutdoor Table Top Inlay",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 6147.79
+            },
+            {
+                "description": "18\"x18\" White Marble Top\nCoffee Table Carnelian",
+                "quantity": 2.0,
+                "price": 1.0,
+                "total_price": 2301.09
+            }
+        ],
+        "subtotal": 7680.8,
+        "tax": 768.08,
+        "tip": null,
+        "total": 8448.88
+    }
+]

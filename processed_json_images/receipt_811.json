@@ -1,0 +1,164 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "COFFEE JOE MEDIUM ROAST.",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "MILK HALF GAL ALMOND ORIGINAL",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "CRUMBLED FETA W/MEDIT. HERBS.",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.79
+            },
+            {
+                "description": "GARLIC.",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.29
+            },
+            {
+                "description": "NATURAL CHICKEN BREAST",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.48
+            },
+            {
+                "description": "R-STRAWBERRIES ORG 1 LB",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "TAMALES CHICKEN",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.29
+            },
+            {
+                "description": "TAMALES CHICKEN",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.29
+            },
+            {
+                "description": "BEANS BLACK CUBAN STYLE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "HEAVY CREAM- PT.",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "ORGANIC SPINACH",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "FRZN BLUEBERRIES",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "MANGO FRUIT CHUNKS FZN",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.69
+            },
+            {
+                "description": "A-TOMATOES ON THE VINE ORG 16",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.49
+            },
+            {
+                "description": "WATER SPRING TJ'S 1.5 LT SING",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.49
+            },
+            {
+                "description": "QUINOA ORGANIC",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.49
+            },
+            {
+                "description": "A-APPLE EACH ORG PINK LADY",
+                "quantity": 4.0,
+                "price": 0.89,
+                "total_price": 3.56
+            },
+            {
+                "description": "A-ONIONS EACH JUMBO SWEET",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.69
+            },
+            {
+                "description": "A-LIME EACH",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.29
+            },
+            {
+                "description": "CEREAL OATMEAL GLUTEN FREE ROL",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "R-HERB CILANTRO ORG .75 OZ",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.79
+            },
+            {
+                "description": "EGGS LRG WHT DZ ..",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "R-CUCUMBERS HOTHOUSE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.49
+            },
+            {
+                "description": "SOFT 10 GRAIN BREAD",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.49
+            },
+            {
+                "description": "BANANAS",
+                "quantity": 8.0,
+                "price": 0.19,
+                "total_price": 1.52
+            }
+        ],
+        "subtotal": 65.04,
+        "tax": 1.63,
+        "tip": null,
+        "total": 66.67
+    }
+]

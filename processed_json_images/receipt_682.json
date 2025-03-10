@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Weber-Wagner",
+        "transaction_date": "2015-12-14",
+        "items": [
+            {
+                "description": "6'x3' White Marble Dining\nCenter Table Top Bird Inlay Arts\nHallway Decor E360",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 6154.38
+            },
+            {
+                "description": "7'x4' Black Marble Pietra dura\nDining Table Top Furniture Inlay\nPatio Decor",
+                "quantity": 3.0,
+                "price": 9.0,
+                "total_price": 31844.08
+            },
+            {
+                "description": "Vintage Art from India Marble\nDinning Table Top Round\nHallway Table 50 Inches",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3300.0
+            },
+            {
+                "description": "Moves Furniture Tool Transport\nShifter Moving Wheel Slider\nRemover\nHeavy",
+                "quantity": 1.0,
+                "price": 7.6,
+                "total_price": 8.36
+            }
+        ],
+        "subtotal": 37551.65,
+        "tax": 3755.16,
+        "tip": null,
+        "total": 41306.81
+    }
+]

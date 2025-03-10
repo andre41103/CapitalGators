@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Asian Kitchen (M) Sdn Bhd",
+        "transaction_date": "2015-11-23",
+        "items": [
+            {
+                "description": "Afternoon Tea (Adult)",
+                "quantity": 1.0,
+                "price": 57.45,
+                "total_price": 57.45
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.45,
+        "tip": null,
+        "total": 60.9
+    }
+]

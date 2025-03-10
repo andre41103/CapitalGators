@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "in the box",
+        "transaction_date": "2016-10-31",
+        "items": [
+            {
+                "description": "Lg Mstr Choice Cmb",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.38
+            },
+            {
+                "description": "Sm BLT CB Cmb",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.99
+            },
+            {
+                "description": "Bacon Chdr Wedges",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "Mini Churros 10",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "Chk Nuggets 5",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.39
+            },
+            {
+                "description": "Small French Fry",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.89
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

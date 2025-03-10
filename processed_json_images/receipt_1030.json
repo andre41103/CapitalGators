@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DIONYSUS MANSION",
+        "transaction_date": "2016-07-26",
+        "items": [
+            {
+                "description": "Agios Nikolaos IL",
+                "quantity": 2.0,
+                "price": 2.0,
+                "total_price": 4.0
+            },
+            {
+                "description": "Coca Cola Bottle",
+                "quantity": 1.0,
+                "price": 2.0,
+                "total_price": 2.0
+            },
+            {
+                "description": "Coca Cola Zero Bot",
+                "quantity": 2.0,
+                "price": 2.0,
+                "total_price": 4.0
+            },
+            {
+                "description": "Kyperountas Roze G",
+                "quantity": 1.0,
+                "price": 4.0,
+                "total_price": 4.0
+            },
+            {
+                "description": "TAHINI STARTER",
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 2.5
+            },
+            {
+                "description": "HALLOUMI STARTER",
+                "quantity": 1.0,
+                "price": 7.0,
+                "total_price": 7.0
+            },
+            {
+                "description": "DRZO STARTER",
+                "quantity": 1.0,
+                "price": 6.5,
+                "total_price": 6.5
+            },
+            {
+                "description": "COWBOY STEAK",
+                "quantity": 1.0,
+                "price": 46.0,
+                "total_price": 46.0
+            },
+            {
+                "description": "PORK BELLY",
+                "quantity": 1.0,
+                "price": 14.5,
+                "total_price": 14.5
+            },
+            {
+                "description": "DUCK FILLET",
+                "quantity": 1.0,
+                "price": 14.5,
+                "total_price": 14.5
+            }
+        ],
+        "subtotal": 96.33,
+        "tax": 8.67,
+        "tip": null,
+        "total": 105.0
+    }
+]

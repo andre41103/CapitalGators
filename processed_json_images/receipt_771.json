@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Krueger LLC",
+        "transaction_date": "2012-02-13",
+        "items": [
+            {
+                "description": "New Nintendo 3DS XL Red\nSystem Console Working W/ AC\nAdapter Bundle",
+                "quantity": 3.0,
+                "price": 149.99,
+                "total_price": 494.97
+            },
+            {
+                "description": "Nintendo 64 N64 Game Console\nSystem + Controller Cords\nWORKING",
+                "quantity": 5.0,
+                "price": 100.0,
+                "total_price": 550.0
+            },
+            {
+                "description": "Nintendo 64 game console unit /\ncontrollers / games used\nuntested",
+                "quantity": 3.0,
+                "price": 39.99,
+                "total_price": 131.97
+            },
+            {
+                "description": "Microsoft Xbox One 500GB 1540\nBlack Game Console TESTED\nComplete",
+                "quantity": 2.0,
+                "price": 139.99,
+                "total_price": 307.98
+            },
+            {
+                "description": "B310 Nintendo 3DS console\nCosmo Black Japan x",
+                "quantity": 3.0,
+                "price": 11.99,
+                "total_price": 39.57
+            },
+            {
+                "description": "Nintendo Switch 32GB Neon\nRed/Neon Blue Console Slightly\nUsed",
+                "quantity": 1.0,
+                "price": 270.0,
+                "total_price": 297.0
+            }
+        ],
+        "subtotal": 1655.89,
+        "tax": 165.59,
+        "tip": null,
+        "total": 1821.48
+    }
+]

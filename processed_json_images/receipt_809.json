@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Applebee's",
+        "transaction_date": "2016-01-30",
+        "items": [
+            {
+                "description": "PERF MARG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "DBL WHSKY STK",
+                "quantity": -1.0,
+                "price": null,
+                "total_price": -14.99
+            },
+            {
+                "description": "DBL WHSKY STK",
+                "quantity": -1.0,
+                "price": null,
+                "total_price": -14.99
+            },
+            {
+                "description": "TRKY STACKER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.99
+            },
+            {
+                "description": "PERF MARG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "CHURRO SMORE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "*TO* * GO*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "NA STRW SHAKE",
+                "quantity": -1.0,
+                "price": null,
+                "total_price": -3.99
+            },
+            {
+                "description": "NON ALCOHOLIC",
+                "quantity": -1.0,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 33.49,
+        "tax": 2.68,
+        "tip": null,
+        "total": 36.17
+    }
+]

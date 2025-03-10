@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walmart",
+        "transaction_date": "2017-03-20",
+        "items": [
+            {
+                "description": "WHITE EGGS",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.24
+            },
+            {
+                "description": "1 MILK",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.68
+            },
+            {
+                "description": "MKTS TNB CHS",
+                "quantity": null,
+                "price": 6.17,
+                "total_price": 3.08
+            },
+            {
+                "description": "SKIM MILK",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.98
+            }
+        ],
+        "subtotal": 10.98,
+        "tax": null,
+        "tip": null,
+        "total": 11.35
+    }
+]

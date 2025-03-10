@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Black Diamond Car Wash",
+        "transaction_date": "2015-01-15",
+        "items": [
+            {
+                "description": "Express Wax Wash",
+                "quantity": null,
+                "price": null,
+                "total_price": 29.95
+            },
+            {
+                "description": "Mini/SUV-ExpWaxWsh",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Seats Lthr/Vinyl",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "Rims",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            }
+        ],
+        "subtotal": 47.95,
+        "tax": 0.0,
+        "tip": null,
+        "total": 47.95
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Picasso",
+        "transaction_date": "2016-07-28",
+        "items": [
+            {
+                "description": "CAFE CON LECHE",
+                "quantity": 2.0,
+                "price": 4.1,
+                "total_price": 8.2
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.75,
+        "tip": null,
+        "total": 8.2
+    }
+]

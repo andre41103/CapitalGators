@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Union",
+        "transaction_date": "2017-07-29",
+        "items": [
+            {
+                "description": "Caesar Sld",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 95000.0
+            },
+            {
+                "description": "Nasi Babi Garing",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 140000.0
+            },
+            {
+                "description": "Tropic Berry",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 55000.0
+            }
+        ],
+        "subtotal": 261000.0,
+        "tax": 28710.0,
+        "tip": 26100.0,
+        "total": 315810.0
+    }
+]

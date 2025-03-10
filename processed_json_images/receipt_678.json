@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CLINTON ST BAKING CO",
+        "transaction_date": "2017-08-04",
+        "items": [
+            {
+                "description": "Blueberries Pancakes",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 19.0
+            },
+            {
+                "description": "Brioche French Toast",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "Cheese Grits",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "SalmonPotatoPancake",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "Suger Cured Bacon",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "Orange Juice",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 13.0
+            }
+        ],
+        "subtotal": 82.0,
+        "tax": 6.31,
+        "tip": 8.2,
+        "total": 96.51
+    }
+]

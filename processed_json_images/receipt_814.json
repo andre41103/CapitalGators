@@ -1,0 +1,116 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BOULEVARD",
+        "transaction_date": "2006-02-15",
+        "items": [
+            {
+                "description": "HENDRIKS",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "BOURBON MANHATN",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.75
+            },
+            {
+                "description": "O SOUP",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.75
+            },
+            {
+                "description": "ABALONE",
+                "quantity": null,
+                "price": null,
+                "total_price": 19.5
+            },
+            {
+                "description": "LOBSTER LIMSIT",
+                "quantity": null,
+                "price": null,
+                "total_price": 18.75
+            },
+            {
+                "description": "SHORTALE",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.5
+            },
+            {
+                "description": "SWEETBREADS",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.25
+            },
+            {
+                "description": "LAMB",
+                "quantity": null,
+                "price": null,
+                "total_price": 32.09
+            },
+            {
+                "description": "RO PORK",
+                "quantity": null,
+                "price": null,
+                "total_price": 31.0
+            },
+            {
+                "description": "GL-J SAINTS PN",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "GL SAUY BLANC",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.25
+            },
+            {
+                "description": "GL-BAROLO",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.75
+            },
+            {
+                "description": "G- UNII SYRAH",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "POTRERO",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.6
+            },
+            {
+                "description": "G-CASTELNAU",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "BANANAS FOSTER",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.5
+            },
+            {
+                "description": "0 TRED",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.75
+            }
+        ],
+        "subtotal": 230.25,
+        "tax": 19.57,
+        "tip": null,
+        "total": 249.32
+    }
+]

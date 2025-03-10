@@ -1,0 +1,110 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Publix",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "BUSCH NA 12PK CAN",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.59
+            },
+            {
+                "description": "TOTINOS PIZZA",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 1.25
+            },
+            {
+                "description": "APPLES MCINTOSH LG",
+                "quantity": 0.83,
+                "price": 1.69,
+                "total_price": 1.4
+            },
+            {
+                "description": "BANANAS",
+                "quantity": 2.46,
+                "price": 0.69,
+                "total_price": 1.7
+            },
+            {
+                "description": "PEARS BARTLETT",
+                "quantity": 0.86,
+                "price": 0.88,
+                "total_price": 0.76
+            },
+            {
+                "description": "CHWY PPRMNT MENTOS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.79
+            },
+            {
+                "description": "CLAUS SAND SL PICK",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.89
+            },
+            {
+                "description": "OJ TROP PURE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.49
+            },
+            {
+                "description": "PUBLIX MILK",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "WHITE PEARL ERASER",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.79
+            },
+            {
+                "description": "CREST TTHPST TART",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.93
+            },
+            {
+                "description": "KIT KAT",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.55
+            },
+            {
+                "description": "ALMOND JOY SNACK",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.55
+            },
+            {
+                "description": "BOUNTY ROLL",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.97
+            },
+            {
+                "description": "SUNKIST ORANGE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "DM FR2GO CHRY MXD",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.53
+            }
+        ],
+        "subtotal": 40.17,
+        "tax": 1.7,
+        "tip": null,
+        "total": 41.87
+    }
+]

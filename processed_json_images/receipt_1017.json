@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "SOUTH BAY",
+        "transaction_date": "2014-07-17",
+        "items": [
+            {
+                "description": "SLEEVELESS TIE FRONT",
+                "quantity": 1.0,
+                "price": 69.0,
+                "total_price": 69.0
+            }
+        ],
+        "subtotal": 69.0,
+        "tax": 6.21,
+        "tip": null,
+        "total": 75.21
+    }
+]

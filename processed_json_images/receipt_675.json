@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TESCO",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "VALUE JUICE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.62
+            },
+            {
+                "description": "CEREALS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.29
+            },
+            {
+                "description": "HOT CHOC",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.48
+            },
+            {
+                "description": "BAKED BEANS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.26
+            },
+            {
+                "description": "TESCO LAGER",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "BAKED BEANS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.26
+            },
+            {
+                "description": "VALUE JUICE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.62
+            },
+            {
+                "description": "BAKED BEANS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.26
+            },
+            {
+                "description": "BAKED BEANS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.26
+            },
+            {
+                "description": "VALUE THK BRD",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.47
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 5.52
+    }
+]

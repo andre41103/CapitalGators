@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Sephora Cosmeticos Espa\u00f1a, S.L.",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "MUGLER\nANGEL RESSOU. EDPV 25M",
+                "quantity": 1.0,
+                "price": 34.9,
+                "total_price": 34.9
+            }
+        ],
+        "subtotal": 28.84,
+        "tax": 6.06,
+        "tip": null,
+        "total": 34.9
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "GetGo",
+        "transaction_date": "2014-12-14",
+        "items": [],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": null
+    }
+]

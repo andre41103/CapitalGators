@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TARGET",
+        "transaction_date": "2017-09-25",
+        "items": [
+            {
+                "description": "LIGHT BULBS",
+                "quantity": null,
+                "price": 139.98,
+                "total_price": 99.98
+            }
+        ],
+        "subtotal": 99.98,
+        "tax": 7.0,
+        "tip": null,
+        "total": 106.98
+    }
+]

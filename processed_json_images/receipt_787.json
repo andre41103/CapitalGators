@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "zuma",
+        "transaction_date": "2017-01-19",
+        "items": [
+            {
+                "description": "arjun's maki",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.8
+            },
+            {
+                "description": "chirashi maki",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.8
+            },
+            {
+                "description": "dynamite spider maki",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.9
+            },
+            {
+                "description": "iberico pork",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24.8
+            },
+            {
+                "description": "prawn tempura maki",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.2
+            },
+            {
+                "description": "kirin ichiban",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "large st aniol still",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.75
+            }
+        ],
+        "subtotal": 83.25,
+        "tax": 13.88,
+        "tip": 12.49,
+        "total": 95.74
+    }
+]

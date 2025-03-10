@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Big Mansion",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Ice Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "Ice Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "Fish Tacos",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Gorgonzola Bacon Burger",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": 28.0,
+        "tax": 1.82,
+        "tip": null,
+        "total": 29.82
+    }
+]

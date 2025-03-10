@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "La Isla",
+        "transaction_date": "2017-03-04",
+        "items": [
+            {
+                "description": "BLACK ANGUS RIB EY",
+                "quantity": 1.0,
+                "price": 34.0,
+                "total_price": 34.0
+            },
+            {
+                "description": "CAPTAIN FISH + CHI",
+                "quantity": 1.0,
+                "price": 6.5,
+                "total_price": 6.5
+            },
+            {
+                "description": "APPLE JUICE",
+                "quantity": 1.0,
+                "price": 3.4,
+                "total_price": 3.4
+            },
+            {
+                "description": "COCA COLA ZERO",
+                "quantity": 1.0,
+                "price": 2.95,
+                "total_price": 2.95
+            }
+        ],
+        "subtotal": 42.98,
+        "tax": 3.87,
+        "tip": null,
+        "total": 46.85
+    }
+]

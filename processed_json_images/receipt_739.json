@@ -1,0 +1,242 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ShopRite",
+        "transaction_date": "2012-08-19",
+        "items": [
+            {
+                "description": "SR PLAS CUTLERY A",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.39
+            },
+            {
+                "description": "HEFTY FOAM PLATE/",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.79
+            },
+            {
+                "description": "PC Hefty Foam Plat",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.12
+            },
+            {
+                "description": "HEFTY FOAM PLATE/",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.79
+            },
+            {
+                "description": "PC Hefty Foam Plat",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.12
+            },
+            {
+                "description": "HEFTY FOAM PLATE/",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.79
+            },
+            {
+                "description": "PC Hefty Foam Plat",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.12
+            },
+            {
+                "description": "CD ENGLISH TOFFEE",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.99
+            },
+            {
+                "description": "HFTY 10.25\"HM FM PPC",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.79
+            },
+            {
+                "description": "PC Hefty Foam Plat",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.12
+            },
+            {
+                "description": "BARILLA ANGEL HAIRPC",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.4
+            },
+            {
+                "description": "PC BARILLA PASTA",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.52
+            },
+            {
+                "description": "BARILLA THIN SPAG",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.4
+            },
+            {
+                "description": "PC BARILLA PASTA",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.52
+            },
+            {
+                "description": "SPRITE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "DR PEPPER",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "BERTOLLI VIDALIA P",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.59
+            },
+            {
+                "description": "IS BERTOLLI PASTA",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.1
+            },
+            {
+                "description": "MEAT DEPT KEY",
+                "quantity": 3.01,
+                "price": 1.99,
+                "total_price": 5.99
+            },
+            {
+                "description": "LISN EP BNLS BRST",
+                "quantity": 2.0,
+                "price": 8.82,
+                "total_price": 17.64
+            },
+            {
+                "description": "PEACH JERSEY 2 1/2",
+                "quantity": 3.16,
+                "price": 1.49,
+                "total_price": 4.71
+            },
+            {
+                "description": "CHRY NRTHWST BG 18",
+                "quantity": 2.06,
+                "price": 2.99,
+                "total_price": 6.16
+            },
+            {
+                "description": "SR D/D PIE CRUST",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "RLL-8PK HOTDOG",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "SR",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "BA",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "CARE",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "PARTNER",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "TY BEANIES",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.99
+            },
+            {
+                "description": "ENRGZR MAX AA",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "PC Energizer Max B",
+                "quantity": null,
+                "price": null,
+                "total_price": -4.0
+            },
+            {
+                "description": "ENRGZR MAX AA",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "PC Energizer Max B",
+                "quantity": null,
+                "price": null,
+                "total_price": -4.0
+            },
+            {
+                "description": "ENRGZR MAX AA",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "PC Energizer Max B",
+                "quantity": null,
+                "price": null,
+                "total_price": -4.0
+            },
+            {
+                "description": "ENRGZR MAX AA",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "PC Energizer Max B",
+                "quantity": null,
+                "price": null,
+                "total_price": -4.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.87,
+        "tip": null,
+        "total": 92.58
+    }
+]

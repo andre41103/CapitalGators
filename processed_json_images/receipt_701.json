@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Smith's",
+        "transaction_date": "2016-10-06",
+        "items": [
+            {
+                "description": null,
+                "quantity": 0.84,
+                "price": 5.99,
+                "total_price": 5.03
+            },
+            {
+                "description": "VT\nGOUR SLD BAR",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 5.03
+    }
+]

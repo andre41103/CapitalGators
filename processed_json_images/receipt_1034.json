@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "STANLEY'S FRUIT MARKE",
+        "transaction_date": "2018-01-22",
+        "items": [
+            {
+                "description": "SALAD",
+                "quantity": 1.76,
+                "price": 4.99,
+                "total_price": 8.78
+            },
+            {
+                "description": "GREEN. GINGER",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.99
+            }
+        ],
+        "subtotal": 14.77,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

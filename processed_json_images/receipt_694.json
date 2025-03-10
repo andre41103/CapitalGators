@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2018-09-12",
+        "items": [
+            {
+                "description": "Best Express",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "$1 Exp Senior Disc",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -1.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 9.0
+    }
+]

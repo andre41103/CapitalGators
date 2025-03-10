@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GOLDILOCKS BAKESHOP, INC.",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "SPL BREAD-APPLE RAISIN",
+                "quantity": 1.0,
+                "price": 50.0,
+                "total_price": 50.0
+            },
+            {
+                "description": "CAKE ROLL SLICE-DOUBLE DUTCH",
+                "quantity": 1.0,
+                "price": 46.0,
+                "total_price": 46.0
+            },
+            {
+                "description": "CAKE ROLL SLICE-DOUBLE DUTCH",
+                "quantity": 1.0,
+                "price": 46.0,
+                "total_price": 46.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

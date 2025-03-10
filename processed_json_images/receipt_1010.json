@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "McDonald's Pioneer Mall",
+        "transaction_date": "2011-03-26",
+        "items": [
+            {
+                "description": "Latte Himalayan Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.26,
+        "tip": null,
+        "total": 3.9
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Tails in the City",
+        "transaction_date": "2017-04-12",
+        "items": [
+            {
+                "description": "Bling Bones Collar - 2016\nLg.",
+                "quantity": 1.0,
+                "price": 45.0,
+                "total_price": 45.0
+            },
+            {
+                "description": "City of Chicago Bag Tax",
+                "quantity": 1.0,
+                "price": 0.07,
+                "total_price": 0.07
+            }
+        ],
+        "subtotal": 45.07,
+        "tax": 4.61,
+        "tip": null,
+        "total": 49.68
+    }
+]

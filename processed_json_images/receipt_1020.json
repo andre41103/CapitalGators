@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MIZU SUSHI BAR & GRILL",
+        "transaction_date": "2001-10-14",
+        "items": [
+            {
+                "description": "SUNKISSED R",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.95
+            },
+            {
+                "description": "RAINBOW BLOSSOM R.",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.95
+            },
+            {
+                "description": "TROPICAL R.",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.95
+            },
+            {
+                "description": "ZUNA TATAKI (AP)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.95
+            },
+            {
+                "description": "Green Tea Ter cha",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.95
+            }
+        ],
+        "subtotal": 83.75,
+        "tax": 5.58,
+        "tip": null,
+        "total": 69.33
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SOBEYS",
+        "transaction_date": "2005-11-11",
+        "items": [
+            {
+                "description": "Corn Flakes 525G",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.29
+            },
+            {
+                "description": "Vendor Coupon",
+                "quantity": null,
+                "price": null,
+                "total_price": -4.29
+            }
+        ],
+        "subtotal": 0.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 0.0
+    }
+]

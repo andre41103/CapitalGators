@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Sage General Store",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "BLUE PLATE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": ".CHAI LATTE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            }
+        ],
+        "subtotal": 19.6,
+        "tax": 1.6,
+        "tip": null,
+        "total": 19.6
+    }
+]

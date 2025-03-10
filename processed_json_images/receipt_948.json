@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Mcguire PLC",
+        "transaction_date": "2018-12-29",
+        "items": [
+            {
+                "description": "S.L. Fashions Size 16 Stretch\nBodice Dress",
+                "quantity": 4.0,
+                "price": 15.5,
+                "total_price": 68.2
+            },
+            {
+                "description": "Vince Camuto Sweater Dress\nSize Medium Striped Long\nSleeve",
+                "quantity": 3.0,
+                "price": 32.0,
+                "total_price": 105.6
+            }
+        ],
+        "subtotal": 158.0,
+        "tax": 15.8,
+        "tip": null,
+        "total": 173.8
+    }
+]

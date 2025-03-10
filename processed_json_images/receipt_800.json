@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Regency Angkor Hotel",
+        "transaction_date": "2017-12-15",
+        "items": [
+            {
+                "description": "DRAUGHT BEER GLASS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "FRESH ORANGE JUICE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            }
+        ],
+        "subtotal": 6.0,
+        "tax": 0.6,
+        "tip": null,
+        "total": 6.6
+    }
+]

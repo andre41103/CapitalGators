@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RESTAURANT CROSTO",
+        "transaction_date": "2017-09-20",
+        "items": [
+            {
+                "description": "ESTRELLA",
+                "quantity": 3.0,
+                "price": 1.0,
+                "total_price": 5.4
+            },
+            {
+                "description": "S'LESHOS CRIAN?",
+                "quantity": 1.0,
+                "price": 17.8,
+                "total_price": 17.8
+            },
+            {
+                "description": "REMENAT AMB SOL",
+                "quantity": 2.0,
+                "price": 8.89,
+                "total_price": 17.6
+            },
+            {
+                "description": "FEIGES D'ANEC A",
+                "quantity": 1.0,
+                "price": 22.2,
+                "total_price": 22.2
+            },
+            {
+                "description": "ONGLET",
+                "quantity": 1.0,
+                "price": 10.8,
+                "total_price": 10.8
+            },
+            {
+                "description": "MAGRET ANEE",
+                "quantity": 1.0,
+                "price": 18.2,
+                "total_price": 18.2
+            },
+            {
+                "description": "C\u1ee6A BOU OL VI #",
+                "quantity": 1.0,
+                "price": 18.2,
+                "total_price": 18.2
+            },
+            {
+                "description": "POSTRES",
+                "quantity": 3.0,
+                "price": 0.0,
+                "total_price": 18.0
+            },
+            {
+                "description": "XUP 105",
+                "quantity": 3.0,
+                "price": 2.0,
+                "total_price": 6.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 6.04,
+        "tip": null,
+        "total": 140.24
+    }
+]

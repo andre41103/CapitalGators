@@ -1,0 +1,98 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "WAITROSE\n& PARTNERS",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "WA&P BAG FOR LIFE UK",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.1
+            },
+            {
+                "description": "CARROTS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.38
+            },
+            {
+                "description": "WIR SEMI SKIMMED MILK",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.5
+            },
+            {
+                "description": "ONIONS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.67
+            },
+            {
+                "description": "ROYAL GALA APPLES",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.29
+            },
+            {
+                "description": "WR LEMON",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.39
+            },
+            {
+                "description": "WR LARGE ORANGE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.59
+            },
+            {
+                "description": "WR ESS HR SLD AVCDO",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.9
+            },
+            {
+                "description": "WAR ESS HA SLD AVCDO",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.9
+            },
+            {
+                "description": "FAIRTRADE BANANAS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.15
+            },
+            {
+                "description": "NY PLAIN BAGELS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.6
+            },
+            {
+                "description": "GREEN PEPPERS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.55
+            },
+            {
+                "description": "MALTED WHEAT ROLL",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.5
+            },
+            {
+                "description": "WR PAIN AU CHOCOLAT",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.95
+            }
+        ],
+        "subtotal": 8.45,
+        "tax": 0.02,
+        "tip": null,
+        "total": 8.47
+    }
+]

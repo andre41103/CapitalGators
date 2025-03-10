@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Press Room",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Set Lunch138",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 552.0
+            },
+            {
+                "description": "Starter 1",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Set Soup",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Main 1",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Main 4",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Main 2",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Set dess 1",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Set dess 2",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Spark WaterS",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 60.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": 61.0,
+        "total": 673.0
+    }
+]

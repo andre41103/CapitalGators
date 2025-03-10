@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Jimmy Johns",
+        "transaction_date": "2015-05-18",
+        "items": [
+            {
+                "description": "#1 Pepe",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.92
+            },
+            {
+                "description": "#4 Turkey Tom",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.92
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": 1.48,
+        "total": null
+    }
+]

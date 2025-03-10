@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Hudana Trading LLC",
+        "transaction_date": "2014-01-21",
+        "items": [
+            {
+                "description": "Pie Mlx Choco",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "T-Cafe Creme",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 19.0
+            }
+        ],
+        "subtotal": 37.0,
+        "tax": null,
+        "tip": null,
+        "total": 37.0
+    }
+]

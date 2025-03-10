@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "WH/SDL GR GRAPES SCP",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.77
+            },
+            {
+                "description": "$2 OFF $5 MEAT",
+                "quantity": null,
+                "price": null,
+                "total_price": -2.0
+            },
+            {
+                "description": "NP BBY PLD CRT\nSCP",
+                "quantity": null,
+                "price": null,
+                "total_price": -2.29
+            },
+            {
+                "description": "EGift",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 0.41
+    }
+]

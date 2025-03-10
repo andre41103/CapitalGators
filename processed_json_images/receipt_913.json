@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "PROSECCO TREVISO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 34.0
+            },
+            {
+                "description": "GL BARBERA D'ASTI",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "2 COURSES DINNER MENU",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 42.0
+            },
+            {
+                "description": "3 COURSES DINNER MENU",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 50.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 144.0
+    }
+]

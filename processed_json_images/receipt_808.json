@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HMSHOST",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "C WHP DB CHS M",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.09
+            },
+            {
+                "description": "WHP JR",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.59
+            },
+            {
+                "description": "WHP JR",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.59
+            },
+            {
+                "description": "BTNNTS MOZZ",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.29
+            }
+        ],
+        "subtotal": 26.84,
+        "tax": null,
+        "tip": null,
+        "total": 30.86
+    }
+]

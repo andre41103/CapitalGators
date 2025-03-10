@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Golden Arches Restaurants Sdn Bhd",
+        "transaction_date": "2011-06-19",
+        "items": [
+            {
+                "description": "MCoke",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.55
+            },
+            {
+                "description": "VLMNuggets",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.4
+            },
+            {
+                "description": "SmallCone",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "ChocTop",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.6
+            },
+            {
+                "description": "Chili Sauce",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Barbecue Sauce",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 9.06,
+        "tax": 0.51,
+        "tip": null,
+        "total": 9.05
+    }
+]

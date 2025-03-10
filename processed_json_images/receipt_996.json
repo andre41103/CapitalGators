@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walgreens",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "NAB RTZ BTS CHS30Z",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.5
+            },
+            {
+                "description": "NAB RTZ BTS CHS30Z",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.5
+            },
+            {
+                "description": "NAB RTZ BTS CHS30Z",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.5
+            },
+            {
+                "description": "NAB RTZ BTS CHS30Z",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.5
+            },
+            {
+                "description": "MFG COUPON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "MFG COUPON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -1.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 0.0
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Noodle House",
+        "transaction_date": "2010-01-13",
+        "items": [
+            {
+                "description": "S&P Calamari",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 5.8
+            },
+            {
+                "description": "Wasabi Prawn",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 7.6
+            },
+            {
+                "description": "Chick Siew M",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "S&S Chicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Chick G Curry",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.3
+            },
+            {
+                "description": "Steamed Noodles",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "Crab Rice",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "Duck Noodles",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.2
+            },
+            {
+                "description": "Chrkwaytew beef",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.9
+            },
+            {
+                "description": "Mojito",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.75
+            },
+            {
+                "description": "Diet Pepsi",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.9
+            },
+            {
+                "description": "Frozen Punch",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.95
+            },
+            {
+                "description": "Lemon Cooler",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.95
+            },
+            {
+                "description": "Jasmine Tea",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 1.2
+            },
+            {
+                "description": "NH Water S",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.7
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 52.37
+    }
+]

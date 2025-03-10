@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LA BAGUETTE",
+        "transaction_date": "2013-11-17",
+        "items": [
+            {
+                "description": "<< MED Draft Beer",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 40.0
+            },
+            {
+                "description": "MED DRINK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 30.0
+            },
+            {
+                "description": "Beef Burger",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.99
+            },
+            {
+                "description": "Beef Burger",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.99
+            },
+            {
+                "description": "2 X 1 MED",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.01
+            }
+        ],
+        "subtotal": 111.17,
+        "tax": 9.18,
+        "tip": 18.36,
+        "total": 129.53
+    }
+]

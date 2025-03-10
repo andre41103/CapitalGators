@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MEXICAN FOOD",
+        "transaction_date": "2015-09-16",
+        "items": [
+            {
+                "description": "REGULAR BURRITO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.25
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.56,
+        "tip": null,
+        "total": 6.81
+    }
+]

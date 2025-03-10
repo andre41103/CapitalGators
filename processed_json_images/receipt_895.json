@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2014-02-15",
+        "items": [
+            {
+                "description": "Stollfan farlfo Ch Bread",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.99
+            },
+            {
+                "description": "Angel Haft Fonodoto",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.75
+            },
+            {
+                "description": "Pasta allth Marinara Sauce",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.99
+            }
+        ],
+        "subtotal": 22.73,
+        "tax": 2.16,
+        "tip": null,
+        "total": 24.89
+    }
+]

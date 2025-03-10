@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Marina Bar and Grill",
+        "transaction_date": "2012-12-28",
+        "items": [
+            {
+                "description": "Del Rey Combo 1",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.99
+            }
+        ],
+        "subtotal": 7.99,
+        "tax": 0.7,
+        "tip": null,
+        "total": 8.69
+    }
+]

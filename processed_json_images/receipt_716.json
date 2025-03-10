@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Changi City Point Wall",
+        "transaction_date": "2013-04-01",
+        "items": [
+            {
+                "description": "Lime Juice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.2
+            },
+            {
+                "description": "$5.95 Country Mushroom",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.95
+            },
+            {
+                "description": "Fish & Chips",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.95
+            },
+            {
+                "description": "Cherry Snapper & Chips",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.95
+            }
+        ],
+        "subtotal": 37.05,
+        "tax": 2.85,
+        "tip": null,
+        "total": 43.61
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2016-06-13",
+        "items": [
+            {
+                "description": "HRZ HALF N HALF",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.19
+            },
+            {
+                "description": "YSMM LMN LVRS HUMMUS",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "SALAD BAR",
+                "quantity": 0.79,
+                "price": 8.99,
+                "total_price": 7.1
+            },
+            {
+                "description": "MEDIUM SOUP",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.99
+            },
+            {
+                "description": "HOT BAR",
+                "quantity": 2.09,
+                "price": 8.99,
+                "total_price": 18.79
+            }
+        ],
+        "subtotal": 39.06,
+        "tax": 2.69,
+        "tip": null,
+        "total": 41.75
+    }
+]

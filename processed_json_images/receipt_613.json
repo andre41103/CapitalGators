@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Panda Express",
+        "transaction_date": "2009-10-01",
+        "items": [
+            {
+                "description": "2-ENTREE PLATE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 75.0
+            },
+            {
+                "description": "XTRA ENTREE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.25
+            }
+        ],
+        "subtotal": 5.75,
+        "tax": 0.53,
+        "tip": null,
+        "total": 6.28
+    }
+]

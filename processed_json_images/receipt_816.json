@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "WEIGELS",
+        "transaction_date": "2015-02-12",
+        "items": [
+            {
+                "description": "L M BLUE 100 BOX",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 7.58
+            }
+        ],
+        "subtotal": 7.58,
+        "tax": 0.7,
+        "tip": null,
+        "total": 8.28
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Movenpick JLT",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Chicken Wings",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 55.0
+            },
+            {
+                "description": "Strongbow Draft",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 75.0
+            },
+            {
+                "description": "SB Redberry",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 35.0
+            },
+            {
+                "description": "Angus Flank Stea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 120.0
+            },
+            {
+                "description": "Angus Sirloin",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 150.0
+            }
+        ],
+        "subtotal": 436.0,
+        "tax": null,
+        "tip": null,
+        "total": 500.0
+    }
+]

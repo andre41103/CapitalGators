@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TESCO\nextra",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "WII U\n11605",
+                "quantity": null,
+                "price": null,
+                "total_price": 239.0
+            },
+            {
+                "description": "WII U\n11605",
+                "quantity": null,
+                "price": null,
+                "total_price": -239.0
+            },
+            {
+                "description": "WII U 11384",
+                "quantity": null,
+                "price": null,
+                "total_price": 84.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 84.0
+    }
+]

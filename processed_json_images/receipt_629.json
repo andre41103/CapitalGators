@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TEXAS de BRAZIL",
+        "transaction_date": "2015-01-13",
+        "items": [
+            {
+                "description": "COKE",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "D. COKE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "DINNER",
+                "quantity": 2.0,
+                "price": 44.99,
+                "total_price": 69.98
+            }
+        ],
+        "subtotal": 100.48,
+        "tax": 2.89,
+        "tip": 15.07,
+        "total": 118.44
+    }
+]
