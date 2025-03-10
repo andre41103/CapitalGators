@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "FOOD OPERA\nPADANG PADANG",
+        "transaction_date": "2018-03-16",
+        "items": [
+            {
+                "description": "WHITE RICE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "ADD MUTTON CURRY (S)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "SEAFOOD (FISH/SQUID/PR",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 13.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.31,
+        "tip": null,
+        "total": 20.0
+    }
+]

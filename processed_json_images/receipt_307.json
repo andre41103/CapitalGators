@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Guacamole",
+        "transaction_date": "2017-05-13",
+        "items": [
+            {
+                "description": "3 Tacos",
+                "quantity": 1.0,
+                "price": 0.4,
+                "total_price": 1.2
+            },
+            {
+                "description": "mit K\u00e4se",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Taco Fajita.",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.1
+            },
+            {
+                "description": "Taco Del Campo.\nmit Guajillo-Cac",
+                "quantity": 2.0,
+                "price": 2.1,
+                "total_price": 4.2
+            },
+            {
+                "description": ".mit Guacamole",
+                "quantity": 3.0,
+                "price": 0.4,
+                "total_price": 1.2
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.39,
+        "tip": null,
+        "total": 8.7
+    }
+]

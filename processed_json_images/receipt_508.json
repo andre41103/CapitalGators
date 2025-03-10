@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TGI Fridays UK",
+        "transaction_date": "2016-12-02",
+        "items": [
+            {
+                "description": "Coke",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Chk Fingers",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.99
+            },
+            {
+                "description": "16oz Rump",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 23.49
+            },
+            {
+                "description": "Bud Pt",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.7
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 44.18
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KFC",
+        "transaction_date": "2016-07-08",
+        "items": [
+            {
+                "description": "Family Fill Up",
+                "quantity": null,
+                "price": null,
+                "total_price": 20.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.73,
+        "tip": null,
+        "total": 21.73
+    }
+]

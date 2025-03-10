@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PURNIMA RESTAURANT",
+        "transaction_date": "2014-12-11",
+        "items": [
+            {
+                "description": "Veg Shingara 2 Pieces",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Chicken Vindaloo",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Quail Korma",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "Shrimp Tikka Masala",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "Garlic Naan",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Coconut Soup",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            }
+        ],
+        "subtotal": 60.0,
+        "tax": 4.2,
+        "tip": null,
+        "total": 64.2
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "ARDY-D COCONUT MILK\nSHRIMP PASTE",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 2.97
+            },
+            {
+                "description": "FROZEN SMALL SQUID\n44/1-EMO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "Seafood",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.52
+            },
+            {
+                "description": "Vegetable",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "ABC\nSWEET SOY SAUCE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "SUSHI STICKS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "DRIED SMALL SHRIMP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "CHIVES",
+                "quantity": 0.35,
+                "price": 1.99,
+                "total_price": 0.7
+            },
+            {
+                "description": "BANANA",
+                "quantity": 1.78,
+                "price": 0.59,
+                "total_price": 1.05
+            },
+            {
+                "description": "POMEGRANATE JUICE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.29
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

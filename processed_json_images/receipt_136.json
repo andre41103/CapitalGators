@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "E. BALDI",
+        "transaction_date": "2018-01-30",
+        "items": [
+            {
+                "description": "ICED TEA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "ROMBO CARCIOFI FUNGH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 48.0
+            },
+            {
+                "description": "SPARKLING WATER LARG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "BRANZINO GRIGLIATO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 40.0
+            },
+            {
+                "description": "CARPACCIO RED SNAPPE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 33.0
+            }
+        ],
+        "subtotal": 134.0,
+        "tax": 12.73,
+        "tip": null,
+        "total": 146.73
+    }
+]

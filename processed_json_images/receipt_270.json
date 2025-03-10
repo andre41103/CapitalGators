@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Hudson, Hinton and Phillips",
+        "transaction_date": "2015-06-10",
+        "items": [
+            {
+                "description": "National Geographic Bird\nWatcher s Bible - A Complete\nTreasury",
+                "quantity": 4.0,
+                "price": 4.89,
+                "total_price": 21.52
+            },
+            {
+                "description": "The Wire in the Blood (Tony Hill\nand Carol Jordan, Book 2)",
+                "quantity": 5.0,
+                "price": 15.12,
+                "total_price": 83.16
+            },
+            {
+                "description": "Dont Sweat the Small Stuff\nand Its All Small Stuff: Simple\nWays to Keep",
+                "quantity": 2.0,
+                "price": 4.49,
+                "total_price": 9.88
+            },
+            {
+                "description": "My Passion for Design by Barbra\nStreisand",
+                "quantity": 4.0,
+                "price": 5.56,
+                "total_price": 24.46
+            },
+            {
+                "description": "The Complete Life's Little\nInstruction Book\nJackson, Jr.",
+                "quantity": 1.0,
+                "price": 4.09,
+                "total_price": 4.5
+            },
+            {
+                "description": "Red Dragon Codex (Deckle\nEdge) (The Dragon Codices) by\nR.D.",
+                "quantity": 5.0,
+                "price": 4.49,
+                "total_price": 24.7
+            },
+            {
+                "description": "Skeleton Canyon (Joanna Brady\nMysteries, Book 5)",
+                "quantity": 1.0,
+                "price": 4.09,
+                "total_price": 4.5
+            }
+        ],
+        "subtotal": 157.01,
+        "tax": 15.7,
+        "tip": null,
+        "total": 172.71
+    }
+]

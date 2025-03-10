@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Panda Express",
+        "transaction_date": "2014-10-28",
+        "items": [
+            {
+                "description": "3-ENTREE PLATE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.68
+            }
+        ],
+        "subtotal": 8.68,
+        "tax": 0.61,
+        "tip": null,
+        "total": 9.29
+    }
+]

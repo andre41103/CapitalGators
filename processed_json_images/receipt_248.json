@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Hudson-Calderon",
+        "transaction_date": "2012-12-13",
+        "items": [
+            {
+                "description": "Xmas Christmas Rug Carpet\nCartoon Bedroom Kids Play Mat\nSoft",
+                "quantity": 3.0,
+                "price": 37.31,
+                "total_price": 123.12
+            },
+            {
+                "description": "Red Traditional Oriental\nMedallion 8x10 Area Rug Carpet\n2x3 Mat 5x7 Rugs",
+                "quantity": 1.0,
+                "price": 39.98,
+                "total_price": 43.98
+            },
+            {
+                "description": "Black+White Rectangle Shape\nArea Rug Carpet Floor Pad\nDoormat",
+                "quantity": 5.0,
+                "price": 21.1,
+                "total_price": 116.05
+            },
+            {
+                "description": "Cotton Handmade Area Rug\nHome Decorative Rustic Carpet\nWoven Dhurrie 3X5",
+                "quantity": 1.0,
+                "price": 44.4,
+                "total_price": 48.84
+            }
+        ],
+        "subtotal": 301.81,
+        "tax": 30.18,
+        "tip": null,
+        "total": 331.99
+    }
+]

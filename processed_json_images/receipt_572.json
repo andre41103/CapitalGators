@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Restaurant McDonald's de PARIS CRIMEE",
+        "transaction_date": "2012-03-10",
+        "items": [
+            {
+                "description": "Moyen Coca",
+                "quantity": 1.0,
+                "price": 2.3,
+                "total_price": 2.3
+            },
+            {
+                "description": "Moyen Ice T",
+                "quantity": 1.0,
+                "price": 2.3,
+                "total_price": 2.3
+            },
+            {
+                "description": "McChicken",
+                "quantity": 1.0,
+                "price": 2.0,
+                "total_price": 2.0
+            },
+            {
+                "description": "Hamb",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "Petit Frite",
+                "quantity": 2.0,
+                "price": 1.0,
+                "total_price": 2.0
+            }
+        ],
+        "subtotal": 9.6,
+        "tax": 0.63,
+        "tip": null,
+        "total": 20.0
+    }
+]

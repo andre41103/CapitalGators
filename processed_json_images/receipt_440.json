@@ -1,0 +1,584 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TESCO",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "ODLUMS TWINPK",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "TROPICANA",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.27
+            },
+            {
+                "description": "CHOPPED TOMS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.79
+            },
+            {
+                "description": "CEREALS",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.35
+            },
+            {
+                "description": "CHOPPED TOMS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.79
+            },
+            {
+                "description": "SARDINES",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.47
+            },
+            {
+                "description": "RICE SNAPS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.9
+            },
+            {
+                "description": "MARMITE",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 3.69
+            },
+            {
+                "description": "FRESH MILK",
+                "quantity": 3.0,
+                "price": 1.49,
+                "total_price": 4.47
+            },
+            {
+                "description": "ORG",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "RICE",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "DREAM",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 2.49
+            },
+            {
+                "description": "BAKING",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "POWDER",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 1.29
+            },
+            {
+                "description": "FRUIT",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 3.49
+            },
+            {
+                "description": "CLOVER",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 2.29
+            },
+            {
+                "description": "SOFT",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "CHEESE",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 2.59
+            },
+            {
+                "description": "SARDINES",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 0.47
+            },
+            {
+                "description": "SARDINE",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "BRINE",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 0.55
+            },
+            {
+                "description": "CLOVER",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.29
+            },
+            {
+                "description": "DELI TWIN PK",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "PETITS",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "POIS",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 2.19
+            },
+            {
+                "description": "RASHERS",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "G/I",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "SPINH450G",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 1.59
+            },
+            {
+                "description": "AVONMORE",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "BUTTER",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 1.58
+            },
+            {
+                "description": "G/I",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "SPINH450G",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 1.59
+            },
+            {
+                "description": "STORK",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "MARG",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 0.95
+            },
+            {
+                "description": "TOMATOES OTV",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.79
+            },
+            {
+                "description": "HAZE_NUTS 300G",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.69
+            },
+            {
+                "description": "MV IRISH MROOM",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "CR MEFRAICHE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.59
+            },
+            {
+                "description": "SOFT CHEESE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.59
+            },
+            {
+                "description": "RED ONIONS 1KG",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.79
+            },
+            {
+                "description": "ONION LSE",
+                "quantity": 1.43,
+                "price": 0.89,
+                "total_price": 1.27
+            },
+            {
+                "description": "RED POTS",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.67
+            },
+            {
+                "description": "BANANAS LOOSE",
+                "quantity": 0.93,
+                "price": 1.15,
+                "total_price": 1.07
+            },
+            {
+                "description": "GRAPES",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "SPINACH",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "BABY",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "HORROR LOLLIES",
+                "quantity": 2.0,
+                "price": 0.49,
+                "total_price": 0.98
+            },
+            {
+                "description": "RED CHILLIES",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.63
+            },
+            {
+                "description": "CORIANDER 30G",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.19
+            },
+            {
+                "description": "PEPPERS MIXED",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "JAFFA CAKES",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.59
+            },
+            {
+                "description": "FISH FINGERS",
+                "quantity": 2.0,
+                "price": 1.74,
+                "total_price": 3.48
+            },
+            {
+                "description": "SMOKED CHEESE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "CAKE",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 1.35
+            },
+            {
+                "description": "COVERING\nHORROR LOLLIES",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.49
+            },
+            {
+                "description": "LOOSE ROOST POTS",
+                "quantity": 0.72,
+                "price": 1.19,
+                "total_price": 0.86
+            },
+            {
+                "description": "AFTER EIGHTS",
+                "quantity": 2.0,
+                "price": 1.99,
+                "total_price": 3.98
+            },
+            {
+                "description": "M VALUE LEEKS",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 1.79
+            },
+            {
+                "description": "SPONGE",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "FINGERS",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 1.19
+            },
+            {
+                "description": "DARK",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "CHOCOLATE",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 1.59
+            },
+            {
+                "description": "BOURBON",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "CREAMS",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 0.65
+            },
+            {
+                "description": "T PLAIN WRAPS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.25
+            },
+            {
+                "description": "8 POTATO FARLS",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.15
+            },
+            {
+                "description": "MAGAZINE",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.14
+            },
+            {
+                "description": "BUTR CROISSANT",
+                "quantity": 5.0,
+                "price": 0.55,
+                "total_price": 2.75
+            },
+            {
+                "description": "NEWSPAPERS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.8
+            },
+            {
+                "description": "PHILADELPHIA 300G BOGOF",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.25
+            },
+            {
+                "description": "GREEN",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "CLOVER\nBOGOF",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "500G",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": -2.59
+            }
+        ],
+        "subtotal": 111.6,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

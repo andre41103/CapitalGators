@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "FAMILY RESTAURANT",
+        "transaction_date": "2016-08-23",
+        "items": [
+            {
+                "description": "HP-Boodae Jigae",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 42.8
+            }
+        ],
+        "subtotal": 42.8,
+        "tax": 3.3,
+        "tip": 4.28,
+        "total": 50.4
+    }
+]

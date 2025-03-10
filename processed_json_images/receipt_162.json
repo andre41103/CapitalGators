@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Dominican Restaurant",
+        "transaction_date": "2018-11-10",
+        "items": [
+            {
+                "description": "Bistec Palomilla Enc",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.95
+            },
+            {
+                "description": "Spaghetti Con Pollo",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Hab Rojas . Red Bean\nDine in",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.95
+            },
+            {
+                "description": "Copa Vino",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "Lemonada",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "Jugo de Chinola",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Gratuity.",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.59
+            }
+        ],
+        "subtotal": 50.49,
+        "tax": 2.74,
+        "tip": null,
+        "total": 53.23
+    }
+]

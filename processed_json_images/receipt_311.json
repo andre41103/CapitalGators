@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CENTRAL PARK STEAK HOUSE",
+        "transaction_date": "2017-09-02",
+        "items": [
+            {
+                "description": "J.YORK/QUESO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "ATUN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.2
+            },
+            {
+                "description": "1 L. SANGRIA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 16.7
+    }
+]

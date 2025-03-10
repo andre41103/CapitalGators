@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SHAKE SHACK",
+        "transaction_date": "2015-03-03",
+        "items": [
+            {
+                "description": "ShackBurger",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.19
+            },
+            {
+                "description": "Smoke Shack",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.69
+            },
+            {
+                "description": "cheese fries",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.95
+            },
+            {
+                "description": "REG Soda",
+                "quantity": 2.0,
+                "price": 2.75,
+                "total_price": 5.5
+            },
+            {
+                "description": "REG Iced Tea",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.25
+            }
+        ],
+        "subtotal": 23.58,
+        "tax": 1.89,
+        "tip": null,
+        "total": 25.47
+    }
+]

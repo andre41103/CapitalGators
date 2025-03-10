@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Anantara Chiang Mai",
+        "transaction_date": "2018-01-14",
+        "items": [
+            {
+                "description": "ACQUA PANNA 75CL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 250.0
+            },
+            {
+                "description": "SAM ROD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 328.0
+            },
+            {
+                "description": "Gaeng Kewaan Ped",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 320.0
+            },
+            {
+                "description": "ICE CREAMS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 88.0
+            }
+        ],
+        "subtotal": 986.0,
+        "tax": 75.92,
+        "tip": 98.6,
+        "total": 1160.52
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Bubba Gump Shrimp Co",
+        "transaction_date": "2018-06-28",
+        "items": [
+            {
+                "description": "Pepsi",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "Lemonade",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "Coffee",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "Popcorn Shrimp Appetizer",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.59
+            },
+            {
+                "description": "Fish and Chips",
+                "quantity": null,
+                "price": null,
+                "total_price": 18.49
+            },
+            {
+                "description": "Clam Chowder Cup",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.59
+            },
+            {
+                "description": "Jambalaya",
+                "quantity": null,
+                "price": null,
+                "total_price": 20.59
+            }
+        ],
+        "subtotal": 67.76,
+        "tax": 3.39,
+        "tip": null,
+        "total": 71.15
+    }
+]

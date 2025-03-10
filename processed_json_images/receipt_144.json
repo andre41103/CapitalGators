@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Arthurs",
+        "transaction_date": "2017-10-01",
+        "items": [
+            {
+                "description": "Arthur's Burger *ChsBleu",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.95
+            },
+            {
+                "description": "\"Our\" Burger ** Avocado",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.95
+            },
+            {
+                "description": "Loaded Nachos",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.95
+            },
+            {
+                "description": "Pint Boston Lager",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Pint Yeungling",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Kona Longboard",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Quesadilla",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.95
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.98,
+        "tip": null,
+        "total": 84.78
+    }
+]

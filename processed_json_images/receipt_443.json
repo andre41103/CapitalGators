@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Gap -",
+        "transaction_date": "2012-08-14",
+        "items": [
+            {
+                "description": "BRKN IN STR GD",
+                "quantity": 1.0,
+                "price": 49.95,
+                "total_price": 44.95
+            },
+            {
+                "description": "SL EMBROIDERED",
+                "quantity": 1.0,
+                "price": 49.95,
+                "total_price": 44.96
+            }
+        ],
+        "subtotal": 89.91,
+        "tax": 7.42,
+        "tip": null,
+        "total": 97.33
+    }
+]

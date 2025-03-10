@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PIZZA HUT",
+        "transaction_date": "2018-10-25",
+        "items": [
+            {
+                "description": "$FiveLU",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.49
+            },
+            {
+                "description": "$FiveLU",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.69
+            },
+            {
+                "description": "PiTcher",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.5
+            }
+        ],
+        "subtotal": 23.5,
+        "tax": 2.32,
+        "tip": 0.94,
+        "total": 26.76
+    }
+]

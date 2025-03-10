@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MOBY 'S RESTAURANT",
+        "transaction_date": "2012-08-20",
+        "items": [
+            {
+                "description": "DIET T1",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "CLASSIC T1",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            }
+        ],
+        "subtotal": 11.0,
+        "tax": null,
+        "tip": null,
+        "total": 12.05
+    }
+]

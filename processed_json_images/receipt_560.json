@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Gray Inc",
+        "transaction_date": "2014-04-11",
+        "items": [
+            {
+                "description": "Used Couch Dark Blue",
+                "quantity": 2.0,
+                "price": 97.0,
+                "total_price": 213.4
+            },
+            {
+                "description": "6'x3' Black Marble Top Dining\nTable Scagliola Inlay Antique\nArts Kitchen Decor",
+                "quantity": 2.0,
+                "price": 5.0,
+                "total_price": 11585.13
+            },
+            {
+                "description": "Semi Precious Stone Inlay Art\nIsland Table Top Marble Dinning\nTable 36 Inches",
+                "quantity": 3.0,
+                "price": 1.0,
+                "total_price": 5779.13
+            },
+            {
+                "description": "7'x4' Blue Random Marble\nDining Hallway Table Top Lapis\nLazuli Inlay Decor E947A",
+                "quantity": 1.0,
+                "price": 8.0,
+                "total_price": 9013.5
+            }
+        ],
+        "subtotal": 24173.78,
+        "tax": 2417.38,
+        "tip": null,
+        "total": 26591.16
+    }
+]

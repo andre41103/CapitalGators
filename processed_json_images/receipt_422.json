@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "COACH",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "LEG MIL LTH LRG URL :SILV",
+                "quantity": 1.0,
+                "price": 118.0,
+                "total_price": 118.0
+            }
+        ],
+        "subtotal": 118.0,
+        "tax": 7.38,
+        "tip": null,
+        "total": 125.38
+    }
+]

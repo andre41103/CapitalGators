@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BURGER",
+        "transaction_date": "2017-05-12",
+        "items": [
+            {
+                "description": "*American Burger",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.5
+            },
+            {
+                "description": "*Salt And Sichuan Pepper Chips S",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.9
+            },
+            {
+                "description": "*Coke",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.5
+            }
+        ],
+        "subtotal": 17.9,
+        "tax": 1.62,
+        "tip": null,
+        "total": 17.9
+    }
+]

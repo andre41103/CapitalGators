@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Maui Teriyaki",
+        "transaction_date": "2017-10-25",
+        "items": [
+            {
+                "description": "Salmon Plate",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.49
+            },
+            {
+                "description": "Extra Shrimp",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.45
+            }
+        ],
+        "subtotal": 12.94,
+        "tax": 1.23,
+        "tip": null,
+        "total": 14.17
+    }
+]

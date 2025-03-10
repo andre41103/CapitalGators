@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "JT's Diner",
+        "transaction_date": "2016-02-12",
+        "items": [
+            {
+                "description": "Coffee",
+                "quantity": 2.0,
+                "price": 2.95,
+                "total_price": 5.9
+            },
+            {
+                "description": "Two Eggs Any Style",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.95
+            },
+            {
+                "description": "Whole-Wheat Pancakes",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.95
+            },
+            {
+                "description": "Hawaiian Sausage",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.5
+            }
+        ],
+        "subtotal": 26.3,
+        "tax": 2.1,
+        "tip": null,
+        "total": 28.4
+    }
+]

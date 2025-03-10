@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Cook LLC",
+        "transaction_date": "2017-12-25",
+        "items": [
+            {
+                "description": "48 Inches Marble Dinning Table\nTop Hand Crafted Conference\nTable with Royal Look",
+                "quantity": 3.0,
+                "price": 2.0,
+                "total_price": 9741.6
+            },
+            {
+                "description": "14 Inches Black Marble Coffee\nCum Chess Board Table Top\nwith Unique Design",
+                "quantity": 3.0,
+                "price": 225.25,
+                "total_price": 743.33
+            },
+            {
+                "description": "12\" White Marble Coffee Table\nTop Malachite Precious Inlay\nDecor Furniture W534",
+                "quantity": 2.0,
+                "price": 295.73,
+                "total_price": 650.61
+            },
+            {
+                "description": "12\" Marble Coffee Side Table\nTop Lapis Peacock Floral Inlay\nBedroom Decors W019",
+                "quantity": 4.0,
+                "price": 248.78,
+                "total_price": 1094.63
+            },
+            {
+                "description": "12\"x12\" Wild Agate Stone Side\nCoffee Table Top Handicrafted\nKitchen Decors A042",
+                "quantity": 4.0,
+                "price": 259.77,
+                "total_price": 1142.99
+            },
+            {
+                "description": "36 Inches Marble Dinning Table\nTop Inlay Meeting Table with\nSemi Precious Stone",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 2061.68
+            },
+            {
+                "description": "26\"x26\" Marble Black Top\nCoffee Table Inlay Floral\nPietradura Art Christmas Gift",
+                "quantity": 2.0,
+                "price": 1.0,
+                "total_price": 3275.8
+            }
+        ],
+        "subtotal": 17009.66,
+        "tax": 1700.97,
+        "tip": null,
+        "total": 18710.63
+    }
+]

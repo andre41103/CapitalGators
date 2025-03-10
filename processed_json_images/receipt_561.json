@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Hood Ranch",
+        "transaction_date": "2016-07-26",
+        "items": [
+            {
+                "description": "25 oz Moose Drool",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.75
+            },
+            {
+                "description": "Santa Fe BBQ Ckn Sandwich",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.95
+            },
+            {
+                "description": "Trefethen Est. Merlot",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Veggie Burger",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.95
+            },
+            {
+                "description": "Fresh Fruit Smoothies",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.95
+            }
+        ],
+        "subtotal": 48.55,
+        "tax": 3.89,
+        "tip": null,
+        "total": 52.44
+    }
+]

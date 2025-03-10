@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Lalo's Mexican at Navy Pier",
+        "transaction_date": "2017-08-24",
+        "items": [
+            {
+                "description": "Bottled Water",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.45
+            },
+            {
+                "description": "Add Pollo Taco",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.95
+            },
+            {
+                "description": "Add Carnitas Taco",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.95
+            },
+            {
+                "description": "Sour Cream",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.25
+            },
+            {
+                "description": "Chihuahua Cheese",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.25
+            }
+        ],
+        "subtotal": 14.85,
+        "tax": null,
+        "tip": null,
+        "total": 16.56
+    }
+]

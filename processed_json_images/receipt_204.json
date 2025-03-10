@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2013-08-04",
+        "items": [
+            {
+                "description": "Nintendo GameCube Console\nDOL-001 Black w/ Controller,\nPower, A/V,",
+                "quantity": 5.0,
+                "price": 79.99,
+                "total_price": 439.95
+            },
+            {
+                "description": "Super Nintendo Entertainment\nSystem SNES Console w/Power\nVideo FAST FREE SHIP->",
+                "quantity": 1.0,
+                "price": 80.0,
+                "total_price": 88.0
+            }
+        ],
+        "subtotal": 479.95,
+        "tax": 48.0,
+        "tip": null,
+        "total": 527.95
+    }
+]

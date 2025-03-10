@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Marco Pierre White",
+        "transaction_date": "2019-02-16",
+        "items": [
+            {
+                "description": "8oz Fil Bearn",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 35.95
+            },
+            {
+                "description": "8oz Fil Au Po",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 35.95
+            },
+            {
+                "description": "Onion Ring",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.95
+            },
+            {
+                "description": "Haricots Vert",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.95
+            },
+            {
+                "description": "Choc Truf Cake",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.95
+            },
+            {
+                "description": "Lunta",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 39.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 129.75
+    }
+]

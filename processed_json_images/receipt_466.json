@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THAI NOODLES",
+        "transaction_date": "2015-12-13",
+        "items": [
+            {
+                "description": "31. Part Ka Pow",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.99
+            },
+            {
+                "description": "Steam Rice Large",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Red Curry",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.99
+            },
+            {
+                "description": "19. Pad Thai",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.99
+            },
+            {
+                "description": "Thai Ice Tea Large W/boba",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.25
+            }
+        ],
+        "subtotal": 36.22,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

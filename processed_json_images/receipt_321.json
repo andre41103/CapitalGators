@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Lady M West Third",
+        "transaction_date": "2017-08-15",
+        "items": [
+            {
+                "description": "Signature MC",
+                "quantity": 3.0,
+                "price": 8.0,
+                "total_price": 24.0
+            },
+            {
+                "description": "Cafe Latte",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.75
+            },
+            {
+                "description": "Fresh Squeezed Orange Juice",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "Cafe Latte",
+                "quantity": 2.0,
+                "price": 4.75,
+                "total_price": 9.5
+            },
+            {
+                "description": "Strawberry MF",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Signature MC",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            }
+        ],
+        "subtotal": 59.75,
+        "tax": 5.53,
+        "tip": 10.76,
+        "total": 76.04
+    }
+]

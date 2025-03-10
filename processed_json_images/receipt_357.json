@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2018-09-23",
+        "items": [
+            {
+                "description": "CAR WASH, Ea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24.95
+            },
+            {
+                "description": "CAR WASH, Ea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 37.95
+            }
+        ],
+        "subtotal": 62.9,
+        "tax": 0.0,
+        "tip": null,
+        "total": 62.9
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Juniper & Ivy",
+        "transaction_date": "2016-10-06",
+        "items": [
+            {
+                "description": "BUCATINI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.0
+            },
+            {
+                "description": "RAVIOLO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "BT TURNBULL NAPA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 90.0
+            },
+            {
+                "description": "HALIBUT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 38.0
+            },
+            {
+                "description": "YODEL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "MILK & HONEY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "COFFEE SM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "GL ROUND POND SB",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "OCTOPUS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "BEEF TARTARE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "FINLANDIA (WELL) $MARTINI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "HALIBUT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 38.0
+            },
+            {
+                "description": "SNAPPER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 28.0
+            }
+        ],
+        "subtotal": 309.0,
+        "tax": 24.72,
+        "tip": null,
+        "total": 333.72
+    }
+]

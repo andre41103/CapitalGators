@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Casa Rubio Cafe",
+        "transaction_date": "2019-05-21",
+        "items": [
+            {
+                "description": "Grilled Skirt Steak",
+                "quantity": null,
+                "price": null,
+                "total_price": 28.0
+            },
+            {
+                "description": "Fountain Sodas",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 31.0,
+        "tax": 2.75,
+        "tip": null,
+        "total": 33.75
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HEART of PORTUGAL",
+        "transaction_date": "2017-09-10",
+        "items": [
+            {
+                "description": "Traditional Pork & Clams",
+                "quantity": null,
+                "price": null,
+                "total_price": 20.95
+            },
+            {
+                "description": "Osso Buco Sp",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 28.95
+            },
+            {
+                "description": "House Wines Half Pitcher",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.0
+            }
+        ],
+        "subtotal": 65.9,
+        "tax": 5.68,
+        "tip": null,
+        "total": 71.58
+    }
+]

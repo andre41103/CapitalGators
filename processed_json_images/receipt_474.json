@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "tando's Queunsbay Mall",
+        "transaction_date": "2015-06-18",
+        "items": [
+            {
+                "description": "1/2 Chic+ISO-E",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "Coke Gin-E",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.9
+            }
+        ],
+        "subtotal": 30.8,
+        "tax": null,
+        "tip": 3.08,
+        "total": 35.9
+    }
+]

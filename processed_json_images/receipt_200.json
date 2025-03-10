@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Nonna",
+        "transaction_date": "2012-05-21",
+        "items": [
+            {
+                "description": "Tartare di Tonno",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1700.2
+            },
+            {
+                "description": "Linguine Scampi",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "Branzino",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 28.0
+            },
+            {
+                "description": "Pizza Americana",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Carrot Cake",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Gl Sangiovese",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Gl Merlot",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "Misc Food",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            }
+        ],
+        "subtotal": 118.0,
+        "tax": 10.33,
+        "tip": null,
+        "total": 128.33
+    }
+]

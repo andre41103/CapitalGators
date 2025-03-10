@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Lone Star Cafe",
+        "transaction_date": "2016-06-03",
+        "items": [
+            {
+                "description": "Avion Silver",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.5
+            },
+            {
+                "description": "12oz Bud Light",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.25
+            },
+            {
+                "description": "Fried Pickles",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.99
+            },
+            {
+                "description": "D Onion Rings",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.99
+            },
+            {
+                "description": "D Chicken Wings",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "Bud Light Aluminum 16 oz",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Bud Light Aluminum 16 oz",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 49.72,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

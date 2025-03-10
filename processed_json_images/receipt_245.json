@@ -1,0 +1,104 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Crest Foods",
+        "transaction_date": "2009-01-28",
+        "items": [
+            {
+                "description": "DG THIN PEP MUSH BCN",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "LOF HNY HAM 16Z",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.98
+            },
+            {
+                "description": "DOLE HRT DLGHT 8",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.69
+            },
+            {
+                "description": "SL CL WHEAT 20",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "UB RDY RC SANTA FE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.69
+            },
+            {
+                "description": "UB WHL GRNB RR",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.69
+            },
+            {
+                "description": "UB WHL GRNB RR",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.69
+            },
+            {
+                "description": "SANTITOS WHT 16Z",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.29
+            },
+            {
+                "description": "HHELP LASAGNA 7",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "HHELP CHILI MAC",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "GG BABY CARROTS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "AB LONG SPAG 24Z",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.25
+            },
+            {
+                "description": "HTS CHNK GARLIC",
+                "quantity": null,
+                "price": null,
+                "total_price": 99.0
+            },
+            {
+                "description": "BC 12 MM LNGHN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.98
+            },
+            {
+                "description": "TOST MED SALSA24",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 22.73,
+        "tax": 2.74,
+        "tip": null,
+        "total": 35.47
+    }
+]

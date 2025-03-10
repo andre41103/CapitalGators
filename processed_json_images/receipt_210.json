@@ -1,0 +1,92 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "NIKKI BEACH",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "BATEAU CAVIAR GM 98P",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 1440.0
+            },
+            {
+                "description": "BELUGA 125G",
+                "quantity": 6.0,
+                "price": null,
+                "total_price": 13020.0
+            },
+            {
+                "description": "MATHU.RSE DOM.PE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 50000.0
+            },
+            {
+                "description": "JERO DOM PE ROSE",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 40000.0
+            },
+            {
+                "description": "LANGOUSTE 3KG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 810.0
+            },
+            {
+                "description": "LOUP 1KG",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 1050.0
+            },
+            {
+                "description": "LANGOUSTE 800G",
+                "quantity": 5.0,
+                "price": null,
+                "total_price": 1080.0
+            },
+            {
+                "description": "EVIAN",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 40.0
+            },
+            {
+                "description": "BADOIT",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "COCA COLA",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "COCA LIGHT",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "THE",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "CAPPUCINO",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 12.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

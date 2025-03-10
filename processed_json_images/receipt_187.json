@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Primo\nFamily Restaurant",
+        "transaction_date": "2019-05-03",
+        "items": [
+            {
+                "description": "Prem Glass",
+                "quantity": 3.0,
+                "price": 7.5,
+                "total_price": 22.5
+            },
+            {
+                "description": "MED Veggie",
+                "quantity": 1.0,
+                "price": 27.0,
+                "total_price": 27.0
+            }
+        ],
+        "subtotal": 49.5,
+        "tax": 2.97,
+        "tip": null,
+        "total": 52.47
+    }
+]

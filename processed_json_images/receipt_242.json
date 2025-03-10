@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Philippine Pizza Inc.",
+        "transaction_date": "2014-07-25",
+        "items": [
+            {
+                "description": "CAJUN FISHRICE",
+                "quantity": 1.0,
+                "price": 149.0,
+                "total_price": 149.0
+            },
+            {
+                "description": "LEMONADE",
+                "quantity": 1.0,
+                "price": 59.0,
+                "total_price": 59.0
+            }
+        ],
+        "subtotal": 208.0,
+        "tax": null,
+        "tip": 18.6,
+        "total": 226.6
+    }
+]

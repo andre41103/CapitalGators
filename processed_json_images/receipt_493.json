@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Marsh-Baker",
+        "transaction_date": "2020-11-12",
+        "items": [
+            {
+                "description": "Fast i5 RGB Gaming Desktop PC\nComputer nVidia Gefore WiFi\nFortnite GTAV PUBG IG3",
+                "quantity": 4.0,
+                "price": 510.0,
+                "total_price": 2244.0
+            },
+            {
+                "description": "Optiplex Desktop Computer\n-\nIntel Core 2 Duo - 4GB Memory -\n160GB Hard",
+                "quantity": 2.0,
+                "price": 157.3,
+                "total_price": 346.06
+            },
+            {
+                "description": "STUDENT/WORK COMPUTER\nWORKSTATION WINDOWS 10\nPRO",
+                "quantity": 3.0,
+                "price": 100.0,
+                "total_price": 330.0
+            },
+            {
+                "description": "HP 8200 USFF Desktop\nComputer PC Core i5 4GB\n500GB Windows 10 Pro\nDisplayPort",
+                "quantity": 2.0,
+                "price": 99.95,
+                "total_price": 219.89
+            }
+        ],
+        "subtotal": 2854.5,
+        "tax": 285.45,
+        "tip": null,
+        "total": 3139.95
+    }
+]

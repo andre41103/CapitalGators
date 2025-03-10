@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Byrd Group",
+        "transaction_date": "2012-04-09",
+        "items": [
+            {
+                "description": "Nintendo 64 Pokemon Pikachu\nLimited Edition video game\nconsole set",
+                "quantity": 5.0,
+                "price": 199.98,
+                "total_price": 1.0
+            },
+            {
+                "description": "SONY Playstation2 Slim Console\nset \" SCPH-90000 / White \" /\nTESTED Working 11193",
+                "quantity": 4.0,
+                "price": 90.0,
+                "total_price": 396.0
+            },
+            {
+                "description": "Nintendo Wii White Console\nRVL-001 Bundle 10 games\nComplete Gamecube\nCompatible",
+                "quantity": 3.0,
+                "price": 100.0,
+                "total_price": 330.0
+            },
+            {
+                "description": "Nintendo N64 Atomic Purple\nConsole in box Mario Kart in box\n+Extras",
+                "quantity": 5.0,
+                "price": 51.0,
+                "total_price": 280.5
+            },
+            {
+                "description": "Nintendo Switch Lite Gray\nCONSOLE ONLY - No\nAccessories or Charger [B4-4]",
+                "quantity": 3.0,
+                "price": 135.0,
+                "total_price": 445.5
+            },
+            {
+                "description": "New Nintendo 3DS XL Red\nSystem Console Working W/ AC\nAdapter Bundle",
+                "quantity": 3.0,
+                "price": 149.99,
+                "total_price": 494.97
+            }
+        ],
+        "subtotal": 2769.87,
+        "tax": 276.99,
+        "tip": null,
+        "total": 3046.86
+    }
+]

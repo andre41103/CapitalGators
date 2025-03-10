@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Tea",
+                "quantity": 3.0,
+                "price": 2.5,
+                "total_price": null
+            },
+            {
+                "description": "Kokos Salad",
+                "quantity": 2.0,
+                "price": 12.95,
+                "total_price": 14.0
+            }
+        ],
+        "subtotal": 48.35,
+        "tax": 3.47,
+        "tip": null,
+        "total": 53.03
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Victoria Falls Hotel",
+        "transaction_date": "2008-03-23",
+        "items": [
+            {
+                "description": "Castle",
+                "quantity": 2.0,
+                "price": 95.6,
+                "total_price": 191270000.0
+            },
+            {
+                "description": "Min Water",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 95635000.0
+            },
+            {
+                "description": "Dinner B",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 956350000.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

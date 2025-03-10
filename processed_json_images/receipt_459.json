@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Laque Nail Bar &\nBeauty Lounge, Inc.",
+        "transaction_date": "2015-01-04",
+        "items": [
+            {
+                "description": "Gel Polish Add",
+                "quantity": null,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "Soda POP! - Kid",
+                "quantity": null,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "Nail Art ( 2 Na",
+                "quantity": null,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "Regular Acrylic",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.0
+            }
+        ],
+        "subtotal": 75.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 75.0
+    }
+]

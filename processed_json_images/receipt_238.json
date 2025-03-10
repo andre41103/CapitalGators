@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CAFE MATISSE",
+        "transaction_date": "2013-05-11",
+        "items": [
+            {
+                "description": "Pinot Grigo",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "Pinot Grigo",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "Stone Crab",
+                "quantity": null,
+                "price": null,
+                "total_price": 27.0
+            },
+            {
+                "description": "CANNELLONI SPINACH",
+                "quantity": null,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "GRILLED VEAL CHOP",
+                "quantity": null,
+                "price": null,
+                "total_price": 44.0
+            },
+            {
+                "description": "Course 2",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "AVOCADO MOUSSE",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Zabayone",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "American Coffee",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "Cappuccino",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 148.5,
+        "tax": null,
+        "tip": 22.28,
+        "total": 170.78
+    }
+]

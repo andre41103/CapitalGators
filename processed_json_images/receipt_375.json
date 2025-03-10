@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Colony",
+        "transaction_date": "2011-06-28",
+        "items": [
+            {
+                "description": "Bottle Water",
+                "quantity": 8.0,
+                "price": null,
+                "total_price": 48.0
+            },
+            {
+                "description": "MAG Grey Goose",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 2550.0
+            },
+            {
+                "description": "BTL Patron Silvr",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 850.0
+            },
+            {
+                "description": "Ace of Spades",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 4400.0
+            }
+        ],
+        "subtotal": 7848.0,
+        "tax": 918.22,
+        "tip": 1569.6,
+        "total": 10335.82
+    }
+]

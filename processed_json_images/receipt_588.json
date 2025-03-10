@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RED COW",
+        "transaction_date": "2016-06-04",
+        "items": [
+            {
+                "description": "DIET COKE",
+                "quantity": 2.0,
+                "price": 2.75,
+                "total_price": 5.5
+            },
+            {
+                "description": "Ultimate Burger",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.75
+            },
+            {
+                "description": "SH POTATO PLANK",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Manhattan 2.0",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.5
+            }
+        ],
+        "subtotal": 33.75,
+        "tax": 3.64,
+        "tip": null,
+        "total": 37.39
+    }
+]

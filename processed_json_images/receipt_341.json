@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Pathiri Restaurant",
+        "transaction_date": "2017-03-24",
+        "items": [
+            {
+                "description": "lamb Biryani",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "Chicken Tikka",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.95
+            },
+            {
+                "description": "Saag Paneer",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "Pulavu Rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.75
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 30.2
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Brazilian Steak House",
+        "transaction_date": "2018-04-13",
+        "items": [
+            {
+                "description": "DINNER RODIZIO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 41.95
+            }
+        ],
+        "subtotal": 41.95,
+        "tax": 2.94,
+        "tip": 10.49,
+        "total": 55.38
+    }
+]

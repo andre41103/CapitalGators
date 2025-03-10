@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "FORT LEE",
+        "transaction_date": "2016-02-10",
+        "items": [
+            {
+                "description": "Cappuccino (S)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Cafe Americano (L)",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.95
+            },
+            {
+                "description": "Redbean Bread",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.95
+            },
+            {
+                "description": "Sweet Corn Cream Donut",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            }
+        ],
+        "subtotal": 9.9,
+        "tax": null,
+        "tip": null,
+        "total": 9.9
+    }
+]

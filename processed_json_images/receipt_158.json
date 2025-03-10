@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "COLLEGE OF SOUTHERN NEVADA",
+        "transaction_date": "2014-10-08",
+        "items": [
+            {
+                "description": "LATTE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.75
+            },
+            {
+                "description": "SALMON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.95
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 9.7
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "JENERIS by Abren",
+        "transaction_date": "2014-07-21",
+        "items": [
+            {
+                "description": "Combo Set Lunch Home Cook Curr",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.9
+            }
+        ],
+        "subtotal": 16.54,
+        "tax": 0.89,
+        "tip": 0.75,
+        "total": 16.55
+    }
+]

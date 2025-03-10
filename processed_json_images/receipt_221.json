@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TECK KEE (2012) CHICKEN RICE PTE LTD",
+        "transaction_date": "2015-08-30",
+        "items": [
+            {
+                "description": "PORTION",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "-\nDUMPLING NOCOLE",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "SHRIMP OMELETTE",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "HENG CAI SOUP",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "HONEY G PORK RIBS",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": 35.5,
+        "tax": 0.0,
+        "tip": null,
+        "total": 35.5
+    }
+]

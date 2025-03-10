@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Wendy's Restaurant",
+        "transaction_date": "2017-03-18",
+        "items": [
+            {
+                "description": "Veggie Sandwich",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Small Fries",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.89
+            },
+            {
+                "description": "Plain Potato",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.79
+            }
+        ],
+        "subtotal": 4067.0,
+        "tax": 0.32,
+        "tip": null,
+        "total": 4.99
+    }
+]

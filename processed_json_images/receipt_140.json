@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SS PARADISE",
+        "transaction_date": "2017-07-06",
+        "items": [
+            {
+                "description": "TANDOORI CHICKEN",
+                "quantity": 1.0,
+                "price": 179.0,
+                "total_price": 179.0
+            },
+            {
+                "description": "MUTTON RAGON JOSH",
+                "quantity": 1.0,
+                "price": 209.0,
+                "total_price": 209.0
+            },
+            {
+                "description": "FISH BIRIYANI",
+                "quantity": 1.0,
+                "price": 229.0,
+                "total_price": 229.0
+            }
+        ],
+        "subtotal": 617.0,
+        "tax": null,
+        "tip": null,
+        "total": 617.0
+    }
+]

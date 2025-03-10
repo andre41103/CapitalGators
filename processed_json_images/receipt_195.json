@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Bar Rua",
+        "transaction_date": "2018-08-17",
+        "items": [
+            {
+                "description": "GLS CARRIG LAGER",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 6.6
+            },
+            {
+                "description": "WINGS SMALL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "FRESH COD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "SHELLFISH POT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.5
+            },
+            {
+                "description": "FISH CAKES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "PORTION BREAD LARGE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 65.1
+    }
+]

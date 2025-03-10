@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BETAWI",
+        "transaction_date": "2016-02-16",
+        "items": [
+            {
+                "description": "BAKSO MEAT BALL SOUP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 32.0
+            },
+            {
+                "description": "BIHUN GORENG",
+                "quantity": null,
+                "price": null,
+                "total_price": 32.0
+            },
+            {
+                "description": "BOTTLED WATER LARGE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "GADO GADO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 32.0
+            },
+            {
+                "description": "NASI GORENG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 32.0
+            },
+            {
+                "description": "SATE AYAM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 64.0
+            },
+            {
+                "description": "SOTO AYAM",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 32.0
+            },
+            {
+                "description": "SOTO AYAM",
+                "quantity": null,
+                "price": null,
+                "total_price": 27.0
+            },
+            {
+                "description": "ES CENDOL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 281.0
+    }
+]

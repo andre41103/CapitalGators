@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BED BATH & BEYOND",
+        "transaction_date": "2011-11-27",
+        "items": [
+            {
+                "description": "CAFE LATTE HRCOF\n17",
+                "quantity": null,
+                "price": null,
+                "total_price": 99.99
+            },
+            {
+                "description": "IRON BRD EASY BLU",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.99
+            }
+        ],
+        "subtotal": 116.98,
+        "tax": 9.65,
+        "tip": null,
+        "total": 126.63
+    }
+]

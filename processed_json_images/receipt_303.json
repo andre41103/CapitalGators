@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CHILIS MUSCAT",
+        "transaction_date": "2009-06-03",
+        "items": [
+            {
+                "description": "Cajun Ribeye",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.9
+            },
+            {
+                "description": "Monterey Chicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.2
+            },
+            {
+                "description": "AQUAFINA LARGE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Cheesecake",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "Apple Cobbler",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.629,
+        "tip": null,
+        "total": 19.729
+    }
+]

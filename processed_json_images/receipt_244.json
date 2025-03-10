@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KRYSTAL",
+        "transaction_date": "2015-08-23",
+        "items": [
+            {
+                "description": "2 Sunrisers",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Sunrsr",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.96
+            },
+            {
+                "description": "Krysper",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 9.96,
+        "tax": 0.9,
+        "tip": null,
+        "total": 10.86
+    }
+]

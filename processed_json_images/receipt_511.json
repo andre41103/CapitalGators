@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TAI CHONG SEAFOOD SDN BHD",
+        "transaction_date": "2016-10-05",
+        "items": [
+            {
+                "description": "SR STEAMED EGG",
+                "quantity": 1.0,
+                "price": 10.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "SR FISH",
+                "quantity": 1.0,
+                "price": 24.0,
+                "total_price": 24.0
+            },
+            {
+                "description": "SR VEGETABLES",
+                "quantity": 1.0,
+                "price": 15.0,
+                "total_price": 15.0
+            },
+            {
+                "description": "SR RICE",
+                "quantity": 1.0,
+                "price": 1.2,
+                "total_price": 1.2
+            },
+            {
+                "description": "CHINESE TEA",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 50.18,
+        "tax": 3.01,
+        "tip": 0.0,
+        "total": 53.2
+    }
+]

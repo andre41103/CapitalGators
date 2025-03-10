@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THAI TUK TUK RESTAURANT",
+        "transaction_date": "2016-08-23",
+        "items": [
+            {
+                "description": "SOM TAM THAI TUK TUK",
+                "quantity": 1.0,
+                "price": 15.9,
+                "total_price": 15.9
+            },
+            {
+                "description": "PANDAN CHICKEN",
+                "quantity": 1.0,
+                "price": 13.9,
+                "total_price": 13.9
+            },
+            {
+                "description": "ORI COCONUT SHAKE",
+                "quantity": 1.0,
+                "price": 15.9,
+                "total_price": 15.9
+            },
+            {
+                "description": "ICE/C THAI BORAN",
+                "quantity": 1.0,
+                "price": 16.9,
+                "total_price": 16.9
+            }
+        ],
+        "subtotal": 62.6,
+        "tax": 3.94,
+        "tip": 3.13,
+        "total": 69.7
+    }
+]

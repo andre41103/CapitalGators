@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HMS",
+        "transaction_date": "2016-04-04",
+        "items": [
+            {
+                "description": "DB WOODFRD RES Z",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.99
+            },
+            {
+                "description": "CAB PEJU SAUV S",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "SAND GRLD CHIX",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.5
+            },
+            {
+                "description": "SLD SHRIMP LOUIE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "SD BRUSSEL SPRTS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            }
+        ],
+        "subtotal": 74.49,
+        "tax": 5.96,
+        "tip": null,
+        "total": 80.45
+    }
+]

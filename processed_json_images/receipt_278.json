@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Jante's Italian",
+        "transaction_date": "2016-08-22",
+        "items": [
+            {
+                "description": "Sunburst",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.25
+            },
+            {
+                "description": "Garlic Bread",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.75
+            },
+            {
+                "description": "Bolognese Pasta",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 21.9
+            },
+            {
+                "description": "The Porkie",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.95
+            }
+        ],
+        "subtotal": null,
+        "tax": 7.48,
+        "tip": null,
+        "total": 44.85
+    }
+]

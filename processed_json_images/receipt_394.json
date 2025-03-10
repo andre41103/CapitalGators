@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Browns Covent Gardens",
+        "transaction_date": "2017-05-20",
+        "items": [
+            {
+                "description": "Afternoon Tea 2",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 28.0
+            },
+            {
+                "description": "125MercierBlcdeN",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.95
+            },
+            {
+                "description": "125MercierBlcdeN",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.95
+            },
+            {
+                "description": "RhuCCollins",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "British Royale",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "250ml\nMontRochViognier",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 17.7
+            }
+        ],
+        "subtotal": 72.6,
+        "tax": null,
+        "tip": 7.26,
+        "total": null
+    }
+]

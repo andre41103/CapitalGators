@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "DOWNSTAIRS",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "PREPAY CA #14",
+                "quantity": null,
+                "price": null,
+                "total_price": 25.0
+            },
+            {
+                "description": "Premium Car Wash",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.99
+            }
+        ],
+        "subtotal": 30.99,
+        "tax": 0.0,
+        "tip": null,
+        "total": 30.99
+    }
+]

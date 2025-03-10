@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Iron Horse\nTavern",
+        "transaction_date": "2014-06-04",
+        "items": [
+            {
+                "description": "3-CHEESE MAC",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.85
+            },
+            {
+                "description": "FARMHOUSE\nMELT",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "IRON HORSE BURGER",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.75
+            },
+            {
+                "description": "Smokey Ranch",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "GELATO",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "SORBET",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 33.6,
+        "tax": 2.02,
+        "tip": null,
+        "total": 35.62
+    }
+]

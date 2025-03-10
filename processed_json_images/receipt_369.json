@@ -1,0 +1,104 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Car Spa",
+        "transaction_date": "2015-05-28",
+        "items": [
+            {
+                "description": "Mobil 1 Pk -TX",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Spa Supreme - Tx",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Spa Sup. Labor - Tx",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.24
+            },
+            {
+                "description": "Spa Sup. Parts - TX",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.75
+            },
+            {
+                "description": "Mobil 1 Synth",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 48.0
+            },
+            {
+                "description": "Supreme Inspection",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Waste Fee",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "Lube Wash Discount",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -6.0
+            },
+            {
+                "description": "Mobile 1 Ow40 Btl",
+                "quantity": 5.8,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "PRGDOF:POF5581",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Exp Carpet Clean",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 39.99
+            },
+            {
+                "description": "Exp Seat Treat",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 39.99
+            },
+            {
+                "description": "2 Detail Disc",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -19.99
+            },
+            {
+                "description": "Emissions - OBD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.5
+            },
+            {
+                "description": "Sticker - ODB",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 159.48,
+        "tax": 5.34,
+        "tip": null,
+        "total": 164.82
+    }
+]

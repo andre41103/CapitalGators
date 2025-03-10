@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Kinton Ramen 5",
+        "transaction_date": "2003-09-17",
+        "items": [
+            {
+                "description": "Chicken Original",
+                "quantity": 1.0,
+                "price": 11.99,
+                "total_price": 11.99
+            },
+            {
+                "description": "Extra Pork",
+                "quantity": 1.0,
+                "price": 15.59,
+                "total_price": 15.59
+            },
+            {
+                "description": "Hot Sake",
+                "quantity": 1.0,
+                "price": 5.9,
+                "total_price": 5.9
+            },
+            {
+                "description": "PINK CALPICO SAKE",
+                "quantity": 1.0,
+                "price": 7.0,
+                "total_price": 7.0
+            }
+        ],
+        "subtotal": 40.48,
+        "tax": 5.26,
+        "tip": null,
+        "total": 45.74
+    }
+]

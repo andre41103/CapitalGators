@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2017-01-13",
+        "items": [
+            {
+                "description": "Trio App",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.2
+            },
+            {
+                "description": "Sweet Tea",
+                "quantity": 3.0,
+                "price": 2.79,
+                "total_price": 8.37
+            },
+            {
+                "description": "CHICKEN FRIED CHICKEN",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.2
+            },
+            {
+                "description": "Sub Salad",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "Ranch\nPorkPorkSand",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.3
+            },
+            {
+                "description": "Nueskes Bacon Chedr Brger",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.2
+            },
+            {
+                "description": "Sprite",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.79
+            },
+            {
+                "description": "Finger Dinner",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.2
+            }
+        ],
+        "subtotal": 70.26,
+        "tax": 5.8,
+        "tip": null,
+        "total": 76.06
+    }
+]

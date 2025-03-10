@@ -1,0 +1,104 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SAFEWAY",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "NATURE VLLY G? BY",
+                "quantity": null,
+                "price": 3.49,
+                "total_price": 0.0
+            },
+            {
+                "description": "Mfr. eCoupon",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.5
+            },
+            {
+                "description": "Mfr. eCoupon",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.5
+            },
+            {
+                "description": "Mfr. eCoupon",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.5
+            },
+            {
+                "description": "GM CHEERIOS CREAL",
+                "quantity": 201.99,
+                "price": 8.98,
+                "total_price": 3.98
+            },
+            {
+                "description": "Mfr. eCoupon",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.75
+            },
+            {
+                "description": "NV NUT LOVERS",
+                "quantity": null,
+                "price": 7.58,
+                "total_price": 3.98
+            },
+            {
+                "description": "Mfr. eCoupon",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "Mfr. eCoupon",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "Mfr. eCoupon",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "LARGE AA EGGS",
+                "quantity": null,
+                "price": 2.49,
+                "total_price": 1.99
+            },
+            {
+                "description": "FAGE TOTAL 2% YOGU",
+                "quantity": null,
+                "price": 1.99,
+                "total_price": 1.25
+            },
+            {
+                "description": "20.50\nGREEN BELL PEPPERS",
+                "quantity": null,
+                "price": 2.58,
+                "total_price": 1.0
+            },
+            {
+                "description": "MEDIUM CELERY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.5
+            },
+            {
+                "description": "GARLIC",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

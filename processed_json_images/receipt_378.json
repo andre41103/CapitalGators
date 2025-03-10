@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "67 Pall Mall",
+        "transaction_date": "2015-12-30",
+        "items": [
+            {
+                "description": "still",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Salmon Salad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 23.75
+            },
+            {
+                "description": "Red deer rigatoni",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 26.5
+            },
+            {
+                "description": "Parsnips",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Roast Potatoes",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Sprout top hearts",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.25
+            },
+            {
+                "description": "Scotch Egg",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.75
+            },
+            {
+                "description": "Open Wine",
+                "quantity": 6.0,
+                "price": null,
+                "total_price": 98.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 29.04,
+        "tip": 21.78,
+        "total": 196.03
+    }
+]

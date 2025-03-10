@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "El Meson Mexican Restaurant",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "SOPA DE TORTILA BOWL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "TACO SALAD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.5
+            },
+            {
+                "description": "HOUSE MARGARITA JUMBO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "Dr Pepper",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.65
+            },
+            {
+                "description": "SIDE CHEESE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.55
+            },
+            {
+                "description": "HOUSE MARGARITA JUMBO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            }
+        ],
+        "subtotal": 44.2,
+        "tax": 3.5,
+        "tip": null,
+        "total": 47.7
+    }
+]

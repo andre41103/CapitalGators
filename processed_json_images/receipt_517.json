@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "147-42",
+        "transaction_date": "2013-05-08",
+        "items": [
+            {
+                "description": "Margarita Pizza",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Margarita Pizza",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Bacon Pizza",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "SPECIAL DRINK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.0
+            },
+            {
+                "description": "SPECIAL DRINK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.0
+            },
+            {
+                "description": "Corona",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Corona",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Bud",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 117.0
+            }
+        ],
+        "subtotal": 127.53,
+        "tax": 10.53,
+        "tip": 19.89,
+        "total": 147.42
+    }
+]

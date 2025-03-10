@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "El Charro Cafe Ventana",
+        "transaction_date": "2018-06-24",
+        "items": [
+            {
+                "description": "Coors Light",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Ice Tea",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.25
+            },
+            {
+                "description": "Shrimp Fajita",
+                "quantity": null,
+                "price": null,
+                "total_price": 18.95
+            },
+            {
+                "description": "Stuffed Chicken",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.95
+            }
+        ],
+        "subtotal": 45.15,
+        "tax": 2.75,
+        "tip": null,
+        "total": 47.9
+    }
+]

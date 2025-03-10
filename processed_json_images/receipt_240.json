@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "IN-N-OUT BURGER GRANTS PASS",
+        "transaction_date": "2018-01-03",
+        "items": [
+            {
+                "description": "Hamburger",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.4
+            },
+            {
+                "description": "Cheesebrgr",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.7
+            },
+            {
+                "description": "Db1-Dbl",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.85
+            },
+            {
+                "description": "Fry",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.85
+            },
+            {
+                "description": "Med Soft Drink",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.6
+            },
+            {
+                "description": "Hot Cocoa",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.6
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 14.0
+    }
+]

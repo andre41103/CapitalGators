@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Hard Rock Cafe - Amsterdam",
+        "transaction_date": "2015-11-21",
+        "items": [
+            {
+                "description": "TWISTD MAC & CHZ",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.25
+            },
+            {
+                "description": "APPLE COBBLER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.25
+            },
+            {
+                "description": "SODA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.2
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.64,
+        "tip": null,
+        "total": 28.95
+    }
+]

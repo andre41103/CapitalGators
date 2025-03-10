@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Red Robin Gourmet Burgers",
+        "transaction_date": "2016-05-20",
+        "items": [
+            {
+                "description": "PORT CITY OPTIMAL WIT",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.49
+            },
+            {
+                "description": "BLEU 8G",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.69
+            },
+            {
+                "description": "GNT DOGFISH HEAD 60 IPA",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.79
+            },
+            {
+                "description": "MUSH BG",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.14
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

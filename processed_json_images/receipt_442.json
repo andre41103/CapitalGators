@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Raising\nane's\nCHICKEN",
+        "transaction_date": "2016-06-02",
+        "items": [
+            {
+                "description": "BOX COMBO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.49
+            }
+        ],
+        "subtotal": 7.49,
+        "tax": 0.57,
+        "tip": null,
+        "total": 8.06
+    }
+]

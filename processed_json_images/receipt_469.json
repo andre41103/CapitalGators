@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "500386 (030)",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "500190 (003)\nCopies 1/0 8.5x11",
+                "quantity": 2.0,
+                "price": 0.2,
+                "total_price": 0.4
+            }
+        ],
+        "subtotal": 3.4,
+        "tax": 0.04,
+        "tip": null,
+        "total": 3.44
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Solis Group",
+        "transaction_date": "2018-05-12",
+        "items": [
+            {
+                "description": "YILONG 4'x6' Handmade Carpet\nHunting Scene Hand Knotted\nSilk Rugs 079B",
+                "quantity": 3.0,
+                "price": 3.0,
+                "total_price": 11880.0
+            },
+            {
+                "description": "Yilong 8x10ft Hand knotted\nWool Carpets Home Decor\nModern Villa Area Rug P39",
+                "quantity": 2.0,
+                "price": 5.0,
+                "total_price": 11088.0
+            },
+            {
+                "description": "Black Shaggy Rug\nContemporary Living&Bedroom;\nShaggy Area Rug,Carpet\n120x80cm",
+                "quantity": 4.0,
+                "price": 24.8,
+                "total_price": 109.12
+            },
+            {
+                "description": "2x3 Blue Colour Carpet Home\nDecor Mat wall Hanging Silk\nArea Rug Hand Knotted",
+                "quantity": 1.0,
+                "price": 135.0,
+                "total_price": 148.5
+            },
+            {
+                "description": "Room Mat Morocco Rug Round\nBohemian Style Tassel Carpet\nDoor Decor Blanket",
+                "quantity": 2.0,
+                "price": 27.59,
+                "total_price": 60.7
+            },
+            {
+                "description": "New Design Rectangular Hand\nWoven Chindi Rag Rug Floor\nHandmade Carpet Aztec Mat",
+                "quantity": 3.0,
+                "price": 29.99,
+                "total_price": 98.97
+            },
+            {
+                "description": "60cmx90cm Sheepskin Fluffy\nSkin Faux Fur Fake Rug Mat\nCarpet Rugs Red",
+                "quantity": 2.0,
+                "price": 31.52,
+                "total_price": 69.34
+            }
+        ],
+        "subtotal": 21322.39,
+        "tax": 2132.24,
+        "tip": null,
+        "total": 23454.63
+    }
+]

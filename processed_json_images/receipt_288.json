@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BAR LOUIE",
+        "transaction_date": "2014-09-18",
+        "items": [
+            {
+                "description": "DOLLAR BURGER",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Coors Light Draft",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.0
+            }
+        ],
+        "subtotal": 5.25,
+        "tax": 0.2,
+        "tip": null,
+        "total": 5.45
+    }
+]

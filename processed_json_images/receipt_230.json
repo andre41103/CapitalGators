@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "MoneyGram Dawnast Systems, Inc.",
+        "transaction_date": "2016-05-14",
+        "items": [],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 400.0
+    }
+]

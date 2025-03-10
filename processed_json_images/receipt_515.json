@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Coffey Ltd",
+        "transaction_date": "2019-05-15",
+        "items": [
+            {
+                "description": "15\"x15\" White Marble Chess\nTop Table Carnelian Inlay Art\nBlack Friday Gift Deco",
+                "quantity": 2.0,
+                "price": 600.0,
+                "total_price": 1320.0
+            },
+            {
+                "description": "18\" Marble White Top Chess\nTable Handmade Collectible\nBlack Friday Gift D\u00e9cor",
+                "quantity": 5.0,
+                "price": 561.0,
+                "total_price": 3085.5
+            },
+            {
+                "description": "SOFA SET",
+                "quantity": 3.0,
+                "price": 250.0,
+                "total_price": 825.0
+            },
+            {
+                "description": "30 Inches Marble Island Table\nTop Elephant Design Coffee\nTable with Multi Stones",
+                "quantity": 3.0,
+                "price": 1.0,
+                "total_price": 3957.53
+            },
+            {
+                "description": "6'x3' Marvelous Marble Dining\nOutdoor Table Top Inlay\nMarquetry Design Art E842B",
+                "quantity": 2.0,
+                "price": 5.0,
+                "total_price": 12295.58
+            },
+            {
+                "description": "18\"x18\" White Hand Curved Top\nCoffee Table Inlay Decorative\nGift For Her Wedding",
+                "quantity": 5.0,
+                "price": 475.22,
+                "total_price": 2613.71
+            },
+            {
+                "description": "6'x3' Multi Pietra Dura Design\nMarble Dining Room Table Top\nFurniture Decor E764",
+                "quantity": 5.0,
+                "price": 5.0,
+                "total_price": 29453.44
+            }
+        ],
+        "subtotal": 48682.5,
+        "tax": 4868.25,
+        "tip": null,
+        "total": 53550.75
+    }
+]

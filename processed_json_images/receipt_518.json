@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "III GUYS RESTAURANT\n& SPORTS BAR",
+        "transaction_date": "2017-08-12",
+        "items": [
+            {
+                "description": "Blue Moon 16oz",
+                "quantity": 2.0,
+                "price": 3.75,
+                "total_price": 7.5
+            },
+            {
+                "description": "Stfd Mushrooms",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.99
+            },
+            {
+                "description": "CRAB CAKE PLAT",
+                "quantity": 2.0,
+                "price": 23.99,
+                "total_price": 47.98
+            },
+            {
+                "description": "20Z SAUCE",
+                "quantity": 2.0,
+                "price": 80.35,
+                "total_price": 0.7
+            }
+        ],
+        "subtotal": 67.17,
+        "tax": 3.59,
+        "tip": null,
+        "total": 70.76
+    }
+]

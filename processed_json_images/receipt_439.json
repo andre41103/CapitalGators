@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SEOUL GARDEN",
+        "transaction_date": "2016-03-10",
+        "items": [
+            {
+                "description": "OJINOH 2",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 35.0
+            },
+            {
+                "description": "JAEYUKE 2",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 40.0
+            },
+            {
+                "description": "RAMYEON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "LETTUCE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 95.0
+    }
+]

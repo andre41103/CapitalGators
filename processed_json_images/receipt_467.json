@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Kongress Hotel",
+        "transaction_date": "2014-01-24",
+        "items": [
+            {
+                "description": "Coca Cola",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.8
+            },
+            {
+                "description": "Cappuccino",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "Kaffee Creme",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.4
+            },
+            {
+                "description": "FROHSTOCK",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 80.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 94.7
+    }
+]

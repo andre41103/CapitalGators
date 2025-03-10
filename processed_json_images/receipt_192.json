@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MOD Pizza",
+        "transaction_date": "2019-05-19",
+        "items": [
+            {
+                "description": "Draft Beer",
+                "quantity": 2.0,
+                "price": 4.97,
+                "total_price": 9.94
+            },
+            {
+                "description": "Fountain Drink (16oz)",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.17
+            },
+            {
+                "description": "MOD Pizza",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.67
+            },
+            {
+                "description": "Mini MOD",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.67
+            }
+        ],
+        "subtotal": 27.45,
+        "tax": 2.53,
+        "tip": 3.59,
+        "total": 29.98
+    }
+]

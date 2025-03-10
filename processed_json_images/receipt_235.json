@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RETRO JUNCTION",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "BURGER SINGLE",
+                "quantity": 1.0,
+                "price": 6.99,
+                "total_price": 5.61
+            },
+            {
+                "description": "BURGER DOUBLE",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 15.98
+            },
+            {
+                "description": "32Z FOUNTAIN DRINK",
+                "quantity": 1.0,
+                "price": 1.19,
+                "total_price": 0.95
+            },
+            {
+                "description": "LARGE SHAKE",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 9.98
+            },
+            {
+                "description": "FRENCH FRIES",
+                "quantity": 2.0,
+                "price": 3.58,
+                "total_price": 3.22
+            }
+        ],
+        "subtotal": 35.74,
+        "tax": 2.05,
+        "tip": null,
+        "total": 37.79
+    }
+]

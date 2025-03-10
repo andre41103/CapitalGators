@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Mission Beach Cafe",
+        "transaction_date": "2017-02-19",
+        "items": [
+            {
+                "description": "Huge Mimosa",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Hash",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            }
+        ],
+        "subtotal": 28.0,
+        "tax": 3.85,
+        "tip": null,
+        "total": 31.85
+    }
+]

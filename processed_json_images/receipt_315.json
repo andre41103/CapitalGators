@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Fields and Sons",
+        "transaction_date": "2016-07-06",
+        "items": [
+            {
+                "description": "38/40/42/44mm Silicone Sport\niWatch Band Strap for Apple\nWatch Series 6 5 4 3 SE",
+                "quantity": 3.0,
+                "price": 3.68,
+                "total_price": 12.14
+            },
+            {
+                "description": "Brand new Cuisinart CWO-25\nElectric Wine Opener, Stainless\nSteel",
+                "quantity": 1.0,
+                "price": 20.0,
+                "total_price": 22.0
+            },
+            {
+                "description": "Wine Openers.Heavy Duty\nStainless Steel Hinges Wine\nKey.12Pcs/Random Color.",
+                "quantity": 3.0,
+                "price": 29.99,
+                "total_price": 98.97
+            },
+            {
+                "description": "Vintage MIKASA Crystal Glass\nWine Bottle Stopper Grape\nCluster 6\" EUC",
+                "quantity": 5.0,
+                "price": 10.95,
+                "total_price": 60.23
+            },
+            {
+                "description": "NIB Set Of 4 Riedel Wine\nGlasses, Viognier Chardonnay -\n448/5",
+                "quantity": 4.0,
+                "price": 24.99,
+                "total_price": 109.96
+            }
+        ],
+        "subtotal": 275.72,
+        "tax": 27.57,
+        "tip": null,
+        "total": 303.29
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Phillips-Bradford",
+        "transaction_date": "2020-08-10",
+        "items": [
+            {
+                "description": "Joma Boys Youth Gol-102\nSoccer Cleats Shoes Size 4\nWhite Red Futbol NEW",
+                "quantity": 3.0,
+                "price": 19.99,
+                "total_price": 65.97
+            },
+            {
+                "description": "Egyptian Comfort 1800 Count 4\nPiece Bed Sheet Set Deep\nPocket Bed Sheets",
+                "quantity": 5.0,
+                "price": 22.99,
+                "total_price": 126.44
+            },
+            {
+                "description": "Joma Boys Youth Super Copa\n102 Soccer Cleats 2.5 White\nYellow Blue Futbol NEW",
+                "quantity": 5.0,
+                "price": 19.99,
+                "total_price": 109.94
+            },
+            {
+                "description": "Boys Kids Printed Cotton\nSlippers Zip Fastening\n350172494",
+                "quantity": 5.0,
+                "price": 19.68,
+                "total_price": 108.24
+            },
+            {
+                "description": "timberland boots 5.5y",
+                "quantity": 4.0,
+                "price": 22.0,
+                "total_price": 96.8
+            },
+            {
+                "description": "Youth Kids Boys New Balance\nArishi v2 Grey/Red Athletic\nRunning Shoes Size 6.5 M",
+                "quantity": 2.0,
+                "price": 26.99,
+                "total_price": 59.38
+            }
+        ],
+        "subtotal": 515.25,
+        "tax": 51.53,
+        "tip": null,
+        "total": 566.78
+    }
+]

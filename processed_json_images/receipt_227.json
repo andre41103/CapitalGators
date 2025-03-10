@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SIPOTLE",
+        "transaction_date": "2014-10-11",
+        "items": [
+            {
+                "description": "Chicken Burrito",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.7
+            },
+            {
+                "description": "Chips & Guac",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.3
+            },
+            {
+                "description": "Spring Water",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.35
+            }
+        ],
+        "subtotal": 14.3,
+        "tax": 1.32,
+        "tip": null,
+        "total": 15.62
+    }
+]

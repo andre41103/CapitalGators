@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "H-4\nR-1-2",
+        "transaction_date": "2017-09-20",
+        "items": [
+            {
+                "description": "SAMOSA PACK",
+                "quantity": 2.0,
+                "price": 108.0,
+                "total_price": 236.0
+            },
+            {
+                "description": "SMALL FLAV POPCORN",
+                "quantity": 2.0,
+                "price": 180.0,
+                "total_price": 424.8
+            },
+            {
+                "description": "COKE ZERO",
+                "quantity": null,
+                "price": 50.85,
+                "total_price": 240.04
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 900.84
+    }
+]

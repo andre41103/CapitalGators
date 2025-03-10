@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Yun Lona Restaurant",
+        "transaction_date": "2016-12-11",
+        "items": [
+            {
+                "description": "25ML",
+                "quantity": null,
+                "price": 0.07,
+                "total_price": 70.0
+            },
+            {
+                "description": "GROUPEM",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "WHYMA TEO CHEW STEAVED",
+                "quantity": 1000.0,
+                "price": 0.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "(S)",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "OATMEAL SHELLESS PRAWN (S)",
+                "quantity": null,
+                "price": 6.0,
+                "total_price": 8.0
+            },
+            {
+                "description": "LSD Superior\nJOUP",
+                "quantity": 1.0,
+                "price": 2.0,
+                "total_price": 2.0
+            },
+            {
+                "description": "SIIIF ANCHORTES",
+                "quantity": null,
+                "price": 2.0,
+                "total_price": 2.0
+            },
+            {
+                "description": "Minced chicken (S)",
+                "quantity": 1.0,
+                "price": 8.0,
+                "total_price": 8.0
+            },
+            {
+                "description": "\u81ea\u5236\u8c46\u8150 Homemado",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "Luo Han Guo",
+                "quantity": 3.0,
+                "price": 1.5,
+                "total_price": 4.5
+            },
+            {
+                "description": "WHITE RICE",
+                "quantity": 5.0,
+                "price": 1.3,
+                "total_price": 6.5
+            }
+        ],
+        "subtotal": 126.0,
+        "tax": 7.5,
+        "tip": 0.0,
+        "total": 133.55
+    }
+]

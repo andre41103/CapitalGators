@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2012-09-06",
+        "items": [
+            {
+                "description": "Wine Glasses Goblets Pair Clear\nGlass",
+                "quantity": 5.0,
+                "price": 12.0,
+                "total_price": 66.0
+            },
+            {
+                "description": "With Hooks Stemware Storage\nMultiple Uses Iron Wine Rack\nHanging Glass",
+                "quantity": 4.0,
+                "price": 28.08,
+                "total_price": 123.55
+            },
+            {
+                "description": "Replacement Corkscrew Parts\nSpiral Worm Wine Opener Bottle\nHoudini",
+                "quantity": 1.0,
+                "price": 7.5,
+                "total_price": 8.25
+            },
+            {
+                "description": "HOME ESSENTIALS GRADIENT\nSTEMLESS WINE GLASSES SET\nOF 4 20 FL OZ (591 ml) NEW",
+                "quantity": 1.0,
+                "price": 12.99,
+                "total_price": 14.29
+            }
+        ],
+        "subtotal": 192.81,
+        "tax": 19.28,
+        "tip": null,
+        "total": 212.09
+    }
+]

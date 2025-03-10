@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Marie Callender's Restaurant",
+        "transaction_date": "2014-11-30",
+        "items": [
+            {
+                "description": "CORNBREAD SVC",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "TRIO- POT PIE",
+                "quantity": 2.0,
+                "price": 9.99,
+                "total_price": 19.98
+            },
+            {
+                "description": "C- PIE SLICE",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "NO BEVERAGE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "SOFT DRINK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.79
+            },
+            {
+                "description": "BDAY CLUB $5",
+                "quantity": null,
+                "price": null,
+                "total_price": -5.0
+            }
+        ],
+        "subtotal": 17.77,
+        "tax": 1.42,
+        "tip": null,
+        "total": 19.19
+    }
+]

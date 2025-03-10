@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walmart",
+        "transaction_date": "2014-11-17",
+        "items": [
+            {
+                "description": "WIIU HDWR",
+                "quantity": null,
+                "price": null,
+                "total_price": 59.99
+            },
+            {
+                "description": "2YR RPL PLAN",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            }
+        ],
+        "subtotal": 63.99,
+        "tax": 5.12,
+        "tip": null,
+        "total": 69.11
+    }
+]

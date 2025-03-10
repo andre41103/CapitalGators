@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Dunkin Donuts",
+        "transaction_date": "2015-11-08",
+        "items": [
+            {
+                "description": "Bagel w/CC",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 6.57
+            },
+            {
+                "description": "Cinn Rsn Bagel",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 2.97
+            },
+            {
+                "description": "Add 6pc Hash Brown",
+                "quantity": 6.0,
+                "price": null,
+                "total_price": 3.6
+            },
+            {
+                "description": "1. 75oz RF Strwbry CC",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "25 Munchkins",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.49
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

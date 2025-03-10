@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ZCOWF Sdn Bhd",
+        "transaction_date": "2016-07-25",
+        "items": [
+            {
+                "description": "Phillipines Eggplant (L)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 29.92
+            },
+            {
+                "description": "Claypot Curry Fish",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 129.92
+            },
+            {
+                "description": "1919 Special Tofu",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 28.92
+            },
+            {
+                "description": "Salted Fog Mantis",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.02
+            },
+            {
+                "description": "Belacan Kangkung (L)",
+                "quantity": null,
+                "price": null,
+                "total_price": 28.9
+            },
+            {
+                "description": "Pandan Chicken (L)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 38.9
+            },
+            {
+                "description": "House Chinese Tea",
+                "quantity": null,
+                "price": null,
+                "total_price": 15.22
+            },
+            {
+                "description": "white Rice",
+                "quantity": 8.0,
+                "price": null,
+                "total_price": 22.0
+            },
+            {
+                "description": "Salted Egg Prawn (L)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 119.92
+            }
+        ],
+        "subtotal": 411.6,
+        "tax": 24.47,
+        "tip": 20.59,
+        "total": 432.2
+    }
+]

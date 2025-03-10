@@ -1,0 +1,110 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CANDE",
+        "transaction_date": "2010-09-15",
+        "items": [
+            {
+                "description": "0-Water",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "0-Water",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "S more Foie Gras",
+                "quantity": null,
+                "price": null,
+                "total_price": 28.0
+            },
+            {
+                "description": "Mushroom Soup",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "Cenoe Ram Bar",
+                "quantity": null,
+                "price": null,
+                "total_price": 72.0
+            },
+            {
+                "description": "Bison Rib Eye",
+                "quantity": null,
+                "price": null,
+                "total_price": 55.0
+            },
+            {
+                "description": "Steam Whistle 16 OZ",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Fever Tree Lemonade",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Muskoka Cream Ale 16 OZ",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.5
+            },
+            {
+                "description": "13th St 13 Below 2 OZ",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Lailey Syrah 6 OZ",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.0
+            },
+            {
+                "description": "0,25x Closson Chase Chard",
+                "quantity": null,
+                "price": null,
+                "total_price": 21.25
+            },
+            {
+                "description": "Chocolate Mousse",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Futtertart Wedge",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Southbrock Vidal Ice 2 02",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "Benedictine",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.0
+            }
+        ],
+        "subtotal": 293.75,
+        "tax": 38.19,
+        "tip": null,
+        "total": 331.94
+    }
+]

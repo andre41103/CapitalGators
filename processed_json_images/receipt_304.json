@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Gonzalez Inc",
+        "transaction_date": "2013-07-16",
+        "items": [
+            {
+                "description": "Vintage Microsolutions Pentium\n133mhz Desktop Tower PC\nWindows 95 5.25",
+                "quantity": 3.0,
+                "price": 390.0,
+                "total_price": 1287.0
+            },
+            {
+                "description": "Qaud core J3160 Dual Lan\nindustrial mini PC,AES NI Linux\nubuntu desktop computer",
+                "quantity": 3.0,
+                "price": 245.0,
+                "total_price": 808.5
+            },
+            {
+                "description": "Gaming PC Desktop Computer\n15 8GB 120GB SSD+1TB Win10\nWIFI +Keyboard",
+                "quantity": 5.0,
+                "price": 168.88,
+                "total_price": 928.84
+            },
+            {
+                "description": "HP T520 Thin Client Computer",
+                "quantity": 4.0,
+                "price": 37.75,
+                "total_price": 166.1
+            },
+            {
+                "description": "HP Pro 6200 Desktop Tower\nComputer Core i5 3.1GHz 8GB\n500GB Windows 10 Home WiFi",
+                "quantity": 2.0,
+                "price": 179.95,
+                "total_price": 395.89
+            },
+            {
+                "description": "HP Windows 10 Pro Desktop\nComputer Intel QUAD CORE i5\nWifi, Keyboard & Mouse",
+                "quantity": 4.0,
+                "price": 169.95,
+                "total_price": 747.78
+            }
+        ],
+        "subtotal": 3940.1,
+        "tax": 394.01,
+        "tip": null,
+        "total": 4334.11
+    }
+]

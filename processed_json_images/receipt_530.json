@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GUANAJUATO\nMEXICAN RESTAURANT",
+        "transaction_date": "2016-02-02",
+        "items": [
+            {
+                "description": "FAJ CK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.19
+            },
+            {
+                "description": "KIDS TACO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "CHICKEN FINGERS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "FLAN",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 8.25
+            }
+        ],
+        "subtotal": 30.42,
+        "tax": 2.05,
+        "tip": null,
+        "total": 32.47
+    }
+]

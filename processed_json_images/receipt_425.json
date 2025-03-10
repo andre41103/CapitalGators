@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LOS PALE,OS",
+        "transaction_date": "2016-08-31",
+        "items": [
+            {
+                "description": "CALAMARITOS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "CAMA SARDINAS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "JIBIA PLANCHA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "LIPTON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.2
+            },
+            {
+                "description": "TUBO TINTO VERAN",
+                "quantity": 2.0,
+                "price": 1.2,
+                "total_price": 2.4
+            }
+        ],
+        "subtotal": 20.1,
+        "tax": 1.83,
+        "tip": null,
+        "total": 20.1
+    }
+]

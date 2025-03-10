@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Shields, Copeland and Gallegos",
+        "transaction_date": "2015-09-14",
+        "items": [
+            {
+                "description": "B361 Nintendo 2DS console\nClear Black Japan",
+                "quantity": 1.0,
+                "price": 29.99,
+                "total_price": 32.99
+            },
+            {
+                "description": "Nintendo 2DS Console Blue\nJapan model Combine",
+                "quantity": 2.0,
+                "price": 54.99,
+                "total_price": 120.98
+            }
+        ],
+        "subtotal": 139.97,
+        "tax": 14.0,
+        "tip": null,
+        "total": 153.97
+    }
+]

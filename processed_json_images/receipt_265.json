@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Fresh Foods",
+        "transaction_date": "2014-03-18",
+        "items": [
+            {
+                "description": "Grocery",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "DISC 10% Discount",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.5
+            }
+        ],
+        "subtotal": 4.5,
+        "tax": 0.36,
+        "tip": null,
+        "total": 4.86
+    }
+]

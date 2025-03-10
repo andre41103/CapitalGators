@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "\u0e19\u0e32\u0e22\u0e01\u0e32\u0e23\u0e28\u0e32\u0e25 \u0e2a\u0e30\u0e20\u0e32\u0e1e\u0e23\u0e4c\u0e08\u0e30",
+        "transaction_date": "2016-02-15",
+        "items": [
+            {
+                "description": "\u0e15\u0e34\u0e14\u0e20\u0e32\u0e1e",
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 2.5
+            },
+            {
+                "description": "\u0e19\u0e32\u0e22\u0e38\u0e01 \u0e01\u0e20\u0e23\u0e34\u0e22\u0e32\u0e25",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 5.0
+            },
+            {
+                "description": "\u0e15\u0e34\u0e0a\u0e21\u0e42\u0e22\u0e40\u0e25\u0e22\u0e1e\u0e38\u0e18 \u0e15\u0e01\u0e14\u0e34\u0e19\u0e35",
+                "quantity": 1.0,
+                "price": 4.5,
+                "total_price": 4.5
+            }
+        ],
+        "subtotal": 12.0,
+        "tax": null,
+        "tip": null,
+        "total": 148000.0
+    }
+]

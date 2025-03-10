@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "The Hyde",
+        "transaction_date": "2018-04-12",
+        "items": [
+            {
+                "description": "(E)Int Std Sml Pcl",
+                "quantity": 1.0,
+                "price": 6.2,
+                "total_price": 6.2
+            },
+            {
+                "description": "DG Screen Intl",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 6.2
+    }
+]

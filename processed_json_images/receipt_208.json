@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Jungle Jamboree",
+        "transaction_date": "2018-03-27",
+        "items": [
+            {
+                "description": "Chicken Dum Biryan\u0131",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 750.0
+            },
+            {
+                "description": "Jalpari Fish Tikka",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 475.0
+            },
+            {
+                "description": "Junglee Handi Kukkad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 425.0
+            },
+            {
+                "description": "Nos - Apple Mojitos",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 125.0
+            },
+            {
+                "description": "Nos - Chocolate Oreo",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 300.0
+            },
+            {
+                "description": "Nos - King of fruits",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 150.0
+            },
+            {
+                "description": "Assorted Pastries",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 199.0
+            }
+        ],
+        "subtotal": 2424.0,
+        "tax": null,
+        "tip": 242.4,
+        "total": null
+    }
+]

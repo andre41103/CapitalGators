@@ -1,0 +1,134 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "NELLO'S",
+        "transaction_date": "2009-10-30",
+        "items": [
+            {
+                "description": "MARE MONTE SPAGHETT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 39.0
+            },
+            {
+                "description": "RIGATONI SICILIANA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 36.0
+            },
+            {
+                "description": "MILANESA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 55.0
+            },
+            {
+                "description": "INSALA.CARCIOFI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "PARMESAN CHUNKS",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 28.0
+            },
+            {
+                "description": "LG WATER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "TAWNY 40",
+                "quantity": 5.0,
+                "price": null,
+                "total_price": 275.0
+            },
+            {
+                "description": "TRUFFLE CARPACCIO",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 200.0
+            },
+            {
+                "description": "ASPARAGUS NELLO",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 60.0
+            },
+            {
+                "description": "CAPPUCCINO",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 27.0
+            },
+            {
+                "description": "CALAM. FRITTI",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 40.0
+            },
+            {
+                "description": "PROSC.MOZARELLA",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 68.0
+            },
+            {
+                "description": "ESPRESSO",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "TIRAMISU",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "MINESTRONE VERD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "LA TACHE ROMANEE CO",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 15000.0
+            },
+            {
+                "description": "CHATEAU PETRUS",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 10000.0
+            },
+            {
+                "description": "J.W . BLUE",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 150.0
+            },
+            {
+                "description": "TRUFFLE TAGLIOLINI",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 585.0
+            },
+            {
+                "description": "CRISTAL ROSE magnun",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 10000.0
+            }
+        ],
+        "subtotal": 39892.89,
+        "tax": 3251.89,
+        "tip": null,
+        "total": 47221.09
+    }
+]

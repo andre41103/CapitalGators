@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2012-07-30",
+        "items": [
+            {
+                "description": "Grande Meal",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.9
+            },
+            {
+                "description": "Grande Meal",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.9
+            },
+            {
+                "description": "Sft Tac Party Pk",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Taco Party Pack",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Med Drink",
+                "quantity": 26.0,
+                "price": null,
+                "total_price": 43.94
+            },
+            {
+                "description": "Supreme Pizza",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 11.97
+            },
+            {
+                "description": "Pepperoni Pizza",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 11.07
+            },
+            {
+                "description": "Cheese Pizza",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 10.47
+            }
+        ],
+        "subtotal": 117.25,
+        "tax": 11.02,
+        "tip": null,
+        "total": 128.27
+    }
+]

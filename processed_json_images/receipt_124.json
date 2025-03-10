@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "El Gato Negro",
+        "transaction_date": "2019-08-23",
+        "items": [
+            {
+                "description": "Fajita Vegetable",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.75
+            },
+            {
+                "description": "Taco Shrimp Fresh Catch 3",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Water",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.01,
+        "tip": null,
+        "total": 21.76
+    }
+]

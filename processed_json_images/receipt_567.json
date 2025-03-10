@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PASAR RAYA SAROJA UTAMA",
+        "transaction_date": "2015-04-01",
+        "items": [
+            {
+                "description": "1.8kg Lactogen 3 (tin)",
+                "quantity": 1.0,
+                "price": 5150.0,
+                "total_price": 51.5
+            },
+            {
+                "description": "drypers drypantz low count pack L",
+                "quantity": 1.0,
+                "price": 390.0,
+                "total_price": 3.9
+            },
+            {
+                "description": "drypers wee wee mega pack L 68pcs",
+                "quantity": 1.0,
+                "price": 3590.0,
+                "total_price": 35.9
+            },
+            {
+                "description": "Fiyyi baby diapers L60",
+                "quantity": 1.0,
+                "price": 2699.0,
+                "total_price": 26.99
+            }
+        ],
+        "subtotal": null,
+        "tax": 118.29,
+        "tip": null,
+        "total": 118.3
+    }
+]

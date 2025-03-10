@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "STK Miami Beach",
+        "transaction_date": "2017-08-25",
+        "items": [
+            {
+                "description": "Avion Silver RX",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "1 Staub",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Avion Silver RX",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "DA Delmonico 14",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 62.0
+            },
+            {
+                "description": "Truffle Fries",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "Mac/Cheese",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Asparagus",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "BAKED COOKIE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": 142.0,
+        "tax": 2.84,
+        "tip": null,
+        "total": 154.78
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Swlas Chalet",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "F KIDS 1/4 CHR",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.59
+            },
+            {
+                "description": "SPRING ROLLS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.99
+            },
+            {
+                "description": "LUNCH TRID",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.49
+            },
+            {
+                "description": "DIRT&WORMS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "GREEN TEA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.89
+            },
+            {
+                "description": "KIDS CHOC MILK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 25.46,
+        "tax": 3.44,
+        "tip": null,
+        "total": 29.9
+    }
+]

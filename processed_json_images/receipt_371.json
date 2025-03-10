@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Jimenez, Hicks and Bailey\nGomez Ltd",
+        "transaction_date": "2020-03-05",
+        "items": [
+            {
+                "description": "Admission Assessment Exam\nReview 4th Edition by HESI\n(P.\u0110.F)",
+                "quantity": 3.0,
+                "price": 2.5,
+                "total_price": 8.25
+            },
+            {
+                "description": "The Theory of Social\nRevolutions by Brooks Adams\n(English) Paperback Book Free S",
+                "quantity": 3.0,
+                "price": 16.99,
+                "total_price": 56.07
+            },
+            {
+                "description": "All American History Vol 1\nStudent Reader",
+                "quantity": 4.0,
+                "price": 9.99,
+                "total_price": 43.96
+            },
+            {
+                "description": "Principles of Virology, 2 Volume\nSet (ASM Books)",
+                "quantity": 2.0,
+                "price": 121.9,
+                "total_price": 268.18
+            },
+            {
+                "description": "How to Repair Home Laundry\nAppliances",
+                "quantity": 3.0,
+                "price": 12.46,
+                "total_price": 41.12
+            },
+            {
+                "description": "Tales from the Buffalo Bills",
+                "quantity": 3.0,
+                "price": 5.5,
+                "total_price": 18.15
+            },
+            {
+                "description": "Philadelphia Museum of Art:\nHandbook of the Collec",
+                "quantity": 3.0,
+                "price": 4.49,
+                "total_price": 14.82
+            }
+        ],
+        "subtotal": 409.58,
+        "tax": 40.96,
+        "tip": null,
+        "total": 450.54
+    }
+]

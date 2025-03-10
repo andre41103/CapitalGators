@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Freeman-Taylor",
+        "transaction_date": "2013-09-02",
+        "items": [
+            {
+                "description": "Nintendo BLUE Wii System\nGame Console Complete with 2\nMotion Remotes Tested Work",
+                "quantity": 5.0,
+                "price": 99.98,
+                "total_price": 549.89
+            },
+            {
+                "description": "Microsoft Xbox Original Black\nGaming Console Bundle With\nController, Many Games",
+                "quantity": 3.0,
+                "price": 130.0,
+                "total_price": 429.0
+            },
+            {
+                "description": "Xbox 360 console with games",
+                "quantity": 4.0,
+                "price": 41.0,
+                "total_price": 180.4
+            },
+            {
+                "description": "Nintendo Switch Console Tablet\nOnly Unpatched Hackable Low\nSerial Number",
+                "quantity": 3.0,
+                "price": 249.99,
+                "total_price": 824.97
+            },
+            {
+                "description": "B401 Nintendo 3DS console\nAqua Blue Japan x",
+                "quantity": 2.0,
+                "price": 13.99,
+                "total_price": 30.78
+            }
+        ],
+        "subtotal": 1831.85,
+        "tax": 183.19,
+        "tip": null,
+        "total": 2015.04
+    }
+]

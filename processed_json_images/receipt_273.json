@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "G.W.P. LLC",
+        "transaction_date": "2012-04-04",
+        "items": [
+            {
+                "description": "Penis Butter Snickers",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "Pepsi",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.89
+            }
+        ],
+        "subtotal": 2.88,
+        "tax": 0.15,
+        "tip": null,
+        "total": 3.03
+    }
+]

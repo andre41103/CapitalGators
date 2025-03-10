@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SUPER A FOODS",
+        "transaction_date": "2014-12-12",
+        "items": [
+            {
+                "description": "ASSORTED SWEETBREAD",
+                "quantity": 2.0,
+                "price": 1.19,
+                "total_price": 0.8
+            },
+            {
+                "description": "PAPER BAG",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.1
+            },
+            {
+                "description": "ORG-NAVEL LARGE",
+                "quantity": 1.76,
+                "price": null,
+                "total_price": 0.58
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 1.48
+    }
+]

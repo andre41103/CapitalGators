@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "La Banca",
+        "transaction_date": "2009-06-30",
+        "items": [
+            {
+                "description": "Antipasti",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.5
+            },
+            {
+                "description": "Olive Marinate Con Pane\nPasta Mains",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Tagliatelle Pollo",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.95
+            },
+            {
+                "description": "Cannelloni Alla Carna",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.95
+            },
+            {
+                "description": "Giganti Ricotta Erbette\nSecondi",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.75
+            },
+            {
+                "description": "Pollo Salsa Di Crema\nDolci",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.95
+            },
+            {
+                "description": "Tiramisu Pick Me Up",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 11.85
+            },
+            {
+                "description": "Gelati E Sorbetti\nDry, Crisp & Herbaceous",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.95
+            },
+            {
+                "description": "7.Pinot Grigio Del Venet\nSpirits",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.95
+            },
+            {
+                "description": "Beefeater Gin",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.65
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 77.5
+    }
+]

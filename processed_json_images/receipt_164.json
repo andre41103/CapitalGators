@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BEN'S BAYSIDE",
+        "transaction_date": "2017-03-05",
+        "items": [
+            {
+                "description": "DOUBLE DIP, 1 tky, bowl barley,",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 27.98
+            },
+            {
+                "description": "past, bowl barley",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "KNISH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "ROUND",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "KASHE SIDE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "COFFEE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "WATER",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 37.95,
+        "tax": 3.37,
+        "tip": null,
+        "total": 41.32
+    }
+]

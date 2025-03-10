@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Panera Bread",
+        "transaction_date": "2016-01-03",
+        "items": [
+            {
+                "description": "Bacon Tky Bravo Sdw",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.79
+            },
+            {
+                "description": "Tuna Salad Sandwich",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.59
+            },
+            {
+                "description": "Bwl Crm Tomato Soup",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.29
+            },
+            {
+                "description": "Smk Ham & Swiss Sdw",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.59
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

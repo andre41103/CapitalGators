@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MPH BOORTTORES\nSDN BHD",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "PSIKOLOGI CINTA",
+                "quantity": null,
+                "price": 19.0,
+                "total_price": 19.0
+            },
+            {
+                "description": "TIP MENJADI INDIVIDU MENARIK",
+                "quantity": null,
+                "price": 22.5,
+                "total_price": 22.5
+            },
+            {
+                "description": "CHICKEN SOUP FOR THE SOUL: BER\nFIKIR POSITIF (EDISI BAHASA ME",
+                "quantity": null,
+                "price": 27.0,
+                "total_price": 27.0
+            },
+            {
+                "description": "AL-QURAN TAJWID DAN TERJEMAHNY\nA ZIP 8 X 12",
+                "quantity": null,
+                "price": 30.0,
+                "total_price": 30.0
+            },
+            {
+                "description": "ACURA 28MM COLOUR PAPER CLIP",
+                "quantity": null,
+                "price": 1.7,
+                "total_price": 1.7
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 100.2
+    }
+]

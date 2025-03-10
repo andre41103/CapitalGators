@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RESTAURANT\nPICCADILLY\nMASALA",
+        "transaction_date": "2010-04-10",
+        "items": [
+            {
+                "description": "C HONEY SOUR PLUM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "DIET COKE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.3
+            },
+            {
+                "description": "GRILLED CHIC CHOP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.8
+            },
+            {
+                "description": "MUSHROOM BRUSCHETTA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "SEAFOOD FRD RICE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.9
+            }
+        ],
+        "subtotal": 23.5,
+        "tax": null,
+        "tip": 2.35,
+        "total": 25.85
+    }
+]

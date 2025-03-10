@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Delicacy",
+        "transaction_date": "2018-03-26",
+        "items": [
+            {
+                "description": "Chinese Veg Platter",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 339.0
+            }
+        ],
+        "subtotal": 339.0,
+        "tax": 16.95,
+        "tip": null,
+        "total": null
+    }
+]

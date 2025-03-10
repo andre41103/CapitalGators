@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "WHEREHOUSE",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "GREAT HITS-NAUGHTY 'S NIC",
+                "quantity": 1.0,
+                "price": 7.99,
+                "total_price": 7.99
+            },
+            {
+                "description": "MEGA JAMMIN OLDIES 1 129",
+                "quantity": 1.0,
+                "price": 4.99,
+                "total_price": 4.99
+            },
+            {
+                "description": "WORLD WRESTLING FED. 079",
+                "quantity": 1.0,
+                "price": 5.99,
+                "total_price": 5.99
+            },
+            {
+                "description": "ALL THAT",
+                "quantity": 1.0,
+                "price": 2.99,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

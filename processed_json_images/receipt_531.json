@@ -1,0 +1,188 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PICK & BUY LTD",
+        "transaction_date": "2011-07-30",
+        "items": [
+            {
+                "description": "F\nLEGUMES FRAIS",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.9
+            },
+            {
+                "description": "F\nARTICLE MENAGE",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "R CANDIA1LT-1/2(L",
+                "quantity": null,
+                "price": null,
+                "total_price": 37.95
+            },
+            {
+                "description": "R\nCOCA COLA 1.5L",
+                "quantity": null,
+                "price": null,
+                "total_price": 31.95
+            },
+            {
+                "description": "HIB.425G",
+                "quantity": null,
+                "price": null,
+                "total_price": 25.95
+            },
+            {
+                "description": "R SUN.WH.KER.CORN",
+                "quantity": null,
+                "price": null,
+                "total_price": 19.95
+            },
+            {
+                "description": "R\nS.REMO500-FETTU",
+                "quantity": null,
+                "price": null,
+                "total_price": 37.95
+            },
+            {
+                "description": "R RAJAH 1L BTL",
+                "quantity": null,
+                "price": null,
+                "total_price": 54.5
+            },
+            {
+                "description": "MAYIL-PIM.CONCA",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "MAGNUM CLASSIC",
+                "quantity": null,
+                "price": null,
+                "total_price": 50.0
+            },
+            {
+                "description": "R\nD.TOMATOES 400G",
+                "quantity": null,
+                "price": null,
+                "total_price": 19.95
+            },
+            {
+                "description": "HEINZ220 BEANTS",
+                "quantity": null,
+                "price": null,
+                "total_price": 22.95
+            },
+            {
+                "description": "R\nPRESTO 80G-POUL",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.5
+            },
+            {
+                "description": "PHOENIX 33 CL",
+                "quantity": null,
+                "price": null,
+                "total_price": 22.0
+            },
+            {
+                "description": "Consigne 6.00",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "R\nG.ISLAND-S/LITE",
+                "quantity": null,
+                "price": null,
+                "total_price": 154.95
+            },
+            {
+                "description": "R\nPANDA MACARONI",
+                "quantity": null,
+                "price": null,
+                "total_price": 15.5
+            },
+            {
+                "description": "R\nD.FRESH BASM.2K",
+                "quantity": null,
+                "price": null,
+                "total_price": 95.95
+            },
+            {
+                "description": "TOMATE M. /KG",
+                "quantity": 0.567,
+                "price": 60.0,
+                "total_price": 34.03
+            },
+            {
+                "description": "R\nMAYIL50 POI.FLA",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.5
+            },
+            {
+                "description": "F.MOSQUITO X10",
+                "quantity": null,
+                "price": null,
+                "total_price": 19.0
+            },
+            {
+                "description": "R\nVR SELECT CAPE",
+                "quantity": null,
+                "price": null,
+                "total_price": 169.95
+            },
+            {
+                "description": "D.D'ATH\u00c8NES RS\nR",
+                "quantity": null,
+                "price": null,
+                "total_price": 79.95
+            },
+            {
+                "description": "Consigne 8.00",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "HEINZ KETCHU200",
+                "quantity": null,
+                "price": null,
+                "total_price": 23.95
+            },
+            {
+                "description": "R DIEGO 1L-EXOTI.",
+                "quantity": null,
+                "price": null,
+                "total_price": 28.95
+            },
+            {
+                "description": "R\nWIN.TUNA170-FLA",
+                "quantity": null,
+                "price": null,
+                "total_price": 20.95
+            },
+            {
+                "description": "DORITOS45-FIERY",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.95
+            },
+            {
+                "description": "R\nEAU VITAL 1.5L",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.95
+            }
+        ],
+        "subtotal": 1056.13,
+        "tax": null,
+        "tip": null,
+        "total": 1056.13
+    }
+]

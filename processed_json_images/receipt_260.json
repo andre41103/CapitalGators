@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Real Greek Hoxton",
+        "transaction_date": "2009-10-21",
+        "items": [
+            {
+                "description": "Petit Papillon Rose",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.5
+            },
+            {
+                "description": "Flat Bread",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "Skewer Chicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.75
+            },
+            {
+                "description": "Skewer Lamb",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.25
+            },
+            {
+                "description": "Grilled Asparagus",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.95
+            },
+            {
+                "description": "Halloumi Melitzano",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.95
+            },
+            {
+                "description": "Kalamari",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.75
+            },
+            {
+                "description": "Rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.95
+            },
+            {
+                "description": "Gourmet Society 50%",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -14.3
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 31.8
+    }
+]

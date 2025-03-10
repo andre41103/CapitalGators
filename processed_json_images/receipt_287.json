@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KOBE SUSHI BISTRO",
+        "transaction_date": "2014-03-22",
+        "items": [
+            {
+                "description": "RASP TEA",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "ALL U CAN EAT DINNER",
+                "quantity": 2.0,
+                "price": 26.99,
+                "total_price": 53.98
+            }
+        ],
+        "subtotal": 55.48,
+        "tax": 4.49,
+        "tip": null,
+        "total": 59.97
+    }
+]

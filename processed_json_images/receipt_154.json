@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Gordon Ramsay Steak",
+        "transaction_date": "2014-10-21",
+        "items": [
+            {
+                "description": "Pimm's Cup",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "The Drifter",
+                "quantity": 2.0,
+                "price": 14.0,
+                "total_price": 28.0
+            },
+            {
+                "description": "Kobe Beef Slider",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "New York",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 63.0
+            },
+            {
+                "description": "Amer Kobe Filet",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 79.0
+            },
+            {
+                "description": "Lobster Tail",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 38.0
+            },
+            {
+                "description": "Potato Puree",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Grlld Asparagus",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "Peppercorn",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Pepsi",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Choc Pot De Crem",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            }
+        ],
+        "subtotal": 290.0,
+        "tax": 23.49,
+        "tip": null,
+        "total": 313.49
+    }
+]

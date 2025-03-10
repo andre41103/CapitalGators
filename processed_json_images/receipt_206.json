@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MENCHIE'S RANCHO CUCAMONGA",
+        "transaction_date": "2016-11-05",
+        "items": [
+            {
+                "description": "1 YOGURT",
+                "quantity": 10.3,
+                "price": 0.49,
+                "total_price": 5.05
+            },
+            {
+                "description": "MYSMILEAGE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 5.05,
+        "tax": null,
+        "tip": null,
+        "total": 5.74
+    }
+]

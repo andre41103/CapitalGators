@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SAGE\nFRENCH CAFE & WINE BAR",
+        "transaction_date": "2015-06-02",
+        "items": [
+            {
+                "description": "SAUV BLANC JB",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "VEGGIE SANDWICH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "QUICHE LORAINE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            }
+        ],
+        "subtotal": 31.8,
+        "tax": 1.8,
+        "tip": 7.38,
+        "total": 39.18
+    }
+]

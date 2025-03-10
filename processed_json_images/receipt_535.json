@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Pappadeaux",
+        "transaction_date": "2014-04-15",
+        "items": [],
+        "subtotal": null,
+        "tax": null,
+        "tip": 6.0,
+        "total": 36.79
+    }
+]

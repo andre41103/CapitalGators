@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Denny's Restaurant",
+        "transaction_date": "2015-08-30",
+        "items": [
+            {
+                "description": "No Beverage",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "No Beverage",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Milk Shake",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.99
+            }
+        ],
+        "subtotal": 3.99,
+        "tax": 0.3,
+        "tip": 1.0,
+        "total": 5.29
+    }
+]

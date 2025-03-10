@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2018-12-30",
+        "items": [
+            {
+                "description": "3D Printed Mat Vortex Illusion\nLiving room Rug Carpet Floors\nDoors Round Mat",
+                "quantity": 4.0,
+                "price": 11.63,
+                "total_price": 51.17
+            },
+            {
+                "description": "Rectangle Faux Fur Sheepskin\nRug Fluffy Area Rug Floor\nCarpets Dark Pink",
+                "quantity": 5.0,
+                "price": 29.95,
+                "total_price": 164.73
+            },
+            {
+                "description": "YILONG 4'x6' Golden Handmade\nArea Carpet Tribal Hand\nKnotted Silk Rugs 074B",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3960.0
+            },
+            {
+                "description": "Soft Simple Mats For Living\nRoom Bedroom Kid Room Rugs\nCarpets For Living Room",
+                "quantity": 2.0,
+                "price": 35.68,
+                "total_price": 78.5
+            }
+        ],
+        "subtotal": 3867.63,
+        "tax": 386.76,
+        "tip": null,
+        "total": 4254.39
+    }
+]

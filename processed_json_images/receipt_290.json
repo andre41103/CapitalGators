@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MEAT MARKET",
+        "transaction_date": "2015-11-08",
+        "items": [
+            {
+                "description": "GROCERY F",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "GATORADE LEMON",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.29
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 7.29
+    }
+]

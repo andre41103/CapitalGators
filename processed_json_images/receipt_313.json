@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "IN-N-OUT BURGER IRVING",
+        "transaction_date": "2016-01-22",
+        "items": [
+            {
+                "description": "C-B",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.6
+            },
+            {
+                "description": "N",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.7
+            },
+            {
+                "description": "** V Shk",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.25
+            }
+        ],
+        "subtotal": null,
+        "tax": 54.0,
+        "tip": null,
+        "total": 7.09
+    }
+]

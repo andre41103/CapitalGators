@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "FOOD LION",
+        "transaction_date": "2013-01-05",
+        "items": [
+            {
+                "description": "FL DICED TOMATO",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.23
+            },
+            {
+                "description": "FL DICED TOMATO",
+                "quantity": null,
+                "price": 20.67,
+                "total_price": 1.34
+            },
+            {
+                "description": "RED DELIC APPLES 3",
+                "quantity": null,
+                "price": 3.47,
+                "total_price": 2.99
+            },
+            {
+                "description": "YELLOW BANANAS",
+                "quantity": 2.43,
+                "price": 0.57,
+                "total_price": 1.39
+            },
+            {
+                "description": "RED PCKOD PEPPER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "HYDRO BOSTON LETTU",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.82
+            },
+            {
+                "description": "GREEN LEAF LETTUCE",
+                "quantity": null,
+                "price": 1.99,
+                "total_price": 1.29
+            },
+            {
+                "description": "GREEN PEPPERS",
+                "quantity": null,
+                "price": 2.79,
+                "total_price": 1.58
+            },
+            {
+                "description": "CARROTS POLY 2#",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.23
+            },
+            {
+                "description": "YELLOW ONIONS 3LB",
+                "quantity": null,
+                "price": 1.97,
+                "total_price": 1.79
+            },
+            {
+                "description": "H360 AUTO DISH LMN",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 21.76
+    }
+]

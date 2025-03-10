@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "SUPREME LA",
+        "transaction_date": "2018-02-19",
+        "items": [
+            {
+                "description": "SUPREME/LUMINAID PA O/S",
+                "quantity": 1.0,
+                "price": 28.0,
+                "total_price": 28.0
+            },
+            {
+                "description": "SIGG METAL BOX PLUS C/S",
+                "quantity": 1.0,
+                "price": 42.0,
+                "total_price": 42.0
+            },
+            {
+                "description": "SIGG METAL BOX PLUS O/S",
+                "quantity": 1.0,
+                "price": 46.0,
+                "total_price": 46.0
+            },
+            {
+                "description": "os",
+                "quantity": 1.0,
+                "price": 158.0,
+                "total_price": 158.0
+            },
+            {
+                "description": "os",
+                "quantity": 1.0,
+                "price": 88.0,
+                "total_price": 88.0
+            },
+            {
+                "description": "BAG",
+                "quantity": 1.0,
+                "price": 54.0,
+                "total_price": 54.0
+            },
+            {
+                "description": "LADAE NIEE FRAG",
+                "quantity": 1.0,
+                "price": 168.0,
+                "total_price": 168.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KFC Cape Hill DT",
+        "transaction_date": "2017-12-05",
+        "items": [
+            {
+                "description": "SHARING",
+                "quantity": null,
+                "price": null,
+                "total_price": 15.99
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.47,
+        "tip": null,
+        "total": 15.99
+    }
+]

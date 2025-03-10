@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Marcalova Cocine Mexicana",
+        "transaction_date": "2017-02-08",
+        "items": [
+            {
+                "description": "Tacos de Canasta",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "Toco Campechano",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Taco Lengua",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 275.0
+            },
+            {
+                "description": "Gortkts Chicharan",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Mole Rojo",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Torrejas",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Modelo Especial",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 39.75,
+        "tax": 3.98,
+        "tip": null,
+        "total": 43.73
+    }
+]

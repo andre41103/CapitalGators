@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Patel, Thompson and Montgomery",
+        "transaction_date": "2012-10-15",
+        "items": [
+            {
+                "description": "Leed's Wine Companion Bottle\nCorkscrew Opener Gift Box Set\nwith Foil Cutter",
+                "quantity": 1.0,
+                "price": 7.5,
+                "total_price": 8.25
+            }
+        ],
+        "subtotal": 7.5,
+        "tax": 0.75,
+        "tip": null,
+        "total": 8.25
+    }
+]

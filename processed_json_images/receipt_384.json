@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SAKAE",
+        "transaction_date": "2016-08-25",
+        "items": [
+            {
+                "description": "Take Away\nSASHIMI MORI ZEN",
+                "quantity": 1.0,
+                "price": 32.99,
+                "total_price": 32.99
+            }
+        ],
+        "subtotal": 32.99,
+        "tax": null,
+        "tip": 0.0,
+        "total": 33.0
+    }
+]

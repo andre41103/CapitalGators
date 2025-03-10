@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SHIMA RESTAURANT",
+        "transaction_date": "2015-06-09",
+        "items": [
+            {
+                "description": "(Adult) Teppanyaki Bu",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 119.8
+            },
+            {
+                "description": "Green Tea (Hot)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Green Tea (ICE)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            }
+        ],
+        "subtotal": 127.8,
+        "tax": 9.84,
+        "tip": 12.78,
+        "total": 150.42
+    }
+]

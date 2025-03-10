@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Carmichael CarWash",
+        "transaction_date": "2016-07-18",
+        "items": [
+            {
+                "description": "PREMIUM EXPRESS(10)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "UNLIMITED PREMIUM WASH CASH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -9.99
+            }
+        ],
+        "subtotal": 0.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 0.0
+    }
+]

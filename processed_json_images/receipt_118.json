@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KOBE JAPANESE STEAK",
+        "transaction_date": "2019-02-22",
+        "items": [],
+        "subtotal": null,
+        "tax": null,
+        "tip": 1500.0,
+        "total": 17307.0
+    }
+]

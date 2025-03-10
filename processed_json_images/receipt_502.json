@@ -1,0 +1,272 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walmart",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "MM CHRYLIMAD",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "HAM/AMER SUB",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.25
+            },
+            {
+                "description": "STAX SC 0",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "VEG MAC CHS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.22
+            },
+            {
+                "description": "SNACK CAKE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "WG PENNE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.36
+            },
+            {
+                "description": "GILLETTE",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.87
+            },
+            {
+                "description": "SHAMPOO",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.97
+            },
+            {
+                "description": "SHAMPOO",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.97
+            },
+            {
+                "description": "OS BODY WASH",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.97
+            },
+            {
+                "description": "SHAMPOO",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.97
+            },
+            {
+                "description": "CONDITIONER",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.97
+            },
+            {
+                "description": "CONDITIONER",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.97
+            },
+            {
+                "description": "SHAMPOO",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.97
+            },
+            {
+                "description": "SHAMPOO",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.97
+            },
+            {
+                "description": "OS BODY WASH",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.97
+            },
+            {
+                "description": "OS BODY WASH",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.97
+            },
+            {
+                "description": "BODY SPRAY",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.62
+            },
+            {
+                "description": "BODY SPRAY",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.62
+            },
+            {
+                "description": "BODY SPRAY",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.24
+            },
+            {
+                "description": "BODY SPRAY",
+                "quantity": null,
+                "price": null,
+                "total_price": -4.24
+            },
+            {
+                "description": "BODY SPRAY",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.24
+            },
+            {
+                "description": "TGS MSTRIZNG",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.87
+            },
+            {
+                "description": "HAIR SPRAY",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.84
+            },
+            {
+                "description": "TINY T-BONZ",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.98
+            },
+            {
+                "description": "DOG TREATS",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 2.12
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "07020",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "COUPON\nCOUPON 12044\nCOUPON 12044",
+                "quantity": null,
+                "price": null,
+                "total_price": -4.24
+            },
+            {
+                "description": "COUPON 38151",
+                "quantity": null,
+                "price": null,
+                "total_price": -3.0
+            },
+            {
+                "description": "COUPON 37000",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.97
+            },
+            {
+                "description": "COUPON 47400",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.87
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": -3.62
+            },
+            {
+                "description": "COUPON 12044",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "COUPON 80878",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "COGPON 80878",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "COUPON 47400",
+                "quantity": null,
+                "price": null,
+                "total_price": -2.0
+            },
+            {
+                "description": "COUPON 17800",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "COUPON 24700",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "COUPON 21000",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.75
+            },
+            {
+                "description": "COUPON 44700",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            }
+        ],
+        "subtotal": 18.5,
+        "tax": 4.52,
+        "tip": null,
+        "total": 23.02
+    }
+]

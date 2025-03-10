@@ -1,0 +1,98 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "IQF Leg Quarters",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "Skim Milk",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.15
+            },
+            {
+                "description": "Whole Kernel Corn",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.49
+            },
+            {
+                "description": "Banana WE",
+                "quantity": 2.85,
+                "price": 0.44,
+                "total_price": 1.25
+            },
+            {
+                "description": "White Bread",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.85
+            },
+            {
+                "description": "Penne Rigate",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "Creamy Peanut Btr",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.49
+            },
+            {
+                "description": "Grape Jelly",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.49
+            },
+            {
+                "description": "Pink Lady Apple",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.49
+            },
+            {
+                "description": "Graham Crackers",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.29
+            },
+            {
+                "description": "Country Inn Rice",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "Cut Green Beans",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.49
+            },
+            {
+                "description": "24 oz Trad Sauce",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "Large Eggs",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.85
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 20.8
+    }
+]

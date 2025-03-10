@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Tran PLC",
+        "transaction_date": "2015-09-04",
+        "items": [
+            {
+                "description": "18\" White Marble Corner Coffee\nTable Top Lapis Floral Inlay\nKitchen Decors W282",
+                "quantity": 2.0,
+                "price": 398.64,
+                "total_price": 877.01
+            },
+            {
+                "description": "6'x3' Oval Marble White Top\nDining Table Marquetry\nCollectible Inlay Decor E349",
+                "quantity": 1.0,
+                "price": 7.0,
+                "total_price": 7.0
+            },
+            {
+                "description": "Used t shirt Blue",
+                "quantity": 5.0,
+                "price": 60.0,
+                "total_price": 330.0
+            },
+            {
+                "description": "27\"x27\" Black Marble Top\nCoffee Table Floral Inlay Art\nBlack Friday Gift D\u00e9cor",
+                "quantity": 2.0,
+                "price": 1.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "6 Pack Metal Plated Table Locks\nDining Training Table Buckles\nConnectors Hardwar",
+                "quantity": 1.0,
+                "price": 12.73,
+                "total_price": 14.0
+            }
+        ],
+        "subtotal": 11479.77,
+        "tax": 1147.98,
+        "tip": null,
+        "total": 12627.75
+    }
+]

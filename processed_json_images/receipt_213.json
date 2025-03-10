@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "One World Market - Indiana",
+        "transaction_date": "2018-03-23",
+        "items": [
+            {
+                "description": "INARI 2PCS",
+                "quantity": 1.0,
+                "price": 2.0,
+                "total_price": 2.0
+            },
+            {
+                "description": "INARI 2PCS",
+                "quantity": 1.0,
+                "price": 2.0,
+                "total_price": 2.0
+            },
+            {
+                "description": "TODAY'S SPECIAL KITCHEN",
+                "quantity": 1.0,
+                "price": 9.95,
+                "total_price": 9.95
+            },
+            {
+                "description": "SALMON HEAD & BONE",
+                "quantity": 1.342,
+                "price": 1.99,
+                "total_price": 2.67
+            }
+        ],
+        "subtotal": 16.62,
+        "tax": 1.26,
+        "tip": null,
+        "total": 17.88
+    }
+]

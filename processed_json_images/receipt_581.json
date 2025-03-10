@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "ELF APPLICATOR EYE SHADOW",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "ELF ANGLED EYELINER BRUSH",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "ELF EYESHADOW BRUSH",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "ELF BRSH EYE CREASE",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "ELF EYLSH & BROW WAND\n.96 OZ",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 7.0,
+        "tax": 0.58,
+        "tip": null,
+        "total": null
+    }
+]

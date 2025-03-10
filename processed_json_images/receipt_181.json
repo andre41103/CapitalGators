@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LIZZY'S",
+        "transaction_date": "2014-08-30",
+        "items": [
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 10.95
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 10.95
+            },
+            {
+                "description": "Cilantro Lime",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.95
+            },
+            {
+                "description": "Chips y Salsa",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.95
+            },
+            {
+                "description": "Red Bull",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.95
+            },
+            {
+                "description": "Soft Drink",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.79
+            },
+            {
+                "description": "cajun seasoning",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "fries or rice & b",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 11.24,
+        "tax": 0.79,
+        "tip": null,
+        "total": 12.03
+    }
+]

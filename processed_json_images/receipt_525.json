@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PIER 1",
+        "transaction_date": "2017-09-16",
+        "items": [
+            {
+                "description": "PT CLONMEL",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 9.2
+            },
+            {
+                "description": "COKE",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 5.6
+            },
+            {
+                "description": "SOUP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.95
+            },
+            {
+                "description": "STEAK & STOUT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.95
+            },
+            {
+                "description": "TURKEY & HAM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.95
+            },
+            {
+                "description": "SALMON A LA CARTE",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 37.9
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 82.97
+    }
+]

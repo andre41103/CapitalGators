@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Rosebud on Rush",
+        "transaction_date": "2017-07-15",
+        "items": [],
+        "subtotal": 79.17,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

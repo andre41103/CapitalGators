@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Foot Locker.",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "ADI YEEZY BOOST 350",
+                "quantity": 1.0,
+                "price": 200.0,
+                "total_price": 200.0
+            }
+        ],
+        "subtotal": 200.0,
+        "tax": 17.5,
+        "tip": null,
+        "total": 217.5
+    }
+]

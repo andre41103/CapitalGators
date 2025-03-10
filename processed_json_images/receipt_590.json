@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Henry",
+        "transaction_date": "2013-06-19",
+        "items": [
+            {
+                "description": "Daily Soup",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Tuscan Salad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "French Dip",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "Red Velvet Chees",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            }
+        ],
+        "subtotal": 42.0,
+        "tax": 3.4,
+        "tip": null,
+        "total": 45.4
+    }
+]

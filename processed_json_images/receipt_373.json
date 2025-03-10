@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "OMENTAL ESEARIO EJEABIDE VILLAGE",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "CRAB",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 96.0
+            },
+            {
+                "description": "BRAISED SEASHELL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.0
+            },
+            {
+                "description": "CRABMEAT SPRING ROLL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "GROUPER FISH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 58.0
+            },
+            {
+                "description": "RICE",
+                "quantity": 2.0,
+                "price": 1.2,
+                "total_price": 2.4
+            },
+            {
+                "description": "FRUIT JUICE",
+                "quantity": 2.0,
+                "price": 5.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "CHINESE TEA",
+                "quantity": 2.0,
+                "price": 1.0,
+                "total_price": 2.0
+            },
+            {
+                "description": "Towel",
+                "quantity": 2.0,
+                "price": 0.5,
+                "total_price": 1.0
+            },
+            {
+                "description": "Nute",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "TOWEL",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 242.4,
+        "tax": null,
+        "tip": 12.12,
+        "total": 269.8
+    }
+]

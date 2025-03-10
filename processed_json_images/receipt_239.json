@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BOBS STEAK & CHOP HOUSE ON LAMAR",
+        "transaction_date": "2013-01-31",
+        "items": [
+            {
+                "description": "GREY GOOSE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "A PANNA IL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "BV LaTOUR\n025",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 218.0
+            },
+            {
+                "description": "VEAL CHOP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 53.0
+            },
+            {
+                "description": "DUCK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 30.0
+            },
+            {
+                "description": "CRAB CAKE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "BREAD PUDDING",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "CHOCOLATE CAKE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "SGL ESPRESSO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "CHIVAS 12 YR",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            }
+        ],
+        "subtotal": 364.0,
+        "tax": 10.23,
+        "tip": null,
+        "total": 374.23
+    }
+]

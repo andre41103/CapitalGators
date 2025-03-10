@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THE RAM",
+        "transaction_date": "2016-12-01",
+        "items": [
+            {
+                "description": "HILLBILLY BURGER",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "MAC&CHEESE",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.2
+            },
+            {
+                "description": "CUP CHX TORTILLA",
+                "quantity": 2.0,
+                "price": 3.25,
+                "total_price": 6.5
+            },
+            {
+                "description": "BTL-COORS LIGHT",
+                "quantity": 2.0,
+                "price": 4.0,
+                "total_price": 8.0
+            },
+            {
+                "description": "FRENCH DIP",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "$PEPPER JACK",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 55.7,
+        "tax": null,
+        "tip": null,
+        "total": 55.7
+    }
+]

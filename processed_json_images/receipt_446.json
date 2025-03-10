@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2014-12-29",
+        "items": [
+            {
+                "description": "JT SELECT CAB SAUV",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.3
+            },
+            {
+                "description": "DEPOSIT 10c",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.1
+            },
+            {
+                "description": "SUMAC RIDGE MERLOT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.3
+            },
+            {
+                "description": "DEPOSIT 10c",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.1
+            },
+            {
+                "description": "PLASTIC BAG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.1
+            }
+        ],
+        "subtotal": 34.9,
+        "tax": null,
+        "tip": null,
+        "total": 34.9
+    }
+]

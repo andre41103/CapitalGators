@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BOA",
+        "transaction_date": "2017-12-20",
+        "items": [
+            {
+                "description": "CRAB CAKE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "SKIRT STK LUNCH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 28.0
+            }
+        ],
+        "subtotal": 43.0,
+        "tax": 4.09,
+        "tip": null,
+        "total": 47.09
+    }
+]

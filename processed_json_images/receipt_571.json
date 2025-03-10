@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Spencer-Potter",
+        "transaction_date": "2019-07-21",
+        "items": [
+            {
+                "description": "Nike Air Jordan 1 Mid Obsidian\n640735-174 Toddler Kids\nChildren Size 8C Blue",
+                "quantity": 3.0,
+                "price": 24.99,
+                "total_price": 82.47
+            },
+            {
+                "description": "UGG Australia Girl's Classic\nShort RED Hearts Boots 3\nYOUTH - NEW",
+                "quantity": 4.0,
+                "price": 79.99,
+                "total_price": 351.96
+            }
+        ],
+        "subtotal": 394.93,
+        "tax": 39.49,
+        "tip": null,
+        "total": 434.42
+    }
+]

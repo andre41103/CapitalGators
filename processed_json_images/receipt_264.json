@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "FIVE GUYS",
+        "transaction_date": "2017-07-22",
+        "items": [
+            {
+                "description": "LTL FRY",
+                "quantity": -1.0,
+                "price": null,
+                "total_price": 3.19
+            },
+            {
+                "description": "10% Airport/Mall",
+                "quantity": -1.0,
+                "price": null,
+                "total_price": -0.32
+            }
+        ],
+        "subtotal": -2.87,
+        "tax": -0.26,
+        "tip": null,
+        "total": -3.13
+    }
+]

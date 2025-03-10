@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MIGUELS MEXICAN",
+        "transaction_date": "2017-07-05",
+        "items": [
+            {
+                "description": "WATER",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "ENCH VERDE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "ENCH MANUEL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.8
+            }
+        ],
+        "subtotal": 25.3,
+        "tax": 1.78,
+        "tip": null,
+        "total": 27.08
+    }
+]

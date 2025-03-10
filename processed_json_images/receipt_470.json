@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Yod Abyssinia Cultural Restaurant",
+        "transaction_date": "2012-08-13",
+        "items": [
+            {
+                "description": "Special National Dinner",
+                "quantity": 1.0,
+                "price": 175.0,
+                "total_price": 175.6
+            },
+            {
+                "description": "Doro Wat",
+                "quantity": 1.0,
+                "price": 95.0,
+                "total_price": 95.0
+            },
+            {
+                "description": "Highland Water(1/2 Lts.)",
+                "quantity": 1.0,
+                "price": 28.0,
+                "total_price": 28.0
+            },
+            {
+                "description": "Soft Drinks",
+                "quantity": 1.0,
+                "price": 28.0,
+                "total_price": 28.09
+            },
+            {
+                "description": "Traditional Coffee",
+                "quantity": 2.0,
+                "price": 15.09,
+                "total_price": 30.0
+            }
+        ],
+        "subtotal": 356.0,
+        "tax": 58.74,
+        "tip": 35.6,
+        "total": 450.34
+    }
+]

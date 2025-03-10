@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Park Room",
+        "transaction_date": "2015-04-10",
+        "items": [
+            {
+                "description": "Cheesecake",
+                "quantity": 2.0,
+                "price": 14.0,
+                "total_price": 28.0
+            },
+            {
+                "description": "Macarrons",
+                "quantity": 2.0,
+                "price": 5.5,
+                "total_price": 11.0
+            },
+            {
+                "description": "Cappuccino",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "Hot Chocolate",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "Afternoon Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            }
+        ],
+        "subtotal": 55.5,
+        "tax": null,
+        "tip": 6.95,
+        "total": 62.45
+    }
+]

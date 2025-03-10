@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "INN A DAY\nJIN CHIENG SENG",
+        "transaction_date": "2018-01-02",
+        "items": [
+            {
+                "description": "DRAFT BEER*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 95.0
+            },
+            {
+                "description": "PHAD KRATIEM*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 160.0
+            },
+            {
+                "description": "GAI PAD MED-\nMAMUANG*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 180.0
+            },
+            {
+                "description": "PADTHAI GOONG*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 140.0
+            },
+            {
+                "description": "WHITE RICE*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "WHITE RICE*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "COKE ZERO*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 40.0
+            }
+        ],
+        "subtotal": 655.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": null
+    }
+]

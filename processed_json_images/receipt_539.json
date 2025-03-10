@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2014-01-28",
+        "items": [
+            {
+                "description": "BUR CHIX",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.29
+            },
+            {
+                "description": "BURR GUAC",
+                "quantity": 2.0,
+                "price": 1.19,
+                "total_price": 2.38
+            },
+            {
+                "description": "BUR PORK",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.59
+            },
+            {
+                "description": "DRK BTL SODA 20",
+                "quantity": 4.0,
+                "price": 2.29,
+                "total_price": 9.16
+            }
+        ],
+        "subtotal": 24.42,
+        "tax": 2.32,
+        "tip": null,
+        "total": null
+    }
+]

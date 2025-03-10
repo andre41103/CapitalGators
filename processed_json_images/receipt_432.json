@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walmart",
+        "transaction_date": "2012-05-07",
+        "items": [
+            {
+                "description": "3 LB. WBB",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.98
+            },
+            {
+                "description": "GV ORG",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.08
+            },
+            {
+                "description": "OATS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.74
+            },
+            {
+                "description": "LF ORG PLAIN",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.48
+            },
+            {
+                "description": "GV OR WH HLK",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.18
+            }
+        ],
+        "subtotal": 25.46,
+        "tax": null,
+        "tip": null,
+        "total": 25.46
+    }
+]

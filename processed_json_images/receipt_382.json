@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2012-10-29",
+        "items": [
+            {
+                "description": "ELTOW Modular Plastic Wine\nRack 3-Pack Stackable Display\nand Fridge Storage S ...",
+                "quantity": 5.0,
+                "price": 23.99,
+                "total_price": 131.94
+            },
+            {
+                "description": "3 Gal 12L Moonshine Still\nStainless Steel Water Wine\nAlcohol Distiller Equipment",
+                "quantity": 2.0,
+                "price": 99.92,
+                "total_price": 219.82
+            },
+            {
+                "description": "Moonshine Still 8Gal/30L Water\nAlcohol Distiller Home Brew\nWine Making Kit 3 Pot",
+                "quantity": 1.0,
+                "price": 89.99,
+                "total_price": 98.99
+            },
+            {
+                "description": "Wine Glass Hanging Metal Wine\nCup Rack Bar Double Stemware\nGlass Bottle Goblet",
+                "quantity": 1.0,
+                "price": 19.1,
+                "total_price": 21.01
+            },
+            {
+                "description": "Wine Bottle Holder",
+                "quantity": 1.0,
+                "price": 10.75,
+                "total_price": 11.82
+            },
+            {
+                "description": "Galvanized Metal Wine Caddy",
+                "quantity": 5.0,
+                "price": 34.95,
+                "total_price": 192.23
+            }
+        ],
+        "subtotal": 614.38,
+        "tax": 61.44,
+        "tip": null,
+        "total": 675.82
+    }
+]

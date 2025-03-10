@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CAPERS STEAKHE",
+        "transaction_date": "2015-01-24",
+        "items": [
+            {
+                "description": "FRENCH ONION",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "ON THE FLY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "MISC.DEL.",
+                "quantity": 1.0,
+                "price": 0.8,
+                "total_price": 9.6
+            },
+            {
+                "description": "MISC.FILET,",
+                "quantity": 1.0,
+                "price": 1.55,
+                "total_price": 12.4
+            },
+            {
+                "description": "PASTA SALAD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.6
+            },
+            {
+                "description": "GARLIC BREAD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 31.85,
+        "tax": 1.91,
+        "tip": null,
+        "total": 0.76
+    }
+]

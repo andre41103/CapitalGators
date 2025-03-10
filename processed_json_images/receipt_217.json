@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "EL CHICO MEXICAN RESTAURANT",
+        "transaction_date": "2016-11-12",
+        "items": [
+            {
+                "description": "Ts Guac",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 48.0
+            },
+            {
+                "description": "Grande Chicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 64.0
+            },
+            {
+                "description": "Delivery Charge",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 117.0
+    }
+]

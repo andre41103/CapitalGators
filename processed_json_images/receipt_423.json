@@ -1,0 +1,110 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Kroger",
+        "transaction_date": "2010-06-17",
+        "items": [
+            {
+                "description": "GILLETTE BW",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "AUTOMATIC COUPON",
+                "quantity": null,
+                "price": 4.49,
+                "total_price": null
+            },
+            {
+                "description": "GILL BW",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.49
+            },
+            {
+                "description": "GILL BW",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "AUTOMATIC COUPON",
+                "quantity": null,
+                "price": 4.49,
+                "total_price": null
+            },
+            {
+                "description": "GILLETTE BW",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.49
+            },
+            {
+                "description": "GILLETTE BW",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "AUTOMATIC COUPON",
+                "quantity": null,
+                "price": 4.49,
+                "total_price": null
+            },
+            {
+                "description": "GILLETTE BW",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.49
+            },
+            {
+                "description": "GILLETTE BW",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "AUTOMATIC COUPON",
+                "quantity": null,
+                "price": 4.49,
+                "total_price": null
+            },
+            {
+                "description": "GILLETTE BW",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.49
+            },
+            {
+                "description": "SCANNED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -4.0
+            },
+            {
+                "description": "SCANNED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -4.0
+            },
+            {
+                "description": "SCANNED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -4.0
+            },
+            {
+                "description": "SCANNED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -4.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.08,
+        "tip": null,
+        "total": 3.04
+    }
+]

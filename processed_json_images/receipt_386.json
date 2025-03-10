@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Mango Tree Pte Ltd",
+        "transaction_date": "2018-07-28",
+        "items": [
+            {
+                "description": "Murgh Makhani",
+                "quantity": 1.0,
+                "price": 16.0,
+                "total_price": 16.0
+            },
+            {
+                "description": "Tava Dosa",
+                "quantity": 1.0,
+                "price": 4.4,
+                "total_price": 4.4
+            },
+            {
+                "description": "Garlic Naan",
+                "quantity": 2.0,
+                "price": 4.5,
+                "total_price": 9.0
+            },
+            {
+                "description": "Mango Mapas",
+                "quantity": 1.0,
+                "price": 10.5,
+                "total_price": 10.5
+            }
+        ],
+        "subtotal": 39.9,
+        "tax": null,
+        "tip": 3.99,
+        "total": null
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2014-03-09",
+        "items": [
+            {
+                "description": "NAME,",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "COKES",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 33.25,
+        "tax": 3.24,
+        "tip": null,
+        "total": 36.49
+    }
+]

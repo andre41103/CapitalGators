@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ATOR BUIR",
+        "transaction_date": "2015-10-10",
+        "items": [
+            {
+                "description": "0,20 Tonic",
+                "quantity": 1.0,
+                "price": 3.1,
+                "total_price": 3.1
+            },
+            {
+                "description": "0.5 Wieselburger",
+                "quantity": 1.0,
+                "price": 5.5,
+                "total_price": 5.5
+            },
+            {
+                "description": "BELVED 2cl",
+                "quantity": 1.0,
+                "price": 5.5,
+                "total_price": 5.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.35,
+        "tip": null,
+        "total": 14.1
+    }
+]

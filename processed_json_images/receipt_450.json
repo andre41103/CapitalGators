@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Richards Pizza West Side",
+        "transaction_date": "2014-07-04",
+        "items": [
+            {
+                "description": "*13 inch\nVegi DeLite",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 19.85
+            }
+        ],
+        "subtotal": 19.85,
+        "tax": 1.29,
+        "tip": null,
+        "total": 25.0
+    }
+]

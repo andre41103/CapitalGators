@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BREAD OF LIFE",
+        "transaction_date": "2014-03-21",
+        "items": [
+            {
+                "description": "Bagel and Cream Cheese",
+                "quantity": 1.0,
+                "price": 45000.0,
+                "total_price": 45000.0
+            },
+            {
+                "description": "Muesli and Yogurt",
+                "quantity": 1.0,
+                "price": 71000.0,
+                "total_price": 71000.0
+            },
+            {
+                "description": "VN Coffee - Milk",
+                "quantity": 1.0,
+                "price": 25000.0,
+                "total_price": 25000.0
+            },
+            {
+                "description": "Water (Joy)- Bottled",
+                "quantity": 1.0,
+                "price": 10000.0,
+                "total_price": 10000.0
+            }
+        ],
+        "subtotal": 151000.0,
+        "tax": 15100.0,
+        "tip": null,
+        "total": null
+    }
+]

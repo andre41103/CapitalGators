@@ -1,0 +1,254 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MIGROS",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Fatto forest 101",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Balai-essoreur\nMiobrill Seau 101",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.9
+            },
+            {
+                "description": "MCLAS LED A 40 E27",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.9
+            },
+            {
+                "description": "Bol 18cm",
+                "quantity": 4.0,
+                "price": 7.9,
+                "total_price": 31.6
+            },
+            {
+                "description": "BIC Megalighter Flex",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.5
+            },
+            {
+                "description": "Miobrill Extra Long M",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.8
+            },
+            {
+                "description": "Miobrill Extra Long L",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.8
+            },
+            {
+                "description": "Hygo WC Maximum XXL St",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.8
+            },
+            {
+                "description": "Planche 20x29cm",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.9
+            },
+            {
+                "description": "Cabas",
+                "quantity": 4.0,
+                "price": 0.3,
+                "total_price": 1.2
+            },
+            {
+                "description": "ACT\nFilet de saumon",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.9
+            },
+            {
+                "description": "ACT\nFilet de saumon",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.4
+            },
+            {
+                "description": "ACT\nFilet de saumon",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.65
+            },
+            {
+                "description": "ACT\nSteak de boeuf",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.85
+            },
+            {
+                "description": "ACT\nSteak de boeuf",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.1
+            },
+            {
+                "description": "Petit Beurre",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.45
+            },
+            {
+                "description": "Persil plat",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.95
+            },
+            {
+                "description": "F&W confi. abricots",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.1
+            },
+            {
+                "description": "Celeri-pomme",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.1
+            },
+            {
+                "description": "ACT\nAsiago",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.8
+            },
+            {
+                "description": "Philadelphia Balance",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.3
+            },
+            {
+                "description": "ACT\nRice Sandwich salmon",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.6
+            },
+            {
+                "description": "Courgettes",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.8
+            },
+            {
+                "description": "MClass fun frites 750g",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.55
+            },
+            {
+                "description": "ACT\nRice Sandwich salmon",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.6
+            },
+            {
+                "description": "ACT\nPoireaux verts",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Reine Dijon l'ancienne",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.8
+            },
+            {
+                "description": "Slimline framboise",
+                "quantity": 2.0,
+                "price": 1.05,
+                "total_price": 2.1
+            },
+            {
+                "description": "Oh! Yogurt fraise",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.85
+            },
+            {
+                "description": "Oh! Yogurt myrtille",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.85
+            },
+            {
+                "description": "Salade Iceberg",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.3
+            },
+            {
+                "description": "Chavroux",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 3.2
+            },
+            {
+                "description": "ACT\nPleurotus",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.95
+            },
+            {
+                "description": "ACT\nPleurotus",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.95
+            },
+            {
+                "description": "ACT\nJambon cru",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.25
+            },
+            {
+                "description": "Valflora demi-creme",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.7
+            },
+            {
+                "description": "ACT\nSE B-Viande hach\u00e9e 500",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "ACT\nCourges coup\u00e9es",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.55
+            },
+            {
+                "description": "Pommes Gala Victor",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.05
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 200.0
+    }
+]

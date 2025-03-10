@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Kenny Rogers Roasters",
+        "transaction_date": "2017-09-23",
+        "items": [
+            {
+                "description": "Chkn&Garden Meal",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.9
+            },
+            {
+                "description": "Chkn & Pasta M",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 23.5
+            },
+            {
+                "description": "Rollie's Bowl",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.5
+            },
+            {
+                "description": "Orange Juice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.9
+            },
+            {
+                "description": "Iced Lemon Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 4.17,
+        "tip": null,
+        "total": 73.7
+    }
+]

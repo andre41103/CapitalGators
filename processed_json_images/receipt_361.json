@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TARGET",
+        "transaction_date": "2011-04-04",
+        "items": [
+            {
+                "description": "PUREX CRYSTL",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.03
+            },
+            {
+                "description": "MFR COUPON",
+                "quantity": null,
+                "price": 2.99,
+                "total_price": -2.0
+            },
+            {
+                "description": "NAIL COLOR",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.97
+            },
+            {
+                "description": "NAIL COLOR",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.97
+            },
+            {
+                "description": "CLIPPER",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.24
+            },
+            {
+                "description": "NAIL FILE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.29
+            },
+            {
+                "description": "PEDICURE SET",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "MFR COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -5.0
+            },
+            {
+                "description": "MFR COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.5
+            }
+        ],
+        "subtotal": 0.0,
+        "tax": 0.81,
+        "tip": null,
+        "total": 0.81
+    }
+]

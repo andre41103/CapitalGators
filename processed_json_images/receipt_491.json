@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SHAKE SHACK",
+        "transaction_date": "2017-07-14",
+        "items": [
+            {
+                "description": "ShackBurger",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.39
+            },
+            {
+                "description": "french fries",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "Shake",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.29
+            }
+        ],
+        "subtotal": 14.17,
+        "tax": 1.03,
+        "tip": null,
+        "total": 15.2
+    }
+]

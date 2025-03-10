@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Vic & Anthony's Steakhouse",
+        "transaction_date": "2014-04-24",
+        "items": [
+            {
+                "description": "Au Gratin Potatoes",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "Brussels Sprouts",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Diet Coke",
+                "quantity": 2.0,
+                "price": 3.0,
+                "total_price": 6.0
+            },
+            {
+                "description": "Spinach Salad",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Bone-In Ribeye",
+                "quantity": 2.0,
+                "price": 68.0,
+                "total_price": 136.0
+            },
+            {
+                "description": "Amaretto Express",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "Chopped Steakhouse Salad",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": 195.0,
+        "tax": 15.8,
+        "tip": null,
+        "total": 210.8
+    }
+]

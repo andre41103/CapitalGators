@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SUBWAY",
+        "transaction_date": "2017-03-25",
+        "items": [
+            {
+                "description": "10% Off Any Item",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "6\" -Tuna Sub",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.49
+            },
+            {
+                "description": "-Fresh Value Meal (21-1)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.75
+            }
+        ],
+        "subtotal": 7.24,
+        "tax": 0.47,
+        "tip": null,
+        "total": 7.71
+    }
+]

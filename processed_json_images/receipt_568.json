@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Table\nWHITEROOMV",
+        "transaction_date": "2014-06-27",
+        "items": [
+            {
+                "description": "Shrimp Shumai App.",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.95
+            },
+            {
+                "description": "Seaweed Salad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.95
+            },
+            {
+                "description": "Seaweed Salad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.95
+            },
+            {
+                "description": "LargeShrimp Teriyaki",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.95
+            },
+            {
+                "description": "Dragon Roll",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.95
+            },
+            {
+                "description": "KokoRo Special",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.95
+            },
+            {
+                "description": "Palm Coast Roll",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.95
+            },
+            {
+                "description": "Year of the Dragon",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.95
+            },
+            {
+                "description": "Coke",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.95
+            },
+            {
+                "description": "Iced Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.95
+            },
+            {
+                "description": "Iced Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.95
+            }
+        ],
+        "subtotal": 94.4,
+        "tax": 6.61,
+        "tip": null,
+        "total": 101.01
+    }
+]

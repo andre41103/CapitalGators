@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Build-A-Bear Workshop",
+        "transaction_date": "2016-06-09",
+        "items": [
+            {
+                "description": "STRNTRPR BLASTER",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "STORMTROOPER BEAR",
+                "quantity": null,
+                "price": null,
+                "total_price": 35.0
+            },
+            {
+                "description": "UNV STAR MARS SNG",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "FLOWER JELLY SNDL",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "PALM TREE SKRT ST",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "HAPPY HUGS III",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.0
+            }
+        ],
+        "subtotal": 90.5,
+        "tax": 7.24,
+        "tip": null,
+        "total": 97.74
+    }
+]

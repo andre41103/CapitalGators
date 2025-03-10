@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "FourthStreetMill",
+        "transaction_date": "2018-09-29",
+        "items": [
+            {
+                "description": "Lamb Burger",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "Kids Grilled Cheese",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Kids Fries",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Sweet Potato Fries",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Kids Cheeseburger",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "Beef Burger",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Sides",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.5
+            }
+        ],
+        "subtotal": 49.5,
+        "tax": 4.7,
+        "tip": null,
+        "total": 54.2
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SUPREME",
+        "transaction_date": "2017-08-24",
+        "items": [
+            {
+                "description": "FW17SW 15\nNAVY LARI\nBLOCKED HOODED SWE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 148.0
+            }
+        ],
+        "subtotal": 148.0,
+        "tax": 24.67,
+        "tip": null,
+        "total": 148.0
+    }
+]

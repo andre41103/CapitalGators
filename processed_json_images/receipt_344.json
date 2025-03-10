@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "SUPREME LA",
+        "transaction_date": "2018-08-21",
+        "items": [
+            {
+                "description": "SHOULDER BAG\nOS",
+                "quantity": 1.0,
+                "price": 74.0,
+                "total_price": 74.0
+            },
+            {
+                "description": "WAIST BAG",
+                "quantity": 1.0,
+                "price": 88.0,
+                "total_price": 88.0
+            },
+            {
+                "description": "REFLECTIVE CAMO CAN OS",
+                "quantity": 1.0,
+                "price": 48.0,
+                "total_price": 48.0
+            }
+        ],
+        "subtotal": 210.0,
+        "tax": 19.95,
+        "tip": null,
+        "total": 229.95
+    }
+]

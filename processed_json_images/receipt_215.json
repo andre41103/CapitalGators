@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Parker Inc",
+        "transaction_date": "2019-12-12",
+        "items": [
+            {
+                "description": "6'x3' Black Marble Top Dining",
+                "quantity": 5.0,
+                "price": 5.0,
+                "total_price": 31406.21
+            },
+            {
+                "description": "16\"x16\" Marble Top Customize",
+                "quantity": 3.0,
+                "price": 800.0,
+                "total_price": 2640.0
+            },
+            {
+                "description": "12\" Marble Coffee Side Table",
+                "quantity": 5.0,
+                "price": 248.78,
+                "total_price": 1368.29
+            },
+            {
+                "description": "12\" White Marble Coffee Table",
+                "quantity": 5.0,
+                "price": 398.76,
+                "total_price": 2193.18
+            },
+            {
+                "description": "30\"x30\" Marble Black Top Table",
+                "quantity": 2.0,
+                "price": 2.0,
+                "total_price": 5277.8
+            },
+            {
+                "description": "Antique Vintage style hand",
+                "quantity": 5.0,
+                "price": 13.0,
+                "total_price": 71500.0
+            }
+        ],
+        "subtotal": 103986.8,
+        "tax": 10398.68,
+        "tip": null,
+        "total": 114385.48
+    }
+]

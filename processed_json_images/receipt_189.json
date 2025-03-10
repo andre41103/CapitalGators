@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "New China",
+        "transaction_date": "2016-03-12",
+        "items": [
+            {
+                "description": "Beef w. Broccoli",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.25
+            },
+            {
+                "description": "Sweet / Sour Chicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.95
+            },
+            {
+                "description": "Chicken Chow Mein",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.75
+            }
+        ],
+        "subtotal": 24.95,
+        "tax": 2.01,
+        "tip": null,
+        "total": 26.96
+    }
+]

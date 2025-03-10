@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 Restaurant & Pub",
+        "transaction_date": "2016-11-16",
+        "items": [
+            {
+                "description": "Cup Soup du Jour",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.29
+            },
+            {
+                "description": "Cheese & Crackers",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "Honey BBQ Chicken Wrap",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.29
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

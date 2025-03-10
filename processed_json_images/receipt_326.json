@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Cee Fine Thai",
+        "transaction_date": "2014-01-08",
+        "items": [
+            {
+                "description": "OPEN FOOD",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 17.9
+            }
+        ],
+        "subtotal": 17.9,
+        "tax": null,
+        "tip": null,
+        "total": 19.69
+    }
+]

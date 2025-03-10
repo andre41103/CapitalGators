@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CHLOE81",
+        "transaction_date": "2018-08-03",
+        "items": [
+            {
+                "description": "HOUSE VODKA",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "HOUSE TEQUILA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            }
+        ],
+        "subtotal": 36.0,
+        "tax": 3.19,
+        "tip": 7.2,
+        "total": 46.4
+    }
+]

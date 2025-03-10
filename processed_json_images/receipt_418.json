@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GANESH",
+        "transaction_date": "2015-09-14",
+        "items": [
+            {
+                "description": "Saigon",
+                "quantity": 1.0,
+                "price": 22.0,
+                "total_price": 22000.0
+            },
+            {
+                "description": "Garlic Naan",
+                "quantity": 1.0,
+                "price": 39.0,
+                "total_price": 39000.0
+            },
+            {
+                "description": "Vietnammese S\nRice",
+                "quantity": 1.0,
+                "price": 12.0,
+                "total_price": 12000.0
+            },
+            {
+                "description": "Chicken Korma",
+                "quantity": 1.0,
+                "price": 105.0,
+                "total_price": 105000.0
+            },
+            {
+                "description": "Chicken T. Masala",
+                "quantity": 1.0,
+                "price": 99.0,
+                "total_price": 99000.0
+            },
+            {
+                "description": "Plain Naan",
+                "quantity": 1.0,
+                "price": 32.0,
+                "total_price": 32000.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 309000.0
+    }
+]

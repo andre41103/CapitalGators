@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Delmonico's",
+        "transaction_date": "2015-08-22",
+        "items": [
+            {
+                "description": "No Bev",
+                "quantity": 2.0,
+                "price": 0.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "Mozzarella Fritta",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.99
+            },
+            {
+                "description": "Delmonico Steak",
+                "quantity": null,
+                "price": null,
+                "total_price": 24.99
+            },
+            {
+                "description": "Asparagus",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "Baked Potato",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "Decaf Coffee - Unlimited",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            }
+        ],
+        "subtotal": 42.95,
+        "tax": 3.44,
+        "tip": null,
+        "total": 46.39
+    }
+]

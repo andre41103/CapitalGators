@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "SHOP NAME",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Lorem",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.1
+            },
+            {
+                "description": "Ipsum",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.2
+            },
+            {
+                "description": "Dolor sit amet",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.3
+            },
+            {
+                "description": "Consectetur",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.4
+            },
+            {
+                "description": "Adipiscing elit",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 16.5
+    }
+]

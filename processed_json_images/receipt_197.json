@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2018-12-31",
+        "items": [
+            {
+                "description": "TIKKA MASALA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "PALAK (SPINACH)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "VEGAN BENGAN BHARTA*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.0
+            }
+        ],
+        "subtotal": 55.0,
+        "tax": 3.3,
+        "tip": null,
+        "total": null
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GAPS DELICACY",
+        "transaction_date": "2014-05-18",
+        "items": [
+            {
+                "description": "MINRAL WATER",
+                "quantity": 1.0,
+                "price": 20.0,
+                "total_price": 20.0
+            },
+            {
+                "description": "BORALI FISH",
+                "quantity": 1.0,
+                "price": 200.0,
+                "total_price": 200.0
+            },
+            {
+                "description": "DUCK MEAT.ELK.IL",
+                "quantity": 1.0,
+                "price": 280.0,
+                "total_price": 280.0
+            },
+            {
+                "description": "JUHA RICE",
+                "quantity": 1.0,
+                "price": 60.0,
+                "total_price": 60.0
+            },
+            {
+                "description": "POTATO FRY",
+                "quantity": 1.0,
+                "price": 50.0,
+                "total_price": 50.0
+            },
+            {
+                "description": "PORK.W.LAI SHAK",
+                "quantity": 1.0,
+                "price": 210.0,
+                "total_price": 210.0
+            },
+            {
+                "description": "KHEER",
+                "quantity": 1.0,
+                "price": 30.0,
+                "total_price": 30.0
+            }
+        ],
+        "subtotal": 850.0,
+        "tax": 103.75,
+        "tip": null,
+        "total": 954.0
+    }
+]

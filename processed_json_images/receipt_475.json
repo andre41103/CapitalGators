@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2015-07-05",
+        "items": [
+            {
+                "description": "Mimosa",
+                "quantity": 3.0,
+                "price": 2.0,
+                "total_price": 6.0
+            },
+            {
+                "description": "Grey Goose",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Break Sand",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "French Toast",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            }
+        ],
+        "subtotal": 47.0,
+        "tax": null,
+        "tip": null,
+        "total": 50.88
+    }
+]

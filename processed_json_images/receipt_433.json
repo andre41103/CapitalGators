@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2012-12-16",
+        "items": [
+            {
+                "description": "Pliny the Elder",
+                "quantity": 3.0,
+                "price": 7.0,
+                "total_price": 21.0
+            },
+            {
+                "description": "Coke",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "Side Mac n Chee",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.95
+            },
+            {
+                "description": "Cheeseburger",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Cheeseburger",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "Kid\\nMac&Cheese",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "Kids Chicken Fingers",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.95
+            },
+            {
+                "description": "Vietnamese Tofu",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.95
+            },
+            {
+                "description": "Small Orange Juice",
+                "quantity": 2.0,
+                "price": 2.0,
+                "total_price": 4.0
+            }
+        ],
+        "subtotal": 77.85,
+        "tax": 6.81,
+        "tip": null,
+        "total": null
+    }
+]

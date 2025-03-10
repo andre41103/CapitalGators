@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Ami",
+        "transaction_date": "2013-06-20",
+        "items": [
+            {
+                "description": "Sp Tuna Roll",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Scallop Roll",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 7.2
+            },
+            {
+                "description": "CA Roll",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.8
+            },
+            {
+                "description": "Fresh Water Eel Roll",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.1
+            },
+            {
+                "description": "Baby Lobster Roll",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.95
+            }
+        ],
+        "subtotal": 31.05,
+        "tax": 2.79,
+        "tip": null,
+        "total": 33.84
+    }
+]

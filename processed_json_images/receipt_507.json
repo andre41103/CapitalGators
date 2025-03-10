@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CPK",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Spicy Chipotle Chkn Pizza",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.49
+            },
+            {
+                "description": "Local Draft 1",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.29
+            }
+        ],
+        "subtotal": 31.27,
+        "tax": 1.88,
+        "tip": null,
+        "total": 33.15
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GRAND HYATT",
+        "transaction_date": "2017-07-27",
+        "items": [
+            {
+                "description": "Fritto Misto Sicilia Crispy",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 39.0
+            },
+            {
+                "description": "Volaille tandoori",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 42.0
+            },
+            {
+                "description": "Ravioli boeuf confit",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 32.0
+            },
+            {
+                "description": "Marmite du p\u00eacheur",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 43.0
+            },
+            {
+                "description": "Moelleux Z.n",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.0
+            },
+            {
+                "description": "V. Prestige Roseline Blc",
+                "quantity": 2.0,
+                "price": 9.0,
+                "total_price": 18.0
+            },
+            {
+                "description": "Limonade",
+                "quantity": 2.0,
+                "price": 9.0,
+                "total_price": 18.0
+            }
+        ],
+        "subtotal": 209.0,
+        "tax": null,
+        "tip": null,
+        "total": 209.0
+    }
+]

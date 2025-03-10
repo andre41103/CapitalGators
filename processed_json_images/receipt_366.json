@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Cumberland Farms",
+        "transaction_date": "2017-06-08",
+        "items": [
+            {
+                "description": "200Z GATOR FRT PNCH",
+                "quantity": 1.0,
+                "price": 1.79,
+                "total_price": 1.79
+            },
+            {
+                "description": "SPLASH -30 YEARND WN",
+                "quantity": 1.0,
+                "price": 4.69,
+                "total_price": 4.69
+            },
+            {
+                "description": "200Z POWER ORNG",
+                "quantity": 1.0,
+                "price": 1.69,
+                "total_price": 1.69
+            },
+            {
+                "description": "CF MLK QT",
+                "quantity": 1.0,
+                "price": 1.79,
+                "total_price": 1.79
+            },
+            {
+                "description": "PF SOFT SANTACRUZ 8.",
+                "quantity": null,
+                "price": 3.49,
+                "total_price": 3.49
+            }
+        ],
+        "subtotal": 13.45,
+        "tax": 0.7,
+        "tip": null,
+        "total": 14.15
+    }
+]

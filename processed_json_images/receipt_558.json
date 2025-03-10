@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TARGET",
+        "transaction_date": "2016-06-11",
+        "items": [
+            {
+                "description": "VEG TRAY",
+                "quantity": 3.0,
+                "price": 5.99,
+                "total_price": 17.97
+            },
+            {
+                "description": "SB HUMMUS",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "SB HUMMUS",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "AF SCONES",
+                "quantity": 2.0,
+                "price": 3.79,
+                "total_price": 7.58
+            },
+            {
+                "description": "3LB CLEM BAG",
+                "quantity": 2.0,
+                "price": 5.99,
+                "total_price": 11.98
+            },
+            {
+                "description": "BLOSSOM HILL",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "GALA",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.79
+            },
+            {
+                "description": "GRANNY SMITH",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.79
+            },
+            {
+                "description": "1.5LB GRAPES",
+                "quantity": 2.0,
+                "price": 3.99,
+                "total_price": 7.98
+            },
+            {
+                "description": "1.5LB GRAPES",
+                "quantity": 2.0,
+                "price": 2.99,
+                "total_price": 5.98
+            }
+        ],
+        "subtotal": 68.04,
+        "tax": 0.0,
+        "tip": null,
+        "total": 68.04
+    }
+]

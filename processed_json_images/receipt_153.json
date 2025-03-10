@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KALOOKI'S",
+        "transaction_date": "2015-03-14",
+        "items": [
+            {
+                "description": "Chicken fingers",
+                "quantity": null,
+                "price": 8.0,
+                "total_price": 8.0
+            },
+            {
+                "description": "Spicy Shrimp",
+                "quantity": 1.0,
+                "price": 20.0,
+                "total_price": 20.0
+            },
+            {
+                "description": "Steamed Fish Lg",
+                "quantity": 1.0,
+                "price": 25.0,
+                "total_price": 25.0
+            },
+            {
+                "description": "Bottled Water",
+                "quantity": 2.0,
+                "price": 2.0,
+                "total_price": 4.0
+            }
+        ],
+        "subtotal": 57.0,
+        "tax": null,
+        "tip": 5.7,
+        "total": 62.7
+    }
+]

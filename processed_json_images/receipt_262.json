@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RESTAURANT SALINE",
+        "transaction_date": "2014-04-18",
+        "items": [
+            {
+                "description": "SALADE DE CHOU THAI",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 5.0
+            },
+            {
+                "description": "CEVICHE TAHITIENNE",
+                "quantity": null,
+                "price": 8.0,
+                "total_price": 35.6
+            },
+            {
+                "description": "VERRE SALINE",
+                "quantity": 2.0,
+                "price": 3.0,
+                "total_price": 6.0
+            },
+            {
+                "description": "SODA",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 50.0
+    }
+]

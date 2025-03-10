@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DEL FRISCO'S",
+        "transaction_date": "2016-04-07",
+        "items": [
+            {
+                "description": "Strip 16oz",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 212.0
+            },
+            {
+                "description": "Ribeye Bone In",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 69.5
+            },
+            {
+                "description": "Cauliflower",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.5
+            },
+            {
+                "description": "Baked Potato",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.5
+            },
+            {
+                "description": "Asparagus",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.5
+            },
+            {
+                "description": "Onion Rings",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.5
+            },
+            {
+                "description": "Sauteed Spinach",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "VOSS Sparkling",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 25.5
+            },
+            {
+                "description": "Coke Btl",
+                "quantity": 6.0,
+                "price": null,
+                "total_price": 24.0
+            }
+        ],
+        "subtotal": 404.0,
+        "tax": 35.86,
+        "tip": null,
+        "total": 439.86
+    }
+]

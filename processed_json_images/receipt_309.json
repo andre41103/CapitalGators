@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Saung Udio Souvenir Shop",
+        "transaction_date": "2016-02-21",
+        "items": [
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": 283000.0,
+                "total_price": 283000.0
+            },
+            {
+                "description": "Angklung Sarinande 8",
+                "quantity": 1.0,
+                "price": 35000.0,
+                "total_price": 35000.0
+            }
+        ],
+        "subtotal": 318000.0,
+        "tax": null,
+        "tip": null,
+        "total": 318000.0
+    }
+]

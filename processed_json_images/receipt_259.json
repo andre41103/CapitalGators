@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Arnold and Sons",
+        "transaction_date": "2015-01-27",
+        "items": [
+            {
+                "description": "3D Printed Mat Vortex Illusion\nLiving room Rug Carpet Floors\nDoors Round Mat",
+                "quantity": 3.0,
+                "price": 11.63,
+                "total_price": 38.38
+            },
+            {
+                "description": "Hippie Sea Wave 3D Carpet\nFloor Mats Soft Rug for Living\nRoom Non-slip Carpets",
+                "quantity": 3.0,
+                "price": 11.69,
+                "total_price": 38.58
+            }
+        ],
+        "subtotal": 69.96,
+        "tax": 7.0,
+        "tip": null,
+        "total": 76.96
+    }
+]

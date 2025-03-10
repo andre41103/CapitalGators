@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Mandarin Oriental, New York",
+        "transaction_date": "2013-04-06",
+        "items": [],
+        "subtotal": null,
+        "tax": null,
+        "tip": 612.0,
+        "total": 164.27
+    }
+]

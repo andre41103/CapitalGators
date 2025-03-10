@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Hughes LLC",
+        "transaction_date": "2019-07-31",
+        "items": [
+            {
+                "description": "Egg Shape Area Rugs Soft\nCotton Carpet Floor Mat for Kids\nStudy Playroom",
+                "quantity": 2.0,
+                "price": 29.43,
+                "total_price": 64.75
+            },
+            {
+                "description": "120cm*160cm Large Faux\nRabbit Fur Carpet Soft Living\nRoom Bedroom Warm Carpet",
+                "quantity": 3.0,
+                "price": 52.99,
+                "total_price": 174.87
+            },
+            {
+                "description": "YILONG 4'x6' Traditional\nHandmade Carpet Parlor Home\nHand Knotted Silk Rugs 084B",
+                "quantity": 3.0,
+                "price": 3.0,
+                "total_price": 11880.0
+            }
+        ],
+        "subtotal": 11017.83,
+        "tax": 1101.78,
+        "tip": null,
+        "total": 12119.61
+    }
+]

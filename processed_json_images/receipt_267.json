@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TAQUERIA\nPICO DE GALLO",
+        "transaction_date": "2007-09-06",
+        "items": [
+            {
+                "description": "TACO BARBACO T1",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.25
+            },
+            {
+                "description": "TACO BIRRIA T1",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.25
+            },
+            {
+                "description": "TACO CARNE A T1",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "TACO PESCADO T1",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.65
+            },
+            {
+                "description": "MAIZ\nPLATO",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.51,
+        "tip": null,
+        "total": 6.16
+    }
+]

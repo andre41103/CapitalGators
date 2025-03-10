@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Golden\nOpear\nCafe",
+        "transaction_date": "2015-08-06",
+        "items": [],
+        "subtotal": 22.7,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

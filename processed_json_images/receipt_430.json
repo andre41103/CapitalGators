@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PERMAS JAYA JUSCO",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "GREEN TEA CHZ(S)",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "BAKED CHEESE(S)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "ROYAL CHOC(S)",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "BLACK FOREST(S)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "FRUITILICIOUS (S)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "MILK SHAKE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.8
+            },
+            {
+                "description": "SMARTIES TREATS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.9
+            },
+            {
+                "description": "FRESH WATERMELON JUICE",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "GREEN APPLE KASTURI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "ICED CARAMEL LATTE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.8
+            }
+        ],
+        "subtotal": 103.0,
+        "tax": 6.18,
+        "tip": 10.3,
+        "total": 119.5
+    }
+]

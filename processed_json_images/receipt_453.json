@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "BALENCIAGA",
+        "transaction_date": "2017-06-09",
+        "items": [
+            {
+                "description": "MEN'S SHOES 483502W05G0 - 1000 - 41 E",
+                "quantity": 1.0,
+                "price": 495.0,
+                "total_price": 495.0
+            }
+        ],
+        "subtotal": 412.5,
+        "tax": 82.5,
+        "tip": null,
+        "total": 495.0
+    }
+]

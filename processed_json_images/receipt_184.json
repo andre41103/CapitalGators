@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "JALISCO",
+        "transaction_date": "2019-05-19",
+        "items": [
+            {
+                "description": "Water",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Caldo de Camaron",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.99
+            }
+        ],
+        "subtotal": 8.99,
+        "tax": 0.74,
+        "tip": null,
+        "total": 10.0
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MIGALatsar",
+        "transaction_date": "2017-10-24",
+        "items": [
+            {
+                "description": "Myan: Beer (L)",
+                "quantity": 2.0,
+                "price": 2500.0,
+                "total_price": 5000.0
+            },
+            {
+                "description": "Pepsi (blue)",
+                "quantity": 2.0,
+                "price": 1000.0,
+                "total_price": 2000.0
+            },
+            {
+                "description": "PH7",
+                "quantity": 4.0,
+                "price": 500.0,
+                "total_price": 500.0
+            },
+            {
+                "description": "Sprite",
+                "quantity": 2.0,
+                "price": 1000.0,
+                "total_price": 2000.0
+            },
+            {
+                "description": "michmacos",
+                "quantity": 1.0,
+                "price": 6500.0,
+                "total_price": 6500.0
+            },
+            {
+                "description": "Tohookfagom",
+                "quantity": 1.0,
+                "price": 3500.0,
+                "total_price": 3500.0
+            },
+            {
+                "description": "Bobyacoubmoolq",
+                "quantity": 1.0,
+                "price": 6500.0,
+                "total_price": 6500.0
+            },
+            {
+                "description": "Spratuproces",
+                "quantity": 1.0,
+                "price": 1500.0,
+                "total_price": 1500.0
+            },
+            {
+                "description": "agoorabodk\u00f4ng",
+                "quantity": 1.0,
+                "price": 1500.0,
+                "total_price": 1500.0
+            }
+        ],
+        "subtotal": 29000.0,
+        "tax": 0.0,
+        "tip": 0.0,
+        "total": 29000.0
+    }
+]

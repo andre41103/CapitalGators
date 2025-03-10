@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "STANFORD\"D",
+        "transaction_date": "2017-09-30",
+        "items": [
+            {
+                "description": "CHIC TEND AP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.95
+            },
+            {
+                "description": "RIBS 1/2 ST",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.95
+            },
+            {
+                "description": "BRG DELUXE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.95
+            }
+        ],
+        "subtotal": 33.9,
+        "tax": 3.39,
+        "tip": null,
+        "total": 37.29
+    }
+]

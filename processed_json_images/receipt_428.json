@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Hussar Grill Willowbr",
+        "transaction_date": "2018-03-11",
+        "items": [
+            {
+                "description": "200ml Coke",
+                "quantity": 2.0,
+                "price": 18.0,
+                "total_price": 36.0
+            },
+            {
+                "description": "300g Sirloin",
+                "quantity": 1.0,
+                "price": 145.0,
+                "total_price": 145.0
+            },
+            {
+                "description": "330ml Crome So",
+                "quantity": 1.0,
+                "price": 20.0,
+                "total_price": 20.0
+            },
+            {
+                "description": "330ml Sprite Z",
+                "quantity": 1.0,
+                "price": 20.0,
+                "total_price": 20.0
+            },
+            {
+                "description": "500g Sirloin",
+                "quantity": 1.0,
+                "price": 185.0,
+                "total_price": 185.0
+            },
+            {
+                "description": "Chicken Roulad",
+                "quantity": 1.0,
+                "price": 125.0,
+                "total_price": 125.0
+            },
+            {
+                "description": "Gls V Love Cab",
+                "quantity": 2.0,
+                "price": 45.0,
+                "total_price": 90.0
+            },
+            {
+                "description": "Lamb Shanks",
+                "quantity": 1.0,
+                "price": 195.0,
+                "total_price": 195.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 100.21,
+        "tip": null,
+        "total": 816.0
+    }
+]

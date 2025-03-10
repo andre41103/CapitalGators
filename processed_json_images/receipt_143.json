@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Blue Bear Tavern",
+        "transaction_date": "2012-01-13",
+        "items": [
+            {
+                "description": "Crimini",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Salami",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Olives",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Lrg Clams\\mussels",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Reg Ketel One",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 52.0
+            },
+            {
+                "description": "House Cab",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            }
+        ],
+        "subtotal": 81.0,
+        "tax": null,
+        "tip": null,
+        "total": 83.44
+    }
+]

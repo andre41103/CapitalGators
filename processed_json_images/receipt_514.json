@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BADEMIYA",
+        "transaction_date": "2017-01-27",
+        "items": [
+            {
+                "description": "MINERAL WATER",
+                "quantity": 1.0,
+                "price": 30.0,
+                "total_price": 30.0
+            },
+            {
+                "description": "MTN SEEKH KABAB",
+                "quantity": 1.0,
+                "price": 230.0,
+                "total_price": 230.0
+            },
+            {
+                "description": "MURG MUSALLAM",
+                "quantity": 1.0,
+                "price": 260.0,
+                "total_price": 250.0
+            },
+            {
+                "description": "RUMALI ROTI",
+                "quantity": 5.0,
+                "price": 30.0,
+                "total_price": 189.0
+            },
+            {
+                "description": "SHAHI TUKDA",
+                "quantity": 1.0,
+                "price": 110.0,
+                "total_price": 110.0
+            }
+        ],
+        "subtotal": 810.0,
+        "tax": 64.8,
+        "tip": null,
+        "total": null
+    }
+]

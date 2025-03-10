@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2018-01-21",
+        "items": [
+            {
+                "description": "Cheeseburger",
+                "quantity": 2.0,
+                "price": 7.99,
+                "total_price": 15.98
+            },
+            {
+                "description": "Regular Cajun Fry",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.39
+            },
+            {
+                "description": "Large Soda",
+                "quantity": 2.0,
+                "price": 2.95,
+                "total_price": 5.9
+            }
+        ],
+        "subtotal": 26.27,
+        "tax": 2.32,
+        "tip": null,
+        "total": 28.59
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Restaurant McDonald's Versailles Manege",
+        "transaction_date": "2015-04-27",
+        "items": [
+            {
+                "description": "The Glace BestOf",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "BO Big Mac",
+                "quantity": 1.0,
+                "price": 6.8,
+                "total_price": 6.8
+            },
+            {
+                "description": "Filet",
+                "quantity": 1.0,
+                "price": 4.0,
+                "total_price": 4.0
+            },
+            {
+                "description": "Chicken 20 Nugge",
+                "quantity": 1.0,
+                "price": 9.2,
+                "total_price": 9.2
+            },
+            {
+                "description": "Frite Best Of",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 20.0,
+        "tax": 1.82,
+        "tip": null,
+        "total": 50.0
+    }
+]

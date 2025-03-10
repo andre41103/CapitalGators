@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Crystal Palace",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Adult - Breakfast",
+                "quantity": null,
+                "price": null,
+                "total_price": 53.98
+            },
+            {
+                "description": "KM - Breakfast",
+                "quantity": null,
+                "price": null,
+                "total_price": 29.98
+            }
+        ],
+        "subtotal": 83.96,
+        "tax": 5.45,
+        "tip": null,
+        "total": null
+    }
+]

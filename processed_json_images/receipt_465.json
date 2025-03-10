@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SIGDI RESTAURANT",
+        "transaction_date": "2018-02-11",
+        "items": [
+            {
+                "description": "VEG 65 DRY & GREVY",
+                "quantity": 1.0,
+                "price": 195.0,
+                "total_price": 195.0
+            },
+            {
+                "description": "CHICKEN MASALA",
+                "quantity": 1.0,
+                "price": 215.0,
+                "total_price": 215.0
+            },
+            {
+                "description": "BUTTER NAAN",
+                "quantity": 2.0,
+                "price": 40.0,
+                "total_price": 80.0
+            },
+            {
+                "description": "GARLIC NAAN",
+                "quantity": 1.0,
+                "price": 50.0,
+                "total_price": 50.0
+            }
+        ],
+        "subtotal": 540.0,
+        "tax": null,
+        "tip": null,
+        "total": 540.0
+    }
+]

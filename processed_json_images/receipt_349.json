@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Stephens PLC\nBlevins",
+        "transaction_date": "2015-06-27",
+        "items": [
+            {
+                "description": "Nintendo Switch Lite Console -\nGray - with Animal Crossing\nNew Horizons Game",
+                "quantity": 3.0,
+                "price": 310.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "Nintendo Wii U Console\nDeluxe/Handheld Bundle",
+                "quantity": 1.0,
+                "price": 79.99,
+                "total_price": 87.99
+            },
+            {
+                "description": "Nintendo Wii U WUP-101(02)\n32GB Console - Black - US\nModel",
+                "quantity": 3.0,
+                "price": 40.0,
+                "total_price": 132.0
+            },
+            {
+                "description": "Nintendo Wii Console With\nCables And Accessories And\nNew Super Mario Bros Disc!",
+                "quantity": 4.0,
+                "price": 29.99,
+                "total_price": 131.96
+            },
+            {
+                "description": "Nintendo Switch Lite Yellow\nCONSOLE ONLY - No\nAccessories or Charger [B1-2]",
+                "quantity": 1.0,
+                "price": 135.0,
+                "total_price": 148.5
+            }
+        ],
+        "subtotal": 1384.95,
+        "tax": 138.5,
+        "tip": null,
+        "total": 1523.45
+    }
+]

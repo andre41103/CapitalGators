@@ -1,0 +1,230 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KING\nSooberla",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "ONIONS YLW",
+                "quantity": 0.58,
+                "price": 1.29,
+                "total_price": 0.75
+            },
+            {
+                "description": "ONIONS YLW",
+                "quantity": 0.58,
+                "price": 0.99,
+                "total_price": -0.18
+            },
+            {
+                "description": "ST101 ALMOND MILK",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.89
+            },
+            {
+                "description": "AMYS MAC&CHS",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "MZFR FRS MOZ",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.79
+            },
+            {
+                "description": "GREEN PEPPER",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "PPR RED BELL",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.89
+            },
+            {
+                "description": "AECO QUINOA",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.99
+            },
+            {
+                "description": "LAFVR CHIPS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "CHRMN BASIC",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.99
+            },
+            {
+                "description": "CHRMN BASIC (6.49)",
+                "quantity": null,
+                "price": null,
+                "total_price": -2.5
+            },
+            {
+                "description": "GGDS YOGURT",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.89
+            },
+            {
+                "description": "KRO CLNTR LV",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "UDIS BREAD",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.99
+            },
+            {
+                "description": "BRNK GRANOLA",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.79
+            },
+            {
+                "description": "FRSC 4 CHEESE",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "eCPN Freschetta",
+                "quantity": null,
+                "price": null,
+                "total_price": -2.0
+            },
+            {
+                "description": "BRNK CEREAL",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.79
+            },
+            {
+                "description": "eCpn BEAR NAKED",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "KRO PEPPER JACK",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.49
+            },
+            {
+                "description": "KRO PEPPER (2.99)",
+                "quantity": null,
+                "price": null,
+                "total_price": -3.5
+            },
+            {
+                "description": "JIF PNT BTR",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "DNSN CHILI W/BEANS",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.19
+            },
+            {
+                "description": "KUNER GARBANZO BEA",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.89
+            },
+            {
+                "description": "KNR BLACK BEANS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.89
+            },
+            {
+                "description": "NAKD JUICE",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.89
+            },
+            {
+                "description": "GGDS YOGURT",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.89
+            },
+            {
+                "description": "HENG SAUCE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "CLAS D ROMA ARBBIT-$",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.19
+            },
+            {
+                "description": "CLAS D ROMA (2.99)",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.2
+            },
+            {
+                "description": "ITL GRON LME",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "CFMT CREAMER",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.79
+            },
+            {
+                "description": "KNR L/S KIDNEY BEA",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.89
+            },
+            {
+                "description": "TAPATIO HOT SCE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.39
+            },
+            {
+                "description": "KR NSA CUT GRN BNS-$",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.69
+            },
+            {
+                "description": "KR NSA CUT G\n.67)",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.02
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.9,
+        "tip": null,
+        "total": 89.37
+    }
+]

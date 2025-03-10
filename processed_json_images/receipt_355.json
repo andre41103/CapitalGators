@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2009-10-11",
+        "items": [
+            {
+                "description": "Comp. KIMCHEE & V",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "NAMU RAMEN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "KFC",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 29.0
+            },
+            {
+                "description": "KOREAN TACOS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "ASAHI L",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 14.0
+            }
+        ],
+        "subtotal": 63.0,
+        "tax": 5.99,
+        "tip": null,
+        "total": 68.99
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HMSHost",
+        "transaction_date": "2013-01-24",
+        "items": [
+            {
+                "description": "BIG SAM ADAMS DR",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.49
+            },
+            {
+                "description": "BLUE MOON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.99
+            },
+            {
+                "description": "MATER",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "CRAN SPRG MIX",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.99
+            },
+            {
+                "description": "SAM ADAMS DRFT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.99
+            }
+        ],
+        "subtotal": 32.46,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

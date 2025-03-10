@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "L' OUSTAGOU\nRESTAURANT AUVERGNAT",
+        "transaction_date": "2009-11-24",
+        "items": [
+            {
+                "description": "CAFE",
+                "quantity": 1.0,
+                "price": 1.75,
+                "total_price": 1.75
+            },
+            {
+                "description": "SALADE AUVERGNATE",
+                "quantity": 2.0,
+                "price": 7.8,
+                "total_price": 15.6
+            },
+            {
+                "description": "TRUFFADE",
+                "quantity": 1.0,
+                "price": 15.0,
+                "total_price": 15.0
+            },
+            {
+                "description": "SAUCISSE ALIGOT",
+                "quantity": 1.0,
+                "price": 15.0,
+                "total_price": 15.0
+            },
+            {
+                "description": "COUPE LOU BOUR",
+                "quantity": 3.0,
+                "price": 6.0,
+                "total_price": 18.0
+            }
+        ],
+        "subtotal": 65.35,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

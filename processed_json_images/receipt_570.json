@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Large . 595 CHEESE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.95
+            },
+            {
+                "description": "Large . 595 CHEESE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.95
+            },
+            {
+                "description": "Ham",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.55
+            },
+            {
+                "description": "X Cheese",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.55
+            }
+        ],
+        "subtotal": 15.0,
+        "tax": 0.98,
+        "tip": null,
+        "total": 15.98
+    }
+]

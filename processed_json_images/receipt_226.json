@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Palmer Ltd",
+        "transaction_date": "2014-04-09",
+        "items": [
+            {
+                "description": "15\"x15\" White Decorative\nCoffee Table Top Lapis Lazuli\nMarquetery Patio D\u00e9cor",
+                "quantity": 3.0,
+                "price": 645.77,
+                "total_price": 2131.04
+            },
+            {
+                "description": "4'x2' Marble Dining Table Top\nPietra Dura Birds Inlay Art\nFurniture Decors B444",
+                "quantity": 5.0,
+                "price": 1.0,
+                "total_price": 10120.55
+            },
+            {
+                "description": "60 Inches Marble Dinning Table\nTop Hand Inlaid Garden Table\nwith Gemstones",
+                "quantity": 5.0,
+                "price": 5.0,
+                "total_price": 32494.0
+            }
+        ],
+        "subtotal": 40677.81,
+        "tax": 4067.78,
+        "tip": null,
+        "total": 44745.59
+    }
+]

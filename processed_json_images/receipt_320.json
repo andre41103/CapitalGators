@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SAMCO",
+        "transaction_date": "2017-03-26",
+        "items": [
+            {
+                "description": "DAL TADKA",
+                "quantity": 1.0,
+                "price": 157.4,
+                "total_price": 157.4
+            },
+            {
+                "description": "GREEN PEP BBQ HALF",
+                "quantity": 1.0,
+                "price": 240.74,
+                "total_price": 240.74
+            },
+            {
+                "description": "MINARAL WATER",
+                "quantity": 1.0,
+                "price": 18.7,
+                "total_price": 18.7
+            },
+            {
+                "description": "STEAM RICE",
+                "quantity": 1.0,
+                "price": 92.59,
+                "total_price": 92.59
+            }
+        ],
+        "subtotal": 509.43,
+        "tax": null,
+        "tip": null,
+        "total": 550.0
+    }
+]

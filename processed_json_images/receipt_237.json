@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Kirk-Green",
+        "transaction_date": "2020-02-23",
+        "items": [
+            {
+                "description": "Dell Desktop Computer 3020\nMicro Tiny PC Intel i3 4GB\n120GB SSD Windows 10 WiFi",
+                "quantity": 2.0,
+                "price": 134.95,
+                "total_price": 296.89
+            },
+            {
+                "description": "HP Elite 8100 Desktop\nComputer Package - Intel Core\ni5 3.2-GHz, 8GB RAM, 500GB H",
+                "quantity": 4.0,
+                "price": 209.0,
+                "total_price": 919.6
+            },
+            {
+                "description": "Dell Desktop Computer Optiplex\n790 Tower PC Core i5 8GB\n500GB Windows 10 Pro",
+                "quantity": 5.0,
+                "price": 149.95,
+                "total_price": 824.73
+            },
+            {
+                "description": "10-Core Gaming Computer\nDesktop PC Tower HDMI 8GB\nDDR4 R7 Graphic CUSTOM\nBUILT",
+                "quantity": 5.0,
+                "price": 348.88,
+                "total_price": 1918.84
+            },
+            {
+                "description": "Gaming PC Desktop Computer\nHDMI RGB Intel i7 RTX 2060,\nHDD+SSD, Windows 10, Wifi",
+                "quantity": 5.0,
+                "price": 903.8,
+                "total_price": 4970.9
+            },
+            {
+                "description": "Computer Desktop Gaming i5\nRam 16 G",
+                "quantity": 4.0,
+                "price": 315.0,
+                "total_price": 1386.0
+            }
+        ],
+        "subtotal": 379.05,
+        "tax": 937.9,
+        "tip": null,
+        "total": 10316.95
+    }
+]

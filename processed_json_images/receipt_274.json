@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LOREM SHOP",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Ut wisi enim",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "Nibh euismod",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.3
+            },
+            {
+                "description": "Rdol magna",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.0
+            },
+            {
+                "description": "Mnonuy nibh",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.99
+            },
+            {
+                "description": "Kaoreet dolore",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.2
+            },
+            {
+                "description": "Taliquam erat",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.1
+            },
+            {
+                "description": "Aeuismod",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Knonuy nib",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 34.5
+    }
+]

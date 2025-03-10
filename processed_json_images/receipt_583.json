@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "A PLE THING",
+        "transaction_date": "2016-09-08",
+        "items": [
+            {
+                "description": "The Elvis",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.8
+            },
+            {
+                "description": "The Hashwere + Soda\nGET: Ginger Ale",
+                "quantity": null,
+                "price": null,
+                "total_price": 20.9
+            }
+        ],
+        "subtotal": 33.4,
+        "tax": 1.89,
+        "tip": null,
+        "total": 33.4
+    }
+]

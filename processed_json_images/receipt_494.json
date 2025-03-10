@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "FARZI CAFE",
+        "transaction_date": "2017-07-01",
+        "items": [
+            {
+                "description": "TANDOORI WILD\nMUSHROOMS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 35.0
+            },
+            {
+                "description": "CHERMOULA FISH N\nCHIPS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 35.0
+            },
+            {
+                "description": "DAL CHANAL ARANCINI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 27.0
+            },
+            {
+                "description": "SHAWARMA BIRYANI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 45.0
+            },
+            {
+                "description": "CHICKEN TIKKA\nMASALA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 45.0
+            },
+            {
+                "description": "DIRT PILE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 51.0
+            },
+            {
+                "description": "RISOTTO PHIRNI\nOXIDE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 47.0
+            }
+        ],
+        "subtotal": 285.0,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Kane-Morgan",
+        "transaction_date": "2019-10-28",
+        "items": [
+            {
+                "description": "Anthropologie Gold Elegant\nSwan Decorative Metal Bottle",
+                "quantity": 3.0,
+                "price": 19.98,
+                "total_price": 65.93
+            },
+            {
+                "description": "Lolita Happy Retirement Wine\nGlass 15 Ounce GLS11-5534H",
+                "quantity": 1.0,
+                "price": 8.0,
+                "total_price": 8.8
+            },
+            {
+                "description": "Lolita \"Congratulations\" Hand\nPainted and Decorated Wine\nGlass NIB",
+                "quantity": 1.0,
+                "price": 20.0,
+                "total_price": 22.0
+            }
+        ],
+        "subtotal": 87.94,
+        "tax": 8.79,
+        "tip": null,
+        "total": 96.73
+    }
+]

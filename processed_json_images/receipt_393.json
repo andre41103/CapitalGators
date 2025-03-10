@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Burke-Gordon",
+        "transaction_date": "2018-11-20",
+        "items": [
+            {
+                "description": "Gaming PC Computer RX 580\n8GB Ryzen 5 2x8GB Ram",
+                "quantity": 1.0,
+                "price": 400.0,
+                "total_price": 440.0
+            },
+            {
+                "description": "Alarco Gaming PC Desktop\nComputer Intel i5\n,8G,1TB,Win10,WIFI,NVIDIA GTX\n650 1GB",
+                "quantity": 4.0,
+                "price": 500.0,
+                "total_price": 2200.0
+            },
+            {
+                "description": "Dell Desktop Computers\nCore i5 16GB 2TB HD 512GB\nSSD\nWindows 10 PC 22\" LCD",
+                "quantity": 1.0,
+                "price": 139.95,
+                "total_price": 153.94
+            },
+            {
+                "description": "Dell 7010 Desktop Computer\nIntel Core i5 3.10 Windows 10\npro 64 500gb HD 4gb Ram",
+                "quantity": 2.0,
+                "price": 241.6,
+                "total_price": 531.52
+            },
+            {
+                "description": "Fast i5 RGB Gaming Desktop PC\nComputer nVidia Gefore WiFi\nFortnite GTAV PUBG IG3",
+                "quantity": 4.0,
+                "price": 510.0,
+                "total_price": 2244.0
+            },
+            {
+                "description": "HP 8300 Slim Desktop Small\nComputer PC i5 3.2GHz 4GB\n500GB Windows 10 Pro WiFi",
+                "quantity": 3.0,
+                "price": 99.99,
+                "total_price": 329.97
+            }
+        ],
+        "subtotal": 5363.12,
+        "tax": 536.31,
+        "tip": null,
+        "total": 5899.43
+    }
+]

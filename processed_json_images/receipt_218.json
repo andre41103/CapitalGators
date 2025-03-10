@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MASALA ZONE\nSOHO\nIndian Food",
+        "transaction_date": "2018-03-09",
+        "items": [
+            {
+                "description": "saffron Chicken korn",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.75
+            },
+            {
+                "description": "Ginger Mang Man",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.75
+            },
+            {
+                "description": "cucumber and mint ni",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "reg thati lamb",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.75
+            },
+            {
+                "description": "lassi MOD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.75
+            },
+            {
+                "description": "plain naan",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.9
+            },
+            {
+                "description": "gulab jamn",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.75
+            },
+            {
+                "description": "masala chai",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.25
+            }
+        ],
+        "subtotal": 56.8,
+        "tax": null,
+        "tip": 87.1,
+        "total": 63.9
+    }
+]

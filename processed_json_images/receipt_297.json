@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Subway.",
+        "transaction_date": "2017-09-30",
+        "items": [
+            {
+                "description": "6\" Seafood Sensation Sub",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.79
+            },
+            {
+                "description": "-Fresh Value Meal (21-1)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.7
+            },
+            {
+                "description": "12\" Seafood Sensation Sub",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.79
+            },
+            {
+                "description": "-Fresh Value Meal (21-1)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.7
+            }
+        ],
+        "subtotal": 22.48,
+        "tax": 1.24,
+        "tip": null,
+        "total": 23.72
+    }
+]

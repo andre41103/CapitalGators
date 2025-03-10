@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "SALVATION\nARMY",
+        "transaction_date": "2011-01-08",
+        "items": [
+            {
+                "description": "COATS",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "COATS",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "COATS",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "COATS",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "COATS",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": 35.0,
+        "tax": 1.53,
+        "tip": null,
+        "total": 36.53
+    }
+]

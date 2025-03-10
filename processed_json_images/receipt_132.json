@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CHRIS 'S\nHAMBURGERS",
+        "transaction_date": "2017-11-24",
+        "items": [
+            {
+                "description": "MISC",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.01
+            },
+            {
+                "description": "B CHZ B SPC",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.8
+            },
+            {
+                "description": "F FRIES - LRG",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.66
+            },
+            {
+                "description": "F FRIES - LRG",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.66
+            },
+            {
+                "description": "PREM MED DRINK",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.15
+            },
+            {
+                "description": "CHZ BURGER SPEC",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.57
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.46,
+        "tip": null,
+        "total": 28.31
+    }
+]

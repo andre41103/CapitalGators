@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Restaurant C\u00e8dre",
+        "transaction_date": "2015-09-08",
+        "items": [
+            {
+                "description": "Hommos bi Lahme",
+                "quantity": 1.0,
+                "price": 18.5,
+                "total_price": 18.5
+            },
+            {
+                "description": "Arayess Lahme",
+                "quantity": 1.0,
+                "price": 19.5,
+                "total_price": 19.5
+            },
+            {
+                "description": "Hommos bi Snoubar",
+                "quantity": 1.0,
+                "price": 17.5,
+                "total_price": 17.5
+            },
+            {
+                "description": "Warak Inab bil Zet",
+                "quantity": 1.0,
+                "price": 13.5,
+                "total_price": 13.5
+            },
+            {
+                "description": "Beste Falafel",
+                "quantity": 1.0,
+                "price": 13.5,
+                "total_price": 13.5
+            },
+            {
+                "description": "Scheschtaouk",
+                "quantity": 1.0,
+                "price": 24.5,
+                "total_price": 24.5
+            },
+            {
+                "description": "Kafta bi Laban",
+                "quantity": 1.0,
+                "price": 28.5,
+                "total_price": 28.5
+            },
+            {
+                "description": "Elmer Citro 3dl",
+                "quantity": 2.0,
+                "price": 4.5,
+                "total_price": 9.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 10.7,
+        "tip": null,
+        "total": 144.5
+    }
+]

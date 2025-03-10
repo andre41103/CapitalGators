@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "Aloha Pali",
+        "transaction_date": null,
+        "items": [],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 52.15
+    }
+]

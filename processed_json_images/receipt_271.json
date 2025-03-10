@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THE WINE HOUSE",
+        "transaction_date": "2017-07-10",
+        "items": [
+            {
+                "description": "Chicken Pasta",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "Woodwork Glass",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "Stella",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.7
+            }
+        ],
+        "subtotal": 27.7,
+        "tax": 2.22,
+        "tip": 4.0,
+        "total": 33.92
+    }
+]

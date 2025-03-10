@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Murray-Parsons",
+        "transaction_date": "2019-07-03",
+        "items": [
+            {
+                "description": "10-Core Gaming Computer\nDesktop PC Tower 3TB Quad\n16GB DDR4 AMD Graphics WIFI\nPC",
+                "quantity": 1.0,
+                "price": 618.49,
+                "total_price": 680.34
+            },
+            {
+                "description": "Ryzen Gaming Computer",
+                "quantity": 5.0,
+                "price": 752.0,
+                "total_price": 4.0
+            },
+            {
+                "description": "Custom Gaming Desktop PC\nComputer - Core i5 4690, RX\n470, 8GB RAM",
+                "quantity": 3.0,
+                "price": 359.99,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 5458.46,
+        "tax": 545.85,
+        "tip": null,
+        "total": 6004.31
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Espinoza Group",
+        "transaction_date": "2016-12-17",
+        "items": [
+            {
+                "description": "R&M; RICHARDS WOMAN'S\nBLUE PRINT LONG DRESS WITH\nSHRUG JACKET SIZE 18W NWT",
+                "quantity": 5.0,
+                "price": 29.99,
+                "total_price": 164.94
+            },
+            {
+                "description": "Speechless Green Brown White\nPsychedelic Sleeveless Dress\nSize Large",
+                "quantity": 5.0,
+                "price": 7.0,
+                "total_price": 38.5
+            },
+            {
+                "description": "Matilda Jane Womans Lets Go\nTogether Black Knit Dress Size\nM Medium NWT",
+                "quantity": 1.0,
+                "price": 19.6,
+                "total_price": 21.56
+            },
+            {
+                "description": "14 Colors Women Spaghetti\nStrap Bodycon Mini Dress Sexy\nParty Club Wear Dresses",
+                "quantity": 3.0,
+                "price": 4.71,
+                "total_price": 15.54
+            },
+            {
+                "description": "Zara black dress in Small",
+                "quantity": 2.0,
+                "price": 25.0,
+                "total_price": 55.0
+            }
+        ],
+        "subtotal": 268.68,
+        "tax": 26.87,
+        "tip": null,
+        "total": 295.55
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CHIPOTLE",
+        "transaction_date": "2013-10-31",
+        "items": [
+            {
+                "description": "Carnitas Bowl",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.7
+            },
+            {
+                "description": "Steak Boorito",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 9.7,
+        "tax": 0.6,
+        "tip": null,
+        "total": 10.3
+    }
+]

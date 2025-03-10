@@ -1,0 +1,134 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "WALMART",
+        "transaction_date": "1997-08-14",
+        "items": [
+            {
+                "description": "FOLIAGE BSK",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.47
+            },
+            {
+                "description": "CAT FOOD",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.67
+            },
+            {
+                "description": "6 AZALEA PT",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.75
+            },
+            {
+                "description": "6 AZALEA PT",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.75
+            },
+            {
+                "description": "6 AZALEA PT",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.75
+            },
+            {
+                "description": "BAKEWARE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.88
+            },
+            {
+                "description": "WM FAC UPR X",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.68
+            },
+            {
+                "description": "WH FAC UPR X",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.68
+            },
+            {
+                "description": "GARDEN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.97
+            },
+            {
+                "description": "DISH GEL",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.97
+            },
+            {
+                "description": "DURA SAUCER",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.73
+            },
+            {
+                "description": "HOOVER BAG H",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.96
+            },
+            {
+                "description": "PLANT SAUCER",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.34
+            },
+            {
+                "description": "PLANT SAUCER",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.34
+            },
+            {
+                "description": "VIDEO TAPE",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.97
+            },
+            {
+                "description": "REG 2.86",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.4
+            },
+            {
+                "description": "CAT LITTER",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.97
+            },
+            {
+                "description": "DRI-BOTTOMS",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.97
+            },
+            {
+                "description": "DRI-BOTTOMS",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.97
+            },
+            {
+                "description": "SPINWHEEL",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.75
+            }
+        ],
+        "subtotal": 55.97,
+        "tax": 2.47,
+        "tip": null,
+        "total": 58.44
+    }
+]

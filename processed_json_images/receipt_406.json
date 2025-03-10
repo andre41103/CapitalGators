@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Ferrara",
+        "transaction_date": "2015-09-02",
+        "items": [
+            {
+                "description": "House Coffee",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.25
+            },
+            {
+                "description": "Milk",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "Carrot Cake",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.95
+            },
+            {
+                "description": "Cannoli",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.5
+            }
+        ],
+        "subtotal": 22.2,
+        "tax": 1.97,
+        "tip": null,
+        "total": 24.17
+    }
+]

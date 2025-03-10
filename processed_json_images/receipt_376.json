@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "Shell",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "REGULAR CA",
+                "quantity": 34.758,
+                "price": 1.979,
+                "total_price": 68.79
+            }
+        ],
+        "subtotal": 0.35,
+        "tax": 0.0,
+        "tip": null,
+        "total": 0.35
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ICHIBAN SUSHI",
+        "transaction_date": "2017-09-01",
+        "items": [
+            {
+                "description": "Spicy Creamy Volkano Roll",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 50000.0
+            },
+            {
+                "description": "Chicken teriyaki Bento",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 62000.0
+            },
+            {
+                "description": "Beef Teriyaki Rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 40000.0
+            },
+            {
+                "description": "Ocha",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 18000.0
+            }
+        ],
+        "subtotal": 170000.0,
+        "tax": null,
+        "tip": 9350.0,
+        "total": 197285.0
+    }
+]

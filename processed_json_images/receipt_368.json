@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2016-12-21",
+        "items": [
+            {
+                "description": "WATER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "0J",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.89
+            },
+            {
+                "description": "KIDS CAKES, $kid's drink,\nkid's apple, egg, scrambled",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.99
+            },
+            {
+                "description": "STEEL CUT OATS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "OMELET SEN, $cheese, $bacon,\n$ham",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.17
+            },
+            {
+                "description": "BISC/GRAVY SD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.99
+            }
+        ],
+        "subtotal": 29.03,
+        "tax": 1.74,
+        "tip": null,
+        "total": 30.77
+    }
+]

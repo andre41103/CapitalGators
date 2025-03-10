@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Vargas-Hughes",
+        "transaction_date": "2016-07-08",
+        "items": [
+            {
+                "description": "Native Charley White\nSandals~Size Infant/Child\n6~Boys/Girls~Very\nCondition",
+                "quantity": 3.0,
+                "price": 13.0,
+                "total_price": 42.9
+            },
+            {
+                "description": "boys bogs waterproof boots\nyouth size 3",
+                "quantity": 3.0,
+                "price": 9.8,
+                "total_price": 32.34
+            },
+            {
+                "description": "PUMA Boys Kids Athletic Shoes\nFlats Plimsouls Gray Black\nDenim size 12C",
+                "quantity": 2.0,
+                "price": 19.0,
+                "total_price": 41.8
+            }
+        ],
+        "subtotal": 106.4,
+        "tax": 10.64,
+        "tip": null,
+        "total": 117.04
+    }
+]

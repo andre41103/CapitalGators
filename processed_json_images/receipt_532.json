@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Aur\ne Anne's",
+        "transaction_date": "2014-09-05",
+        "items": [
+            {
+                "description": "Cinnamon Sugar",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.8
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.22,
+        "tip": null,
+        "total": 3.8
+    }
+]

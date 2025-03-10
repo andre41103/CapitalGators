@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "ROMAINE LETTUCE",
+                "quantity": 2.0,
+                "price": 1.49,
+                "total_price": 2.98
+            },
+            {
+                "description": "TOMATOES: PLUM",
+                "quantity": 1.18,
+                "price": 1.99,
+                "total_price": 2.35
+            },
+            {
+                "description": "ONIONS : VIDALIA",
+                "quantity": 0.65,
+                "price": 1.49,
+                "total_price": 0.97
+            },
+            {
+                "description": "APPLES: BRAEBURN",
+                "quantity": 1.47,
+                "price": 1.69,
+                "total_price": 2.48
+            },
+            {
+                "description": "FT WK SWEET CORN",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "EL COMPI ARROZ LEC",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.49
+            },
+            {
+                "description": "FT PEAS&DICED CARRNP",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "CHICK STIR FRY",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.57
+            },
+            {
+                "description": "SCALLIONS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.79
+            },
+            {
+                "description": "PILL PIE CRUST",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "BB CHNK WHITE TUNANP",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 25.59
+    }
+]

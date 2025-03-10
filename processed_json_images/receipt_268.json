@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "El Farol",
+        "transaction_date": "2014-12-06",
+        "items": [
+            {
+                "description": "Cabrales - with honey (rosemary honey?)",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.75
+            },
+            {
+                "description": "Tortilla Espanola",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.75
+            },
+            {
+                "description": "Portabellas en Jerez",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.75
+            },
+            {
+                "description": "Gambas al Ajillo",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.75
+            },
+            {
+                "description": "Mejillones (or sub- Zarzuela de mariscos)",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.75
+            },
+            {
+                "description": "Jamon Serrano",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.75
+            },
+            {
+                "description": "Flan - rosemary lemon w/cacamel",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "Higos y Datiles",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.0
+            }
+        ],
+        "subtotal": 63.5,
+        "tax": 5.16,
+        "tip": null,
+        "total": 68.66
+    }
+]

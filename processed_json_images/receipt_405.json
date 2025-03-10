@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2017-12-03",
+        "items": [
+            {
+                "description": "Flat White",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.2
+            },
+            {
+                "description": "Reg Latte",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.1
+            },
+            {
+                "description": "Decaf Coffee",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.1
+            },
+            {
+                "description": "Hot Spiced Apple Jce",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.15
+            },
+            {
+                "description": "Carrot Cake",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.4
+            },
+            {
+                "description": "Tarte Tatin Slice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.98,
+        "tip": null,
+        "total": 26.83
+    }
+]

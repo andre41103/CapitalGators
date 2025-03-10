@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HIRO JAPANESE RESTAURANT",
+        "transaction_date": "2018-02-13",
+        "items": [
+            {
+                "description": "(L) Ton Katsu",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.95
+            },
+            {
+                "description": "(L) Makimono",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.95
+            }
+        ],
+        "subtotal": 15.9,
+        "tax": 1.28,
+        "tip": null,
+        "total": 17.18
+    }
+]

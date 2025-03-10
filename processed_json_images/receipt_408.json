@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "VERIZON WIRELESS",
+        "transaction_date": "2012-01-05",
+        "items": [
+            {
+                "description": "FEDEXSHP002",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "FEDEX 2DAY 7\nSAMI515BATX",
+                "quantity": null,
+                "price": 0.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.5,
+        "tip": null,
+        "total": 26.49
+    }
+]

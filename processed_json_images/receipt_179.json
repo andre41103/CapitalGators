@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Gourdough's Public House",
+        "transaction_date": "2017-01-21",
+        "items": [
+            {
+                "description": "FREEBIRD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "ICE CREAM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "LONESTAR",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            }
+        ],
+        "subtotal": 11.0,
+        "tax": 0.91,
+        "tip": null,
+        "total": 11.91
+    }
+]

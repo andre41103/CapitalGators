@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Henson-Cross",
+        "transaction_date": "2015-09-07",
+        "items": [
+            {
+                "description": "Nintendo 64 N64 Console\nComplete in Box Mint Beautiful!\nFrom Japan!",
+                "quantity": 5.0,
+                "price": 269.99,
+                "total_price": 1484.95
+            },
+            {
+                "description": "Nintendo Switch Lite Yellow\nCONSOLE ONLY - No\nAccessories or Charger [B1-1]",
+                "quantity": 2.0,
+                "price": 135.0,
+                "total_price": 297.0
+            },
+            {
+                "description": "Xbox 360 console with games",
+                "quantity": 2.0,
+                "price": 41.0,
+                "total_price": 90.2
+            },
+            {
+                "description": "PS5- PlayStation 5 Console Disc\nVersion\nPREORDER",
+                "quantity": 1.0,
+                "price": 820.0,
+                "total_price": 902.0
+            },
+            {
+                "description": "Nintendo 64 Console W/ Oem\nController Ice Blue, Expansion\nPack",
+                "quantity": 1.0,
+                "price": 120.0,
+                "total_price": 132.0
+            },
+            {
+                "description": "Original Nintendo Gaming\nConsole with Robot, 9 games &\nextras",
+                "quantity": 1.0,
+                "price": 475.0,
+                "total_price": 522.5
+            },
+            {
+                "description": "PS4 PlayStation 4 500 GB\nConsole CUH-1115A Bundle, 1\nController, 8 Games",
+                "quantity": 3.0,
+                "price": 349.99,
+                "total_price": 1154.97
+            }
+        ],
+        "subtotal": 4166.92,
+        "tax": 416.69,
+        "tip": null,
+        "total": 4583.61
+    }
+]

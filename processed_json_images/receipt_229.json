@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2017-12-10",
+        "items": [
+            {
+                "description": "\u2039\u2039OS>>FRIDGE FREEZER ECLIPSE\n38L ENGEL",
+                "quantity": 1.0,
+                "price": 719.2,
+                "total_price": 719.2
+            },
+            {
+                "description": "<< DISC>> << OS>>TRANSIT BAG MR40F\nENGEL",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 719.2
+    }
+]

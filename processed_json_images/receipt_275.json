@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "LOREM SHOP",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "UT WISI ENIM",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "NIBH EUISMOD",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.3
+            },
+            {
+                "description": "RDOL MAGNA",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.0
+            },
+            {
+                "description": "MNONUY NIBH",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.99
+            },
+            {
+                "description": "KAOREET DOLORE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.2
+            },
+            {
+                "description": "TALIQUAM ERAT",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.1
+            },
+            {
+                "description": "AEUISMOD",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "KNONUY NIB",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 34.5
+    }
+]

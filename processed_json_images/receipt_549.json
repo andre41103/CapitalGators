@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Franklin PLC",
+        "transaction_date": "2021-01-15",
+        "items": [
+            {
+                "description": "The Neuroscience of Emotion A\nNew Synthesis by Ralph\nAdolphs",
+                "quantity": 4.0,
+                "price": 9.99,
+                "total_price": 43.96
+            }
+        ],
+        "subtotal": 39.96,
+        "tax": 4.0,
+        "tip": null,
+        "total": 43.96
+    }
+]

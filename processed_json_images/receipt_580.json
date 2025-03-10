@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Boston Pizza",
+        "transaction_date": "2017-09-17",
+        "items": [
+            {
+                "description": "BAR QUENCH, black raspberry",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.3
+            },
+            {
+                "description": "BAR QUENCH, cucumber Time",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.3
+            },
+            {
+                "description": "N.S. POP",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.3
+            },
+            {
+                "description": "FRIED WINGS, medium\n, w/ranch",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.75
+            },
+            {
+                "description": "MEDI VEGGIE",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.5
+            },
+            {
+                "description": "S-IC HAWAIIAN",
+                "quantity": null,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "SPAG SHRIMP",
+                "quantity": null,
+                "price": null,
+                "total_price": 18.75
+            },
+            {
+                "description": "QUENCH REFILL, black raspberry",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 73.9,
+        "tax": 3.7,
+        "tip": null,
+        "total": 77.6
+    }
+]

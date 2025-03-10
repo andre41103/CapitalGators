@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Sonic America's Drive-In",
+        "transaction_date": "2018-06-22",
+        "items": [
+            {
+                "description": "Combo",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.79
+            },
+            {
+                "description": "Prem Dog Combo",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.09
+            }
+        ],
+        "subtotal": 11.88,
+        "tax": 1.19,
+        "tip": null,
+        "total": 13.07
+    }
+]

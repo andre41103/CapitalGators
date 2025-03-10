@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2016-08-15",
+        "items": [
+            {
+                "description": "Gyro",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 7.95
+            },
+            {
+                "description": "Gyro",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 7.95
+            },
+            {
+                "description": "greek salad small",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 4.85
+            },
+            {
+                "description": "Canned Drinks",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 2.6
+            }
+        ],
+        "subtotal": 23.35,
+        "tax": 2.76,
+        "tip": null,
+        "total": 26.11
+    }
+]

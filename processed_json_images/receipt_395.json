@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2017-02-19",
+        "items": [
+            {
+                "description": "HH Tokyo Ramen",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "HH Yakitori Thigh",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            }
+        ],
+        "subtotal": 9.5,
+        "tax": null,
+        "tip": null,
+        "total": 9.5
+    }
+]

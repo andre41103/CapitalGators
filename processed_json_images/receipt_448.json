@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BEST BUY",
+        "transaction_date": "2014-07-25",
+        "items": [
+            {
+                "description": "XBOX ONE CONSOLE",
+                "quantity": null,
+                "price": null,
+                "total_price": 44.99
+            },
+            {
+                "description": "X1 RAYMAN LEGENDS",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "G\nXB1BGW/CONSOLE PURCH",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "REWARDZONE\nRZ COLLECTION-CORE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 44.99,
+        "tax": 5.85,
+        "tip": null,
+        "total": 50.84
+    }
+]

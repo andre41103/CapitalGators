@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Jackson-Martinez",
+        "transaction_date": "2019-06-07",
+        "items": [
+            {
+                "description": "Skechers Hypno Splash Light Up\nShoes Size 4 Medium Big Kid\nNew",
+                "quantity": 1.0,
+                "price": 24.99,
+                "total_price": 27.49
+            },
+            {
+                "description": "4 pcs Kids Size Cartoon Peppa\nPink Pig Cotton Face Masks\nMouth Cover Washable",
+                "quantity": 2.0,
+                "price": 11.88,
+                "total_price": 26.14
+            },
+            {
+                "description": "Joma Boys Youth Gol-102\nSoccer Cleats Shoes Size 1.5\nWhite Red 1.5Y NEW",
+                "quantity": 1.0,
+                "price": 19.99,
+                "total_price": 21.99
+            }
+        ],
+        "subtotal": 68.74,
+        "tax": 6.87,
+        "tip": null,
+        "total": 75.61
+    }
+]

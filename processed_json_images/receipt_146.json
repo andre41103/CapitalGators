@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MIGUELS MEXICAN",
+        "transaction_date": "2012-12-26",
+        "items": [
+            {
+                "description": "WATER",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "CRAB SUIZA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.25
+            },
+            {
+                "description": "SHRIMP VERACRUZ",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.95
+            },
+            {
+                "description": "ENCHILADA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.95
+            },
+            {
+                "description": "FAJITA BF",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.95
+            },
+            {
+                "description": "TAKE OUT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.25
+            },
+            {
+                "description": "HH MIGUELS MARGARIT",
+                "quantity": 4.0,
+                "price": 3.38,
+                "total_price": 13.52
+            }
+        ],
+        "subtotal": 60.87,
+        "tax": 4.27,
+        "tip": null,
+        "total": 65.14
+    }
+]

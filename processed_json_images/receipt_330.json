@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "MIAMI SCIENCE\nMUSEUM",
+        "transaction_date": "2012-07-24",
+        "items": [
+            {
+                "description": "NOC ADULT",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 29.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 29.9
+    }
+]

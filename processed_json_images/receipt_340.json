@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Bistecca\nRestaurant Pte Ltd",
+        "transaction_date": "2012-10-21",
+        "items": [
+            {
+                "description": "Asparagi grigliati",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Bava ContrabasBarolo",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 165.0
+            },
+            {
+                "description": "Bruschetta Pomodoro",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "Costata",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 178.0
+            },
+            {
+                "description": "Limoncello",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "Panzanella",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.0
+            },
+            {
+                "description": "Pure di patate",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Single Scoope",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Aqua Panna",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            }
+        ],
+        "subtotal": 437.0,
+        "tax": 33.65,
+        "tip": null,
+        "total": 514.35
+    }
+]

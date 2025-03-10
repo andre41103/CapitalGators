@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Angelo's Pizza Restaurant",
+        "transaction_date": "2017-07-10",
+        "items": [
+            {
+                "description": "Sprite",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.55
+            },
+            {
+                "description": "Chicken Caesar Salad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.95
+            },
+            {
+                "description": "Chefs Special",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 19.95
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.89,
+        "tip": null,
+        "total": 33.34
+    }
+]

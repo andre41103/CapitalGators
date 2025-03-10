@@ -1,0 +1,110 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Hannaford Food & Drug",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "FLGRS FRNCH CAN 10.3",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "HRD 94% FF MICRO POP",
+                "quantity": 1.0,
+                "price": 4.0,
+                "total_price": 2.0
+            },
+            {
+                "description": "HRD LENTILS DRIED",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.39
+            },
+            {
+                "description": "POLANER BLKCHRY",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "DME QUICK OATS 18Z",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.69
+            },
+            {
+                "description": "DME CRNCHY PNT BUTTR",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.19
+            },
+            {
+                "description": "DME IQF CKN TENDER",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.99
+            },
+            {
+                "description": "BANANAS",
+                "quantity": 1.08,
+                "price": 0.37,
+                "total_price": 0.4
+            },
+            {
+                "description": "GREEN CUCUMBERS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.5
+            },
+            {
+                "description": "BUNCH SPINACH",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.59
+            },
+            {
+                "description": "SWEET POTATOES",
+                "quantity": 1.05,
+                "price": 0.69,
+                "total_price": 0.72
+            },
+            {
+                "description": "GRANNY SMITH APPLES",
+                "quantity": 0.81,
+                "price": 0.99,
+                "total_price": 0.8
+            },
+            {
+                "description": "BARTLETT PEARS",
+                "quantity": 1.11,
+                "price": 0.99,
+                "total_price": 1.1
+            },
+            {
+                "description": "RED TOMATOES ON VINE",
+                "quantity": 0.69,
+                "price": 1.69,
+                "total_price": 1.17
+            },
+            {
+                "description": "RADISHES 1LB",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.49
+            },
+            {
+                "description": "SEAFOOD\nATLANTIC SALM FILLT",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.79
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 34.8
+    }
+]

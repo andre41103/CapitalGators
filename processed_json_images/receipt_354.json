@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Gus 's",
+        "transaction_date": "2015-08-05",
+        "items": [
+            {
+                "description": "Fried Green Tom",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.75
+            },
+            {
+                "description": "Sweet Tea",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "Medium Rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.75
+            },
+            {
+                "description": "Medium Potato S",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.75
+            },
+            {
+                "description": "3 Piece White P",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.75
+            },
+            {
+                "description": "Medium Collard",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.75
+            }
+        ],
+        "subtotal": 32.75,
+        "tax": 2.7,
+        "tip": null,
+        "total": 35.45
+    }
+]

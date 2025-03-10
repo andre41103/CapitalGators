@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THAT HOTIM",
+        "transaction_date": "2016-07-16",
+        "items": [
+            {
+                "description": "Fresh Hookah",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.0
+            },
+            {
+                "description": "Hot Egyptian Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Chicken Fingers",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            }
+        ],
+        "subtotal": 37.0,
+        "tax": 3.28,
+        "tip": 8.66,
+        "total": 46.94
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "GAIN 2X",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "KIWI SUPER",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.49
+            },
+            {
+                "description": "PETER PAN",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.42
+            },
+            {
+                "description": "MP DRESSING",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.77
+            },
+            {
+                "description": "MP SALSA",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.89
+            },
+            {
+                "description": "CNTRY CROCK",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.19
+            },
+            {
+                "description": "IRISH SPRING",
+                "quantity": null,
+                "price": 4.59,
+                "total_price": 3.5
+            },
+            {
+                "description": "FOAMY",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.77
+            },
+            {
+                "description": "COLGATE",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.39
+            },
+            {
+                "description": "BOUNTY",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.49
+            },
+            {
+                "description": "COTTONELLE",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.74
+            },
+            {
+                "description": "DOG TREATS",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.84
+            },
+            {
+                "description": "GIFT CARDS",
+                "quantity": null,
+                "price": null,
+                "total_price": 25.0
+            },
+            {
+                "description": "GIFT CARDS",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": 84.48,
+        "tax": 2.36,
+        "tip": null,
+        "total": 84.37
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CHILE'S TEXAS GRELL",
+        "transaction_date": "2018-02-24",
+        "items": [
+            {
+                "description": "COFFEE",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.25
+            },
+            {
+                "description": "CLASSIC BREAKFAST",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "EGG WHITES ONLY",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            }
+        ],
+        "subtotal": 18.24,
+        "tax": 0.91,
+        "tip": null,
+        "total": 19.15
+    }
+]

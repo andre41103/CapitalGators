@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LEVANT Restaurant",
+        "transaction_date": "2016-02-07",
+        "items": [
+            {
+                "description": "WATER BOT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "POMELO SALAD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5750.0
+            },
+            {
+                "description": "FREEKEH BILFUKHARA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.75
+            },
+            {
+                "description": "MIXED GRILL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.5
+            },
+            {
+                "description": "CHEESE KUNAFEH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4900.0
+            }
+        ],
+        "subtotal": 30.4,
+        "tax": 4.864,
+        "tip": null,
+        "total": 35.264
+    }
+]

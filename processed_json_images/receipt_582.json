@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Hall-Johnston",
+        "transaction_date": "2012-06-13",
+        "items": [
+            {
+                "description": "Super SNES SFC Mini Family TV\nVideo Game Console Retro AV\nOut Built-in 620 Games",
+                "quantity": 3.0,
+                "price": 24.69,
+                "total_price": 81.48
+            },
+            {
+                "description": "NEC PC Engine INTERFACE UNIT\nIFU-30 CD ROM Console",
+                "quantity": 2.0,
+                "price": 159.99,
+                "total_price": 351.98
+            },
+            {
+                "description": "Working - Super Nintendo SNES\nOriginal System Console w/\nMario World!",
+                "quantity": 4.0,
+                "price": 85.0,
+                "total_price": 374.0
+            },
+            {
+                "description": "New Nintendo Switch 32GB\nConsole - AW1134",
+                "quantity": 5.0,
+                "price": 299.99,
+                "total_price": 1649.95
+            },
+            {
+                "description": "Nintendo Famicom (NES)\nHVC-001 Console Only Tested\nWork JAPAN",
+                "quantity": 3.0,
+                "price": 39.99,
+                "total_price": 131.97
+            },
+            {
+                "description": "SONY Playstation2 Console\nSCPH-39000\nAqua Color",
+                "quantity": 1.0,
+                "price": 60.0,
+                "total_price": 66.0
+            }
+        ],
+        "subtotal": 2413.97,
+        "tax": 241.4,
+        "tip": null,
+        "total": 2655.37
+    }
+]

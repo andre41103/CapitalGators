@@ -1,0 +1,98 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2015-02-08",
+        "items": [
+            {
+                "description": "Mobil 1 Pk -TX",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Spo.Supreme - Tx",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Ses Sup. Labor - Tx",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.24
+            },
+            {
+                "description": "Spa Sup, Parta - TX",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.75
+            },
+            {
+                "description": "Mobil 1 Synth",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 48.0
+            },
+            {
+                "description": "Suprese Tospection",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Waste For",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "Lube Wash Discount",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "5.BG Mobile J:040 Bt1",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Exp Carpet Clean",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 39.99
+            },
+            {
+                "description": "Exp Seat Treat",
+                "quantity": null,
+                "price": null,
+                "total_price": 39.99
+            },
+            {
+                "description": "2 Detall Disc",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 19.99
+            },
+            {
+                "description": "Emissions - 080",
+                "quantity": null,
+                "price": null,
+                "total_price": 25.5
+            },
+            {
+                "description": "Sticker - 008",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 159.48,
+        "tax": null,
+        "tip": 0.0,
+        "total": null
+    }
+]

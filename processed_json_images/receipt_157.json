@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "IKEA FOOD",
+        "transaction_date": "2016-04-06",
+        "items": [
+            {
+                "description": "Meatballs 10",
+                "quantity": 1.0,
+                "price": 3.8,
+                "total_price": 3.8
+            },
+            {
+                "description": "Fish & Chips Adult",
+                "quantity": 1.0,
+                "price": 4.95,
+                "total_price": 4.95
+            },
+            {
+                "description": "Petit Pain - White",
+                "quantity": 1.0,
+                "price": 0.5,
+                "total_price": 0.5
+            },
+            {
+                "description": "Wine rose",
+                "quantity": 1.0,
+                "price": 2.8,
+                "total_price": 2.8
+            },
+            {
+                "description": "Wine red",
+                "quantity": 1.0,
+                "price": 2.8,
+                "total_price": 2.8
+            }
+        ],
+        "subtotal": 12.37,
+        "tax": 2.48,
+        "tip": null,
+        "total": 14.85
+    }
+]

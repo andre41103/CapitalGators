@@ -1,0 +1,92 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BAAN THAI HERBAL CO LTD",
+        "transaction_date": "2017-06-02",
+        "items": [
+            {
+                "description": "MAI THAI",
+                "quantity": 2.0,
+                "price": 5.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "KOLIOS Pitcher\n50",
+                "quantity": 1.0,
+                "price": 8.5,
+                "total_price": 8.5
+            },
+            {
+                "description": "THOONG THONG",
+                "quantity": 1.0,
+                "price": 7.5,
+                "total_price": 7.5
+            },
+            {
+                "description": "POR PIA TOO W VEGE",
+                "quantity": 1.0,
+                "price": 3.5,
+                "total_price": 3.5
+            },
+            {
+                "description": "+PA-NAENG CURRY BE",
+                "quantity": 1.0,
+                "price": 10.5,
+                "total_price": 10.5
+            },
+            {
+                "description": "PAD SEE EIW",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 5.0
+            },
+            {
+                "description": "KHAD SUAY",
+                "quantity": 2.0,
+                "price": 3.0,
+                "total_price": 6.0
+            },
+            {
+                "description": "KHAO SUAY",
+                "quantity": 1.0,
+                "price": 1.5,
+                "total_price": 1.5
+            },
+            {
+                "description": "+EGG",
+                "quantity": 1.0,
+                "price": 8.0,
+                "total_price": 8.0
+            },
+            {
+                "description": "MASSAMAN",
+                "quantity": 1.0,
+                "price": 13.0,
+                "total_price": 13.0
+            },
+            {
+                "description": "GAI PAD MED MAMUAN",
+                "quantity": 1.0,
+                "price": 10.5,
+                "total_price": 10.5
+            },
+            {
+                "description": "+PRAWN",
+                "quantity": 1.0,
+                "price": 11.5,
+                "total_price": 11.5
+            },
+            {
+                "description": "STILL WATER 1L",
+                "quantity": null,
+                "price": 2.4,
+                "total_price": 2.4
+            }
+        ],
+        "subtotal": 89.82,
+        "tax": 8.08,
+        "tip": null,
+        "total": 97.9
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Villaggio Grille",
+        "transaction_date": "2019-06-08",
+        "items": [
+            {
+                "description": "P-VILLAGIO BREEZE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.01
+            },
+            {
+                "description": "ADD SALAD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "LUNCH SEAFOOD PASTA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "KID PEPERONI PIZZA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "KID ALFREDO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            }
+        ],
+        "subtotal": 31.01,
+        "tax": 3.11,
+        "tip": null,
+        "total": 34.12
+    }
+]

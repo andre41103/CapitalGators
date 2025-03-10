@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THE\nHOME\nDEPOT\n\u00ae",
+        "transaction_date": "2012-07-12",
+        "items": [
+            {
+                "description": "SWIFFER WET JET STARTER KIT DISPLAY",
+                "quantity": null,
+                "price": null,
+                "total_price": 21.27
+            },
+            {
+                "description": "SWIFFER WET JET WD CLNR REFILL 1.25L",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.27
+            },
+            {
+                "description": "WHITE GROUT RESTORER MARKER PENS",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.97
+            }
+        ],
+        "subtotal": 32.51,
+        "tax": 2.72,
+        "tip": null,
+        "total": 35.23
+    }
+]

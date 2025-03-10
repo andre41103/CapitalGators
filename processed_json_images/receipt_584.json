@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Arizona Five Palms",
+        "transaction_date": "2017-03-24",
+        "items": [
+            {
+                "description": "HH BOLOGNESE",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "RIBEYE",
+                "quantity": null,
+                "price": null,
+                "total_price": 46.0
+            },
+            {
+                "description": "LAMB LOLLIPOPS",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "HH CAB",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "HOUSE CABERNET",
+                "quantity": 2.0,
+                "price": 7.0,
+                "total_price": 14.0
+            }
+        ],
+        "subtotal": 89.0,
+        "tax": 5.43,
+        "tip": null,
+        "total": 94.43
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Saizeriya",
+        "transaction_date": "2014-03-14",
+        "items": [
+            {
+                "description": "Garlic Focaccia",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.2
+            },
+            {
+                "description": "Chicken Sausage",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.9
+            },
+            {
+                "description": "Paella",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.9
+            },
+            {
+                "description": "Chocolate Lava",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.8
+            },
+            {
+                "description": "Drink Bar\nCheese Chicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.87,
+        "tip": null,
+        "total": null
+    }
+]

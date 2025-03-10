@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "COMMERCIAL PROPANE",
+        "transaction_date": "2015-06-16",
+        "items": [
+            {
+                "description": "DEPT#001",
+                "quantity": 10.7,
+                "price": 2.53,
+                "total_price": 27.07
+            }
+        ],
+        "subtotal": 27.07,
+        "tax": 1.85,
+        "tip": null,
+        "total": 28.92
+    }
+]

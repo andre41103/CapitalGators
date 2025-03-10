@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "specialTEA Lounge & Caf\u00e9",
+        "transaction_date": "2011-11-03",
+        "items": [
+            {
+                "description": "P: Pesto Chicken",
+                "quantity": 1.0,
+                "price": 6.0,
+                "total_price": 6.0
+            },
+            {
+                "description": "NO: Cheese",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "P: Coco-Curry",
+                "quantity": 1.0,
+                "price": 7.0,
+                "total_price": 7.0
+            },
+            {
+                "description": "\"Dirty\" Chips",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "Regular Tea (M)",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "China W. Jasmine",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "Green Tea\nFOR HERE",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 16.0,
+        "tax": 1.12,
+        "tip": 3.0,
+        "total": 20.12
+    }
+]

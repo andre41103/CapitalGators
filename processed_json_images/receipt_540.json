@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CBLUEM RESTAURANTS LTD",
+        "transaction_date": "2015-12-27",
+        "items": [
+            {
+                "description": "Big Btl Mineral 1L",
+                "quantity": 2.0,
+                "price": 3.9,
+                "total_price": 7.8
+            },
+            {
+                "description": "Goat Cheese Salad",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.5
+            },
+            {
+                "description": "Prawns E",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.9
+            },
+            {
+                "description": "La Baume Chardonnay",
+                "quantity": null,
+                "price": null,
+                "total_price": 21.0
+            },
+            {
+                "description": "Cyprus Coffee",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.9
+            },
+            {
+                "description": "Espresso",
+                "quantity": 2.0,
+                "price": 2.9,
+                "total_price": 5.8
+            },
+            {
+                "description": "Millefeuille",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "Tuna Loin Salad",
+                "quantity": 2.0,
+                "price": 13.5,
+                "total_price": 27.0
+            },
+            {
+                "description": "Half Chicken",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.9
+            }
+        ],
+        "subtotal": 103.03,
+        "tax": null,
+        "tip": null,
+        "total": 112.3
+    }
+]

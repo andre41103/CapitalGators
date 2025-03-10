@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Local Kitchen & Espresso Bar",
+        "transaction_date": "2018-05-11",
+        "items": [
+            {
+                "description": "Local Salad Extra",
+                "quantity": 1.0,
+                "price": 12.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "mousaka",
+                "quantity": 1.0,
+                "price": 12.0,
+                "total_price": 12.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.98,
+        "tip": null,
+        "total": 24.0
+    }
+]

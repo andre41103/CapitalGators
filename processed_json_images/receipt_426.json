@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Richardson LLC",
+        "transaction_date": "2012-07-28",
+        "items": [
+            {
+                "description": "Custom Built Windows 98 Retro\nGaming Industrial PC Computer\nP2 B Montego II 5GB",
+                "quantity": 2.0,
+                "price": 409.99,
+                "total_price": 901.98
+            },
+            {
+                "description": "HP Pro 3500 Microtower\nDesktop Computer 3.4GHz i3\n4GB 500GB Windows 10 Pro",
+                "quantity": 2.0,
+                "price": 74.99,
+                "total_price": 164.98
+            },
+            {
+                "description": "HP XW9400 AMD Dual Core\n2216 2.6GHZ /8GB/250GB/ PC\nComputer / Desktop",
+                "quantity": 3.0,
+                "price": 225.0,
+                "total_price": 742.5
+            },
+            {
+                "description": "Alarco Gaming PC Desktop\nComputer Intel i5\n,8G,1TB,Win10,WIFI,NVIDIA GTX\n650 1GB",
+                "quantity": 1.0,
+                "price": 500.0,
+                "total_price": 550.0
+            },
+            {
+                "description": "Dell Optiplex Windows 10 Pro\nDesktop Computer PC i5 4th\nGen 3.2GHz 8 GB 2 TB HDD",
+                "quantity": 2.0,
+                "price": 149.95,
+                "total_price": 329.89
+            },
+            {
+                "description": "Dell Optiplex All in One\nWindows 10 Desktop Computer\n780 3.0GHz 4GB 250GB 19 LCD",
+                "quantity": 1.0,
+                "price": 129.99,
+                "total_price": 142.99
+            },
+            {
+                "description": "Desktop Computer Gaming PC\nBuild Your Own Ryzen 3000G\n3200G 3.5Ghz+ Vega or GTX",
+                "quantity": 5.0,
+                "price": 579.0,
+                "total_price": 3184.5
+            }
+        ],
+        "subtotal": 5469.85,
+        "tax": 546.99,
+        "tip": null,
+        "total": 6016.84
+    }
+]

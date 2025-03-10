@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CHATPATA RESTAURANT INC",
+        "transaction_date": "2019-03-19",
+        "items": [
+            {
+                "description": "6.5 Chicken Korma",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.95
+            },
+            {
+                "description": "10.1 Naan (Plain Naan",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.95
+            },
+            {
+                "description": "13.1 Kheer",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.95
+            }
+        ],
+        "subtotal": 17.85,
+        "tax": 1.25,
+        "tip": null,
+        "total": 19.1
+    }
+]

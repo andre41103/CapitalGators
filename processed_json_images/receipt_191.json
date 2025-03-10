@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Bombay Grill House",
+        "transaction_date": "2018-06-30",
+        "items": [
+            {
+                "description": "Onion Bhajia",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.95
+            },
+            {
+                "description": "Lamb Vindaloo",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.95
+            },
+            {
+                "description": "Konkan Fish Curry",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.95
+            },
+            {
+                "description": "Shrimp Briyani",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.95
+            },
+            {
+                "description": "Garlic Naan",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Hess Cabernet",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 50.0
+            }
+        ],
+        "subtotal": 108.8,
+        "tax": 9.66,
+        "tip": 35.54,
+        "total": 154.0
+    }
+]

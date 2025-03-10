@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.parking",
+        "merchant_name": null,
+        "transaction_date": "2017-05-11",
+        "items": [],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 0.0
+    }
+]

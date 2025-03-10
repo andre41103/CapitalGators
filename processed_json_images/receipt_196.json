@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Amici Conyers",
+        "transaction_date": "2018-06-10",
+        "items": [
+            {
+                "description": "Coke",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.29
+            },
+            {
+                "description": "Margherita\nCalzone",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.99
+            },
+            {
+                "description": "Side Caesar",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "Coke",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.29
+            },
+            {
+                "description": "Dbl Stack Cheeseburger",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.99
+            }
+        ],
+        "subtotal": 31.54,
+        "tax": 2.21,
+        "tip": null,
+        "total": 33.75
+    }
+]

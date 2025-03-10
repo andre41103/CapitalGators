@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Pappadeaux Seafood Kitchen",
+        "transaction_date": "2017-01-07",
+        "items": [
+            {
+                "description": "Side Craw Etouffee 4oz",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.98
+            },
+            {
+                "description": "Pan Seared Tilapia",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 21.99
+            },
+            {
+                "description": "Tea",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 5.98
+            }
+        ],
+        "subtotal": 38.95,
+        "tax": 3.21,
+        "tip": null,
+        "total": 42.16
+    }
+]

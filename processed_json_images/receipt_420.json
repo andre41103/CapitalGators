@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SONIC BURGER",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "CLASSIC",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.69
+            },
+            {
+                "description": "FRY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.69
+            },
+            {
+                "description": "COKE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.59
+            }
+        ],
+        "subtotal": 5.97,
+        "tax": 0.49,
+        "tip": null,
+        "total": 6.46
+    }
+]

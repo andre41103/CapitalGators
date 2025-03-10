@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Jones PLC",
+        "transaction_date": "2019-09-16",
+        "items": [
+            {
+                "description": "-40dB Easy Install\nOmnidirectional Microphone\nTable Home Office Desktop\nComputer",
+                "quantity": 5.0,
+                "price": 21.55,
+                "total_price": 118.53
+            },
+            {
+                "description": "48 Inches Marble Dinning Table\nTop Hand Crafted Conference\nTable with Royal Look",
+                "quantity": 3.0,
+                "price": 2.0,
+                "total_price": 9741.6
+            },
+            {
+                "description": "52\"x52\" Marble Top Coffee\nTable Pauashell Inlay Gemstone\nArt Cyber Monday Gift",
+                "quantity": 4.0,
+                "price": 16.0,
+                "total_price": 74043.2
+            },
+            {
+                "description": "36 Inches Marble Dinning Table\nTop Inlay Kitchen Table with\nBlue Elephant Design",
+                "quantity": 3.0,
+                "price": 1.0,
+                "total_price": 4999.5
+            },
+            {
+                "description": "12\" White Marble Side Coffee\nTable Top Jasper Elephant Inlay\nGarden Decor W026",
+                "quantity": 5.0,
+                "price": 247.78,
+                "total_price": 1362.79
+            },
+            {
+                "description": "24\" Marble White Coffee Top\nTable Inlay Lapis Stone\nFurniture Indoor Decor W045",
+                "quantity": 2.0,
+                "price": 918.17,
+                "total_price": 2019.97
+            },
+            {
+                "description": "18\" Marble White Top Chess\nTable Handmade Collectible\nBlack Friday Gift D\u00e9cor",
+                "quantity": 1.0,
+                "price": 561.0,
+                "total_price": 617.1
+            }
+        ],
+        "subtotal": 84456.99,
+        "tax": 8445.7,
+        "tip": null,
+        "total": 92902.69
+    }
+]

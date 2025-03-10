@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "West Vancouver, B.C.",
+        "transaction_date": "2016-08-26",
+        "items": [
+            {
+                "description": "Mussel Pot",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 26.0
+            },
+            {
+                "description": "Fish&Chips",
+                "quantity": 2.0,
+                "price": 27.0,
+                "total_price": 54.0
+            },
+            {
+                "description": "Lobster Roll",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 19.0
+            },
+            {
+                "description": "Pan Bread",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "Gls Seven Terrac",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "BH LAGER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "HH Lager",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Tartar Sauce",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Bluebry Cheescke",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Rhubarb Crumble",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": 138.5,
+        "tax": 8.93,
+        "tip": null,
+        "total": null
+    }
+]

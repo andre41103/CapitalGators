@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AU BON MARCHE",
+        "transaction_date": "2016-06-04",
+        "items": [
+            {
+                "description": "VIRGIN",
+                "quantity": 1.0,
+                "price": 6.8,
+                "total_price": 6.8
+            },
+            {
+                "description": "37,5 CL ORLEANS BL",
+                "quantity": 1.0,
+                "price": 11.6,
+                "total_price": 11.6
+            },
+            {
+                "description": "CHATELDON 75cl",
+                "quantity": 1.0,
+                "price": 6.9,
+                "total_price": 6.9
+            },
+            {
+                "description": "COCKTAIL MAISON 12",
+                "quantity": 1.0,
+                "price": 6.8,
+                "total_price": 6.8
+            },
+            {
+                "description": "TRUITE",
+                "quantity": 1.0,
+                "price": 17.5,
+                "total_price": 17.5
+            },
+            {
+                "description": "ST JACQUES",
+                "quantity": 1.0,
+                "price": 19.5,
+                "total_price": 19.5
+            },
+            {
+                "description": "ASSIETTE DE FRO",
+                "quantity": 1.0,
+                "price": 8.5,
+                "total_price": 8.5
+            },
+            {
+                "description": "BANANE PANEE",
+                "quantity": 1.0,
+                "price": 8.5,
+                "total_price": 8.5
+            },
+            {
+                "description": "CAFE",
+                "quantity": 1.0,
+                "price": 1.9,
+                "total_price": 1.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 20.0,
+        "tip": null,
+        "total": 88.0
+    }
+]

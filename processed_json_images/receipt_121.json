@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RED & HOT II",
+        "transaction_date": "2018-10-20",
+        "items": [
+            {
+                "description": "Vegetable Roll",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "L35.Sesame chicken",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 13.9
+            },
+            {
+                "description": "(L)Veg Spare Ribs .BBS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.65
+            }
+        ],
+        "subtotal": 21.55,
+        "tax": 1.91,
+        "tip": null,
+        "total": 23.46
+    }
+]

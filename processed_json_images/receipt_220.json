@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Pumpkin Shop",
+        "transaction_date": "2011-01-27",
+        "items": [
+            {
+                "description": "CRUNCHIE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.75
+            }
+        ],
+        "subtotal": 0.75,
+        "tax": 0.13,
+        "tip": null,
+        "total": 1.0
+    }
+]

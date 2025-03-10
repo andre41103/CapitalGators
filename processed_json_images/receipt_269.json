@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SCALINI\nRESTAURANT",
+        "transaction_date": "2018-10-30",
+        "items": [
+            {
+                "description": "Burrata Full",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 125.0
+            },
+            {
+                "description": "Vitello Tonne",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 100.0
+            },
+            {
+                "description": "Linguine Pescato",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 180.0
+            },
+            {
+                "description": "Papp Ragu Truffl",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 135.0
+            },
+            {
+                "description": "1 Scoop Lemon",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "Scalini Spritz",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 90.0
+            },
+            {
+                "description": "Italiano",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 60.0
+            },
+            {
+                "description": "Brunello Frescob",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1450.0
+            },
+            {
+                "description": "Still Water",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.0
+            }
+        ],
+        "subtotal": 2177.0,
+        "tax": null,
+        "tip": null,
+        "total": 2424.39
+    }
+]

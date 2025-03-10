@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AnnAdyA Restaurant & Bar",
+        "transaction_date": "2017-01-01",
+        "items": [
+            {
+                "description": "ANCKOR (BIG BOTTLE)",
+                "quantity": 2.0,
+                "price": 3.5,
+                "total_price": 7.0
+            },
+            {
+                "description": "Pineapple Chill Juice",
+                "quantity": 2.0,
+                "price": 1.5,
+                "total_price": 3.0
+            },
+            {
+                "description": "Pineapple Juice",
+                "quantity": 1.0,
+                "price": 1.5,
+                "total_price": 1.5
+            },
+            {
+                "description": "Angkor(bt)",
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 2.5
+            },
+            {
+                "description": "Staff Calamari A La Kep",
+                "quantity": 1.0,
+                "price": 5.25,
+                "total_price": 5.25
+            },
+            {
+                "description": "Crispy Tiger Prawns",
+                "quantity": 1.0,
+                "price": 3.75,
+                "total_price": 3.75
+            },
+            {
+                "description": "Green Mango With Smoked\nFish Salad",
+                "quantity": 1.0,
+                "price": 4.25,
+                "total_price": 4.25
+            },
+            {
+                "description": "Traditional Khmer\nLemongrass Soup",
+                "quantity": 1.0,
+                "price": 3.5,
+                "total_price": 3.5
+            },
+            {
+                "description": "Tom Yam Soup (Khmer\nstyle)",
+                "quantity": null,
+                "price": 4.25,
+                "total_price": 4.25
+            },
+            {
+                "description": "Wirok- Fried Traditional\nKhmer Spices",
+                "quantity": 1.0,
+                "price": 6.0,
+                "total_price": 6.0
+            }
+        ],
+        "subtotal": 41.0,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

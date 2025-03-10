@@ -1,0 +1,116 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "La Baguette Bar &\nGrill",
+        "transaction_date": "2016-02-29",
+        "items": [
+            {
+                "description": "Super Drink Lime",
+                "quantity": 1.0,
+                "price": 55.0,
+                "total_price": 55.0
+            },
+            {
+                "description": "Super Drink Lime",
+                "quantity": 1.0,
+                "price": 65.0,
+                "total_price": 55.0
+            },
+            {
+                "description": "Super Drink Mlaml",
+                "quantity": 1.0,
+                "price": 55.0,
+                "total_price": 55.0
+            },
+            {
+                "description": "Super Drink Pina",
+                "quantity": 1.0,
+                "price": 55.0,
+                "total_price": 55.0
+            },
+            {
+                "description": "Beer Bottle Corona",
+                "quantity": 1.0,
+                "price": 12.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "Steak Sandwich",
+                "quantity": 1.0,
+                "price": 15.99,
+                "total_price": 15.99
+            },
+            {
+                "description": "Prosciutto",
+                "quantity": 1.0,
+                "price": 14.99,
+                "total_price": 14.99
+            },
+            {
+                "description": "Prosciutto",
+                "quantity": 1.0,
+                "price": 14.99,
+                "total_price": 14.99
+            },
+            {
+                "description": "Beef Burger",
+                "quantity": 1.0,
+                "price": 16.99,
+                "total_price": 18.99
+            },
+            {
+                "description": "Spinach & Cheese",
+                "quantity": 1.0,
+                "price": 25.99,
+                "total_price": 25.99
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": 2.0,
+                "total_price": 2.0
+            },
+            {
+                "description": "SIDE\n# jalapeno",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Super Drink Live",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Super Drink Pina",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Beer Bottle Corona",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Super Drink Pina",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Super Drink Miant",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 322.95,
+        "tax": 29.07,
+        "tip": 63.36,
+        "total": null
+    }
+]

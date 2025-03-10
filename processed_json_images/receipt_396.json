@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "GLENDALE CAR WASH/DETAIL CENTER",
+        "transaction_date": "2015-01-04",
+        "items": [
+            {
+                "description": "MAJESTIC WAX &",
+                "quantity": 1.0,
+                "price": 29.99,
+                "total_price": 29.99
+            }
+        ],
+        "subtotal": 29.99,
+        "tax": 0.0,
+        "tip": null,
+        "total": 29.99
+    }
+]

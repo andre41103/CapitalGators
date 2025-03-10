@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Fatboy's\nBurger Bar",
+        "transaction_date": "2013-02-22",
+        "items": [
+            {
+                "description": "Chocolate Malt Shake",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Lime Juice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "Stiffee",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.5
+            },
+            {
+                "description": "Wimpy Beef",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.5
+            },
+            {
+                "description": "Royale with Cheese",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 57.5
+    }
+]

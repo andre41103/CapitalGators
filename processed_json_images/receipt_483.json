@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Bills Breakfast",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.45
+            },
+            {
+                "description": "Veggie Breakfast",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.2
+            },
+            {
+                "description": "Cappuccino",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.3
+            },
+            {
+                "description": "Earl Grey",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.95
+            },
+            {
+                "description": "Bills Milk Choco",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "Item- Comp-Bills Milk Ch",
+                "quantity": null,
+                "price": null,
+                "total_price": -2.5
+            }
+        ],
+        "subtotal": 23.9,
+        "tax": null,
+        "tip": 2.39,
+        "total": 26.29
+    }
+]

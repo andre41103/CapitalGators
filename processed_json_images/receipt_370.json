@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Queensboro Car Wash",
+        "transaction_date": "2016-06-10",
+        "items": [
+            {
+                "description": "Car Full Hand Wash",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Super Wash",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Armor All Com. SUV",
+                "quantity": null,
+                "price": null,
+                "total_price": 26.99
+            }
+        ],
+        "subtotal": 44.99,
+        "tax": null,
+        "tip": null,
+        "total": 48.98
+    }
+]

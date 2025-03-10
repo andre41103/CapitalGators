@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Chal Midtown West",
+        "transaction_date": "2014-05-28",
+        "items": [
+            {
+                "description": "Sapporo",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Satay",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Pad Thai Chai Style",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.49,
+        "tip": null,
+        "total": 30.49
+    }
+]

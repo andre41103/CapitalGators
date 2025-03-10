@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LUD FINTA CANTER THE",
+        "transaction_date": "2014-06-16",
+        "items": [
+            {
+                "description": "NEPO EMDIAA ILT",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "MYBOX 500ML",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "MEMONADA EWA 232",
+                "quantity": 1.0,
+                "price": 1.5,
+                "total_price": 0.0
+            },
+            {
+                "description": "KPHTIKH",
+                "quantity": 1.0,
+                "price": 8.5,
+                "total_price": 0.0
+            },
+            {
+                "description": "\u03a1\u039f\u03a3",
+                "quantity": 1.0,
+                "price": 8.5,
+                "total_price": 0.0
+            },
+            {
+                "description": "GETA MENI",
+                "quantity": 1.0,
+                "price": 5.5,
+                "total_price": 0.0
+            },
+            {
+                "description": "\u039c\u0395\u039b\u0399\u03a4\u0396\u0391\u039d\u0395\u03a3",
+                "quantity": 1.0,
+                "price": 7.5,
+                "total_price": 0.0
+            },
+            {
+                "description": "APNI FIAGYPTI",
+                "quantity": 1.0,
+                "price": 10.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 45.5
+    }
+]

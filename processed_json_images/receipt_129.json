@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KALAVERAS - BELLFLOWER",
+        "transaction_date": "2019-08-30",
+        "items": [
+            {
+                "description": "Classic Michelada",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Classic Michelada",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Don Julio Anejo",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "Classic Michelada",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Balam Madurado",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            }
+        ],
+        "subtotal": 63.0,
+        "tax": 5.99,
+        "tip": null,
+        "total": 68.99
+    }
+]

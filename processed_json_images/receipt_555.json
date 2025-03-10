@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2018-03-03",
+        "items": [
+            {
+                "description": "GRIP WORK GLOVES\nO/S",
+                "quantity": 1.0,
+                "price": 12.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "os",
+                "quantity": 1.0,
+                "price": 158.0,
+                "total_price": 158.0
+            },
+            {
+                "description": "SHOULDER BAG\nOS",
+                "quantity": 1.0,
+                "price": 54.0,
+                "total_price": 54.0
+            },
+            {
+                "description": "WILSON\u00ae TENNIS BALL: OS",
+                "quantity": 1.0,
+                "price": 16.0,
+                "total_price": 16.0
+            },
+            {
+                "description": "RUBBER PATCH BEANIE OS",
+                "quantity": 1.0,
+                "price": 32.0,
+                "total_price": 32.0
+            },
+            {
+                "description": "COATED LINEN CAMP C, OS",
+                "quantity": 1.0,
+                "price": 48.0,
+                "total_price": 48.0
+            }
+        ],
+        "subtotal": 320.0,
+        "tax": 30.4,
+        "tip": null,
+        "total": 350.4
+    }
+]

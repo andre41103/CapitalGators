@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "NEW DELHI\nINDIAN\nRESTAURANT",
+        "transaction_date": "2016-11-24",
+        "items": [
+            {
+                "description": "House Wine White Glass",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "VEGETABLE SHORBA",
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 2.5
+            },
+            {
+                "description": "GARLIC NAAN",
+                "quantity": 1.0,
+                "price": 2.0,
+                "total_price": 2.0
+            },
+            {
+                "description": "KARI PAKORA",
+                "quantity": 1.0,
+                "price": 4.5,
+                "total_price": 4.5
+            },
+            {
+                "description": "ANGKOR BEER WITH MEAL",
+                "quantity": 1.0,
+                "price": 0.5,
+                "total_price": 0.5
+            },
+            {
+                "description": "ANGKOR BEER WITH MEAL",
+                "quantity": 1.0,
+                "price": 0.5,
+                "total_price": 0.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 13.0
+    }
+]

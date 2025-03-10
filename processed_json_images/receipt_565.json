@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Wanton Noddles\nHIT WEE",
+        "transaction_date": "2016-11-06",
+        "items": [
+            {
+                "description": "Original DRY",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 13.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 13.5
+    }
+]

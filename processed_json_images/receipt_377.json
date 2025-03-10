@@ -1,0 +1,248 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Aurum",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "\"Bt Grey Goose",
+                "quantity": null,
+                "price": null,
+                "total_price": 100.0
+            },
+            {
+                "description": "\"Cosmopolitan",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "\u00b7Havana Especial",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.8
+            },
+            {
+                "description": "*Ton Collins",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "\"Sex on the Beach",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.95
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "*AU79",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 3.8
+            },
+            {
+                "description": "\"Patron XO",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 2.8
+            },
+            {
+                "description": "\"Jagermeister",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 130.0
+            },
+            {
+                "description": "\"Bt Ciroc",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "\"Bt Hennessey XO",
+                "quantity": 2.0,
+                "price": 210.0,
+                "total_price": 420.0
+            },
+            {
+                "description": "*Bt Bombay Sapphire",
+                "quantity": null,
+                "price": null,
+                "total_price": 85.0
+            },
+            {
+                "description": "\"Methuselah Belvedere",
+                "quantity": 2.0,
+                "price": 800.0,
+                "total_price": 1600.0
+            },
+            {
+                "description": "\"Nagnun Grey Goose",
+                "quantity": null,
+                "price": null,
+                "total_price": 200.0
+            },
+            {
+                "description": "\"Raspberry Bellini",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "\"Mango Bellini",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "*Sloe Gin Fizz",
+                "quantity": null,
+                "price": null,
+                "total_price": 28.5
+            },
+            {
+                "description": "*Oro",
+                "quantity": 3.0,
+                "price": 8.5,
+                "total_price": null
+            },
+            {
+                "description": "\"Bt Cristal",
+                "quantity": null,
+                "price": null,
+                "total_price": 295.0
+            },
+            {
+                "description": "\"Bt Veuve Cliquot",
+                "quantity": 2.0,
+                "price": 60.0,
+                "total_price": 120.0
+            },
+            {
+                "description": "*Bt Dom Perignon",
+                "quantity": 2.0,
+                "price": 180.0,
+                "total_price": 360.0
+            },
+            {
+                "description": "\"Bt Jeroboam Veuve Cliquot",
+                "quantity": null,
+                "price": null,
+                "total_price": 400.0
+            },
+            {
+                "description": "\"Bt Courvoisier VS",
+                "quantity": null,
+                "price": null,
+                "total_price": 80.0
+            },
+            {
+                "description": "*Red Bull",
+                "quantity": 20.0,
+                "price": 2.9,
+                "total_price": 58.0
+            },
+            {
+                "description": "*Bt Tonic",
+                "quantity": 25.0,
+                "price": 1.35,
+                "total_price": 33.75
+            },
+            {
+                "description": "*Bt Coke",
+                "quantity": 30.0,
+                "price": 2.1,
+                "total_price": 63.0
+            },
+            {
+                "description": "*Bt Patron XO",
+                "quantity": null,
+                "price": null,
+                "total_price": 110.0
+            },
+            {
+                "description": "*Bt Glenfiddich",
+                "quantity": null,
+                "price": 2.8,
+                "total_price": 135.0
+            },
+            {
+                "description": "*Sourz",
+                "quantity": 30.0,
+                "price": null,
+                "total_price": 84.0
+            },
+            {
+                "description": "*Don Julio Reposado",
+                "quantity": 35.0,
+                "price": 4.0,
+                "total_price": 140.0
+            },
+            {
+                "description": "\"Patron Silver",
+                "quantity": 35.0,
+                "price": 3.8,
+                "total_price": 133.0
+            },
+            {
+                "description": "*Bt Jack Daniels",
+                "quantity": 2.0,
+                "price": 80.0,
+                "total_price": 160.0
+            },
+            {
+                "description": "*Bt 42 Below",
+                "quantity": 2.0,
+                "price": 90.0,
+                "total_price": 180.0
+            },
+            {
+                "description": "*Bt Diet Coke",
+                "quantity": 65.0,
+                "price": 2.1,
+                "total_price": 136.5
+            },
+            {
+                "description": "*Bt Havana Especial",
+                "quantity": 2.0,
+                "price": 80.0,
+                "total_price": 160.0
+            },
+            {
+                "description": "*Corona",
+                "quantity": 50.0,
+                "price": 3.5,
+                "total_price": 175.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 5459.1
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MITASU JAPANESE RESTAURANT SDN BHD",
+        "transaction_date": "2018-06-29",
+        "items": [
+            {
+                "description": "(28.01) Adult",
+                "quantity": 11.0,
+                "price": null,
+                "total_price": 709.5
+            }
+        ],
+        "subtotal": 709.5,
+        "tax": 0.0,
+        "tip": 70.95,
+        "total": 780.45
+    }
+]

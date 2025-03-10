@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2017-06-11",
+        "items": [
+            {
+                "description": "20oz Peach Me Sweetea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "20oz Matcha Coffee",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.25
+            },
+            {
+                "description": "Shrimp On It!",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.5
+            }
+        ],
+        "subtotal": 16.1,
+        "tax": 0.52,
+        "tip": null,
+        "total": 16.62
+    }
+]

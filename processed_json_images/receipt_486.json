@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2012-10-25",
+        "items": [
+            {
+                "description": "OYSTERS",
+                "quantity": 2.0,
+                "price": 32.0,
+                "total_price": 64.0
+            },
+            {
+                "description": "PATA NEGRA 60g",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 45.0
+            },
+            {
+                "description": "VEAL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 50.0
+            },
+            {
+                "description": "DUCK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 40.0
+            },
+            {
+                "description": "BREAD",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "MILLEFEUILLE CAR",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "CREME BRULEE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "M&MNUITSSTGEORGE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 138.0
+            }
+        ],
+        "subtotal": 367.0,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

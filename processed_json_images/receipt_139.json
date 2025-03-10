@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CASA CHAN RESTAURANT",
+        "transaction_date": "2014-12-21",
+        "items": [
+            {
+                "description": "#12 Wonton or Egg Drop or\nMixed Dinner",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.75
+            },
+            {
+                "description": "#01 Egg Roll",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "#23 Juice Chinesse Chop",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 8.99
+            },
+            {
+                "description": "Tropical",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Tamal De Pollo",
+                "quantity": 1.0,
+                "price": 3.5,
+                "total_price": 3.5
+            }
+        ],
+        "subtotal": 24.24,
+        "tax": 1.7,
+        "tip": null,
+        "total": 25.94
+    }
+]

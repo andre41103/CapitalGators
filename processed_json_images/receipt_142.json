@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "YAUATCHA",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Tender Branch Hibiscus",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Seafood Puff",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.8
+            },
+            {
+                "description": "Sesame Prawn Toast",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.8
+            },
+            {
+                "description": "Beancurd Prawn Cheung Fun",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.8
+            },
+            {
+                "description": "XO Scallop Dumpling",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.8
+            },
+            {
+                "description": "Poached Beijing Dumpling",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.8
+            },
+            {
+                "description": "Spinach Dumpling",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.8
+            },
+            {
+                "description": "Tea Smoked Pork Ribs",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.0
+            }
+        ],
+        "subtotal": 84.8,
+        "tax": 3.82,
+        "tip": null,
+        "total": 88.62
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "WINDY CITY HARLEY-DAVIDSON",
+        "transaction_date": "2017-09-06",
+        "items": [
+            {
+                "description": "WC POKER CHIP AL CAPONE",
+                "quantity": 5.0,
+                "price": 4.0,
+                "total_price": 20.0
+            }
+        ],
+        "subtotal": 20.0,
+        "tax": 0.41,
+        "tip": null,
+        "total": 22.05
+    }
+]

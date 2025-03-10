@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CURRY-YA MALAGA SL",
+        "transaction_date": "2017-01-26",
+        "items": [
+            {
+                "description": "COCA-COLA",
+                "quantity": 3.0,
+                "price": 2.0,
+                "total_price": 8.0
+            },
+            {
+                "description": "GYOZAS VEGETAL",
+                "quantity": 1.0,
+                "price": 5.5,
+                "total_price": 5.5
+            },
+            {
+                "description": "OKONOMIYAKI LOMO",
+                "quantity": 1.0,
+                "price": 9.5,
+                "total_price": 9.5
+            },
+            {
+                "description": "CURRY CHICKEN-KATSU",
+                "quantity": 1.0,
+                "price": 7.5,
+                "total_price": 7.5
+            },
+            {
+                "description": "MOCHI MANG",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": null
+            },
+            {
+                "description": "MOCHI TART",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": null
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.59,
+        "tip": null,
+        "total": 28.5
+    }
+]

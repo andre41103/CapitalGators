@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "NOURA BELGRAVIA\nRESTAURANT",
+        "transaction_date": "2017-12-25",
+        "items": [
+            {
+                "description": "CHRISTMAS MENU 2",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 132.0
+            },
+            {
+                "description": "STILL WATER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "KSARA BLANC DE BLANCS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 32.0
+            },
+            {
+                "description": "OPTIONAL GRATUITY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 21.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 28.0,
+        "tip": null,
+        "total": 189.5
+    }
+]

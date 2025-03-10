@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TTIVE",
+        "transaction_date": "2012-09-14",
+        "items": [
+            {
+                "description": "FIJI M WATER, 1000ML",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "HARMONY RIBEYE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 58.0
+            },
+            {
+                "description": "JOSPER SEABASS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 42.0
+            },
+            {
+                "description": "GRILLED ASPARAGUS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "TWICE BAKED POTATOES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "CAESAR SALAD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "JAMON IBERICO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 32.0
+            },
+            {
+                "description": "RW040 BAROLO GDV'07",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 145.0
+            }
+        ],
+        "subtotal": 331.0,
+        "tax": 25.49,
+        "tip": 33.1,
+        "total": null
+    }
+]

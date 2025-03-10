@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CARL'S JR",
+        "transaction_date": "2017-09-27",
+        "items": [
+            {
+                "description": "Box #1",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "All Star Meal #1",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 7.0,
+        "tax": 0.61,
+        "tip": null,
+        "total": 7.61
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ZANOTTO'S MARKET",
+        "transaction_date": "2010-07-18",
+        "items": [
+            {
+                "description": "STRAWBERRIES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "COUPON (STRAWBERRY",
+                "quantity": null,
+                "price": null,
+                "total_price": -2.0
+            },
+            {
+                "description": "YELLOW ONIONS",
+                "quantity": 1.21,
+                "price": 0.79,
+                "total_price": 0.96
+            }
+        ],
+        "subtotal": 2.96,
+        "tax": null,
+        "tip": null,
+        "total": 0.96
+    }
+]

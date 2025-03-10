@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LITTLE CAESARS\nPIZZA",
+        "transaction_date": "2015-09-18",
+        "items": [
+            {
+                "description": "HULA HAWAIIAN \u20ae1",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "HNR PEPPERONI [1",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.04,
+        "tip": null,
+        "total": 14.04
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THE SEA\nFish & Chips",
+        "transaction_date": "2016-07-06",
+        "items": [
+            {
+                "description": "Eat In",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Kids Fish & Chips",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.2
+            },
+            {
+                "description": "Fish Bites 7pc",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.85
+            },
+            {
+                "description": "Add Chips (Meal)",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.7
+            },
+            {
+                "description": "Jacket Potato & Butter",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "Tuna Mayo J.P.",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Salad J.P.",
+                "quantity": 4.0,
+                "price": 0.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "Diet Coke",
+                "quantity": 2.0,
+                "price": 1.5,
+                "total_price": 3.0
+            },
+            {
+                "description": "Coke",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 16.75
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Spiral Diner & Bakery",
+        "transaction_date": "2019-06-16",
+        "items": [
+            {
+                "description": "Real Smooth",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.99
+            },
+            {
+                "description": "Short Stack",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.59
+            },
+            {
+                "description": "Coffee",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "Breakfast Quesadilla",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.99
+            },
+            {
+                "description": "Grilled Spinach",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "Southern Comfort",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.99
+            }
+        ],
+        "subtotal": 46.54,
+        "tax": 3.84,
+        "tip": null,
+        "total": 50.38
+    }
+]
