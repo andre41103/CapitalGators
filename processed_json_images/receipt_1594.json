@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Williams, Coleman and Parrish",
+        "transaction_date": "2013-06-05",
+        "items": [
+            {
+                "description": "Women Spaghetti Strap\nBodycon Mini Dress Sexy Party\nClub Wear Summer Short Dress",
+                "quantity": 4.0,
+                "price": 4.47,
+                "total_price": 19.67
+            },
+            {
+                "description": "R&M; RICHARDS WOMAN'S\nBLUE PRINT LONG DRESS WITH\nSHRUG JACKET SIZE 18W NWT",
+                "quantity": 4.0,
+                "price": 29.99,
+                "total_price": 131.96
+            },
+            {
+                "description": "WD NY BLACK & OFF WHITE\nDRESS SIZE 8 Button Front",
+                "quantity": 4.0,
+                "price": 10.0,
+                "total_price": 44.0
+            },
+            {
+                "description": "Escada Long Black Dress SZ 40\n100% Silk Lining",
+                "quantity": 1.0,
+                "price": 74.99,
+                "total_price": 82.49
+            },
+            {
+                "description": "Xhilaration Womens L Burgandy\nBoho Embroidered Festival Mini\nDress NEW",
+                "quantity": 5.0,
+                "price": 14.95,
+                "total_price": 82.23
+            },
+            {
+                "description": "Lilly Pulitzer XS Spike the Punch\nCassie Cotton Dress with\nQuarter Sleeves",
+                "quantity": 4.0,
+                "price": 44.89,
+                "total_price": 197.52
+            }
+        ],
+        "subtotal": 507.14,
+        "tax": 50.71,
+        "tip": null,
+        "total": 557.85
+    }
+]

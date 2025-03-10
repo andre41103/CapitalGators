@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SHOTS",
+        "transaction_date": "2011-12-31",
+        "items": [
+            {
+                "description": "Cafe Mocha",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.8
+            },
+            {
+                "description": "Cold Cafe Mocha",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.2
+            }
+        ],
+        "subtotal": 12.0,
+        "tax": 0.79,
+        "tip": null,
+        "total": 12.0
+    }
+]

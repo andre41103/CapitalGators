@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Stevens and Sons",
+        "transaction_date": "2019-05-18",
+        "items": [
+            {
+                "description": "Abstract Living Room Carpet\nHome Decor Nordic Style\nBedside Area Rug Floor Mats",
+                "quantity": 3.0,
+                "price": 24.01,
+                "total_price": 79.23
+            },
+            {
+                "description": "All-Over Modern Gabbeh\nKashkoli Oriental Area Rug\nHand-knotted Foyer Carpet 4x6",
+                "quantity": 5.0,
+                "price": 806.0,
+                "total_price": 4433.0
+            },
+            {
+                "description": "S X L Fluffy Rugs Anti-Slip\nSHAGGY RUG Soft Carpet Mat\nLiving Room Floor Bedroom",
+                "quantity": 1.0,
+                "price": 16.81,
+                "total_price": 18.49
+            },
+            {
+                "description": "Yilong 6'x9' Handknotted Silk\nArea Rug Medallion Deep Red\nHome Carpet 0962",
+                "quantity": 1.0,
+                "price": 10800.0,
+                "total_price": 11880.0
+            },
+            {
+                "description": "YILONG 4'x6' Golden Handmade\nArea Carpet Tribal Hand\nKnotted Silk Rugs 074B",
+                "quantity": 5.0,
+                "price": 3600.0,
+                "total_price": 19800.0
+            }
+        ],
+        "subtotal": 32918.84,
+        "tax": 3291.88,
+        "tip": null,
+        "total": 36210.72
+    }
+]

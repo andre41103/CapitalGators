@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2016-06-04",
+        "items": [
+            {
+                "description": "GRAPHICS",
+                "quantity": null,
+                "price": 19.95,
+                "total_price": 9.97
+            },
+            {
+                "description": "POLOS AND HENLEYS",
+                "quantity": null,
+                "price": 14.99,
+                "total_price": 14.99
+            },
+            {
+                "description": "POLOS AND HENLEYS",
+                "quantity": null,
+                "price": 29.95,
+                "total_price": 14.97
+            },
+            {
+                "description": "POLOS AND HENLEYS",
+                "quantity": null,
+                "price": 29.95,
+                "total_price": 14.97
+            }
+        ],
+        "subtotal": 54.9,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

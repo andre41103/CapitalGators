@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Oneill Inc",
+        "transaction_date": "2012-12-05",
+        "items": [
+            {
+                "description": "Gold PlayStation 4 Slim Limited\nEdition 1TB Console with\nOriginal Box + Bundle",
+                "quantity": 4.0,
+                "price": 420.0,
+                "total_price": 1848.0
+            },
+            {
+                "description": "B360 Nintendo 2DS console\nBlue Japan",
+                "quantity": 2.0,
+                "price": 29.99,
+                "total_price": 65.98
+            },
+            {
+                "description": "B408 Nintendo Gameboy Color\nconsole Ice Blue Toysrus\nLimited Japan GBC REAR x",
+                "quantity": 3.0,
+                "price": 74.99,
+                "total_price": 247.47
+            },
+            {
+                "description": "SONY Playstation2 Console\nSCPH-39000 \" Aqua Color \" /\nTESTED 11179",
+                "quantity": 3.0,
+                "price": 60.0,
+                "total_price": 198.0
+            },
+            {
+                "description": "Nintendo Wii New Super Mario\nBros Console System Bundle\nGamecube Compatible",
+                "quantity": 4.0,
+                "price": 89.99,
+                "total_price": 395.96
+            }
+        ],
+        "subtotal": 2504.91,
+        "tax": 250.49,
+        "tip": null,
+        "total": 2755.4
+    }
+]

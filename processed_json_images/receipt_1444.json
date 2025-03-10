@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Hines Ltd",
+        "transaction_date": "2016-01-09",
+        "items": [
+            {
+                "description": "Nintendo Gameboy Color\nConsole\nManual",
+                "quantity": 1.0,
+                "price": 120.0,
+                "total_price": 132.0
+            },
+            {
+                "description": "Sony PlayStation 3 12 GB",
+                "quantity": 2.0,
+                "price": 109.99,
+                "total_price": 241.98
+            }
+        ],
+        "subtotal": 339.98,
+        "tax": 34.0,
+        "tip": null,
+        "total": 373.98
+    }
+]

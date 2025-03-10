@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Coleman Inc",
+        "transaction_date": "2013-08-03",
+        "items": [
+            {
+                "description": "Sony PlayStation 1 PS1 Console\nmodel scph-7501",
+                "quantity": 1.0,
+                "price": 14.99,
+                "total_price": 16.49
+            },
+            {
+                "description": "Nintendo 64 Console with Box,\nFoam and extra oem controller",
+                "quantity": 4.0,
+                "price": 120.0,
+                "total_price": 528.0
+            },
+            {
+                "description": "B311 Nintendo 3DS console\nCosmo Black Japan x",
+                "quantity": 4.0,
+                "price": 11.99,
+                "total_price": 52.76
+            },
+            {
+                "description": "PocketGo Bittboy v2 White\nRetro Video Game Portable\nConsole - 3.5 IPS display",
+                "quantity": 1.0,
+                "price": 39.0,
+                "total_price": 42.9
+            }
+        ],
+        "subtotal": 581.95,
+        "tax": 58.2,
+        "tip": null,
+        "total": 640.15
+    }
+]

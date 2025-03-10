@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MASH",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "dry martini cock",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 360.0
+            },
+            {
+                "description": "MASH pilsner",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 60.0
+            },
+            {
+                "description": "pellegrino",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 240.0
+            },
+            {
+                "description": "aspargessuppe",
+                "quantity": null,
+                "price": null,
+                "total_price": 110.0
+            },
+            {
+                "description": "AM F1b",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 1580.0
+            },
+            {
+                "description": "UR rib",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 275.0
+            },
+            {
+                "description": "pommes frites",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 90.0
+            },
+            {
+                "description": "spinat",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 45.0
+            },
+            {
+                "description": "haricots verts",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 45.0
+            },
+            {
+                "description": "majs",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 45.0
+            },
+            {
+                "description": "R\u00f8dvin",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 700.0
+            }
+        ],
+        "subtotal": 3550.0,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Old Spaghetti Factory",
+        "transaction_date": "2015-06-01",
+        "items": [
+            {
+                "description": "#3 Meat Lover's Treat",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.25
+            },
+            {
+                "description": "Strawberry Lemonade",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.25
+            }
+        ],
+        "subtotal": 16.5,
+        "tax": 1.3,
+        "tip": null,
+        "total": 17.8
+    }
+]

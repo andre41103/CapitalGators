@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Hill Group",
+        "transaction_date": "2016-03-31",
+        "items": [
+            {
+                "description": "Johnny Was Medium Linen Wrap\nDress Dessert Rose Embroiderd\nBohemian",
+                "quantity": 2.0,
+                "price": 89.99,
+                "total_price": 197.98
+            },
+            {
+                "description": "Calvin Klein Women Long Active\nDress. Size Small",
+                "quantity": 1.0,
+                "price": 8.99,
+                "total_price": 9.89
+            },
+            {
+                "description": "NEW NWT OPEN BACK\nXHILERATION PLUM LACY\nDRESS WOMENS SIZE MEDIUM\n10/12",
+                "quantity": 2.0,
+                "price": 2.99,
+                "total_price": 6.58
+            },
+            {
+                "description": "Tommy Bahama Women's V\nNeck Linen Floral Dress Size M\nBeige Short Sleeve Tan",
+                "quantity": 3.0,
+                "price": 34.99,
+                "total_price": 115.47
+            },
+            {
+                "description": "Women Elegant Fashion O-Neck\nKnee Length Short Sleeve Retro\nFloral Print Dress",
+                "quantity": 1.0,
+                "price": 12.0,
+                "total_price": 13.2
+            },
+            {
+                "description": "NWOT Italian Dress Grey Black\nSize XS Made in Italy",
+                "quantity": 5.0,
+                "price": 44.99,
+                "total_price": 247.45
+            },
+            {
+                "description": "SCOTT McCINTOCK SIZE 12\nBLACK PARTY DRESS WITH\nSPARKLIND TOP",
+                "quantity": 2.0,
+                "price": 25.0,
+                "total_price": 55.0
+            }
+        ],
+        "subtotal": 586.87,
+        "tax": 58.69,
+        "tip": null,
+        "total": 645.56
+    }
+]

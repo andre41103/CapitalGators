@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "West-Anderson\nWilson and",
+        "transaction_date": "2016-12-23",
+        "items": [
+            {
+                "description": "24\"x24\" Marble Real White Top\nCoffee Table lapis",
+                "quantity": 5.0,
+                "price": 2.0,
+                "total_price": 13750.0
+            },
+            {
+                "description": "Real Madrid Inflatable Chair\n(SG16136)",
+                "quantity": 4.0,
+                "price": 43.95,
+                "total_price": 193.38
+            },
+            {
+                "description": "25\"x25\" White Marble Top\nCounter Table Carnelian\nMarquetry Art Columbus Day\nGift",
+                "quantity": 4.0,
+                "price": 2.0,
+                "total_price": 12003.2
+            },
+            {
+                "description": "12\" Marble Coffee Table Top\nMulti Stone Peacock & Floral\nInlay Home Decors W364",
+                "quantity": 3.0,
+                "price": 264.27,
+                "total_price": 872.09
+            },
+            {
+                "description": "6'x3' Black Marble Dining\nCenter Table Top Marquetry\nInlay Outdoor Decor H3420A",
+                "quantity": 5.0,
+                "price": 5.0,
+                "total_price": 31661.96
+            },
+            {
+                "description": "1/2/3/4 Seater L Sofa Couch\nSlipcover Furniture Protector\nStretch Sofa Covers",
+                "quantity": 3.0,
+                "price": 7.99,
+                "total_price": 26.37
+            }
+        ],
+        "subtotal": 53188.18,
+        "tax": 5318.82,
+        "tip": null,
+        "total": 58507.0
+    }
+]

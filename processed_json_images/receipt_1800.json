@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Carl's Fr.",
+        "transaction_date": "2017-02-27",
+        "items": [
+            {
+                "description": "1/3lb Low Carb",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.39
+            },
+            {
+                "description": "Santa Fe Sand",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.89
+            }
+        ],
+        "subtotal": 10.28,
+        "tax": 0.87,
+        "tip": null,
+        "total": 11.1
+    }
+]

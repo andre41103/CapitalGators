@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Barnett-Hughes",
+        "transaction_date": "2015-02-16",
+        "items": [
+            {
+                "description": "LuLaRoe Nicole Dress Size\nMedium 12",
+                "quantity": 5.0,
+                "price": 1.99,
+                "total_price": 10.94
+            },
+            {
+                "description": "Elisa Cavaletti Daniela\nDallavalle Shift Dress Grey And\nWhite .Size M",
+                "quantity": 4.0,
+                "price": 60.0,
+                "total_price": 264.0
+            },
+            {
+                "description": "NWT Boohoo Sabra Emerald\nGreen Floral Ruffle Dress Sz 12",
+                "quantity": 5.0,
+                "price": 4.99,
+                "total_price": 27.45
+            }
+        ],
+        "subtotal": 274.9,
+        "tax": 27.49,
+        "tip": null,
+        "total": 302.39
+    }
+]

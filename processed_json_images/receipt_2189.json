@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Kung Fu Tea",
+        "transaction_date": "2015-08-02",
+        "items": [
+            {
+                "description": "M-MatchaRedBean Slush",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.25
+            },
+            {
+                "description": "L-Caramel M. Slush",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 10.75,
+        "tax": 0.9,
+        "tip": null,
+        "total": 11.65
+    }
+]

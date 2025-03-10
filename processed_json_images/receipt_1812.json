@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TESCO STOFES (MALAYSIA ) SDN.BHD",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "#BUTTERCUP",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "BURUH COOK",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.352
+            },
+            {
+                "description": "ALIF COOKI",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.352
+            },
+            {
+                "description": "BASSO GRAP",
+                "quantity": null,
+                "price": null,
+                "total_price": 29.99
+            },
+            {
+                "description": "HD MANGO R",
+                "quantity": null,
+                "price": null,
+                "total_price": 30.89
+            },
+            {
+                "description": "T BABY WIP",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "T BABY WIP",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "T B/WIPES",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "GROCERY HO",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 99.19,
+        "tax": 4.35,
+        "tip": null,
+        "total": 103.54
+    }
+]

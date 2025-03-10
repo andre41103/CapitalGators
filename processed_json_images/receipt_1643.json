@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "NIKE Factory Store",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "NIKE AIR RING LEADER",
+                "quantity": null,
+                "price": 49.99,
+                "total_price": 29.99
+            }
+        ],
+        "subtotal": 29.99,
+        "tax": 1.95,
+        "tip": null,
+        "total": 31.94
+    }
+]

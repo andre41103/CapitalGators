@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2016-06-03",
+        "items": [
+            {
+                "description": "Ht Cof MD OrigBInd",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "Wrap Bcn Egg AM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.59
+            },
+            {
+                "description": "Donut",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "D2746 $ 99 Med Coffee",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -1.0
+            }
+        ],
+        "subtotal": 3.57,
+        "tax": 0.25,
+        "tip": null,
+        "total": 3.82
+    }
+]

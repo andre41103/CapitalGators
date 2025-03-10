@@ -1,0 +1,98 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PIUS\nPREISE",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "TOUCHING TOP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.85
+            },
+            {
+                "description": "HAFERTALER.",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "ESTRAGON",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 1.59
+            },
+            {
+                "description": "BOHNEN.",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "INGWER",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 1.69
+            },
+            {
+                "description": "GURKE.",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.49
+            },
+            {
+                "description": "PFIFFERLINGE",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "ITAL.KRAEUT.",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 1.59
+            },
+            {
+                "description": "COTTAGE CHEE",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.79
+            },
+            {
+                "description": "TRAUBEN",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "UHU-KLEBSTOF",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "RADIESCHEN",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.79
+            },
+            {
+                "description": "EISBERGSALAT",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.69
+            },
+            {
+                "description": "TRAGETASCHE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.15
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 16.58
+    }
+]

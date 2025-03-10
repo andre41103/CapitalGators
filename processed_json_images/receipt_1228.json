@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Applebee's",
+        "transaction_date": "2015-04-15",
+        "items": [
+            {
+                "description": "CLASSIC GR SAND",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.49
+            },
+            {
+                "description": "SWEET TEA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.59
+            },
+            {
+                "description": "10% OFICER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.05
+            }
+        ],
+        "subtotal": 12.87,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

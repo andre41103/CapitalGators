@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THE BODY SHOP",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "BODY PUREE SPA WISDOM 250ML A21",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "BEAUTY BUCKS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 0.0,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Cracker Barrel",
+        "transaction_date": "2014-01-15",
+        "items": [
+            {
+                "description": "WATER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "LSP TNOR SAL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.99
+            },
+            {
+                "description": "WATER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "LSP TNDR SAL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.99
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.08,
+        "tip": null,
+        "total": 13.06
+    }
+]

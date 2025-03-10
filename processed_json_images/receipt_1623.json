@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "au bon pain",
+        "transaction_date": "2016-08-23",
+        "items": [
+            {
+                "description": "SW Chicken Salad FM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.89
+            },
+            {
+                "description": "Lemon Orzo Chkn (H)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "M Caffe Mocha",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.49
+            },
+            {
+                "description": "Select 2 M\\L",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.5
+            }
+        ],
+        "subtotal": 19.26,
+        "tax": null,
+        "tip": null,
+        "total": 20.6
+    }
+]

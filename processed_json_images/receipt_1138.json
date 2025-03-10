@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Little PLC",
+        "transaction_date": "2011-07-31",
+        "items": [
+            {
+                "description": "Charlie Jade Purple Black Brown\nSleeveless Dress WOMENS SIZE\nSMALL",
+                "quantity": 2.0,
+                "price": 11.97,
+                "total_price": 26.33
+            },
+            {
+                "description": "Matilda Jane Womans Lets Go\nTogether Black Knit Dress Size\nM Medium NWT",
+                "quantity": 1.0,
+                "price": 19.6,
+                "total_price": 21.56
+            },
+            {
+                "description": "Leopard Print Large Dress With\nPockets & Floral Sleeves\nHoneyMe Size L NWT",
+                "quantity": 5.0,
+                "price": 39.0,
+                "total_price": 214.5
+            },
+            {
+                "description": "Lularoe Nicole Dress Size Small\nLight Solid Grey/ White Ringer\nTee Trim",
+                "quantity": 2.0,
+                "price": 3.75,
+                "total_price": 8.25
+            }
+        ],
+        "subtotal": 246.04,
+        "tax": 24.6,
+        "tip": null,
+        "total": 270.64
+    }
+]

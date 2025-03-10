@@ -1,0 +1,104 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "INDUSTRIAL HOTELERA BEDFORD, 5 L",
+        "transaction_date": "2017-06-30",
+        "items": [
+            {
+                "description": "PALITOS POLLO",
+                "quantity": 1.0,
+                "price": 6.35,
+                "total_price": 6.35
+            },
+            {
+                "description": "CROQUETAS JAMON",
+                "quantity": null,
+                "price": 5.8,
+                "total_price": 6.3
+            },
+            {
+                "description": "ESCALOSA NAPOLITANA",
+                "quantity": 1.0,
+                "price": 16.75,
+                "total_price": 16.75
+            },
+            {
+                "description": "RIGATONI",
+                "quantity": 2.0,
+                "price": 11.5,
+                "total_price": 23.0
+            },
+            {
+                "description": "T.SETAS",
+                "quantity": 1.0,
+                "price": 0.5,
+                "total_price": 1.5
+            },
+            {
+                "description": "T.PARMA",
+                "quantity": 100.0,
+                "price": 1.5,
+                "total_price": 1.5
+            },
+            {
+                "description": "T CEBOLLA",
+                "quantity": 1.0,
+                "price": 1.5,
+                "total_price": 1.6
+            },
+            {
+                "description": "DESHIDRATADA",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "EXTRAPOLLO",
+                "quantity": 1.0,
+                "price": 1.45,
+                "total_price": 1.45
+            },
+            {
+                "description": "FANTA LIMON",
+                "quantity": 2.0,
+                "price": 3.65,
+                "total_price": 7.1
+            },
+            {
+                "description": "LAMBRUSCO DE L'EMILIA",
+                "quantity": null,
+                "price": 10.7,
+                "total_price": 21.4
+            },
+            {
+                "description": "COPA CAVA",
+                "quantity": 1.0,
+                "price": 4.15,
+                "total_price": 4.15
+            },
+            {
+                "description": "FONTALLADA\nCARROT CAKE",
+                "quantity": 1.0,
+                "price": 5.35,
+                "total_price": 5.35
+            },
+            {
+                "description": "CREMA CATALANA",
+                "quantity": 1.0,
+                "price": 5.35,
+                "total_price": 5.35
+            },
+            {
+                "description": "BROWNIE CHOCOLATE",
+                "quantity": 1.0,
+                "price": 5.35,
+                "total_price": 5.35
+            }
+        ],
+        "subtotal": null,
+        "tax": 9.6,
+        "tip": null,
+        "total": 106.55
+    }
+]

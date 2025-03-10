@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "SUPREME LA",
+        "transaction_date": "2017-08-26",
+        "items": [
+            {
+                "description": "SHOULDER BAG",
+                "quantity": 1.0,
+                "price": 48.0,
+                "total_price": 48.0
+            }
+        ],
+        "subtotal": 48.0,
+        "tax": 4.44,
+        "tip": null,
+        "total": 52.44
+    }
+]

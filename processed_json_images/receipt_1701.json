@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Misken Levant Kitchen",
+        "transaction_date": "2014-12-13",
+        "items": [
+            {
+                "description": "Beetroot Salad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.0
+            },
+            {
+                "description": "Fried Cheese Rolls",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 27.0
+            },
+            {
+                "description": "Half Boneless Chicke",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 50.0
+            },
+            {
+                "description": "Grilled Lamb Chops",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 65.0
+            },
+            {
+                "description": "Chicken Tawook",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 45.0
+            },
+            {
+                "description": "Aquafina Water Big",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Diet Pepsi",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Pepsi",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 20.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 251.0
+    }
+]

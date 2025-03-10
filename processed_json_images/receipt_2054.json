@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CAFFE' TORINO",
+        "transaction_date": "2018-10-07",
+        "items": [
+            {
+                "description": "COPERTO",
+                "quantity": 2.0,
+                "price": 0.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "IL GAS",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "BIRRA P",
+                "quantity": 2.0,
+                "price": 3.0,
+                "total_price": 6.0
+            },
+            {
+                "description": "COTTO DI MONTAG",
+                "quantity": null,
+                "price": 0.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "MILANESE CON PA",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "CRESPELLE SPINA",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.5
+            },
+            {
+                "description": "CAFFE LUNGO",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 45.0
+    }
+]

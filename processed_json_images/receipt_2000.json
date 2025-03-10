@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CHESTNUT",
+        "transaction_date": "2016-12-23",
+        "items": [
+            {
+                "description": "PEPSI DIET",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "KHC FOUNDATION",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.5
+            }
+        ],
+        "subtotal": 2.5,
+        "tax": 0.35,
+        "tip": 0.2,
+        "total": 3.05
+    }
+]

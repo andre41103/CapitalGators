@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2014-09-06",
+        "items": [
+            {
+                "description": "36 Inches Marble Dinning Table",
+                "quantity": 5.0,
+                "price": 1.0,
+                "total_price": 8332.5
+            }
+        ],
+        "subtotal": 7575.0,
+        "tax": 757.5,
+        "tip": null,
+        "total": 8332.5
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Chick-fil-a",
+        "transaction_date": "2012-11-05",
+        "items": [
+            {
+                "description": "Meal-CFASan",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 11.38
+            }
+        ],
+        "subtotal": 11.38,
+        "tax": 0.8,
+        "tip": null,
+        "total": 12.18
+    }
+]

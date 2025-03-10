@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2016-11-05",
+        "items": [
+            {
+                "description": "Veggie Burger # 3.49",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 6.98
+            },
+            {
+                "description": "Big Kids Mea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.89
+            },
+            {
+                "description": "Sm Fries",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.39
+            },
+            {
+                "description": "Md O-Rings",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.89
+            }
+        ],
+        "subtotal": 17.15,
+        "tax": 1.03,
+        "tip": null,
+        "total": 18.18
+    }
+]

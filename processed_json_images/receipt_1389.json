@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Matthews-Roman",
+        "transaction_date": "2016-03-17",
+        "items": [
+            {
+                "description": "Book: The Lee-Enfield by lan\nSkennerton- Signed Edition",
+                "quantity": 1.0,
+                "price": 94.95,
+                "total_price": 104.45
+            },
+            {
+                "description": "Basic River Canoeing",
+                "quantity": 3.0,
+                "price": 4.89,
+                "total_price": 16.14
+            },
+            {
+                "description": "Hekate Soteira : A Study of\nHekate's Role in the Chaldean\nOracles and Related ...",
+                "quantity": 1.0,
+                "price": 24.12,
+                "total_price": 26.53
+            },
+            {
+                "description": "Motorcycle Journeys Through\nNorth America : A Guide for\nChoosing and Planning ...",
+                "quantity": 3.0,
+                "price": 6.0,
+                "total_price": 19.8
+            }
+        ],
+        "subtotal": 151.74,
+        "tax": 15.17,
+        "tip": null,
+        "total": 166.91
+    }
+]

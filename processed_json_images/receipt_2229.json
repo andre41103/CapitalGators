@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Stop&Shop",
+        "transaction_date": "2012-07-18",
+        "items": [
+            {
+                "description": "APPLE RED DEL",
+                "quantity": 0.44,
+                "price": 1.99,
+                "total_price": 0.38
+            },
+            {
+                "description": "BANANAS",
+                "quantity": 0.8,
+                "price": 0.69,
+                "total_price": 0.55
+            }
+        ],
+        "subtotal": 1.63,
+        "tax": null,
+        "tip": null,
+        "total": 1.43
+    }
+]

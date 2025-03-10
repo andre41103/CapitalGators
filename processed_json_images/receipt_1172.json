@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ROSANNA'S PASTA SHOP",
+        "transaction_date": "2017-03-11",
+        "items": [
+            {
+                "description": "SPAGHETTI",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.95
+            },
+            {
+                "description": "ADD MEATBALLS",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "SPAGHETTI",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.25
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

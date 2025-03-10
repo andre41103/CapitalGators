@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Haas and Sons",
+        "transaction_date": "2013-12-08",
+        "items": [
+            {
+                "description": "3D Printed Mat Vortex Illusion\nLiving room Rug Carpet Floors\nDoors Round Mat",
+                "quantity": 3.0,
+                "price": 11.63,
+                "total_price": 38.38
+            },
+            {
+                "description": "New Golden Brown Oriental Rug\n4X6 Oushak Chobi Floral\nHand-Knotted",
+                "quantity": 5.0,
+                "price": 232.65,
+                "total_price": 1279.58
+            },
+            {
+                "description": "YILONG 5.5'x8' Handknotted\nSilk Area Rugs Home Decor\nClassic Blue Carpet 0790",
+                "quantity": 1.0,
+                "price": 10.0,
+                "total_price": 11616.0
+            },
+            {
+                "description": "Pretty Woman Small Large Long\nFloor Carpet Area Rugs Various\nSize Soft Rug",
+                "quantity": 1.0,
+                "price": 36.3,
+                "total_price": 39.93
+            }
+        ],
+        "subtotal": 11794.44,
+        "tax": 1179.44,
+        "tip": null,
+        "total": 12973.88
+    }
+]

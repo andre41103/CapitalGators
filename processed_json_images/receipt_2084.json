@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Kelly O'Bryan's",
+        "transaction_date": "2015-08-08",
+        "items": [
+            {
+                "description": "WATER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "PINT Harp",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 14.9
+            },
+            {
+                "description": "GLASS JT Riesling",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 15.9
+            },
+            {
+                "description": "Chicken Louie",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.95
+            },
+            {
+                "description": "L. Battered Fish",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.95
+            }
+        ],
+        "subtotal": 61.7,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

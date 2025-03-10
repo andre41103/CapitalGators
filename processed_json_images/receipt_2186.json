@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ASTONS\nSPECIALITIES-CT1",
+        "transaction_date": "2013-03-13",
+        "items": [
+            {
+                "description": "PRIME TENDERLOIN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 27.9
+            },
+            {
+                "description": "RARE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "FRENCH FRIES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "GARDEN VEGGIE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "PORTERHOUSE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 29.9
+            },
+            {
+                "description": "MEDIUM RARE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "BBQ BEANS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "FRENCH FRIES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "ICED LEMON TEA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -2.0
+            },
+            {
+                "description": "FOC H20",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "COLD",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 59.8
+    }
+]

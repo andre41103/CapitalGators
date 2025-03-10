@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KARNATAKA RESTAURANT",
+        "transaction_date": "2016-04-06",
+        "items": [
+            {
+                "description": "Soft Drinks",
+                "quantity": 2.0,
+                "price": 24.0,
+                "total_price": 48.0
+            },
+            {
+                "description": "Lemon Rice",
+                "quantity": 1.0,
+                "price": 93.0,
+                "total_price": 93.0
+            },
+            {
+                "description": "Rice Idli",
+                "quantity": 1.0,
+                "price": 76.0,
+                "total_price": 76.0
+            },
+            {
+                "description": "Rava Masala",
+                "quantity": 2.0,
+                "price": 115.0,
+                "total_price": 230.0
+            },
+            {
+                "description": "Mix Uthapan",
+                "quantity": 1.0,
+                "price": 118.0,
+                "total_price": 118.0
+            },
+            {
+                "description": "Dahi Vada",
+                "quantity": 3.0,
+                "price": 110.0,
+                "total_price": 330.0
+            },
+            {
+                "description": "Fresh Lime Soda (S",
+                "quantity": 2.0,
+                "price": 51.0,
+                "total_price": 102.0
+            },
+            {
+                "description": "Andhra Pesarattu",
+                "quantity": 1.0,
+                "price": 160.0,
+                "total_price": 160.0
+            },
+            {
+                "description": "Mushroom Cap Uthap",
+                "quantity": null,
+                "price": 152.0,
+                "total_price": 152.0
+            },
+            {
+                "description": "Chocolate I.C",
+                "quantity": 1.0,
+                "price": 76.0,
+                "total_price": 76.0
+            },
+            {
+                "description": "Filter Coffee",
+                "quantity": 3.0,
+                "price": 42.0,
+                "total_price": 126.0
+            }
+        ],
+        "subtotal": 1511.0,
+        "tax": 87.64,
+        "tip": null,
+        "total": null
+    }
+]

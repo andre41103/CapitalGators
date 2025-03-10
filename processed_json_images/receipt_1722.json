@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KENTUCKY FRIED CHICKEN(GREAT BRITAIN)LTD",
+        "transaction_date": "2018-04-13",
+        "items": [
+            {
+                "description": "REG ML",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.19
+            },
+            {
+                "description": "RG LIPTON PEACH##",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.03
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 6.19
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Archer-Harper",
+        "transaction_date": "2013-05-18",
+        "items": [
+            {
+                "description": "Set Of 2 Etched \" Hers\" and\n\"Hers Too\" Wine Glasses",
+                "quantity": 4.0,
+                "price": 4.0,
+                "total_price": 17.6
+            },
+            {
+                "description": "Stemware Rack Display Kitchen\nWine Glass Holder Bottle\nCarbon Steel Free Punch",
+                "quantity": 2.0,
+                "price": 42.32,
+                "total_price": 93.1
+            },
+            {
+                "description": "Wine bottle holder rack",
+                "quantity": 2.0,
+                "price": 20.0,
+                "total_price": 44.0
+            }
+        ],
+        "subtotal": 140.64,
+        "tax": 14.06,
+        "tip": null,
+        "total": 154.7
+    }
+]

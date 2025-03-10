@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "EXXON",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "CANDY",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.98
+            },
+            {
+                "description": "SODA",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 4.58
+            }
+        ],
+        "subtotal": 8.56,
+        "tax": 0.6,
+        "tip": null,
+        "total": 9.16
+    }
+]

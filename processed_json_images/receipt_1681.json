@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Main Street Restaurant",
+        "transaction_date": "2017-04-10",
+        "items": [],
+        "subtotal": null,
+        "tax": null,
+        "tip": 15.5,
+        "total": 160.3
+    }
+]

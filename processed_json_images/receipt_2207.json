@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THE\nDEPOT",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "1/2\" GAS BALL VALVE FPT LEVER HDL",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.67
+            },
+            {
+                "description": "1/2\"X260\" PTFE THRD SEAL TAPE GAS",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.59
+            },
+            {
+                "description": "1/2\"X3\" BLK NIPPLE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.54
+            },
+            {
+                "description": "1/2\"X1-1/2\" BLK NIPPLE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.96
+            },
+            {
+                "description": "PB225 3/8 X 3/8 ID BARB X MIP ADAPTE",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.12
+            },
+            {
+                "description": "1/2\" BLK CAP",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.47
+            },
+            {
+                "description": "PB110 1/2 X 3/8 BRASS PIPE BUSHING",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.8
+            },
+            {
+                "description": "1/2\" BLK TEE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.34
+            }
+        ],
+        "subtotal": 23.49,
+        "tax": 1.41,
+        "tip": null,
+        "total": 24.9
+    }
+]

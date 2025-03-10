@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2013-06-01",
+        "items": [
+            {
+                "description": "Strawberry Banana",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.1
+            },
+            {
+                "description": "FreshStrawberryLemonTea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.75
+            },
+            {
+                "description": "Watermelon Juice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.99
+            }
+        ],
+        "subtotal": 11.84,
+        "tax": 1.02,
+        "tip": null,
+        "total": 12.86
+    }
+]

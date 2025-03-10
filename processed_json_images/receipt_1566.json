@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Hernandez, Brown and Rodriguez",
+        "transaction_date": "2019-10-20",
+        "items": [
+            {
+                "description": "Rectangle Area Rug Wood Grain\nCarpet Mat for Living Room\nBedroom - 180x60cm",
+                "quantity": 3.0,
+                "price": 32.81,
+                "total_price": 108.27
+            },
+            {
+                "description": "YILONG 4'x6' Vintage\nHandmade Carpet Medallion\nPorch Hand Knotted Silk Rugs\n080B",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3960.0
+            },
+            {
+                "description": "YILONG 4'x6' Golden Handmade\nCarpet Kid Friendly Hand\nKnotted Silk Rugs 088B",
+                "quantity": 5.0,
+                "price": 4.0,
+                "total_price": 26400.0
+            }
+        ],
+        "subtotal": 27698.43,
+        "tax": 2769.84,
+        "tip": null,
+        "total": 30468.27
+    }
+]

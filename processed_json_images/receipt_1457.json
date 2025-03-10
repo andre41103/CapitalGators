@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Williams-Odom",
+        "transaction_date": "2018-02-20",
+        "items": [
+            {
+                "description": "(2) stacking Metal 8 Wine bottle\nholder Storage Rack, 8 bottles\ncounter Display",
+                "quantity": 1.0,
+                "price": 16.99,
+                "total_price": 18.69
+            },
+            {
+                "description": "Keep the Boos Coming Stainless\nSteel Stemless Wine Tumbler,\n12 oz.",
+                "quantity": 2.0,
+                "price": 19.99,
+                "total_price": 43.98
+            },
+            {
+                "description": "BLACK Butterfly Winged\nCorkscrew WINE BOTTLE\nOPENER Swing-a-Way",
+                "quantity": 5.0,
+                "price": 8.95,
+                "total_price": 49.23
+            },
+            {
+                "description": "EU Blichmann Riptide Brewing\nPump - Hombrew Beer Wine\nFood Grade Stainless Steel",
+                "quantity": 2.0,
+                "price": 200.0,
+                "total_price": 440.0
+            },
+            {
+                "description": "Sitting Deer Wine Bottle Holder\nDecoration New",
+                "quantity": 5.0,
+                "price": 30.88,
+                "total_price": 169.84
+            }
+        ],
+        "subtotal": 656.12,
+        "tax": 65.61,
+        "tip": null,
+        "total": 721.73
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Moore Ltd",
+        "transaction_date": "2019-03-23",
+        "items": [
+            {
+                "description": "confetti wine glass",
+                "quantity": 4.0,
+                "price": 15.0,
+                "total_price": 66.0
+            },
+            {
+                "description": "BRAND NEW Metrokane Rabbit\nWine Gold Color Tool Kit 6 Piece\nSet w/Aerator",
+                "quantity": 2.0,
+                "price": 29.99,
+                "total_price": 65.98
+            }
+        ],
+        "subtotal": 119.98,
+        "tax": 12.0,
+        "tip": null,
+        "total": 131.98
+    }
+]

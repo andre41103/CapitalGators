@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2018-01-18",
+        "items": [
+            {
+                "description": "HOT WRAP FALAFEL HALOUMI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.25
+            },
+            {
+                "description": "HOT CHOCOLATE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.4
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.11,
+        "tip": null,
+        "total": 6.65
+    }
+]

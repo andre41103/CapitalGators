@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "COUNCIL THRIFT SHOPS",
+        "transaction_date": "2017-05-27",
+        "items": [
+            {
+                "description": "All 0th Tx",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "All 0th Tx",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "All 0th Tx",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "All 0th Tx",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 29.0,
+        "tax": 2.54,
+        "tip": null,
+        "total": 31.54
+    }
+]

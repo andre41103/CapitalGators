@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DALUCA RESTAURANT",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "SOFT DRINKS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "DAY SOUP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "PROSCIUTTO MELONE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "SPANISH OCTOPUS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 40.0
+            },
+            {
+                "description": "RAVIOLI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 23.0
+            },
+            {
+                "description": "SOFT DRINKS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 107.0,
+        "tax": 8.24,
+        "tip": 10.7,
+        "total": 125.94
+    }
+]

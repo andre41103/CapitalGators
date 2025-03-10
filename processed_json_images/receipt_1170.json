@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Le Wazawan Medieval Restaurant",
+        "transaction_date": "2018-09-29",
+        "items": [
+            {
+                "description": "COFFEE",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 40.0
+            },
+            {
+                "description": "CO-OP Cookies",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 45.0
+    }
+]

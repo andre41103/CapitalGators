@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Avila-Espinoza",
+        "transaction_date": "2016-02-22",
+        "items": [
+            {
+                "description": "Plush Carpet for Living Room\nFluffy Rug Thick Bed Room\nCarpets",
+                "quantity": 3.0,
+                "price": 20.36,
+                "total_price": 67.19
+            },
+            {
+                "description": "3D Printed Mat Vortex Illusion\nLiving room Rug Carpet Floors\nDoors Round Mat",
+                "quantity": 2.0,
+                "price": 11.63,
+                "total_price": 25.59
+            },
+            {
+                "description": "Modern Tribal Geometric 4X6\nIndo Gabbeh Wool & Bamboo\nSilk Oriental Rug Carpet",
+                "quantity": 4.0,
+                "price": 183.77,
+                "total_price": 808.59
+            },
+            {
+                "description": "Rectangle Faux Fur Sheepskin\nRug Fluffy Area Rug Floor\nCarpets Dark Pink",
+                "quantity": 1.0,
+                "price": 29.95,
+                "total_price": 32.95
+            }
+        ],
+        "subtotal": 849.37,
+        "tax": 84.94,
+        "tip": null,
+        "total": 934.31
+    }
+]

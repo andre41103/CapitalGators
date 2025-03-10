@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "SAFEWAY",
+        "transaction_date": "2015-09-26",
+        "items": [
+            {
+                "description": "FUEL PREPAY REDEEM",
+                "quantity": null,
+                "price": null,
+                "total_price": -40.0
+            },
+            {
+                "description": "GASOLINE UNLEADED",
+                "quantity": null,
+                "price": null,
+                "total_price": 25.0
+            },
+            {
+                "description": "GASOLINE UNLEADED",
+                "quantity": null,
+                "price": 10.043,
+                "total_price": null
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": -15.0
+    }
+]

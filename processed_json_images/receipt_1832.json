@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "R K EATING HOUSE PTE LTD",
+        "transaction_date": "2016-05-16",
+        "items": [
+            {
+                "description": "TEA HALIA",
+                "quantity": 1.0,
+                "price": 1.3,
+                "total_price": 1.3
+            },
+            {
+                "description": "SUNNY SIDE UP E",
+                "quantity": 1.0,
+                "price": 0.5,
+                "total_price": 0.5
+            },
+            {
+                "description": "ROJAK",
+                "quantity": 1.0,
+                "price": 5.5,
+                "total_price": 5.5
+            },
+            {
+                "description": "TEA C HALIA",
+                "quantity": 1.0,
+                "price": 1.4,
+                "total_price": 1.4
+            },
+            {
+                "description": "PLAIN PRATA",
+                "quantity": 2.0,
+                "price": 1.1,
+                "total_price": 2.2
+            },
+            {
+                "description": "FRIED MEE CHICK",
+                "quantity": 1.0,
+                "price": 4.7,
+                "total_price": 4.7
+            }
+        ],
+        "subtotal": 15.6,
+        "tax": 1.09,
+        "tip": null,
+        "total": 16.7
+    }
+]

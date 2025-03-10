@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Espinoza LLC",
+        "transaction_date": "2014-01-21",
+        "items": [
+            {
+                "description": "Divided Black Asymmetrical\nDress -size 8 - NWT",
+                "quantity": 1.0,
+                "price": 7.99,
+                "total_price": 8.79
+            },
+            {
+                "description": "Eileen Fisher Women's Long\nSleeve Fleece Lined Front\nPockets Dress XS Gray",
+                "quantity": 4.0,
+                "price": 15.99,
+                "total_price": 70.36
+            },
+            {
+                "description": "db Yellow Link Print Fit and Flare\nSleeveless Dress Sz M/L",
+                "quantity": 3.0,
+                "price": 14.99,
+                "total_price": 49.47
+            },
+            {
+                "description": "womens sparkle dress size 2X\nHoliday Party RED metallic",
+                "quantity": 5.0,
+                "price": 9.99,
+                "total_price": 54.95
+            },
+            {
+                "description": "Lands End Womens 3/4 Sleeve\nDress Plus 3X Navy Blue Floral\nCotton Knit 482038",
+                "quantity": 4.0,
+                "price": 21.23,
+                "total_price": 93.41
+            },
+            {
+                "description": "Liza Byrd Dress Sz L- Coral\nGreen Medallion Print Short\nSleeve 100% Cotton Line",
+                "quantity": 2.0,
+                "price": 17.99,
+                "total_price": 39.58
+            },
+            {
+                "description": "CLIFFORD & WILLS BLACK\nNET/MESH OVER TAUPE LONG\nDRESS SIZE 4",
+                "quantity": 1.0,
+                "price": 5.99,
+                "total_price": 6.59
+            }
+        ],
+        "subtotal": 293.76,
+        "tax": 29.38,
+        "tip": null,
+        "total": 323.14
+    }
+]

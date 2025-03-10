@@ -1,0 +1,134 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2015-03-06",
+        "items": [
+            {
+                "description": "BANANAS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.05
+            },
+            {
+                "description": "CUCUMBERS",
+                "quantity": 1.95,
+                "price": 1.0,
+                "total_price": 59.0
+            },
+            {
+                "description": "MRJ PNAPLE CHNK",
+                "quantity": null,
+                "price": null,
+                "total_price": 79.0
+            },
+            {
+                "description": "PARSLEY",
+                "quantity": null,
+                "price": null,
+                "total_price": 89.0
+            },
+            {
+                "description": "GREEN ONION",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 50.0
+            },
+            {
+                "description": "SILK FRTY/CRMY",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.19
+            },
+            {
+                "description": "CRUSHED TOMATO",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.59
+            },
+            {
+                "description": "GLIN FREE PASTA",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.19
+            },
+            {
+                "description": "COCNT MLK LT",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.19
+            },
+            {
+                "description": "OR BASIL",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.49
+            },
+            {
+                "description": "ONIONS",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 5.38
+            },
+            {
+                "description": "DICE TOMATO",
+                "quantity": null,
+                "price": 2.69,
+                "total_price": 2.69
+            },
+            {
+                "description": "FRZ VEGETABLES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.25
+            },
+            {
+                "description": "FROZEN PEAS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.25
+            },
+            {
+                "description": "BLACK BEANS",
+                "quantity": 3.0,
+                "price": 0.79,
+                "total_price": 2.37
+            },
+            {
+                "description": "GARBANZO BEANS",
+                "quantity": null,
+                "price": 85.0,
+                "total_price": 0.79
+            },
+            {
+                "description": "MEIJER BROTH",
+                "quantity": 2.0,
+                "price": 1.99,
+                "total_price": 3.98
+            },
+            {
+                "description": "PEPPERS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "K-CUPS",
+                "quantity": null,
+                "price": 6.99,
+                "total_price": 4.99
+            },
+            {
+                "description": "RED CABBAGE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 38.67
+    }
+]

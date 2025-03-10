@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Cruz, Meyer and Quinn",
+        "transaction_date": "2013-12-21",
+        "items": [
+            {
+                "description": "54 Inches Marble Dinning Table",
+                "quantity": 4.0,
+                "price": 4.0,
+                "total_price": 19588.8
+            },
+            {
+                "description": "24\"x24\" Top Marble White Table",
+                "quantity": 5.0,
+                "price": 2.0,
+                "total_price": 11000.0
+            }
+        ],
+        "subtotal": 27808.0,
+        "tax": 2780.8,
+        "tip": null,
+        "total": 30588.8
+    }
+]

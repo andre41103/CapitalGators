@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "13 COINS RESTAURANT",
+        "transaction_date": "2018-01-02",
+        "items": [
+            {
+                "description": "Biscuits & Gravy",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Coffee",
+                "quantity": 2.0,
+                "price": 3.5,
+                "total_price": 7.0
+            },
+            {
+                "description": "Vegetarian Omelette",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.25
+            }
+        ],
+        "subtotal": 37.25,
+        "tax": 3.84,
+        "tip": null,
+        "total": 42.21
+    }
+]

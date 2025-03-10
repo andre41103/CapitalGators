@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "IN-N-OUT BURGER DALLAS",
+        "transaction_date": "2015-09-01",
+        "items": [
+            {
+                "description": "Db1Db1",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.6
+            },
+            {
+                "description": "FF",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.65
+            },
+            {
+                "description": "Sm Coke",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.56,
+        "tip": null,
+        "total": 7.31
+    }
+]

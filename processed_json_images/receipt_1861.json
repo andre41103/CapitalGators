@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LONG BEACH RESORT LTD",
+        "transaction_date": "2017-09-29",
+        "items": [
+            {
+                "description": "Club Sandwich",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 550.0
+            },
+            {
+                "description": "Beef Burger",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 600.0
+            },
+            {
+                "description": "Draught 330ml Phoenix",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 600.0
+            },
+            {
+                "description": "Expresso",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 125.0
+            }
+        ],
+        "subtotal": 1875.0,
+        "tax": 244.57,
+        "tip": null,
+        "total": 1875.0
+    }
+]

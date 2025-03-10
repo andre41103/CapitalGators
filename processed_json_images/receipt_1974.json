@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CARREFOUR",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "RENUEVA PARACHOQUES",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.9
+            },
+            {
+                "description": "PECHUGA PAVO S/GRA",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "ACEITE SINTETICO 2T",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.4
+            },
+            {
+                "description": "BOLSA CARREFOUR",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.05
+            },
+            {
+                "description": "PECHUGA POLLO FILE",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.16
+            },
+            {
+                "description": "ALBONDIGAS AT\u00d3N",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "FILETES AT\u00daN SALSA",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "ZUMO NARANJA X6",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.05
+            },
+            {
+                "description": "ZUMO NARANJA X6",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.05
+            },
+            {
+                "description": "PAN S/CORTEZA 450G",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.97
+            },
+            {
+                "description": "FANTA NARANJA LATA",
+                "quantity": 8.0,
+                "price": 0.43,
+                "total_price": 3.44
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 28.02
+    }
+]

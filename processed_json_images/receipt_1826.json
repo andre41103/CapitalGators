@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2016-01-15",
+        "items": [
+            {
+                "description": "Cpy Btrmilk Ckn Meal",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.79
+            },
+            {
+                "description": "Cpy Buttermilk Ckn",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "3 Mozzarella Sticks",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.19
+            }
+        ],
+        "subtotal": 7.98,
+        "tax": 0.48,
+        "tip": null,
+        "total": 8.46
+    }
+]

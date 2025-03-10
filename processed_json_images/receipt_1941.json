@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Michaels",
+        "transaction_date": "2012-07-14",
+        "items": [
+            {
+                "description": "RECIPE CRDS 4X6 F",
+                "quantity": 1.0,
+                "price": 50.0,
+                "total_price": 50.0
+            },
+            {
+                "description": "NOTECARDS WITH SF",
+                "quantity": 1.0,
+                "price": 50.0,
+                "total_price": null
+            },
+            {
+                "description": "NOTECARDS RED 03",
+                "quantity": 1.0,
+                "price": 1.5,
+                "total_price": 1.5
+            },
+            {
+                "description": "NOTECARDS RED Q3",
+                "quantity": 1.0,
+                "price": 1.5,
+                "total_price": 1.5
+            }
+        ],
+        "subtotal": 4.0,
+        "tax": 24.0,
+        "tip": null,
+        "total": 4.24
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Baker-Dixon",
+        "transaction_date": "2013-12-22",
+        "items": [
+            {
+                "description": "Story of a Soul: The\nAutobiography of St. Therese of\nLisieux",
+                "quantity": 2.0,
+                "price": 9.35,
+                "total_price": 20.57
+            },
+            {
+                "description": "Poor Charlie's Almanack The Wit\nand Wisdom of Charles T\nMunger 3rd Ed. BRAND NEW",
+                "quantity": 2.0,
+                "price": 64.95,
+                "total_price": 142.89
+            },
+            {
+                "description": "The Last Kings of Shanghai by\nJonathan Kaufman",
+                "quantity": 5.0,
+                "price": 2.99,
+                "total_price": 16.45
+            },
+            {
+                "description": "That Quail Robert",
+                "quantity": 2.0,
+                "price": 4.89,
+                "total_price": 10.76
+            },
+            {
+                "description": "Day Trading Joe Ross New Hard\ncover English edition",
+                "quantity": 2.0,
+                "price": 125.0,
+                "total_price": 275.0
+            },
+            {
+                "description": "Our Family Tree A History of Our\nFamily",
+                "quantity": 4.0,
+                "price": 4.49,
+                "total_price": 19.76
+            },
+            {
+                "description": "A Million Little Bricks The\nUnofficial Illustrated History of\nthe LE",
+                "quantity": 3.0,
+                "price": 4.49,
+                "total_price": 14.82
+            }
+        ],
+        "subtotal": 454.76,
+        "tax": 45.48,
+        "tip": null,
+        "total": 500.24
+    }
+]

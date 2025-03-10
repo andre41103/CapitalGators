@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LITTLE SIX CASINO",
+        "transaction_date": "2016-06-10",
+        "items": [
+            {
+                "description": "DIET PEPSI",
+                "quantity": 2.0,
+                "price": 1.99,
+                "total_price": 3.98
+            },
+            {
+                "description": "CASINO SANDWICH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.99
+            },
+            {
+                "description": "WALLEYE SAND",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.99
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.62,
+        "tip": null,
+        "total": 23.58
+    }
+]

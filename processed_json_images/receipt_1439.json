@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Bennett, Chavez and Vazquez\nAlexander-Petersen",
+        "transaction_date": "2019-01-13",
+        "items": [
+            {
+                "description": "Dell Optiplex 990 MT Computer\nPC Quad Core i7 3.4GHz 16GB\n2TB HD Windows 10 Pro",
+                "quantity": 4.0,
+                "price": 269.95,
+                "total_price": 1187.78
+            },
+            {
+                "description": "Open Box: Dell XPS 8930\nDesktop Computer Intel Core i7\n8GB RAM 1TB HDD Black - 8",
+                "quantity": 1.0,
+                "price": 718.11,
+                "total_price": 789.92
+            },
+            {
+                "description": "Dell 9020 i5-4570 | 16GB | 2TB |\nSSD Windows 10 Pro Desktop\nComputer PC WiFi DVD",
+                "quantity": 5.0,
+                "price": 349.95,
+                "total_price": 1924.73
+            },
+            {
+                "description": "Dell Optiplex 7040 SFF PC\nComputer Intel Core i5-6500\n3.2GHZ 4GB RAM 500GB HDD",
+                "quantity": 4.0,
+                "price": 99.99,
+                "total_price": 439.96
+            },
+            {
+                "description": "HP Desktop Computer PC\nCore i5 16GB 2TB HD 256GB\nSSD 22\" LCD\nWindows 10",
+                "quantity": 4.0,
+                "price": 139.95,
+                "total_price": 615.78
+            }
+        ],
+        "subtotal": 4507.42,
+        "tax": 450.74,
+        "tip": null,
+        "total": 4958.16
+    }
+]

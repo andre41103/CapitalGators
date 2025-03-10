@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PRODUITS DU SUD-OUEST",
+        "transaction_date": "2015-10-30",
+        "items": [
+            {
+                "description": "MENU TERROIR\nTERRINE MAISON\nMenu",
+                "quantity": 2.0,
+                "price": 18.9,
+                "total_price": 37.8
+            },
+            {
+                "description": "ESCALOPE FOIE GRAS",
+                "quantity": 1.0,
+                "price": 19.0,
+                "total_price": 19.0
+            },
+            {
+                "description": "CASSOULET TRADITIO\nNenu",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "CUISSE FARCIE",
+                "quantity": 1.0,
+                "price": 19.0,
+                "total_price": 19.0
+            },
+            {
+                "description": "GAILLAC 25CL",
+                "quantity": 1.0,
+                "price": 4.5,
+                "total_price": 4.5
+            },
+            {
+                "description": "CROUSTADE POMMES A\nNenu",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "FROMAGE BLANC PRUN\nMenu",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 80.3
+    }
+]

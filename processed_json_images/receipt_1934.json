@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Hotel Indigo East Liberty",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Delivery Charge",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Chicken & Rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.53,
+        "tip": null,
+        "total": 11.03
+    }
+]

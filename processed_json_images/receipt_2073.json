@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Nexus Brewery",
+        "transaction_date": "2014-03-03",
+        "items": [
+            {
+                "description": "Scottish Ale 20oz",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.14
+            },
+            {
+                "description": "Scottish Ale 16oz",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.27
+            },
+            {
+                "description": "Fried Okra sm",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.74
+            },
+            {
+                "description": "Fish tacos",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.21
+            },
+            {
+                "description": "Calabcitas sm",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Two Pc Ckn and Waffles",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.35
+            },
+            {
+                "description": "Sub Breast",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.87
+            }
+        ],
+        "subtotal": 38.58,
+        "tax": 2.42,
+        "tip": null,
+        "total": 41.0
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Ware Group",
+        "transaction_date": "2013-06-22",
+        "items": [
+            {
+                "description": "Dont Sweat the Small Stuff\nand Its All Small Stuff: Simple\nWays to Keep",
+                "quantity": 1.0,
+                "price": 4.49,
+                "total_price": 4.94
+            },
+            {
+                "description": "Book: The Lee-Enfield by lan\nSkennerton- Signed Edition",
+                "quantity": 2.0,
+                "price": 94.95,
+                "total_price": 208.89
+            },
+            {
+                "description": "The Last Kings of Shanghai by\nJonathan Kaufman",
+                "quantity": 3.0,
+                "price": 2.99,
+                "total_price": 9.87
+            },
+            {
+                "description": "Arnold Ehret RATIONAL FASTING\n1971 paperback collector's\nedition",
+                "quantity": 1.0,
+                "price": 6.75,
+                "total_price": 7.43
+            }
+        ],
+        "subtotal": 210.11,
+        "tax": 21.01,
+        "tip": null,
+        "total": 231.12
+    }
+]

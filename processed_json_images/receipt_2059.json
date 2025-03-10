@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Adkins LLC",
+        "transaction_date": "2011-08-12",
+        "items": [
+            {
+                "description": "2 Wine Glasses 8oz 7\" inches\ntall drinks for two Good\ncondition (fast shipper)",
+                "quantity": 2.0,
+                "price": 5.0,
+                "total_price": 11.0
+            },
+            {
+                "description": "Rust Proof Three Rows Tool\nWine Glass Holder Simple Iron\nWire Home Hanging Rack",
+                "quantity": 2.0,
+                "price": 11.56,
+                "total_price": 25.43
+            },
+            {
+                "description": "Wine spoon",
+                "quantity": 2.0,
+                "price": 5.0,
+                "total_price": 11.0
+            },
+            {
+                "description": "Mikasa Cheers Metallics Gold\n14oz Wine Glasses With Original\nStickers ~Set Of 2",
+                "quantity": 4.0,
+                "price": 9.99,
+                "total_price": 43.96
+            }
+        ],
+        "subtotal": 83.08,
+        "tax": 8.31,
+        "tip": null,
+        "total": 91.39
+    }
+]

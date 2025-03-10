@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Hays and Sons",
+        "transaction_date": "2020-08-24",
+        "items": [
+            {
+                "description": "Super Nintendo SNES System\nConsole Controller & Cables -\nSNS-001 + 3 Games",
+                "quantity": 2.0,
+                "price": 103.99,
+                "total_price": 228.78
+            },
+            {
+                "description": "PlayStation 5 Console Disc\nVersion",
+                "quantity": 1.0,
+                "price": 899.99,
+                "total_price": 989.99
+            },
+            {
+                "description": "Nintendo Wii U Console\nDeluxe/Handheld Bundle",
+                "quantity": 2.0,
+                "price": 79.99,
+                "total_price": 175.98
+            }
+        ],
+        "subtotal": 1267.95,
+        "tax": 126.8,
+        "tip": null,
+        "total": 1394.75
+    }
+]

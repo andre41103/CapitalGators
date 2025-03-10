@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Collins, Barrett and Schroeder",
+        "transaction_date": "2014-06-25",
+        "items": [
+            {
+                "description": "Real Madrid Inflatable Chair",
+                "quantity": 5.0,
+                "price": 43.95,
+                "total_price": 241.73
+            },
+            {
+                "description": "60 Inches Marble Dinning Table\nTop Inlay Work Lawn Table with\nMulti Color Stones",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 6331.6
+            }
+        ],
+        "subtotal": 5975.75,
+        "tax": 597.58,
+        "tip": null,
+        "total": 6573.33
+    }
+]

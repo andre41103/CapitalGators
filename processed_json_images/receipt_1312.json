@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "McDonald's Restaurant",
+        "transaction_date": "2018-03-30",
+        "items": [
+            {
+                "description": "6 McNuggets",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "M Coke",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 1.0,
+        "tax": 0.1,
+        "tip": null,
+        "total": 1.1
+    }
+]

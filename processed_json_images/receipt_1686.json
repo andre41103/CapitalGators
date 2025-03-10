@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2018-03-23",
+        "items": [
+            {
+                "description": "RED OS\nMOPHIE\u00ae ENCORE PLUS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 88.0
+            },
+            {
+                "description": "BLACKSMA\nSUPREME\u00ae/CHAMPIONE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 198.0
+            }
+        ],
+        "subtotal": 286.0,
+        "tax": 47.67,
+        "tip": null,
+        "total": 286.0
+    }
+]

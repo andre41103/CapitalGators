@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Castillo-Jones",
+        "transaction_date": "2018-05-19",
+        "items": [
+            {
+                "description": "Cherokee Boys Grayton Skate\nShoes 12 Surf Skate Casual 12K\nBlack\n12Y",
+                "quantity": 3.0,
+                "price": 19.99,
+                "total_price": 65.97
+            },
+            {
+                "description": "jordan 4 kids Size 8",
+                "quantity": 3.0,
+                "price": 23.0,
+                "total_price": 75.9
+            },
+            {
+                "description": "Timberland brown slip on shoes\nsize\njuniors",
+                "quantity": 5.0,
+                "price": 2.0,
+                "total_price": 11.0
+            }
+        ],
+        "subtotal": 138.97,
+        "tax": 13.9,
+        "tip": null,
+        "total": 152.87
+    }
+]

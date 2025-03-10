@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2019-06-04",
+        "items": [
+            {
+                "description": "One Year through the Bible by\nDavid R. Veerman",
+                "quantity": 5.0,
+                "price": 4.49,
+                "total_price": 24.7
+            },
+            {
+                "description": "A History of the Indians of the\nUnited States (The",
+                "quantity": 1.0,
+                "price": 4.49,
+                "total_price": 4.94
+            },
+            {
+                "description": "Game of Thrones: The Poster\nCollection (Paperback or\nSoftback)",
+                "quantity": 5.0,
+                "price": 20.87,
+                "total_price": 114.79
+            },
+            {
+                "description": "In the Footsteps of the Russian\nSnowman (Paperback or\nSoftback)",
+                "quantity": 3.0,
+                "price": 25.87,
+                "total_price": 85.37
+            }
+        ],
+        "subtotal": 208.9,
+        "tax": 20.89,
+        "tip": null,
+        "total": 229.79
+    }
+]

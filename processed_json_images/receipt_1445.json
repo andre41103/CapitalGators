@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Whitaker-Galloway",
+        "transaction_date": "2016-06-25",
+        "items": [
+            {
+                "description": "54\"x24\" Black Center Top\nDining Table Marquetery Inlaid\nGemstone Christmas Gift",
+                "quantity": 1.0,
+                "price": 2.0,
+                "total_price": 2890.8
+            },
+            {
+                "description": "12\" White Marble Center Coffee\nTable Top Lapis Random Inlay\nCafeteria Decor W294",
+                "quantity": 1.0,
+                "price": 248.78,
+                "total_price": 273.66
+            },
+            {
+                "description": "26\"x26\" Marble Black Top\nCoffee Table Inlay Floral\nPietradura Art Christmas Gift",
+                "quantity": 5.0,
+                "price": 1.0,
+                "total_price": 8189.5
+            },
+            {
+                "description": "12\" Marble Coffee Table Top\nMulti Stone Peacock & Floral\nInlay Home Decors W364",
+                "quantity": 5.0,
+                "price": 264.27,
+                "total_price": 1453.48
+            },
+            {
+                "description": "Bestier Computer Desk with\nShelves, Writing Desk with\nStorage",
+                "quantity": 4.0,
+                "price": 139.99,
+                "total_price": 615.96
+            }
+        ],
+        "subtotal": 12203.09,
+        "tax": 1220.31,
+        "tip": null,
+        "total": 13423.4
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Mason-Cross",
+        "transaction_date": "2018-11-18",
+        "items": [
+            {
+                "description": "Yilong 5'x8' Handknotted Silk\nArea Rug Living Room Black\nClassic Carpet L38B",
+                "quantity": 3.0,
+                "price": 8.0,
+                "total_price": 26400.0
+            },
+            {
+                "description": "New Golden Brown Oriental Rug\n4X6 Oushak Chobi Floral\nHand-Knotted Foyer Carpet",
+                "quantity": 1.0,
+                "price": 232.65,
+                "total_price": 255.92
+            },
+            {
+                "description": "Soft Simple Mats For Living\nRoom Bedroom Kid Room Rugs\nCarpets For Living Room",
+                "quantity": 2.0,
+                "price": 35.68,
+                "total_price": 78.5
+            },
+            {
+                "description": "3D Bottomless Hole Optical\nIllusion Area Rug Carpet Sofa\nDoor Mats Non-slip Home",
+                "quantity": 2.0,
+                "price": 13.76,
+                "total_price": 30.27
+            }
+        ],
+        "subtotal": 24331.53,
+        "tax": 2433.15,
+        "tip": null,
+        "total": 26764.68
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2018-05-13",
+        "items": [
+            {
+                "description": "#WATER",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "K BEV",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.89
+            },
+            {
+                "description": "SWATER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "1_STRWERRYLEMONA",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.49
+            },
+            {
+                "description": "RAVIOLI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.49
+            },
+            {
+                "description": "K HAMBURGER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.29
+            },
+            {
+                "description": "COMBO PLATTR",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.99
+            },
+            {
+                "description": "CHX/MUSH FET",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.99
+            },
+            {
+                "description": "STK&MUSHROOM FET",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.99
+            },
+            {
+                "description": "S/O MARINARA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.49
+            },
+            {
+                "description": "ITALIAN ICE",
+                "quantity": 2.0,
+                "price": 3.99,
+                "total_price": 7.98
+            },
+            {
+                "description": "GELATO",
+                "quantity": 2.0,
+                "price": 3.99,
+                "total_price": 7.98
+            },
+            {
+                "description": "VIRG STRAW DAQ",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            }
+        ],
+        "subtotal": 98.73,
+        "tax": 4.65,
+        "tip": null,
+        "total": 103.38
+    }
+]

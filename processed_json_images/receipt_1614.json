@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Cisneros Group",
+        "transaction_date": "2020-10-25",
+        "items": [
+            {
+                "description": "Lilly Pulitzer Lillywood California\n8 Shift Dress",
+                "quantity": 3.0,
+                "price": 76.0,
+                "total_price": 250.8
+            },
+            {
+                "description": "R&M; RICHARDS WOMAN'S\nBLUE DRESS With Rhinestone\nAccent Short Sleeves Sz 16W\nNWT",
+                "quantity": 1.0,
+                "price": 29.99,
+                "total_price": 32.99
+            },
+            {
+                "description": "Large Blue Long Sleeve Fit &\nFlare Dress Elastic Waist\nCrochet Detail Bohemian",
+                "quantity": 4.0,
+                "price": 0.99,
+                "total_price": 4.36
+            }
+        ],
+        "subtotal": 261.95,
+        "tax": 26.2,
+        "tip": null,
+        "total": 288.15
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Applewoods",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "MOJO CHICKEN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "SIDE CAESAR",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "JAMBALAYA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "8OZ STRIPLOIN",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 39.9
+            },
+            {
+                "description": "ADD MUSH",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 1.98
+            },
+            {
+                "description": "FOUNTAIN POP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.29
+            }
+        ],
+        "subtotal": 81.16,
+        "tax": 12.17,
+        "tip": null,
+        "total": 93.33
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walmart",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "BLOOD",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.97
+            },
+            {
+                "description": "BLOOD",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.97
+            },
+            {
+                "description": "BLOOD",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.97
+            },
+            {
+                "description": "STFR MAC CHS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.96
+            },
+            {
+                "description": "BLOOD",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.97
+            },
+            {
+                "description": "BLOOD",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.97
+            }
+        ],
+        "subtotal": 11.81,
+        "tax": 0.83,
+        "tip": null,
+        "total": 12.64
+    }
+]

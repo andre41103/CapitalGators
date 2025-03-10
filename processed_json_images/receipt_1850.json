@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "WALMART",
+        "transaction_date": "2008-02-10",
+        "items": [
+            {
+                "description": "FRAN PLATES",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.97
+            },
+            {
+                "description": "B2 BPK ERP",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "GATORADE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.98
+            }
+        ],
+        "subtotal": 10.93,
+        "tax": 0.71,
+        "tip": null,
+        "total": 15.64
+    }
+]

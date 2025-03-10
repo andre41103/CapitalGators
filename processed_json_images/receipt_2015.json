@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GEMINI NJAM d. o. o.",
+        "transaction_date": "2014-09-19",
+        "items": [
+            {
+                "description": "RED - BEEF CHEEKS",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "CRVENI - OBRAZI",
+                "quantity": 1.0,
+                "price": 100.0,
+                "total_price": 100.0
+            },
+            {
+                "description": "BLUE - MOJITO SORBET",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "PLAVI - MOJITO SORBET",
+                "quantity": 1.0,
+                "price": 20.0,
+                "total_price": 20.0
+            },
+            {
+                "description": "BLUE - SEABREAM OR SEABASS",
+                "quantity": 1.0,
+                "price": 125.0,
+                "total_price": 125.0
+            },
+            {
+                "description": "BLUE OCTOPUS TERRINE",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "PLAVI - TERINA OD HOBOTNICE",
+                "quantity": 1.0,
+                "price": 10.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "RED - FOREST FRUIT ICE CREAM",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "CRVENI - SLADOLED OD GUMSKOG VOA",
+                "quantity": 1.0,
+                "price": 15.0,
+                "total_price": 15.0
+            },
+            {
+                "description": "RED - TOMATO GASPACHO",
+                "quantity": 1.0,
+                "price": 20.0,
+                "total_price": 20.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 290.0
+    }
+]

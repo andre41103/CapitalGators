@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Davis, Evans and Cooper\nStephens-Goodman",
+        "transaction_date": "2020-05-07",
+        "items": [
+            {
+                "description": "15\"x15\" White Marble Coffee\nTable Top With 15\" Tall Stand",
+                "quantity": 4.0,
+                "price": 575.99,
+                "total_price": 2534.36
+            },
+            {
+                "description": "12\" Marble Lapis Inlay Chess\nTable Top With 2\" Pieces & 15\"\nWooden Stand W537",
+                "quantity": 3.0,
+                "price": 444.6,
+                "total_price": 1467.18
+            },
+            {
+                "description": "18\"x18\" White Hand Curved Top\nCoffee Table Inlay Decorative",
+                "quantity": 1.0,
+                "price": 475.22,
+                "total_price": 522.74
+            }
+        ],
+        "subtotal": 4112.98,
+        "tax": 411.3,
+        "tip": null,
+        "total": 4524.28
+    }
+]

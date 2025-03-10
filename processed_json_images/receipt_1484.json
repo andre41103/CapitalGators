@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Riley-Miller",
+        "transaction_date": "2013-07-12",
+        "items": [
+            {
+                "description": "Chindi Rugs Carpet New Design\nBohemian Garden Yoga Mat\nIndian Kilim Coverlet",
+                "quantity": 3.0,
+                "price": 29.99,
+                "total_price": 98.97
+            },
+            {
+                "description": "Fluffy Rug Carpet Non Slip Soft\nArea Rugs Bathroom Room\nRound Floor Mat Washable",
+                "quantity": 1.0,
+                "price": 8.59,
+                "total_price": 9.45
+            },
+            {
+                "description": "Carton Tiger Print Area Rug\nFaux Skin Rug Hide Cute Carpet\nFloor Mat Home Decor",
+                "quantity": 1.0,
+                "price": 10.99,
+                "total_price": 12.09
+            }
+        ],
+        "subtotal": 109.55,
+        "tax": 10.96,
+        "tip": null,
+        "total": 120.51
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PJ'S PET EXPRESS",
+        "transaction_date": "2016-02-08",
+        "items": [
+            {
+                "description": "EUKANUBA SM BREED ADULT 16LB",
+                "quantity": null,
+                "price": null,
+                "total_price": 49.99
+            }
+        ],
+        "subtotal": 5.64,
+        "tax": 0.65,
+        "tip": null,
+        "total": 5.64
+    }
+]

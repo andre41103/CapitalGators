@@ -1,0 +1,92 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Nobu Malibu",
+        "transaction_date": "2015-05-11",
+        "items": [
+            {
+                "description": "VARS",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "Edaname",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Shirley Temple",
+                "quantity": 3.0,
+                "price": 3.0,
+                "total_price": 9.0
+            },
+            {
+                "description": "Jalapeno",
+                "quantity": null,
+                "price": null,
+                "total_price": 60.0
+            },
+            {
+                "description": "Lobster Shiitake Salad",
+                "quantity": null,
+                "price": null,
+                "total_price": 45.0
+            },
+            {
+                "description": "Nobu Ceviche",
+                "quantity": null,
+                "price": null,
+                "total_price": 19.0
+            },
+            {
+                "description": "Fish of the Day",
+                "quantity": null,
+                "price": null,
+                "total_price": 36.0
+            },
+            {
+                "description": "Ribeye Truffle Steak",
+                "quantity": null,
+                "price": null,
+                "total_price": 40.0
+            },
+            {
+                "description": "Bigeye Tura Cut",
+                "quantity": 2.0,
+                "price": 9.5,
+                "total_price": 19.0
+            },
+            {
+                "description": "Chocolate Spring Roll",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Espresso",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Double Expresso",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.0
+            }
+        ],
+        "subtotal": 270.0,
+        "tax": 24.3,
+        "tip": null,
+        "total": 294.3
+    }
+]

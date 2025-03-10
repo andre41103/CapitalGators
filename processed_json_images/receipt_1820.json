@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "WALMART",
+        "transaction_date": "2003-02-14",
+        "items": [
+            {
+                "description": "GATORADE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.07
+            },
+            {
+                "description": "CANDY",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.36
+            },
+            {
+                "description": "LISTERINE",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.48
+            },
+            {
+                "description": "ODOR EATER",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.76
+            },
+            {
+                "description": "GEL SOLE",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.97
+            }
+        ],
+        "subtotal": 24.64,
+        "tax": null,
+        "tip": null,
+        "total": 26.12
+    }
+]

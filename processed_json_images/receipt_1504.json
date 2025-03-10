@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Hutchinson PLC",
+        "transaction_date": "2015-05-01",
+        "items": [
+            {
+                "description": "Alcoholmeter Alcohol Meter\n0-100%+Thermometer",
+                "quantity": 3.0,
+                "price": 14.08,
+                "total_price": 46.46
+            },
+            {
+                "description": "Vintage Wine Basket Holder - 3\nBottles",
+                "quantity": 2.0,
+                "price": 32.99,
+                "total_price": 72.58
+            },
+            {
+                "description": "Wagner Vineyards uncork new\nyork Wine Glass",
+                "quantity": 2.0,
+                "price": 3.99,
+                "total_price": 8.78
+            },
+            {
+                "description": "Press Wine 15L Fruit Cider\nGrape",
+                "quantity": 1.0,
+                "price": 279.0,
+                "total_price": 306.9
+            },
+            {
+                "description": "100pcs Heat Shrink Capsules\nCaps\n3cm",
+                "quantity": 4.0,
+                "price": 5.75,
+                "total_price": 25.3
+            },
+            {
+                "description": "Cuisinart Stainless Steel Electric\nWine Opener - CWO-25 - Brand\nNew in the Box",
+                "quantity": 4.0,
+                "price": 19.9,
+                "total_price": 87.56
+            },
+            {
+                "description": "Stainless Steel Reusable\nVacuum",
+                "quantity": 3.0,
+                "price": 1.2,
+                "total_price": 3.96
+            }
+        ],
+        "subtotal": 501.4,
+        "tax": 50.14,
+        "tip": null,
+        "total": 551.54
+    }
+]

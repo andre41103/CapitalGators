@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Five Below - Waldorf",
+        "transaction_date": "2013-09-15",
+        "items": [
+            {
+                "description": "LOREAL SUBLIME S",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "LOREAL SUBLIME S",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "SOLAR FLOWER ASS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 3.0,
+        "tax": 0.18,
+        "tip": null,
+        "total": 3.18
+    }
+]

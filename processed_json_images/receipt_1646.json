@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "IKANO Pte Ltd",
+        "transaction_date": "2010-12-18",
+        "items": [
+            {
+                "description": "BIBBI S QC/2P15",
+                "quantity": null,
+                "price": null,
+                "total_price": 59.9
+            },
+            {
+                "description": "MYSA STRA QLT W",
+                "quantity": null,
+                "price": null,
+                "total_price": 45.0
+            },
+            {
+                "description": "GNARP KITCHEN UT S5",
+                "quantity": 2.0,
+                "price": 11.9,
+                "total_price": 23.8
+            },
+            {
+                "description": "RAJTAN SPICEJAR",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "BEVARA SEAL CLI",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.9
+            },
+            {
+                "description": "JAMKA JAR W LID",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.9
+            },
+            {
+                "description": "PYSSLIG SCRAPBO",
+                "quantity": null,
+                "price": null,
+                "total_price": 19.9
+            },
+            {
+                "description": "(L) PLASTIC BAG",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.2
+            }
+        ],
+        "subtotal": 179.1,
+        "tax": null,
+        "tip": null,
+        "total": -200.1
+    }
+]

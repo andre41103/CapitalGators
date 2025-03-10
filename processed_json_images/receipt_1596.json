@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Kemp, Barber and Hanson",
+        "transaction_date": "2019-08-21",
+        "items": [
+            {
+                "description": "YILONG 6.56'x9.84' Blue\nHandknotted Silk Carpet Easy to\nClean Indoor Rug YWX137A",
+                "quantity": 1.0,
+                "price": 4.0,
+                "total_price": 5.0
+            },
+            {
+                "description": "YILONG 5.5'x8' Handknotted\nSilk Area Rugs Home Decor\nClassic",
+                "quantity": 3.0,
+                "price": 10.0,
+                "total_price": 34.0
+            },
+            {
+                "description": "World Map Round Carpets Room\nPrinted Area Rug Blue Floor Mat\nBedroom Play Mat",
+                "quantity": 4.0,
+                "price": 83.78,
+                "total_price": 368.63
+            },
+            {
+                "description": "YILONG 4'x6' Handmade Carpet\nHunting Scene Hand Knotted\nSilk Rugs 079B",
+                "quantity": 2.0,
+                "price": 3.0,
+                "total_price": 7.0
+            }
+        ],
+        "subtotal": 44015.12,
+        "tax": 4401.51,
+        "tip": null,
+        "total": 48416.63
+    }
+]

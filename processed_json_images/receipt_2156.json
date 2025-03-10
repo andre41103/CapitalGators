@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walmart",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "TRA SKYWARP",
+                "quantity": null,
+                "price": 60.0,
+                "total_price": 20.0
+            },
+            {
+                "description": "TRA SKYWARP",
+                "quantity": null,
+                "price": 60.0,
+                "total_price": 20.0
+            },
+            {
+                "description": "BREAKWAY",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "GI JOE",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "TRANSFORMERS",
+                "quantity": null,
+                "price": null,
+                "total_price": 35.0
+            },
+            {
+                "description": "RX# 7263876",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "RX# 7278513",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "ONE A DAY",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.47
+            },
+            {
+                "description": "12FT TAPE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.88
+            },
+            {
+                "description": "SV VIT C",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "EQ FIBER",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.83
+            }
+        ],
+        "subtotal": 124.18,
+        "tax": 5.71,
+        "tip": null,
+        "total": 129.89
+    }
+]

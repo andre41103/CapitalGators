@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ZAKKUSHI",
+        "transaction_date": "2007-06-20",
+        "items": [
+            {
+                "description": "Roll Set (ROLL SET)",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 17.8
+            },
+            {
+                "description": "Tori Soboro Don (SOBORO)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.8
+            },
+            {
+                "description": "Zaru Soba (ZA-SOBA)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.8
+            },
+            {
+                "description": "Tsukemono",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Umezuke (UMEZUKE)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.8
+            },
+            {
+                "description": "Pork Ginger Tei (P-G-T)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "Salad Udon (S-UDON)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.8
+            },
+            {
+                "description": "Curry Udon (CURYUDON)",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 17.4
+            },
+            {
+                "description": "Gomaae (GOMA)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "Lunch Pop, Tea (L-POP)",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "Tako Wasa (TAKOWASA)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            }
+        ],
+        "subtotal": 80.4,
+        "tax": 4.82,
+        "tip": null,
+        "total": 85.22
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Eco Wash - Cumming",
+        "transaction_date": "2017-08-25",
+        "items": [
+            {
+                "description": "Full Service QUICK",
+                "quantity": null,
+                "price": null,
+                "total_price": 20.08
+            }
+        ],
+        "subtotal": 28.0,
+        "tax": 8.8,
+        "tip": null,
+        "total": 20.08
+    }
+]

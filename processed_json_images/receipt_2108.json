@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "EAT STREET",
+        "transaction_date": "2017-04-21",
+        "items": [
+            {
+                "description": "Black Tea 12 Oz CF",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "Fresh Fruit Salad Po",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "Yogurt-Muesli & Nuts",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 59.0
+    }
+]

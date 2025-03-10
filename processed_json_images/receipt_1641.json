@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KARAM BEIRUT",
+        "transaction_date": "2018-01-17",
+        "items": [
+            {
+                "description": "Moutabbal",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 28.0
+            },
+            {
+                "description": "Tabbouleh",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 28.0
+            },
+            {
+                "description": "Hommos Fatteh",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 32.0
+            },
+            {
+                "description": "Karam kabab",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 58.0
+            },
+            {
+                "description": "Mixed grill",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 77.0
+            },
+            {
+                "description": "San Pellegrino",
+                "quantity": null,
+                "price": null,
+                "total_price": 24.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 8.99,
+        "tip": null,
+        "total": 189.0
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Klein and Sons",
+        "transaction_date": "2015-03-07",
+        "items": [
+            {
+                "description": "Stemless wine glass Etched",
+                "quantity": 1.0,
+                "price": 2.99,
+                "total_price": 3.29
+            }
+        ],
+        "subtotal": 2.99,
+        "tax": 0.3,
+        "tip": null,
+        "total": 3.29
+    }
+]

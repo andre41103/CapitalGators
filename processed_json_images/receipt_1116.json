@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Davis and Sons",
+        "transaction_date": "2012-09-17",
+        "items": [
+            {
+                "description": "SOFA SET",
+                "quantity": 3.0,
+                "price": 250.0,
+                "total_price": 825.0
+            },
+            {
+                "description": "24\"x24\" Top Marble White Table",
+                "quantity": 3.0,
+                "price": 2.0,
+                "total_price": 6600.0
+            }
+        ],
+        "subtotal": 6750.0,
+        "tax": 675.0,
+        "tip": null,
+        "total": 7425.0
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ANANDHA BHAVAN A/C",
+        "transaction_date": "2018-01-26",
+        "items": [
+            {
+                "description": "GHEE PONGAL",
+                "quantity": 1.0,
+                "price": 50.0,
+                "total_price": 50.0
+            },
+            {
+                "description": "VADAI",
+                "quantity": 3.0,
+                "price": 20.0,
+                "total_price": 60.0
+            },
+            {
+                "description": "ROAST",
+                "quantity": 3.0,
+                "price": 50.0,
+                "total_price": 150.0
+            },
+            {
+                "description": "POORI MASAL",
+                "quantity": 2.0,
+                "price": 50.0,
+                "total_price": 100.0
+            },
+            {
+                "description": "TEA",
+                "quantity": 1.0,
+                "price": 25.0,
+                "total_price": 25.0
+            }
+        ],
+        "subtotal": 385.0,
+        "tax": null,
+        "tip": null,
+        "total": 404.0
+    }
+]

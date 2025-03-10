@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2012-05-11",
+        "items": [
+            {
+                "description": "PANNA BOTTLE",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "SCRAMBLED EGGS CHORI SER",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "BIKINI SERVING",
+                "quantity": null,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "SUCKLING PIG (TAPA) SERV",
+                "quantity": null,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "TASMANIAN TXULETA (2 SER",
+                "quantity": null,
+                "price": null,
+                "total_price": 100.0
+            },
+            {
+                "description": "MASHED POTATO SERVING",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "AUBERGINES SERVING",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "PASIANS FAVOURITE 40 ML",
+                "quantity": null,
+                "price": null,
+                "total_price": 21.0
+            },
+            {
+                "description": "STELLA ARTOIS BOTTLE",
+                "quantity": null,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "WARM ALMOND TART SERVING",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "TORRIJA SERVING",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

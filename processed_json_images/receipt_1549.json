@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Eaton Ltd",
+        "transaction_date": "2017-06-19",
+        "items": [
+            {
+                "description": "Nintendo 64 N64 Console\nComplete in Box Mint Beautiful!\nFrom",
+                "quantity": 5.0,
+                "price": 269.99,
+                "total_price": 1484.95
+            },
+            {
+                "description": "\"New\" Nintendo 3DS XL New\nBlack Handheld Console\n(RED-001)",
+                "quantity": 5.0,
+                "price": 124.99,
+                "total_price": 687.44
+            }
+        ],
+        "subtotal": 1974.9,
+        "tax": 197.49,
+        "tip": null,
+        "total": 2172.39
+    }
+]

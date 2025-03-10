@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Stanton PLC\nDavis-Jackson",
+        "transaction_date": "2021-02-21",
+        "items": [
+            {
+                "description": "Astronomy: A Visual Guide",
+                "quantity": 5.0,
+                "price": 5.02,
+                "total_price": 27.61
+            },
+            {
+                "description": "The Epic of Gilgamesh",
+                "quantity": 4.0,
+                "price": 4.49,
+                "total_price": 19.76
+            }
+        ],
+        "subtotal": 43.06,
+        "tax": 4.31,
+        "tip": null,
+        "total": 47.37
+    }
+]

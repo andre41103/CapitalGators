@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Henderson, Baker and Johnson",
+        "transaction_date": "2015-12-27",
+        "items": [
+            {
+                "description": "Under Armour black boys\nathletic shoes 7y",
+                "quantity": 400.0,
+                "price": 1700.0,
+                "total_price": 74.8
+            },
+            {
+                "description": "Adult Girl Version Hermione\nGranger Cosplay Costume",
+                "quantity": 100.0,
+                "price": 6416.0,
+                "total_price": 70.58
+            },
+            {
+                "description": "The Children's Place Brown\nDress Boy Lace Up Shoes Size\n12",
+                "quantity": 200.0,
+                "price": 800.0,
+                "total_price": 17.6
+            },
+            {
+                "description": "PUMA Boys Youth Universal FG\nJr Soccer Cleats 5 White High\nRisk Red Black 5Y",
+                "quantity": 500.0,
+                "price": 1999.0,
+                "total_price": 109.94
+            },
+            {
+                "description": "Nike ZOOM KD 9 KEVIN DURANT\nYouth Women's Shoes Sneakers",
+                "quantity": 400.0,
+                "price": 3449.0,
+                "total_price": 151.76
+            },
+            {
+                "description": "Star Wars Childs Slippers - NWT",
+                "quantity": 100.0,
+                "price": 225.0,
+                "total_price": 2.48
+            }
+        ],
+        "subtotal": 388.32,
+        "tax": 38.83,
+        "tip": null,
+        "total": 427.15
+    }
+]

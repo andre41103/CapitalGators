@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Fuji",
+        "transaction_date": "2018-03-31",
+        "items": [
+            {
+                "description": "SUSHI SET",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 220.0
+            },
+            {
+                "description": "IKA MARU YAKI SET",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 200.0
+            },
+            {
+                "description": "GESO KARAAGE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 90.0
+            },
+            {
+                "description": "YAKI GYOZA (6 pcs)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 90.0
+            },
+            {
+                "description": "BACON ENOKI ROLL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 130.0
+            },
+            {
+                "description": "SAKE OZEKI 180 ml",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 180.0
+            },
+            {
+                "description": "ASAHI BEER (LARGE)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 180.0
+            }
+        ],
+        "subtotal": 1090.0,
+        "tax": 78.44,
+        "tip": 109.0,
+        "total": 1199.0
+    }
+]

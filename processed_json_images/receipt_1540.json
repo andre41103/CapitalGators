@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Jenkins, Green and Strickland",
+        "transaction_date": "2017-07-24",
+        "items": [
+            {
+                "description": "The Heretic's Daughter by\nKathleen Kent",
+                "quantity": 4.0,
+                "price": 3.99,
+                "total_price": 17.56
+            },
+            {
+                "description": "How to Get an Asian Girlfriend",
+                "quantity": 1.0,
+                "price": 15.44,
+                "total_price": 16.98
+            },
+            {
+                "description": "Paperback Book Free Shi",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Jesus (Hardback or Cased Book)",
+                "quantity": 2.0,
+                "price": 31.96,
+                "total_price": 70.31
+            }
+        ],
+        "subtotal": 95.32,
+        "tax": 9.53,
+        "tip": null,
+        "total": 104.85
+    }
+]

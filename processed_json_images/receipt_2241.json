@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GOLDEN CHOPSTICKS",
+        "transaction_date": "2010-07-12",
+        "items": [
+            {
+                "description": "Pap Bief.",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "Pap Zout Vlees",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "Geb.Olie Stok",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "Ges.Oester Gember Uitj",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 26.5
+    }
+]

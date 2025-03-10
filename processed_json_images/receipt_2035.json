@@ -1,0 +1,104 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CVS/pharmacy",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "M&M PRETZEL C 1.14",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.5
+            },
+            {
+                "description": "M&M PRETZEL C 1.14",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 50.0
+            },
+            {
+                "description": "HNDE LNG GRN 28OZ",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.19
+            },
+            {
+                "description": "CELSIUS GRN P 48Z",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.99
+            },
+            {
+                "description": "BIOTRUE MP SL 2Z",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "GREEN BAG\nTAG",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "CRYSTAL BUTTE 16Z",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.49
+            },
+            {
+                "description": "MAMA CP FUSIL 16Z",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.39
+            },
+            {
+                "description": "TRDNT LYER ST 14CT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.49
+            },
+            {
+                "description": "CVS COUPON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "COUPON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.3
+            },
+            {
+                "description": "CVS MFR COUPON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.49
+            },
+            {
+                "description": "COUPON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.5
+            },
+            {
+                "description": "COUPON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "COUPON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.25
+            }
+        ],
+        "subtotal": 0.0,
+        "tax": 0.82,
+        "tip": null,
+        "total": 0.82
+    }
+]

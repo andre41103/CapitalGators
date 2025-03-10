@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2021-03-05",
+        "items": [
+            {
+                "description": "6'x3' Marble Living Room Table\nTop",
+                "quantity": 4.0,
+                "price": 5.0,
+                "total_price": 26.0
+            },
+            {
+                "description": "5'x2' Marble White Center Table\nTop With 18\" Tall Stand\nPauashell Inlay Art Deco",
+                "quantity": 3.0,
+                "price": 3.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "6'x3' Marble Dining Table Hakik\nPietradura Inlay Room Outdoor\nMosaic Decor H3143",
+                "quantity": 4.0,
+                "price": 8.0,
+                "total_price": 37.0
+            },
+            {
+                "description": "48 Inches Marble Dinning Table\nTop Handmade Meeting Table\nTop with Vintage Art",
+                "quantity": 5.0,
+                "price": 2.0,
+                "total_price": 15.0
+            },
+            {
+                "description": "72 Inches Marble Dinning Table\nTop Pietra Dura Art Lawn Table\nfor Home Furniture",
+                "quantity": 1.0,
+                "price": 8.0,
+                "total_price": 9.0
+            },
+            {
+                "description": "25\"x25\" White Marble Top\nCounter Table Carnelian\nMarquetry Art Columbus Day\nGift",
+                "quantity": 5.0,
+                "price": 2.0,
+                "total_price": 15.0
+            },
+            {
+                "description": "45\"x45\" Marble Black Coffee\nTop\nArt Halloween",
+                "quantity": 4.0,
+                "price": 7.0,
+                "total_price": 32.0
+            }
+        ],
+        "subtotal": 135550.39,
+        "tax": 13555.04,
+        "tip": null,
+        "total": 149105.43
+    }
+]

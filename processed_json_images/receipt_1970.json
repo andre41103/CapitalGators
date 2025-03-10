@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Phillips PLC",
+        "transaction_date": "2017-01-10",
+        "items": [
+            {
+                "description": "Custom Built Windows 98 Retro\nGaming Industrial PC Computer\nP2 B Montego II 5GB",
+                "quantity": 1.0,
+                "price": 409.99,
+                "total_price": 450.99
+            },
+            {
+                "description": "Dell Desktop Computer Tower\nOptiplex Core i5 8GB 1TB HD\nDVD Wifi Windows 10 Pro",
+                "quantity": 4.0,
+                "price": 169.95,
+                "total_price": 747.78
+            },
+            {
+                "description": "Coinmine One Intel or AMD with\nRX 500 8GB 1TB Series Crypto\nMining Rig Computer",
+                "quantity": 2.0,
+                "price": 599.99,
+                "total_price": 1319.98
+            },
+            {
+                "description": "Dell Optiplex 7040 SFF PC\nComputer Intel Core i5-6500\n3.2GHZ 4GB RAM 500GB HDD",
+                "quantity": 5.0,
+                "price": 99.99,
+                "total_price": 549.95
+            },
+            {
+                "description": "Dell Desktop Computer Intel\nCore i5 Windows 10 pro 64\n250gb 3.1ghz 4gb Ram",
+                "quantity": 1.0,
+                "price": 240.24,
+                "total_price": 264.26
+            },
+            {
+                "description": "Dell OptiPlex 7060 SFF\nComputer, 8th Gen Core i5, 8GB\nDDR4, New 240GB SSD, DVD",
+                "quantity": 2.0,
+                "price": 202.5,
+                "total_price": 445.5
+            },
+            {
+                "description": "Gaming PC Desktop Computer\nRGB Intel i7 GTX 1650, 16GB\nRAM, 2TB HDD, 240GB SSD",
+                "quantity": 2.0,
+                "price": 689.99,
+                "total_price": 1517.98
+            }
+        ],
+        "subtotal": 4814.94,
+        "tax": 481.49,
+        "tip": null,
+        "total": 5296.43
+    }
+]

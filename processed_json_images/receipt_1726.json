@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Chef Mickey's",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Azuit Dinner",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 144.0
+            },
+            {
+                "description": "KM Dinner",
+                "quantity": null,
+                "price": null,
+                "total_price": 29.0
+            }
+        ],
+        "subtotal": 173.0,
+        "tax": 11.25,
+        "tip": 18.0,
+        "total": 215.39
+    }
+]

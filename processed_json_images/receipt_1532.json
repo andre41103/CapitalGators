@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Spencer Ltd",
+        "transaction_date": "2017-11-07",
+        "items": [
+            {
+                "description": "Dell Desktop Computer[16GB\n2TB HD OR 512GB SSD Quad\nCore i5[Windows 10 22\" LCD",
+                "quantity": 5.0,
+                "price": 129.95,
+                "total_price": 714.73
+            },
+            {
+                "description": "Gaming PC Computer RX 580\n8GB Ryzen 5 2x8GB Ram",
+                "quantity": 4.0,
+                "price": 400.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "Dell Optiplex 790 Computer i7\n@ 3.40 Ghz Quad Core 250GB\n4GB Working",
+                "quantity": 4.0,
+                "price": 159.99,
+                "total_price": 703.96
+            },
+            {
+                "description": "Lenovo i5 | 32GB | 2TB | SSD\nWindows 10 Pro Desktop\nComputer PC WiFi Bluetooth",
+                "quantity": 3.0,
+                "price": 139.0,
+                "total_price": 458.7
+            },
+            {
+                "description": "GAMING PC Desktop Computer\nRGB BUNDLE Intel CORE i7\n16GB RAM Nvidia GTX 1650 1TB",
+                "quantity": 3.0,
+                "price": 549.99,
+                "total_price": 1.0
+            },
+            {
+                "description": "Dell 7010 Desktop Computer\nIntel Core i5 3.10 Windows 10\npro 64 500gb HD 4gb Ram",
+                "quantity": 4.0,
+                "price": 241.6,
+                "total_price": 1.0
+            },
+            {
+                "description": "HP ProDesk 400 G5 Mini\nDesktop Computer i5-9500T\n8GB 256GB SSD W10P",
+                "quantity": 4.0,
+                "price": 200.5,
+                "total_price": 882.2
+            }
+        ],
+        "subtotal": 6725.08,
+        "tax": 672.51,
+        "tip": null,
+        "total": 7397.59
+    }
+]

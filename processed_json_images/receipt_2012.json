@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "JAWED HABIB",
+        "transaction_date": "2016-10-12",
+        "items": [
+            {
+                "description": "SMOOTHING UPTO SH",
+                "quantity": 1.0,
+                "price": 5500.0,
+                "total_price": 5500.0
+            }
+        ],
+        "subtotal": 5500.0,
+        "tax": 825.0,
+        "tip": null,
+        "total": 6325.0
+    }
+]

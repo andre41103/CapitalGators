@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Sam's\nCLUB",
+        "transaction_date": "2013-10-07",
+        "items": [
+            {
+                "description": "NTRGRN32VARF",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.78
+            },
+            {
+                "description": "NUTELA35.30F",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.65
+            },
+            {
+                "description": "EGGOWAFFLESF",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.98
+            },
+            {
+                "description": "ALMOND MILKF",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.98
+            },
+            {
+                "description": "ZOOANIMALCRF",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.98
+            },
+            {
+                "description": "OLIVE OIL 2F",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.48
+            },
+            {
+                "description": "CH 16CT HAMF",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.56
+            },
+            {
+                "description": "B/S CKI BRSF",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.58
+            },
+            {
+                "description": "GRND TURKEYF",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.95
+            },
+            {
+                "description": "BIGSEXY 100",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.98
+            },
+            {
+                "description": "DP 32 PACK",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.98
+            }
+        ],
+        "subtotal": 107.9,
+        "tax": 1.65,
+        "tip": null,
+        "total": 109.55
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Sinanvay Singapore Pte Ltd",
+        "transaction_date": "2014-07-23",
+        "items": [
+            {
+                "description": "POORI -200",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "BISISELE BHATH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "MASALA DOSA",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "CURD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            }
+        ],
+        "subtotal": 17.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 17.0
+    }
+]

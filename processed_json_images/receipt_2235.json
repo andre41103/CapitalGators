@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ROSS",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "#JORDAN SUPER.FLY",
+                "quantity": null,
+                "price": null,
+                "total_price": 49.99
+            },
+            {
+                "description": "#ROCKLIN CANVAS DE",
+                "quantity": null,
+                "price": null,
+                "total_price": 19.99
+            },
+            {
+                "description": "#UA CLUTCHFIT DRIV",
+                "quantity": null,
+                "price": null,
+                "total_price": 27.99
+            },
+            {
+                "description": "8.5oz Dark Bag",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            }
+        ],
+        "subtotal": 102.96,
+        "tax": 8.33,
+        "tip": null,
+        "total": 111.29
+    }
+]

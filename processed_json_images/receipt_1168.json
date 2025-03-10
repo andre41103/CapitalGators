@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Dunkin' Donuts",
+        "transaction_date": "2013-11-05",
+        "items": [
+            {
+                "description": "SpcSsg FRD AM EngM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.49
+            },
+            {
+                "description": "Senior 10%",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -0.35
+            }
+        ],
+        "subtotal": 3.14,
+        "tax": 0.19,
+        "tip": null,
+        "total": 3.33
+    }
+]

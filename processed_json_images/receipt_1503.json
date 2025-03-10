@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Mccullough-Bradley",
+        "transaction_date": "2020-03-23",
+        "items": [
+            {
+                "description": "Microsoft Xbox One X 1TB 4k\nUltra HD Console black",
+                "quantity": 5.0,
+                "price": 249.0,
+                "total_price": 1369.5
+            }
+        ],
+        "subtotal": 1245.0,
+        "tax": 124.5,
+        "tip": null,
+        "total": 1369.5
+    }
+]

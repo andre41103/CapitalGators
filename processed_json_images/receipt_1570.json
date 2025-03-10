@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Parker-Gonzalez",
+        "transaction_date": "2012-03-20",
+        "items": [
+            {
+                "description": "Seashells of North America: A\nGuide to Field Ident",
+                "quantity": 3.0,
+                "price": 4.49,
+                "total_price": 14.82
+            }
+        ],
+        "subtotal": 13.47,
+        "tax": 1.35,
+        "tip": null,
+        "total": 14.82
+    }
+]

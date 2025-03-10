@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "IN-N-OUT BURGER SANTA CLARA",
+        "transaction_date": "2015-01-16",
+        "items": [
+            {
+                "description": "CHB",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.45
+            },
+            {
+                "description": "FF",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.6
+            },
+            {
+                "description": "In",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 4.05,
+        "tax": 0.35,
+        "tip": null,
+        "total": 4.4
+    }
+]

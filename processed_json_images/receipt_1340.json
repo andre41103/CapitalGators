@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "China Restaurant",
+        "transaction_date": "2016-09-29",
+        "items": [
+            {
+                "description": "MO\nVoeslauer Ohne",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.4
+            },
+            {
+                "description": "GT\nGr\u00fcner Tee",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.4
+            },
+            {
+                "description": "D5\nMa La Huo Guo Fen",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.1
+            },
+            {
+                "description": "G10\nShui Zhui Ji Pan",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "H24\nGan Bian Si Ji Dou",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.5
+            },
+            {
+                "description": "Gekochter Reis",
+                "quantity": 3.0,
+                "price": 1.3,
+                "total_price": 3.9
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 33.8
+    }
+]

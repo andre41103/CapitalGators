@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "NIKE",
+        "transaction_date": "2015-05-30",
+        "items": [
+            {
+                "description": "AIR JORDAN 1 RETRO HIGH Q",
+                "quantity": null,
+                "price": null,
+                "total_price": 160.0
+            }
+        ],
+        "subtotal": 160.0,
+        "tax": 14.8,
+        "tip": null,
+        "total": 174.8
+    }
+]

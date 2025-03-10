@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Bullwinkle's\nBoardwalk Grille",
+        "transaction_date": "2014-10-05",
+        "items": [
+            {
+                "description": "Cabana F-Su",
+                "quantity": null,
+                "price": null,
+                "total_price": 169.99
+            },
+            {
+                "description": "C5 BBQ Beef",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.02
+            },
+            {
+                "description": "C5 880 Beef",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.02
+            },
+            {
+                "description": "Chx Caesar Wrap",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.94
+            },
+            {
+                "description": "Drink",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.78
+            },
+            {
+                "description": "Large Ice Cream",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.47
+            },
+            {
+                "description": "Large Ice Cream",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.47
+            },
+            {
+                "description": "Waffle Cone",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.93
+            }
+        ],
+        "subtotal": 208.62,
+        "tax": 3.12,
+        "tip": null,
+        "total": null
+    }
+]

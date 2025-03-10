@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LA FOGATA",
+        "transaction_date": "2014-03-22",
+        "items": [
+            {
+                "description": "#6 2CHEESE ENCH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "MACHOS NACHOS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.95
+            },
+            {
+                "description": "CHICK MILANESA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.45
+            },
+            {
+                "description": "FLOUR TORT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 24.9,
+        "tax": 2.24,
+        "tip": null,
+        "total": 27.14
+    }
+]

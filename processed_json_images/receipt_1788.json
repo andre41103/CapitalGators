@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Chili's",
+        "transaction_date": "2011-04-14",
+        "items": [
+            {
+                "description": "2 BEVERAGE",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.58
+            },
+            {
+                "description": "HH EGGROLL",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "HH BBWINGS X 5",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "DOUBLE TAKE",
+                "quantity": null,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "HH 1/2 TX FF",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            }
+        ],
+        "subtotal": 35.55,
+        "tax": 2.93,
+        "tip": null,
+        "total": 38.48
+    }
+]

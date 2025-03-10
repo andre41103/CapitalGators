@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Arby's Roast Beef",
+        "transaction_date": "2016-02-11",
+        "items": [
+            {
+                "description": "Mkt Beef Reub Meal",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.49
+            }
+        ],
+        "subtotal": 7.49,
+        "tax": 0.65,
+        "tip": null,
+        "total": 8.14
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Moore Group",
+        "transaction_date": "2013-10-21",
+        "items": [
+            {
+                "description": "The Heart of Rock & Soul by\nDave Marsh",
+                "quantity": 5.0,
+                "price": 4.49,
+                "total_price": 24.7
+            },
+            {
+                "description": "Warman's Star Wars Field Guide",
+                "quantity": 2.0,
+                "price": 5.77,
+                "total_price": 12.69
+            },
+            {
+                "description": "The Home Stretch",
+                "quantity": 1.0,
+                "price": 5.38,
+                "total_price": 5.92
+            },
+            {
+                "description": "SCOTTISH FOLKLORE LEGENDS -\n180 RARE BOOKS ON DVD -\nSCOTLAND HISTORY\nMYTHOLOGY 5",
+                "quantity": 1.0,
+                "price": 10.95,
+                "total_price": 12.04
+            },
+            {
+                "description": "Entertaining",
+                "quantity": 5.0,
+                "price": 4.49,
+                "total_price": 24.7
+            },
+            {
+                "description": "Christmas Cupcake Murder: A\nFestive & Delicious Ch ... by\nJoanne",
+                "quantity": 2.0,
+                "price": 2.99,
+                "total_price": 6.58
+            },
+            {
+                "description": "Introduction to Thematic\nCartography",
+                "quantity": 3.0,
+                "price": 8.99,
+                "total_price": 29.67
+            }
+        ],
+        "subtotal": 105.72,
+        "tax": 10.57,
+        "tip": null,
+        "total": 116.29
+    }
+]

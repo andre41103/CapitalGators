@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "VIJ'S RANGOLI",
+        "transaction_date": "2008-01-16",
+        "items": [],
+        "subtotal": null,
+        "tax": null,
+        "tip": 12.84,
+        "total": 98.42
+    }
+]

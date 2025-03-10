@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Henderson-Diaz\nArroyo-Fletcher",
+        "transaction_date": "2012-05-16",
+        "items": [
+            {
+                "description": "Presale Microsoft Xbox Series X\n1TB",
+                "quantity": 4.0,
+                "price": 655.0,
+                "total_price": 2882.0
+            },
+            {
+                "description": "Nintendo 2DS Console Blue",
+                "quantity": 2.0,
+                "price": 54.99,
+                "total_price": 120.98
+            }
+        ],
+        "subtotal": 2729.98,
+        "tax": 273.0,
+        "tip": null,
+        "total": 3002.98
+    }
+]

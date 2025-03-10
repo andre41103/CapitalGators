@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "IN-N-OUT BURGER REDONDO BEACH",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Db1-Dbl",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 11.7
+            },
+            {
+                "description": "Fry",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 5.55
+            },
+            {
+                "description": "Box w/Lid",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.64,
+        "tip": null,
+        "total": 18.89
+    }
+]

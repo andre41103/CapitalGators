@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BERNSTEIN'S\nDELI",
+        "transaction_date": "2003-05-16",
+        "items": [
+            {
+                "description": "-S1-\nCABBAGE BORSCHT",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.65
+            },
+            {
+                "description": "SLICE BREAD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.7
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 7.35
+    }
+]

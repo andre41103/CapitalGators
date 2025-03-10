@@ -1,0 +1,248 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walmart",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "PRK\nBAC SS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.98
+            },
+            {
+                "description": "PRK\nBAC SS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.98
+            },
+            {
+                "description": "BNLS BRST",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.75
+            },
+            {
+                "description": "BNLS BRST",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.73
+            },
+            {
+                "description": "GV TATERPUFF",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "GV FRIES",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "GV FRIES",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "CHUCK ROLL",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.95
+            },
+            {
+                "description": "CHUCK ROLL",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.95
+            },
+            {
+                "description": "BELL PEPPER",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.72
+            },
+            {
+                "description": "HH BELL RED",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.48
+            },
+            {
+                "description": "MCC/SCH GOUR",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.24
+            },
+            {
+                "description": "AMP",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.48
+            },
+            {
+                "description": "GV NRTH BEAN",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.18
+            },
+            {
+                "description": "GV PINTO BNS",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.08
+            },
+            {
+                "description": "GV SHREDS",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.98
+            },
+            {
+                "description": "GV COLBYJACK",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.68
+            },
+            {
+                "description": "GV MONT JACK",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.68
+            },
+            {
+                "description": "LARD",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.94
+            },
+            {
+                "description": "ROCKSTAR",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.68
+            },
+            {
+                "description": "GV CRM CHKN",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.98
+            },
+            {
+                "description": "DICED TOMATO",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.88
+            },
+            {
+                "description": "GV GRN CHILE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.88
+            },
+            {
+                "description": "GV GRN CHILE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.88
+            },
+            {
+                "description": "DICED TOMATO",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.88
+            },
+            {
+                "description": "GR BTR TSTN",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "GR BTR TSTN",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "GR BTR TSTN",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "GR BTR TSTN",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.38
+            },
+            {
+                "description": "GR BTR TSTN",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.38
+            },
+            {
+                "description": "GR BTR TSTN",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "GRND WHEAT",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "GR BTR TSTN",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "GV BLK BEAN",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.68
+            },
+            {
+                "description": "GV BLK BEAN",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.68
+            },
+            {
+                "description": "GV CRM CHKN",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.98
+            },
+            {
+                "description": "BLEACH",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.98
+            },
+            {
+                "description": "COUPON 18000",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.4
+            },
+            {
+                "description": "COUPON 18000",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.4
+            }
+        ],
+        "subtotal": 105.44,
+        "tax": 9.03,
+        "tip": null,
+        "total": 114.47
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Keith LLC",
+        "transaction_date": "2019-08-19",
+        "items": [
+            {
+                "description": "CLEARANCE !!! Fast HP Desktop\nComputer PC Core 2 Duo\nWINDOWS 10 + LCD + KB + MS",
+                "quantity": 4.0,
+                "price": 89.99,
+                "total_price": 395.96
+            }
+        ],
+        "subtotal": 359.96,
+        "tax": 36.0,
+        "tip": null,
+        "total": 395.96
+    }
+]

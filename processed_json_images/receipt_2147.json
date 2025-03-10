@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ninetysevengroup",
+        "transaction_date": "2002-06-15",
+        "items": [
+            {
+                "description": "HEINEKEN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 48.0
+            },
+            {
+                "description": "SOURS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 70.0
+            },
+            {
+                "description": "SEABREEZE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 70.0
+            },
+            {
+                "description": "PEACH SCHNAPS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 40.0
+            },
+            {
+                "description": "F.ORANGE JUICE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 38.0
+            },
+            {
+                "description": "NOTHING",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 50.0
+            }
+        ],
+        "subtotal": 316.0,
+        "tax": null,
+        "tip": 31.6,
+        "total": 347.6
+    }
+]

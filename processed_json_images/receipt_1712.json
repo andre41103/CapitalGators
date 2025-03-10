@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "McDonald's.",
+        "transaction_date": "2015-10-25",
+        "items": [
+            {
+                "description": "Cpy Btrmilk Ckn Meal",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.99
+            },
+            {
+                "description": "Bag",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 6.99,
+        "tax": 0.7,
+        "tip": null,
+        "total": null
+    }
+]

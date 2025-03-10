@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2017-03-20",
+        "items": [
+            {
+                "description": "HP Pavilion MS200 18.5\"\nALL-IN-ONE Computer system",
+                "quantity": 5.0,
+                "price": 48.0,
+                "total_price": 264.0
+            },
+            {
+                "description": "STUDENT/WORK COMPUTER\nWORKSTATION WINDOWS 10\nPRO",
+                "quantity": 4.0,
+                "price": 100.0,
+                "total_price": 440.0
+            },
+            {
+                "description": "Quality Dell Windows XP Pro\nDesktop PC Computer Core 2\nvPro 4Gb 250Gb DVD WiFi",
+                "quantity": 1.0,
+                "price": 119.99,
+                "total_price": 131.99
+            }
+        ],
+        "subtotal": 759.99,
+        "tax": 76.0,
+        "tip": null,
+        "total": 835.99
+    }
+]

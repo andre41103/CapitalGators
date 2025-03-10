@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Mcdonald and Sons",
+        "transaction_date": "2013-10-25",
+        "items": [
+            {
+                "description": "Toddler Kids Monster Jam Shoes\nSize 11c Grave Digger",
+                "quantity": 1.0,
+                "price": 9.0,
+                "total_price": 9.9
+            },
+            {
+                "description": "PUMA Pre-School Scuderia\nFerrari Drift Cat 5 Ultra II Shoes\nBoys 12c",
+                "quantity": 5.0,
+                "price": 21.22,
+                "total_price": 116.71
+            },
+            {
+                "description": "Newborn Infant Baby Girl Boy\nKid Winter Warm Coat Knit\nOutwear Hooded Jumpsuit",
+                "quantity": 4.0,
+                "price": 22.69,
+                "total_price": 99.84
+            },
+            {
+                "description": "Nike Kids KD Trey 5 / Nike Black\nSize 4.5aY",
+                "quantity": 3.0,
+                "price": 22.0,
+                "total_price": 72.6
+            },
+            {
+                "description": "Skechers Shoes Kids Size 2",
+                "quantity": 3.0,
+                "price": 10.0,
+                "total_price": 33.0
+            },
+            {
+                "description": "Nautica Kids Boys Navy & Red\nwith White Rubber Sole Running\nSneakers Shoes US 10",
+                "quantity": 1.0,
+                "price": 500.0,
+                "total_price": 550.0
+            }
+        ],
+        "subtotal": 801.86,
+        "tax": 80.19,
+        "tip": null,
+        "total": 882.05
+    }
+]

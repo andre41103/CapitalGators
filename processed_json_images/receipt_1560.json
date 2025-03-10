@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Wilson PLC",
+        "transaction_date": "2015-01-12",
+        "items": [
+            {
+                "description": "Yilong 5'x8' Handknotted Silk\nArea Rug Home Decor Kid\nFriendly Carpet L39B",
+                "quantity": 4.0,
+                "price": 8.0,
+                "total_price": 35.0
+            },
+            {
+                "description": "Faux Fur Animal Print Hide Skin\nRug Cowhide Area Rug Floor\nMat Carpet 33.5\"X43\"",
+                "quantity": 4.0,
+                "price": 26.03,
+                "total_price": 114.53
+            },
+            {
+                "description": "Garden Flower Carpet Quilted\nBedroom Floor Princess Tapis\nLace Rug Carpets",
+                "quantity": 5.0,
+                "price": 45.5,
+                "total_price": 250.25
+            },
+            {
+                "description": "Double Dorje Carpet Tibetan\nRug Handwoven by Artisans in\nNepal",
+                "quantity": 3.0,
+                "price": 297.0,
+                "total_price": 980.1
+            },
+            {
+                "description": "Egg Bathroom Rug Carpet Area\nRugs Rug Floor Mats Nordic Chic\nRoom Decor",
+                "quantity": 2.0,
+                "price": 68.1,
+                "total_price": 149.82
+            },
+            {
+                "description": "Striped Contemporary Gabbeh\nKashkoli Oriental Area Rug\nHandmade Wool Carpet 6x8",
+                "quantity": 1.0,
+                "price": 417.24,
+                "total_price": 458.96
+            }
+        ],
+        "subtotal": 33.0,
+        "tax": 3.0,
+        "tip": null,
+        "total": 37153.67
+    }
+]

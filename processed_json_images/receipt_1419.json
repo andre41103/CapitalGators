@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "York-Crawford",
+        "transaction_date": "2013-02-12",
+        "items": [
+            {
+                "description": "Little Boys Size 2 Son Of Mars\nJordan",
+                "quantity": 3.0,
+                "price": 19.0,
+                "total_price": 62.7
+            },
+            {
+                "description": "adidas Originals Kids Stan Smith\nWhite Green Toddler Boy Girl US",
+                "quantity": 3.0,
+                "price": 12.0,
+                "total_price": 39.6
+            }
+        ],
+        "subtotal": 93.0,
+        "tax": 9.3,
+        "tip": null,
+        "total": 102.3
+    }
+]

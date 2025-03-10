@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2015-07-12",
+        "items": [
+            {
+                "description": "Baby Buddha's Feast",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.95
+            },
+            {
+                "description": "Sapporo 20 Oz.",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Chicken Noodle Soup",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "Korean BBQ Chicken",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.5
+            },
+            {
+                "description": "Dan Dan Noodles*",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.5
+            },
+            {
+                "description": "Mgr Priv",
+                "quantity": null,
+                "price": null,
+                "total_price": -11.45
+            }
+        ],
+        "subtotal": 36.0,
+        "tax": 2.88,
+        "tip": null,
+        "total": 38.88
+    }
+]

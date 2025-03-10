@@ -1,0 +1,110 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Publix",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "CUPCAKE 6CT DEC",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "CUPCAKE 6CT DEC",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "CUPCAKE 6CT DEC",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "CUPCAKE 6CT DEC",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "OM L/ABLE TKY/AMER",
+                "quantity": 1.0,
+                "price": 6.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "OM L/ABLE TKY/AMER",
+                "quantity": 1.0,
+                "price": 6.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "AQUAFINA WATER",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.49
+            },
+            {
+                "description": "GLAZED DONUT",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.79
+            },
+            {
+                "description": "OM L/ABLE TKY/AMER",
+                "quantity": 1.0,
+                "price": 6.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "PUBLIX MILK WH 0.5",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.09
+            },
+            {
+                "description": "KLEENEX TISSUE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.29
+            },
+            {
+                "description": "BANANAS",
+                "quantity": 1.82,
+                "price": 0.69,
+                "total_price": 1.26
+            },
+            {
+                "description": "GLAZED DONUTS 6CT",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.19
+            },
+            {
+                "description": "PF XTRA CHEDDAR GF",
+                "quantity": 1.0,
+                "price": 10.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "PF CHEESE GOLDFISH",
+                "quantity": 1.0,
+                "price": 10.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "PROG CHICK BROTH",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.59
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.16,
+        "tip": null,
+        "total": 43.66
+    }
+]

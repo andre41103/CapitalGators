@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Fox Inc",
+        "transaction_date": "2016-06-13",
+        "items": [
+            {
+                "description": "Lilly Pulitzer 8 Sunkissed with\nGlow Janice Shift Dress",
+                "quantity": 5.0,
+                "price": 56.89,
+                "total_price": 312.9
+            },
+            {
+                "description": "PAS DE CALAIS DRESS WOMENS\nSIZE 36",
+                "quantity": 1.0,
+                "price": 9.95,
+                "total_price": 10.94
+            }
+        ],
+        "subtotal": 294.4,
+        "tax": 29.44,
+        "tip": null,
+        "total": 323.84
+    }
+]

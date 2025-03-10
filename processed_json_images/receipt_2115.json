@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Wagner PLC",
+        "transaction_date": "2020-11-14",
+        "items": [
+            {
+                "description": "Joma Youth Boys Gol 205 Piso\nMultitaco Soccer Cleats 3.5\nWhite Blue Yellow NEW",
+                "quantity": 2.0,
+                "price": 19.99,
+                "total_price": 43.98
+            },
+            {
+                "description": "nickelodeon TMNT Teenage\nMutant Ninja Turtles D L M R 6in\nAction Figure Kids Toy",
+                "quantity": 2.0,
+                "price": 42.98,
+                "total_price": 94.56
+            }
+        ],
+        "subtotal": 125.94,
+        "tax": 12.59,
+        "tip": null,
+        "total": 138.53
+    }
+]

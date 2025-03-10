@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Reynolds, Gonzales and Meyer",
+        "transaction_date": "2012-12-01",
+        "items": [
+            {
+                "description": "Intel Compute Stick (32GB, Intel\nAtom, 1.33GHZ, 2GB) PC\nDesktop",
+                "quantity": 300.0,
+                "price": 4500.0,
+                "total_price": 148.5
+            },
+            {
+                "description": "Quality Dell Windows XP Pro\nDesktop PC Computer Core 2\nvPro",
+                "quantity": 400.0,
+                "price": 11999.0,
+                "total_price": 527.96
+            },
+            {
+                "description": "Dell Desktop Computer PC Core\ni5 3.1GHz 8GB RAM 500GB HD\nWifi DVD Windows 10",
+                "quantity": 300.0,
+                "price": 12495.0,
+                "total_price": 412.34
+            },
+            {
+                "description": "Custom Gaming Computer\nRyzen 7 2700 32GB DDR4\nNvidia\nSSD\n500GB HDD",
+                "quantity": 500.0,
+                "price": 109227.0,
+                "total_price": 6007.49
+            }
+        ],
+        "subtotal": 6451.16,
+        "tax": 645.12,
+        "tip": null,
+        "total": 7096.28
+    }
+]

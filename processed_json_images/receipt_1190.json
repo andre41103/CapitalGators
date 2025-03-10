@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Marche Restaurants",
+        "transaction_date": "2009-12-09",
+        "items": [
+            {
+                "description": "Four Mini Select",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.4
+            }
+        ],
+        "subtotal": 2.4,
+        "tax": 0.17,
+        "tip": null,
+        "total": 2.55
+    }
+]

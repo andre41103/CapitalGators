@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "JOANN",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "HOCA HCCALLS",
+                "quantity": null,
+                "price": 17.95,
+                "total_price": 1.99
+            },
+            {
+                "description": "MCCA MCCALLS",
+                "quantity": null,
+                "price": 17.95,
+                "total_price": 1.99
+            },
+            {
+                "description": "MCCA MCCALLS",
+                "quantity": null,
+                "price": 19.95,
+                "total_price": 1.99
+            },
+            {
+                "description": "MCCA MCCALLS",
+                "quantity": null,
+                "price": 17.95,
+                "total_price": 1.99
+            }
+        ],
+        "subtotal": 7.96,
+        "tax": null,
+        "tip": null,
+        "total": 8.68
+    }
+]

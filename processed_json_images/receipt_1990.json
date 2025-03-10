@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "saras",
+        "transaction_date": "2017-11-11",
+        "items": [
+            {
+                "description": "Daal Tadka",
+                "quantity": 2.0,
+                "price": 235.0,
+                "total_price": 470.0
+            },
+            {
+                "description": "Paneer Butter M",
+                "quantity": 1.0,
+                "price": 285.0,
+                "total_price": 285.0
+            },
+            {
+                "description": "Aloo Methi",
+                "quantity": 1.0,
+                "price": 210.0,
+                "total_price": 210.0
+            },
+            {
+                "description": "Phulka",
+                "quantity": 6.0,
+                "price": 40.0,
+                "total_price": 240.0
+            },
+            {
+                "description": "Butter Naan",
+                "quantity": 1.0,
+                "price": 75.0,
+                "total_price": 75.0
+            },
+            {
+                "description": "Tandoori Rot!",
+                "quantity": 1.0,
+                "price": 55.0,
+                "total_price": 55.0
+            },
+            {
+                "description": "Mineral Water(L",
+                "quantity": 1.0,
+                "price": 25.0,
+                "total_price": 25.0
+            }
+        ],
+        "subtotal": 1360.0,
+        "tax": 95.2,
+        "tip": null,
+        "total": 1455.2
+    }
+]

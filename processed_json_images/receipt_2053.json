@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99",
+        "transaction_date": "2016-08-16",
+        "items": [
+            {
+                "description": "STEAMED YELLOW CHICKEN-HALF_H",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.75
+            }
+        ],
+        "subtotal": 8.75,
+        "tax": 0.77,
+        "tip": null,
+        "total": 9.52
+    }
+]

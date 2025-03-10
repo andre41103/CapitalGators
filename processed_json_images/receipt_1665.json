@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "UN Street",
+        "transaction_date": "2018-01-07",
+        "items": [
+            {
+                "description": "Bill's Burger",
+                "quantity": 2.0,
+                "price": 11.5,
+                "total_price": 23.0
+            },
+            {
+                "description": "Lamb Burger",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.95
+            },
+            {
+                "description": "Estrella",
+                "quantity": 3.0,
+                "price": 4.35,
+                "total_price": 13.05
+            }
+        ],
+        "subtotal": 51.0,
+        "tax": null,
+        "tip": 6.38,
+        "total": 57.38
+    }
+]

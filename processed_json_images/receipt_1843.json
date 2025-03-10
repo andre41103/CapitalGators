@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "JW MARRIOTT HOTEL BANGKOK",
+        "transaction_date": "2016-12-10",
+        "items": [
+            {
+                "description": "L. Chocolate",
+                "quantity": 2.0,
+                "price": 144.85,
+                "total_price": 289.7
+            },
+            {
+                "description": "3 Egg Omelet",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 233.64
+            },
+            {
+                "description": "Phad Thai",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 317.76
+            },
+            {
+                "description": "Tiramisu Cup",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 130.84
+            }
+        ],
+        "subtotal": null,
+        "tax": 68.04,
+        "tip": null,
+        "total": 1039.98
+    }
+]

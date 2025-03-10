@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Natomas Car Wash & Detail",
+        "transaction_date": "2018-12-28",
+        "items": [
+            {
+                "description": "Full Service",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 27.99
+            }
+        ],
+        "subtotal": 27.99,
+        "tax": 0.0,
+        "tip": null,
+        "total": 27.99
+    }
+]

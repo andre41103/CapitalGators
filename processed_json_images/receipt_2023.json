@@ -1,0 +1,110 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ALDI STORES",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Baby Spinach 120g",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.79
+            },
+            {
+                "description": "Ckr Brown Rice 100g",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.39
+            },
+            {
+                "description": "Tortilla Wraps Wholemeal",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "Beetroot Sliced 450g",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.85
+            },
+            {
+                "description": "PremBakedBeansTom425g",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.89
+            },
+            {
+                "description": "Fzn Mixed Berries 500g",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.49
+            },
+            {
+                "description": "Ham 4x100g",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Froz Steam Veg 450g",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "Rice Crackers 200g",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.65
+            },
+            {
+                "description": "Pink Lady Apples per kg",
+                "quantity": 0.53,
+                "price": 4.99,
+                "total_price": 2.64
+            },
+            {
+                "description": "Bananas, Caven, 750g",
+                "quantity": null,
+                "price": 1.49,
+                "total_price": 2.49
+            },
+            {
+                "description": "Grapes Thompson 1kg",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.75
+            },
+            {
+                "description": "Nuts Raw OSN Var",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "Dip Salsa 300g",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.49
+            },
+            {
+                "description": "Mayonnaise Squeeze",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.59
+            },
+            {
+                "description": "Mandarins H/M, 700g",
+                "quantity": null,
+                "price": 3.99,
+                "total_price": 4.99
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 37.98
+    }
+]

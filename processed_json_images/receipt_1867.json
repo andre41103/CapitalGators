@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SSP UK",
+        "transaction_date": "2017-09-17",
+        "items": [
+            {
+                "description": "Americano 16oz",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.8
+            },
+            {
+                "description": "Zinf Whisp 250",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.95
+            }
+        ],
+        "subtotal": 10.75,
+        "tax": 1.79,
+        "tip": null,
+        "total": 10.75
+    }
+]

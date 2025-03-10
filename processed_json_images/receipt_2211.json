@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Restaurant Scheltema",
+        "transaction_date": "2014-12-17",
+        "items": [
+            {
+                "description": "MENU CARTE 32.00",
+                "quantity": null,
+                "price": null,
+                "total_price": 32.0
+            },
+            {
+                "description": "GD PEY LESC",
+                "quantity": null,
+                "price": null,
+                "total_price": 23.0
+            },
+            {
+                "description": "VITTEL",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 60.5
+    }
+]

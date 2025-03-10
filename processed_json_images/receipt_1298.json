@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [],
+        "subtotal": 739.58,
+        "tax": null,
+        "tip": 200.0,
+        "total": 939.58
+    }
+]

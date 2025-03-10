@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "HAPPY LIQUOR",
+        "transaction_date": "2016-12-30",
+        "items": [
+            {
+                "description": "GROC-NONTAX F",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.75
+            },
+            {
+                "description": "GROC-NONTAX F",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.1
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 17.41
+    }
+]

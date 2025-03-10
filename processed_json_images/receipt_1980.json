@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Pancake Parlour",
+        "transaction_date": "2017-05-08",
+        "items": [
+            {
+                "description": "Bavarian Apple",
+                "quantity": null,
+                "price": null,
+                "total_price": 18.9
+            },
+            {
+                "description": "Chicken Tenders and Herb Fr",
+                "quantity": null,
+                "price": null,
+                "total_price": 24.9
+            }
+        ],
+        "subtotal": 43.8,
+        "tax": 3.98,
+        "tip": null,
+        "total": 43.8
+    }
+]

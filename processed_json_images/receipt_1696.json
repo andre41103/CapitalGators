@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "HOBGOBLIN RUBY BEER",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 16.7
+            },
+            {
+                "description": "SWISS BAKE SWISS FARMER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "SWISS BAKE HAMBURGER BUN",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 12.6
+            },
+            {
+                "description": "BEEF SIRLOIN\nWHITE ONIONS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 90.0
+            },
+            {
+                "description": "FENNEL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.83
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.72
+            },
+            {
+                "description": "FRESH WHOLE CHICKEN\nCELERY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "aus pork",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.65
+            },
+            {
+                "description": "MISCELLANEOUS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 67.65
+            }
+        ],
+        "subtotal": 237.65,
+        "tax": 15.55,
+        "tip": null,
+        "total": 237.65
+    }
+]

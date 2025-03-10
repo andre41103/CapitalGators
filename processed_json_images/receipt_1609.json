@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SAFEWAY",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "BC CHOC CUPCAKES",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "GUN SPRY FRT SHAPE",
+                "quantity": null,
+                "price": 3.79,
+                "total_price": 49.0
+            },
+            {
+                "description": "Mfr Cpn",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "DULCE DE LECHE CHE",
+                "quantity": null,
+                "price": 4.19,
+                "total_price": 1.99
+            },
+            {
+                "description": "Mfr Cpn",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "MULTIGRAIN CHEERIO",
+                "quantity": null,
+                "price": 3.99,
+                "total_price": 1.5
+            },
+            {
+                "description": "Mfr Cpn",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "PROGRESSO R&H STK",
+                "quantity": null,
+                "price": 2.69,
+                "total_price": 2.0
+            },
+            {
+                "description": "PLSBRY BSCT SANDWI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "TOTINO'S PZA STUFFE",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.49
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

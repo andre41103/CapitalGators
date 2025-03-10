@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Cob & Pen",
+        "transaction_date": "2016-12-10",
+        "items": [
+            {
+                "description": "Gaffel Klsch .4",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.14
+            },
+            {
+                "description": "Coppertail Nano",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.08
+            },
+            {
+                "description": "Sliders",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.94
+            },
+            {
+                "description": "Reuben",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.41
+            },
+            {
+                "description": "Fries",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.27
+            },
+            {
+                "description": "LostAngelMsctoG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.48
+            },
+            {
+                "description": "Blondie",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.27
+            }
+        ],
+        "subtotal": 41.59,
+        "tax": 2.91,
+        "tip": null,
+        "total": 44.5
+    }
+]

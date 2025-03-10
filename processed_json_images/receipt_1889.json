@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "chili's\nS",
+        "transaction_date": "2014-10-17",
+        "items": [
+            {
+                "description": "HC Crisp",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.99
+            },
+            {
+                "description": "Ribs",
+                "quantity": null,
+                "price": null,
+                "total_price": 23.39
+            },
+            {
+                "description": "Dinner House Sal w/Entree",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "Spinach Dip",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.29
+            },
+            {
+                "description": "Mango Tea",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.79
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

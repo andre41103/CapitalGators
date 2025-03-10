@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Morrisons",
+        "transaction_date": "2016-02-13",
+        "items": [
+            {
+                "description": "M WHOLEMEAL LOAF",
+                "quantity": 1.0,
+                "price": 0.5,
+                "total_price": 0.5
+            },
+            {
+                "description": "H DOUBLE CREAM",
+                "quantity": 1.0,
+                "price": 0.84,
+                "total_price": 0.84
+            },
+            {
+                "description": "M CARROTS 1KG",
+                "quantity": 1.0,
+                "price": 0.47,
+                "total_price": 0.47
+            },
+            {
+                "description": "M BROCCOLI",
+                "quantity": 1.0,
+                "price": 0.38,
+                "total_price": 0.38
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 2.19
+    }
+]

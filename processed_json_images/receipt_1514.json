@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Elliott, Simon and Taylor\nHopkins, Graves and Baker",
+        "transaction_date": "2016-03-29",
+        "items": [
+            {
+                "description": "18\" Marble White Top Chess\nTable Handmade Collectible",
+                "quantity": 5.0,
+                "price": 561.0,
+                "total_price": 3085.5
+            }
+        ],
+        "subtotal": 2805.0,
+        "tax": 280.5,
+        "tip": null,
+        "total": 3085.5
+    }
+]

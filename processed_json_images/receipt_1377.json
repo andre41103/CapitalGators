@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Taylor and Sons",
+        "transaction_date": "2017-08-21",
+        "items": [
+            {
+                "description": "PUMA Pre-School Scuderia\nFerrari Drift Cat 5 Ultra II Shoes\nBoys 12c",
+                "quantity": 1.0,
+                "price": 21.22,
+                "total_price": 23.34
+            },
+            {
+                "description": "Joma Youth Boy Supercopa 201\nSoccer Cleats 4.5 Negro Verde\nMultitaco Black Green",
+                "quantity": 1.0,
+                "price": 19.99,
+                "total_price": 21.99
+            },
+            {
+                "description": "Fila Shoes Sneakers Kids size 11\nRed black Gray",
+                "quantity": 4.0,
+                "price": 15.0,
+                "total_price": 66.0
+            },
+            {
+                "description": "Native Charley White\nSandals~Size Infant/Child\n6~Boys/Girls~Very Good\nCondition",
+                "quantity": 1.0,
+                "price": 13.0,
+                "total_price": 14.3
+            },
+            {
+                "description": "Teva Hurricane 1019390 All\nBlack Sandals with Hook and\nLoop Closure, Youth's 5",
+                "quantity": 4.0,
+                "price": 9.99,
+                "total_price": 43.96
+            },
+            {
+                "description": "Skechers Kids' Snap Sprints\nSneaker Size 4",
+                "quantity": 4.0,
+                "price": 29.99,
+                "total_price": 131.96
+            }
+        ],
+        "subtotal": 274.13,
+        "tax": 27.41,
+        "tip": null,
+        "total": 301.54
+    }
+]

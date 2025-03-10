@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Johnson LLC",
+        "transaction_date": "2021-04-27",
+        "items": [
+            {
+                "description": "FAST Dell Windows 10 Desktop\nComputer Core 2 Duo 4GB Ram\n250GB DVD WiFi 22\" LCD",
+                "quantity": 1.0,
+                "price": 169.95,
+                "total_price": 186.95
+            },
+            {
+                "description": "Desktop Computer Gaming PC\nBuild Your Own Ryzen 3000G\n3200G 3.5Ghz+ Vega or GTX",
+                "quantity": 5.0,
+                "price": 579.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "HP ProDesk G1 Desktop\nComputer Core i3 3.4GHz 8GB\n500GB HD 19\" LCD Windows 10\nPC",
+                "quantity": 1.0,
+                "price": 119.95,
+                "total_price": 131.95
+            },
+            {
+                "description": "AMD Dual Core 3.9Ghz 4GB\nDDR3 500GB HDD WiFi\nWindows 10 Desktop PC\nComputer",
+                "quantity": 2.0,
+                "price": 259.99,
+                "total_price": 571.98
+            },
+            {
+                "description": "personal computer",
+                "quantity": 4.0,
+                "price": 59.0,
+                "total_price": 259.6
+            },
+            {
+                "description": "desktop computers gaming\nbuild from scratch",
+                "quantity": 2.0,
+                "price": 188.0,
+                "total_price": 413.6
+            },
+            {
+                "description": "Gaming PC Desktop Computer\nIntel i7 RGB, GTX 1660, 16GB\nRAM, 2TB HDD, 480GB SSD",
+                "quantity": 2.0,
+                "price": 809.99,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 5936.86,
+        "tax": 593.69,
+        "tip": null,
+        "total": 6530.55
+    }
+]

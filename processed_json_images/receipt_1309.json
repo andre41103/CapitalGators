@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BJ'S SAN RAFAEL",
+        "transaction_date": "2014-11-08",
+        "items": [
+            {
+                "description": "BJS FRITOS NACHOS",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "BH DBL DELUXE BURGER",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.95
+            }
+        ],
+        "subtotal": 18.45,
+        "tax": 1.71,
+        "tip": null,
+        "total": null
+    }
+]

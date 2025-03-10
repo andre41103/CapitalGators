@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2015-12-30",
+        "items": [
+            {
+                "description": "Hot Chocolate",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.59
+            },
+            {
+                "description": "Bfst Sampler",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.29
+            },
+            {
+                "description": "Colorado",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.29
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 0.0
+    }
+]

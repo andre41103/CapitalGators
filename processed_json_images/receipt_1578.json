@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Montoya PLC\nMoss Inc",
+        "transaction_date": "2017-05-16",
+        "items": [
+            {
+                "description": "Quilts of Illusion",
+                "quantity": 4.0,
+                "price": 5.79,
+                "total_price": 25.48
+            },
+            {
+                "description": "Photosynthesis by Rabinowitch",
+                "quantity": 4.0,
+                "price": 11.31,
+                "total_price": 49.76
+            },
+            {
+                "description": "The Puzzle Palace",
+                "quantity": 1.0,
+                "price": 4.49,
+                "total_price": 4.94
+            },
+            {
+                "description": "A History of the Indians of the\nUnited States (The",
+                "quantity": 2.0,
+                "price": 4.49,
+                "total_price": 9.88
+            },
+            {
+                "description": "That Quail Robert",
+                "quantity": 5.0,
+                "price": 4.89,
+                "total_price": 26.9
+            },
+            {
+                "description": "The Complete Illustrated Works",
+                "quantity": 5.0,
+                "price": 10.49,
+                "total_price": 57.7
+            }
+        ],
+        "subtotal": 158.77,
+        "tax": 15.88,
+        "tip": null,
+        "total": 174.65
+    }
+]

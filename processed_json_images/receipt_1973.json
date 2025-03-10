@@ -1,0 +1,116 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Taj Mahal",
+        "transaction_date": "2007-04-18",
+        "items": [
+            {
+                "description": "Chicken Samosa (2)",
+                "quantity": 2.0,
+                "price": 3.0,
+                "total_price": 6.0
+            },
+            {
+                "description": "Sheek Kebab (2)",
+                "quantity": 1.0,
+                "price": 3.47,
+                "total_price": 3.47
+            },
+            {
+                "description": "Tandeeri King Prawn",
+                "quantity": 1.0,
+                "price": 4.64,
+                "total_price": 4.64
+            },
+            {
+                "description": "Chapati",
+                "quantity": 1.0,
+                "price": 0.7,
+                "total_price": 0.7
+            },
+            {
+                "description": "Nan",
+                "quantity": 1.0,
+                "price": 212.0,
+                "total_price": 2.12
+            },
+            {
+                "description": "Lamb Pasanda",
+                "quantity": 2.0,
+                "price": 7.64,
+                "total_price": 15.28
+            },
+            {
+                "description": "Garlic Chicken Tikka Medium\nHot",
+                "quantity": 1.0,
+                "price": 6.93,
+                "total_price": 6.93
+            },
+            {
+                "description": "Lamb Biryani",
+                "quantity": 1.0,
+                "price": 8.81,
+                "total_price": 8.01
+            },
+            {
+                "description": "Prawn Malay",
+                "quantity": 1.0,
+                "price": 6.81,
+                "total_price": 6.81
+            },
+            {
+                "description": "Tandoori Mixed Grill",
+                "quantity": 2.0,
+                "price": 10.58,
+                "total_price": 21.16
+            },
+            {
+                "description": "Pilaw Rice (Basmati)",
+                "quantity": 2.0,
+                "price": 2.0,
+                "total_price": 4.0
+            },
+            {
+                "description": "Vegetable Rice",
+                "quantity": 1.0,
+                "price": 2.64,
+                "total_price": 2.64
+            },
+            {
+                "description": "Pint of Cobra Lager",
+                "quantity": 3.0,
+                "price": 2.94,
+                "total_price": 8.82
+            },
+            {
+                "description": "Pint of Heineken",
+                "quantity": 1.0,
+                "price": 3.23,
+                "total_price": 3.23
+            },
+            {
+                "description": "Mixer - Splash of Diet Coke",
+                "quantity": 2.0,
+                "price": 1.18,
+                "total_price": 2.36
+            },
+            {
+                "description": "Mixer - Splash of Sparkling",
+                "quantity": 2.0,
+                "price": 1.18,
+                "total_price": 2.36
+            },
+            {
+                "description": "Perrier Water",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 84.54,
+        "tax": 14.79,
+        "tip": null,
+        "total": 99.33
+    }
+]

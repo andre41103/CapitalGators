@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Smashburger",
+        "transaction_date": "2015-01-30",
+        "items": [
+            {
+                "description": "Spinach & Goat Smash",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.69
+            },
+            {
+                "description": "With Reg Smash Fry",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.29
+            },
+            {
+                "description": "Vanilla Shake",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.29
+            }
+        ],
+        "subtotal": 13.27,
+        "tax": 0.93,
+        "tip": null,
+        "total": 14.2
+    }
+]

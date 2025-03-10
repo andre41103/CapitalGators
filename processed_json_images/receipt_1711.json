@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "GUCCI",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "MENS DGNR : BELT",
+                "quantity": null,
+                "price": null,
+                "total_price": -285.0
+            },
+            {
+                "description": "MENS DGNR :BELT",
+                "quantity": null,
+                "price": null,
+                "total_price": 285.0
+            }
+        ],
+        "subtotal": 0.0,
+        "tax": null,
+        "tip": null,
+        "total": 0.0
+    }
+]

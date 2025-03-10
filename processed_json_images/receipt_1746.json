@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LUKOIL 69709",
+        "transaction_date": "2015-03-22",
+        "items": [
+            {
+                "description": "TR TROJAN ULTRA THN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.59
+            }
+        ],
+        "subtotal": -3.59,
+        "tax": -0.22,
+        "tip": null,
+        "total": -3.81
+    }
+]

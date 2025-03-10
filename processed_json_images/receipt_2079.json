@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "Caltex Central Myrtleford",
+        "transaction_date": "2012-01-24",
+        "items": [
+            {
+                "description": "VORTEX 98",
+                "quantity": 48.421,
+                "price": 1.599,
+                "total_price": 77.43
+            }
+        ],
+        "subtotal": null,
+        "tax": 7.04,
+        "tip": null,
+        "total": 77.43
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2018-02-21",
+        "items": [
+            {
+                "description": "L3SPICYChickLM / 4 do",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.8
+            }
+        ],
+        "subtotal": 10.8,
+        "tax": 0.71,
+        "tip": null,
+        "total": 10.8
+    }
+]

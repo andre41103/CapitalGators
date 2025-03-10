@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MARGARITA GRILL\nPINO",
+        "transaction_date": "2017-02-02",
+        "items": [
+            {
+                "description": "ICORONA",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 78.0
+            },
+            {
+                "description": "FAJITAS C/\nPOLLO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 169.0
+            }
+        ],
+        "subtotal": 247.0,
+        "tax": 13.72,
+        "tip": null,
+        "total": 247.0
+    }
+]

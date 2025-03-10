@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Authentio Indonesian Butine",
+        "transaction_date": "2016-05-14",
+        "items": [
+            {
+                "description": "LIME JUICE",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "WATER NO ICE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.5
+            },
+            {
+                "description": "RICE",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "AYAM GORENG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 26.0
+            },
+            {
+                "description": "SAYUR LODEH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "BBQ CUMI(SOTONG)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 28.0
+            },
+            {
+                "description": "BLACHAN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.5
+            }
+        ],
+        "subtotal": 75.0,
+        "tax": 7.5,
+        "tip": null,
+        "total": 82.5
+    }
+]

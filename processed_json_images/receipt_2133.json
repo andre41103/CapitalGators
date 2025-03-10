@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Fish Farm thai Restaurant",
+        "transaction_date": "2016-08-31",
+        "items": [
+            {
+                "description": "S mantis prawn Goreng [1pc]",
+                "quantity": 9.0,
+                "price": 65.0,
+                "total_price": 620.1
+            },
+            {
+                "description": "S Ketam Masak Curry Powder",
+                "quantity": 2.0,
+                "price": 45.0,
+                "total_price": 95.4
+            },
+            {
+                "description": "S ketam butter\nc\u00f3",
+                "quantity": 2.0,
+                "price": 45.0,
+                "total_price": 95.4
+            },
+            {
+                "description": "S Sotong Telur Masin (small)",
+                "quantity": 2.0,
+                "price": 18.0,
+                "total_price": 38.16
+            },
+            {
+                "description": "S Nasi Putih",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

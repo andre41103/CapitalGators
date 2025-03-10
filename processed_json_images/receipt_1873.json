@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Carolina Ale House",
+        "transaction_date": "2017-01-24",
+        "items": [
+            {
+                "description": "Victory Golden",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Brisket Quesadi i",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.49
+            }
+        ],
+        "subtotal": 15.49,
+        "tax": 1.27,
+        "tip": null,
+        "total": 16.78
+    }
+]

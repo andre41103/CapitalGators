@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Peterson LLC",
+        "transaction_date": "2019-02-09",
+        "items": [
+            {
+                "description": "New Design Rectangular Hand\nWoven Chindi Rag Rug Floor\nHandmade Carpet Aztec Mat",
+                "quantity": 1.0,
+                "price": 29.99,
+                "total_price": 32.99
+            },
+            {
+                "description": "Bedroom Decor Carpets Living\nRoom Line Pattern Green Rug\nModern Simple Area Rugs",
+                "quantity": 1.0,
+                "price": 33.86,
+                "total_price": 37.25
+            },
+            {
+                "description": "YILONG 2.5'x4' Small Hand\nKnotted Silk Carpets Antistatic\nFloor Area Rug 844B",
+                "quantity": 1.0,
+                "price": 2.0,
+                "total_price": 2.0
+            },
+            {
+                "description": "Moroccan Amazigh Handmade\nCarpet 14'2\" x 7'5\"",
+                "quantity": 5.0,
+                "price": 342.0,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 3773.85,
+        "tax": 377.38,
+        "tip": null,
+        "total": 4151.23
+    }
+]

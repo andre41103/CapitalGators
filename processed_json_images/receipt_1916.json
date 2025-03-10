@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2015-05-24",
+        "items": [
+            {
+                "description": "Gyros Meal Deal",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.25
+            }
+        ],
+        "subtotal": 8.25,
+        "tax": 0.66,
+        "tip": null,
+        "total": 8.91
+    }
+]

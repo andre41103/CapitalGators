@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2012-04-29",
+        "items": [
+            {
+                "description": "PL_HALF&HALF PIZZA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 229000.0
+            },
+            {
+                "description": "PR_HALF&HALF PIZZA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 149000.0
+            },
+            {
+                "description": "GARLIC BREAD",
+                "quantity": 2.0,
+                "price": 30000.0,
+                "total_price": 60000.0
+            },
+            {
+                "description": "DASANI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 19000.0
+            },
+            {
+                "description": "NONLOCAL CUST",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "COCA-COLA LIGHT (CAN)",
+                "quantity": 2.0,
+                "price": 25.0,
+                "total_price": 50000.0
+            },
+            {
+                "description": "SPITE",
+                "quantity": 3.0,
+                "price": 21000.0,
+                "total_price": 63000.0
+            }
+        ],
+        "subtotal": 570000.0,
+        "tax": 51818.0,
+        "tip": null,
+        "total": 570000.0
+    }
+]

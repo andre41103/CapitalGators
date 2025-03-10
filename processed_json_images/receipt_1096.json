@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Buckley's on Queen Anne",
+        "transaction_date": "2018-01-20",
+        "items": [],
+        "subtotal": 13.95,
+        "tax": 1.98,
+        "tip": null,
+        "total": null
+    }
+]

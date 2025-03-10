@@ -1,0 +1,116 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2015-05-11",
+        "items": [
+            {
+                "description": "Still",
+                "quantity": 2.0,
+                "price": 8.5,
+                "total_price": 17.0
+            },
+            {
+                "description": "GLS Cloudy Bay SB\nSauv Blanc",
+                "quantity": 3.0,
+                "price": 15.0,
+                "total_price": 45.0
+            },
+            {
+                "description": "Spark",
+                "quantity": 2.0,
+                "price": 8.5,
+                "total_price": 17.0
+            },
+            {
+                "description": "S&P Prawn",
+                "quantity": 8.0,
+                "price": 3.75,
+                "total_price": 30.0
+            },
+            {
+                "description": "Fillet",
+                "quantity": 1.0,
+                "price": 39.9,
+                "total_price": 39.9
+            },
+            {
+                "description": "Mixed Doz",
+                "quantity": 1.0,
+                "price": 36.9,
+                "total_price": 36.9
+            },
+            {
+                "description": "Paul Vattan SB\nSancerre",
+                "quantity": 4.0,
+                "price": 85.0,
+                "total_price": 340.0
+            },
+            {
+                "description": "Rib Eye",
+                "quantity": 2.0,
+                "price": 41.9,
+                "total_price": 83.8
+            },
+            {
+                "description": "Oakleigh Cube",
+                "quantity": 1.0,
+                "price": 69.9,
+                "total_price": 69.9
+            },
+            {
+                "description": "Angus Fillet",
+                "quantity": 2.0,
+                "price": 49.9,
+                "total_price": 99.8
+            },
+            {
+                "description": "Steamed Broccoli",
+                "quantity": 2.0,
+                "price": 9.9,
+                "total_price": 19.8
+            },
+            {
+                "description": "Chips",
+                "quantity": 1.0,
+                "price": 8.9,
+                "total_price": 8.9
+            },
+            {
+                "description": "Green Beans",
+                "quantity": 1.0,
+                "price": 9.9,
+                "total_price": 9.9
+            },
+            {
+                "description": "Green Tea",
+                "quantity": 1.0,
+                "price": 4.5,
+                "total_price": 4.5
+            },
+            {
+                "description": "Latte",
+                "quantity": 2.0,
+                "price": 4.5,
+                "total_price": 9.0
+            },
+            {
+                "description": "DOUBLE SHOT",
+                "quantity": 1.0,
+                "price": 0.5,
+                "total_price": 0.5
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": null,
+        "tax": 76.37,
+        "tip": 8.3,
+        "total": 840.2
+    }
+]

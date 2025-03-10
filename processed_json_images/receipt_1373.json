@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Williams and Sons\nMedina-Kennedy",
+        "transaction_date": "2012-02-22",
+        "items": [
+            {
+                "description": "3 Pieces Fluffy Faux Fur Seat\nPads 30cm/12inch Round Pad\nFloor Carpets",
+                "quantity": 4.0,
+                "price": 14.66,
+                "total_price": 64.5
+            },
+            {
+                "description": "Yilong 8x10ft Hand knotted\nWool Carpets Home Decor\nModern Villa Area Rug P39",
+                "quantity": 3.0,
+                "price": 5.0,
+                "total_price": 16632.0
+            },
+            {
+                "description": "Black+White Rectangle Shape\nArea Rug Carpet Floor Pad\nDoormat",
+                "quantity": 5.0,
+                "price": 21.1,
+                "total_price": 116.05
+            },
+            {
+                "description": "Indian Green Red Color 2.6'x4'\nCarpet Hand Knotted Living\nRoom Traditional Chobi",
+                "quantity": 5.0,
+                "price": 215.0,
+                "total_price": 1182.5
+            },
+            {
+                "description": "YILONG 6'x9' Handmade Silk\nRug Beige Living Room Luxury\nDecor",
+                "quantity": 1.0,
+                "price": 12.0,
+                "total_price": 14256.0
+            },
+            {
+                "description": "YILONG 4'x6' Golden Hand\nKnotted Silk Rugs Antistatic\nFamily Room Carpet 085B",
+                "quantity": 5.0,
+                "price": 4.0,
+                "total_price": 26400.0
+            },
+            {
+                "description": "3D Stones Florals Corridor\nCarpet Doorway Mat Soft\nAntislip Living Room Area Rug",
+                "quantity": 1.0,
+                "price": 15.19,
+                "total_price": 16.71
+            }
+        ],
+        "subtotal": 53334.33,
+        "tax": 5333.43,
+        "tip": null,
+        "total": 58667.76
+    }
+]

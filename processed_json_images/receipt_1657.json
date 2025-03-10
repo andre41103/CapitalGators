@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SILVERSMITHS",
+        "transaction_date": "2015-05-29",
+        "items": [
+            {
+                "description": "3 COURSE WKDAY",
+                "quantity": null,
+                "price": null,
+                "total_price": 19.9
+            },
+            {
+                "description": "3 COURSE WKDAY",
+                "quantity": null,
+                "price": null,
+                "total_price": 19.9
+            },
+            {
+                "description": "2 COURSE WKDAY",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.9
+            },
+            {
+                "description": "2 COURSE WKDAY",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.9
+            },
+            {
+                "description": "2 COURSE WKDAY",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.9
+            },
+            {
+                "description": "FARMERS BLONDE",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.95
+            },
+            {
+                "description": "PRIDE OF SHEFFIELD",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.95
+            },
+            {
+                "description": "APPLE+RASP COOLER",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.95
+            },
+            {
+                "description": "HOUSE WINE",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.25
+            },
+            {
+                "description": "SERVICE CHARGE",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": 12.3,
+        "total": 135.9
+    }
+]

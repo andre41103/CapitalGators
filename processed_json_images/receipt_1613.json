@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "REBler GnbH & Co KG",
+        "transaction_date": "2018-01-29",
+        "items": [
+            {
+                "description": "Beck's 0,31",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.1
+            },
+            {
+                "description": "Cola 0,31",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.1
+            },
+            {
+                "description": "Mittelheimer Riesl",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "DICKE RIPPE",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.5
+            },
+            {
+                "description": "Rinderrouladen",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.5
+            },
+            {
+                "description": "Blaubeer-K\u00fcchlein",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.95
+            }
+        ],
+        "subtotal": null,
+        "tax": 7.77,
+        "tip": null,
+        "total": 48.65
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TARGET",
+        "transaction_date": "2016-02-26",
+        "items": [
+            {
+                "description": "ARNLD OROWH",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "DR PER TEN",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "MP BUTTER",
+                "quantity": null,
+                "price": 3.42,
+                "total_price": 3.24
+            },
+            {
+                "description": "MP BUTTER",
+                "quantity": null,
+                "price": 3.42,
+                "total_price": 3.24
+            },
+            {
+                "description": "TARGET COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.05
+            },
+            {
+                "description": "TARGET COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.05
+            },
+            {
+                "description": "TARGET COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.05
+            }
+        ],
+        "subtotal": 14.31,
+        "tax": 0.14,
+        "tip": null,
+        "total": 14.45
+    }
+]

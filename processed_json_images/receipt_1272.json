@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "sarl St. Venaly",
+        "transaction_date": "2016-07-16",
+        "items": [
+            {
+                "description": "SALADE PAYSANNE",
+                "quantity": 2.0,
+                "price": 11.5,
+                "total_price": 23.0
+            },
+            {
+                "description": "BAR AU BEURRE BLAN",
+                "quantity": 1.0,
+                "price": 16.5,
+                "total_price": 16.5
+            },
+            {
+                "description": "FILET DE SANDRE",
+                "quantity": 1.0,
+                "price": 17.0,
+                "total_price": 17.0
+            },
+            {
+                "description": "TURSAN",
+                "quantity": 1.0,
+                "price": 13.6,
+                "total_price": 13.6
+            },
+            {
+                "description": "1/2 PICHET BLANC",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 5.0
+            },
+            {
+                "description": "CAFE",
+                "quantity": 1.0,
+                "price": 1.4,
+                "total_price": 1.4
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 76.5
+    }
+]

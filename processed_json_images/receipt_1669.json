@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Jacobs-Curtis",
+        "transaction_date": "2014-06-03",
+        "items": [
+            {
+                "description": "Custom Built Gaming Computer",
+                "quantity": 3.0,
+                "price": 217.5,
+                "total_price": 717.75
+            },
+            {
+                "description": "Custom Gaming PC Computer\nFX-6300 3.5GHZ 8GB RAM\n128GB SSD 1 TB HDD RX 580\n4GB",
+                "quantity": 3.0,
+                "price": 449.99,
+                "total_price": 1484.97
+            },
+            {
+                "description": "SAMA RGB Gaming PC Desktop\nComputer i5 3.7GHz Nvidia GTX\n1060 16GB Windows 10",
+                "quantity": 4.0,
+                "price": 400.0,
+                "total_price": 1760.0
+            },
+            {
+                "description": "gaming pc desktop computer",
+                "quantity": 2.0,
+                "price": 400.0,
+                "total_price": 880.0
+            },
+            {
+                "description": "Qaud core J3160 Dual Lan\nindustrial mini PC,AES NI Linux\nubuntu desktop computer",
+                "quantity": 2.0,
+                "price": 245.0,
+                "total_price": 539.0
+            },
+            {
+                "description": "Gaming PC Desktop Computer\nHDMI RGB Intel i7 RTX 2060,\nHDD+SSD, Windows 10, Wifi",
+                "quantity": 3.0,
+                "price": 903.8,
+                "total_price": 2982.54
+            },
+            {
+                "description": "Dell Core 2 Duo Desktop\nComputer | Windows XP Pro |\n4GB | 500GB",
+                "quantity": 4.0,
+                "price": 168.0,
+                "total_price": 739.2
+            }
+        ],
+        "subtotal": 827.59,
+        "tax": 103.46,
+        "tip": null,
+        "total": 9103.46
+    }
+]

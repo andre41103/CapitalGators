@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SSAMBAP",
+        "transaction_date": "2015-08-12",
+        "items": [
+            {
+                "description": "R6 Bulgogi Deopbap",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "R7 Jeyuk Deopbap",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            }
+        ],
+        "subtotal": 36.0,
+        "tax": 2.38,
+        "tip": 3.6,
+        "total": 42.0
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Verizon Wireless",
+        "transaction_date": "2013-03-19",
+        "items": [
+            {
+                "description": "Apple 5W USB Wall\nCharger",
+                "quantity": null,
+                "price": 19.99,
+                "total_price": 19.99
+            },
+            {
+                "description": "Apple Lightning\nConnector to USB data\ncable",
+                "quantity": null,
+                "price": 19.99,
+                "total_price": 19.99
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.2,
+        "tip": null,
+        "total": 43.18
+    }
+]

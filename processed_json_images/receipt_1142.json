@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "TOMS Mall of America",
+        "transaction_date": "2018-10-11",
+        "items": [
+            {
+                "description": "B-BLACK\nMULTICOLOR FEL WM ALPR ESP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 59.95
+            }
+        ],
+        "subtotal": 59.95,
+        "tax": null,
+        "tip": null,
+        "total": 59.95
+    }
+]

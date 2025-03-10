@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CASA LEY, SA DE CV",
+        "transaction_date": "2011-11-20",
+        "items": [
+            {
+                "description": "CD DOS FANNY LU U",
+                "quantity": 1.0,
+                "price": 96.9,
+                "total_price": 58.14
+            },
+            {
+                "description": "CD GLORIA TREVI",
+                "quantity": 1.0,
+                "price": 139.9,
+                "total_price": 83.94
+            },
+            {
+                "description": "CD PELIGRO REIK S",
+                "quantity": 1.0,
+                "price": 149.9,
+                "total_price": 89.94
+            },
+            {
+                "description": "CD WISIN Y YANDEL",
+                "quantity": 1.0,
+                "price": 159.9,
+                "total_price": 95.94
+            }
+        ],
+        "subtotal": null,
+        "tax": 45.24,
+        "tip": null,
+        "total": 327.96
+    }
+]

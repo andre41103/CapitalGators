@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "SHELL OIL PRODUCTS US",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "SUPER WASH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.0
+            }
+        ],
+        "subtotal": 9.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 9.0
+    }
+]

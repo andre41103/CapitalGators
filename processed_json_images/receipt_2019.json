@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Cracker Barrel",
+        "transaction_date": "2015-07-12",
+        "items": [
+            {
+                "description": "COFFEE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.19
+            },
+            {
+                "description": "00 RG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.39
+            },
+            {
+                "description": "EGG SAND W/SIDE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.59
+            },
+            {
+                "description": "OM BAC SAU",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.99
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 17.16
+    }
+]

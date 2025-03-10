@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ZEITOUN CAF\u00c9",
+        "transaction_date": "2017-06-12",
+        "items": [
+            {
+                "description": "THE GLACE A LA MENTH",
+                "quantity": 3.0,
+                "price": 18.0,
+                "total_price": 54.0
+            },
+            {
+                "description": "TAJINE POULET",
+                "quantity": 1.0,
+                "price": 80.0,
+                "total_price": 80.0
+            },
+            {
+                "description": "COUSCOUS POULET",
+                "quantity": 1.0,
+                "price": 95.0,
+                "total_price": 95.0
+            },
+            {
+                "description": "COCA ZERO",
+                "quantity": 1.0,
+                "price": 20.0,
+                "total_price": 20.0
+            }
+        ],
+        "subtotal": 249.0,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CANVAS cafe & bakery",
+        "transaction_date": "2016-11-15",
+        "items": [
+            {
+                "description": "TBL 2",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "OMELET MYO (Grits, Sourdough\nToast)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "PANCAKES 2",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 13.0,
+        "tax": 0.78,
+        "tip": null,
+        "total": 13.78
+    }
+]

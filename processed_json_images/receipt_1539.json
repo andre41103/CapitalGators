@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2016-05-25",
+        "items": [
+            {
+                "description": "Lands' End Kids Boys Snow\nWinter Boots Size 5 Blue Warm",
+                "quantity": 5.0,
+                "price": 9.5,
+                "total_price": 52.25
+            },
+            {
+                "description": "Wonder Nation Kids Blue Mout\nAlien Slippers House Shoes Size\n5",
+                "quantity": 5.0,
+                "price": 16.99,
+                "total_price": 93.44
+            },
+            {
+                "description": "adidas Youth Boys Soccer Cleats\n4.5 F5 TRX FG J\nYellow",
+                "quantity": 5.0,
+                "price": 19.99,
+                "total_price": 109.94
+            }
+        ],
+        "subtotal": 232.4,
+        "tax": 23.24,
+        "tip": null,
+        "total": 255.64
+    }
+]

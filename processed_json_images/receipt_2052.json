@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "FIVE GUYS",
+        "transaction_date": "2017-03-07",
+        "items": [
+            {
+                "description": "Bacon Cheeseburger",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.69
+            },
+            {
+                "description": "Regular Soda",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.39
+            }
+        ],
+        "subtotal": 11.08,
+        "tax": 0.87,
+        "tip": null,
+        "total": 11.95
+    }
+]

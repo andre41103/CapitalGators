@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CVS/pharmacy",
+        "transaction_date": "2016-04-01",
+        "items": [
+            {
+                "description": "CONAIR LFT&TSE CMB EACH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.29
+            },
+            {
+                "description": "CVS ALOE SANITIZER 2Z",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "CVS TRVL TB CRSTTP 1CT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "JJ BBY PWD TS\n1.5Z",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.49
+            },
+            {
+                "description": "LIST TOTAL CARE\n3.2Z",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.77
+            },
+            {
+                "description": "OPTI-FREE PM 2Z\n2Z",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.29
+            },
+            {
+                "description": "PMPR SNSTV POUCH\n18CT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.57
+            },
+            {
+                "description": "SEC OUTLAST IS CLN .5Z",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.49
+            }
+        ],
+        "subtotal": 18.88,
+        "tax": 1.53,
+        "tip": null,
+        "total": 20.41
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Tasty n Sons",
+        "transaction_date": "2017-07-01",
+        "items": [
+            {
+                "description": "Alabama BBQ Chicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 21.0
+            },
+            {
+                "description": "Draft Rainier Lager",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Pork Chop",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 26.0
+            },
+            {
+                "description": "Nedge",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": 60.0,
+        "tax": null,
+        "tip": null,
+        "total": 60.0
+    }
+]

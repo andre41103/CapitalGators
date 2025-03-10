@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PizzaExpress",
+        "transaction_date": "2015-01-29",
+        "items": [
+            {
+                "description": "Dinner for2 NT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 285.0
+            },
+            {
+                "description": "Brusc Italia",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Rosemary FBread",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Beets Gorgonzola",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Marg Prima R",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Dry Ginger",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Coke",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 285.0,
+        "tax": null,
+        "tip": null,
+        "total": 313.5
+    }
+]

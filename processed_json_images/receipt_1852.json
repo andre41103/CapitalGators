@@ -1,0 +1,116 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Foodtown",
+        "transaction_date": "2015-11-28",
+        "items": [
+            {
+                "description": "DZH VEGGIE FISH BALL PER LB",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.94
+            },
+            {
+                "description": "GREEN THAI CHILI PER LB",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.7
+            },
+            {
+                "description": "RED POTATOES 5 LBS BAG",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.29
+            },
+            {
+                "description": "WHITE ONIONS PER LB",
+                "quantity": 1.56,
+                "price": 0.99,
+                "total_price": 1.54
+            },
+            {
+                "description": "CHIFLES CASSAVA REGULAR 12 0",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.59
+            },
+            {
+                "description": "JANIE'S FRUIT SLICES 6 OZ",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "ZIYAD FRUIT MARSHMALLOWS FLV",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.49
+            },
+            {
+                "description": "ESFREBOM RUBBER GLOVES [LARG",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.69
+            },
+            {
+                "description": "ZIYAD BAKING DATES PITTED 13",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "MAMA INST FLAT NOODLES CLEAR",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.49
+            },
+            {
+                "description": "MAMA INST CHAND NOODLE 1,93",
+                "quantity": 1.0,
+                "price": 0.99,
+                "total_price": 0.33
+            },
+            {
+                "description": "MAMA INST VERMICELLI CLEAR S",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.49
+            },
+            {
+                "description": "IBERIA CORNED BEEF 12 OZ",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "IBERIA CORNED BEEF 12 OZ",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "SHANGHAI BOK CHOY PER LB",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.84
+            },
+            {
+                "description": "VEGGIE STIX 7 OZ",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "ABC SWEET SOY SAUCE 20 OZ",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            }
+        ],
+        "subtotal": 40.33,
+        "tax": 0.23,
+        "tip": null,
+        "total": null
+    }
+]

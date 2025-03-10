@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Konoba-Pizzeria\n\"MASLINA\"",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "SAN SEBASTIJAN SRE",
+                "quantity": 1.0,
+                "price": 50.0,
+                "total_price": 50.0
+            },
+            {
+                "description": "\u010cETIRI GODISNJA DO",
+                "quantity": 1.0,
+                "price": 43.0,
+                "total_price": 43.0
+            },
+            {
+                "description": "SALATA SEZONSKA",
+                "quantity": 1.0,
+                "price": 15.0,
+                "total_price": 15.0
+            },
+            {
+                "description": "TO\u010cENO-0,3L",
+                "quantity": 1.0,
+                "price": 12.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "OZUJSKO LIMUN 0.33",
+                "quantity": 1.0,
+                "price": 14.0,
+                "total_price": 14.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 134.0
+    }
+]

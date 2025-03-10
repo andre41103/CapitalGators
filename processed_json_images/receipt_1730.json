@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Cornerstone Cafe",
+        "transaction_date": "2017-08-16",
+        "items": [
+            {
+                "description": "Steak & Eggs",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            }
+        ],
+        "subtotal": 16.0,
+        "tax": 1.42,
+        "tip": 0.0,
+        "total": 17.42
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ARHAM RESTAURANT LLP",
+        "transaction_date": "2018-02-14",
+        "items": [
+            {
+                "description": "TOMATO BASIL SOUP",
+                "quantity": 2.0,
+                "price": 199.0,
+                "total_price": 199.0
+            },
+            {
+                "description": "B10 SEV PURI TACOS",
+                "quantity": 1.0,
+                "price": 225.0,
+                "total_price": 225.0
+            },
+            {
+                "description": "CRISPY ALOO CUP",
+                "quantity": 1.0,
+                "price": 250.0,
+                "total_price": 250.0
+            },
+            {
+                "description": "D4 STUFFED PANEER\nCHILLA",
+                "quantity": 1.0,
+                "price": 275.0,
+                "total_price": 275.0
+            },
+            {
+                "description": "D7 HANDWA PIZZA",
+                "quantity": 1.0,
+                "price": 300.0,
+                "total_price": 300.0
+            },
+            {
+                "description": "AG DAL PAKWAAN",
+                "quantity": 1.0,
+                "price": 250.0,
+                "total_price": 250.0
+            },
+            {
+                "description": "A8 DABELI BRUSCHETTA",
+                "quantity": 1.0,
+                "price": 275.0,
+                "total_price": 275.0
+            }
+        ],
+        "subtotal": 1774.0,
+        "tax": null,
+        "tip": null,
+        "total": 687.0
+    }
+]

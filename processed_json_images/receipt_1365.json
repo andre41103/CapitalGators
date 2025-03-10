@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Johnson-Higgins\nMacdonald-Hampton",
+        "transaction_date": "2012-07-21",
+        "items": [
+            {
+                "description": "Gaming PC Desktop Computer\n15 8GB 120GB SSD+1TB Win10\nWIFI +Keyboard",
+                "quantity": 5.0,
+                "price": 168.88,
+                "total_price": 928.84
+            },
+            {
+                "description": "Gaming PC Desktop Computer\nRGB Intel i7, RTX 2060, 16GB\nRAM, 240GB SSD, 2TB HDD",
+                "quantity": 3.0,
+                "price": 903.8,
+                "total_price": 2982.54
+            },
+            {
+                "description": "HP Desktop Computer 400 G1\nCore i3 3.4GHz 8GB 256GB SSD\n19\" LCD Windows 10 PC",
+                "quantity": 3.0,
+                "price": 139.95,
+                "total_price": 461.83
+            },
+            {
+                "description": "HP Computer 8300 Elite USDT,\ni3-3220@3.3GHZ, 8GB RAM, NO\nHDD, Windows 7/10 COA",
+                "quantity": 1.0,
+                "price": 63.0,
+                "total_price": 69.3
+            },
+            {
+                "description": "Gaming PC Desktop Computer\ni5 8GB 120GB SSD+2TB\nHD8570 Win10 WIFI",
+                "quantity": 1.0,
+                "price": 189.88,
+                "total_price": 208.87
+            }
+        ],
+        "subtotal": 4228.53,
+        "tax": 422.85,
+        "tip": null,
+        "total": 4651.38
+    }
+]

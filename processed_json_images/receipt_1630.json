@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2011-03-05",
+        "items": [
+            {
+                "description": "SIU LUG BAU",
+                "quantity": 1.0,
+                "price": 2.55,
+                "total_price": 2.55
+            },
+            {
+                "description": "SOPA ALETA TIBURON",
+                "quantity": 1.0,
+                "price": 2.85,
+                "total_price": 2.85
+            },
+            {
+                "description": "ARROZ FRITO3 DELICIAS",
+                "quantity": 1.0,
+                "price": 3.55,
+                "total_price": 3.55
+            },
+            {
+                "description": "CERDO AGRIDULCE",
+                "quantity": 1.0,
+                "price": 4.35,
+                "total_price": 4.35
+            },
+            {
+                "description": "POLLO VERDURAS",
+                "quantity": 1.0,
+                "price": 4.35,
+                "total_price": 4.35
+            },
+            {
+                "description": "REFRESCO",
+                "quantity": 1.0,
+                "price": 2.0,
+                "total_price": 2.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 19.65
+    }
+]

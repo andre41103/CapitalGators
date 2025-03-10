@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Campbell PLC",
+        "transaction_date": "2019-04-05",
+        "items": [
+            {
+                "description": "Video Classic Game Console\n2GB 1094\n3\" HD Screen",
+                "quantity": 3.0,
+                "price": 25.99,
+                "total_price": 85.77
+            },
+            {
+                "description": "Nintendo 2DS Super Mario",
+                "quantity": 1.0,
+                "price": 129.99,
+                "total_price": 142.99
+            },
+            {
+                "description": "Nintendo Gameboy Pocket\nConsole Green with Box",
+                "quantity": 2.0,
+                "price": 65.0,
+                "total_price": 143.0
+            },
+            {
+                "description": "Hyperkin RetroN 3 HD Console",
+                "quantity": 4.0,
+                "price": 40.0,
+                "total_price": 176.0
+            }
+        ],
+        "subtotal": 497.96,
+        "tax": 49.8,
+        "tip": null,
+        "total": 547.76
+    }
+]

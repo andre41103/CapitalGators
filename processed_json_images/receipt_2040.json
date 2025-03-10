@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MIO PRONTO",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "KRIK",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "LEFFE BLONDE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "QUATRE STAGIONI",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 23.0
+            },
+            {
+                "description": "CAPRICCIOSA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 42.0
+    }
+]

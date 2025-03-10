@@ -1,0 +1,86 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PELITA SAMUDRA PERTAMA (M) SDN BHD.",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "NASI GRG KAMPUNG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "AIR KOSONG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.3
+            },
+            {
+                "description": "AYAY GORENG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.3
+            },
+            {
+                "description": "LIMAU AIS",
+                "quantity": 5.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "BIHUN GRG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.3
+            },
+            {
+                "description": "MAGGI SUP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.3
+            },
+            {
+                "description": "MEE GRG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.8
+            },
+            {
+                "description": "TEH O AIS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.8
+            },
+            {
+                "description": "MUNTAH CLEANING",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "MAGGI GRG",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 10.6
+            },
+            {
+                "description": "TEH AIS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.4
+            },
+            {
+                "description": "MILO O PANAS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 4.12,
+        "tip": 0.0,
+        "total": 72.8
+    }
+]

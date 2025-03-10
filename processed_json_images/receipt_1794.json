@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ANY RESTAURANT\nANYWHERE",
+        "transaction_date": "2014-02-02",
+        "items": [],
+        "subtotal": 1969.69,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

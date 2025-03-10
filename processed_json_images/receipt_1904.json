@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LIDL",
+        "transaction_date": "2013-11-21",
+        "items": [
+            {
+                "description": "GRANA PADAND GRATT",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.39
+            },
+            {
+                "description": "RANA CAPPELLETTI PRO",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "PANC.CUB .DOLCE/AFF",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.89
+            },
+            {
+                "description": "CREMA CON NOCCIOLE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.49
+            },
+            {
+                "description": "PANNA DA CUCINA-",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.69
+            },
+            {
+                "description": "SALE FINO",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.17
+            },
+            {
+                "description": "UOVA ALL.TERRA",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.25
+            },
+            {
+                "description": "SUGO POMOD.BASIL",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "CASERECCIO AFFETTATO",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 17.36
+    }
+]

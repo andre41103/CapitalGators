@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Walgreens",
+        "transaction_date": "2017-06-16",
+        "items": [
+            {
+                "description": "AMAZON GIFT CARD",
+                "quantity": null,
+                "price": null,
+                "total_price": 250.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 250.0
+    }
+]

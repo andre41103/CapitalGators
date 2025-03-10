@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THE STABLES BAR & RODEO",
+        "transaction_date": "2018-06-08",
+        "items": [
+            {
+                "description": "STELLA CIDER\nPINE",
+                "quantity": 7.0,
+                "price": 42.09,
+                "total_price": 294.0
+            },
+            {
+                "description": "ORANGE JUICE\nTRUCSH",
+                "quantity": 1.0,
+                "price": 28.0,
+                "total_price": 28.0
+            },
+            {
+                "description": "SURF & TURE",
+                "quantity": 2.0,
+                "price": 95.0,
+                "total_price": 190.0
+            },
+            {
+                "description": "STAHLES\nBURGER",
+                "quantity": 2.0,
+                "price": 20.0,
+                "total_price": 70.0
+            },
+            {
+                "description": "DIET COKE",
+                "quantity": 2.0,
+                "price": 22.0,
+                "total_price": 22.0
+            }
+        ],
+        "subtotal": 604.0,
+        "tax": 25.4,
+        "tip": null,
+        "total": 581.5
+    }
+]

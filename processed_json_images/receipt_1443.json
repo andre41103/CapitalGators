@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Coleman Inc",
+        "transaction_date": "2018-06-13",
+        "items": [
+            {
+                "description": "Yilong 2'x3' Traditional",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1320.0
+            },
+            {
+                "description": "YILONG 4'x6' All over",
+                "quantity": 5.0,
+                "price": 3.0,
+                "total_price": 19800.0
+            },
+            {
+                "description": "Watercolor Butterfly Carpets",
+                "quantity": 2.0,
+                "price": 14.39,
+                "total_price": 31.66
+            }
+        ],
+        "subtotal": 19228.78,
+        "tax": 1922.88,
+        "tip": null,
+        "total": 21151.66
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2016-07-07",
+        "items": [
+            {
+                "description": "B408 Nintendo Gameboy Color\nconsole Ice Blue Toysrus",
+                "quantity": 5.0,
+                "price": 74.99,
+                "total_price": 412.44
+            },
+            {
+                "description": "Microsoft Xbox One X 1TB 4k\nUltra HD Console black\ncontroller",
+                "quantity": 5.0,
+                "price": 249.0,
+                "total_price": 1369.5
+            },
+            {
+                "description": "Sony PlayStation 2 Console -\nBlack (SCPH-39001) w/ 2\nControllers and 5 Games",
+                "quantity": 4.0,
+                "price": 79.99,
+                "total_price": 351.96
+            },
+            {
+                "description": "8GB 4.3\" Retro Handheld Game\nConsole Portable Video Game\nBuilt-In 10000+ Games",
+                "quantity": 3.0,
+                "price": 29.99,
+                "total_price": 98.97
+            },
+            {
+                "description": "Sega Saturn Console Gray\nHST-3200 HST-3210 Japanese",
+                "quantity": 4.0,
+                "price": 119.98,
+                "total_price": 527.91
+            },
+            {
+                "description": "Xbox One X 1 TB Console w/\nWireless Controller",
+                "quantity": 2.0,
+                "price": 200.0,
+                "total_price": 440.0
+            },
+            {
+                "description": "Magnavox Odyssey 2\nMicroprocessor Console System\nw\n15 Games - 1978",
+                "quantity": 2.0,
+                "price": 155.0,
+                "total_price": 341.0
+            }
+        ],
+        "subtotal": 3219.8,
+        "tax": 321.98,
+        "tip": null,
+        "total": 3541.78
+    }
+]

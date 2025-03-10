@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2016-11-16",
+        "items": [
+            {
+                "description": "iBUYPOWER Gaming Computer\nAMD Ryzen 3 3100, Radeon RX\n550, 240GB SSD, WiFi Ready",
+                "quantity": 4.0,
+                "price": 509.95,
+                "total_price": 2.0
+            },
+            {
+                "description": "HP Z420 Workstation Desktop\nComputer PC Intel Xeon 2.8GHZ\n8GB 1TB Win10 Pro",
+                "quantity": 1.0,
+                "price": 199.95,
+                "total_price": 219.95
+            },
+            {
+                "description": "hp all in one desktop computer\ntouch screen",
+                "quantity": 5.0,
+                "price": 205.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "Dell OptiPlex 7060 SFF\nComputer, 8th Gen Core i5, 8GB\nDDR4, New 240GB SSD, DVD",
+                "quantity": 5.0,
+                "price": 202.5,
+                "total_price": 1.0
+            },
+            {
+                "description": "Custom Gaming Computer\nRyzen 7 2700 32GB DDR4\nNvidia RTX 2060 RGB SSD\n500GB HDD",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 5369.52,
+        "tax": 536.95,
+        "tip": null,
+        "total": 5906.47
+    }
+]

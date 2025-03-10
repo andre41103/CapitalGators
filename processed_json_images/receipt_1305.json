@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "bugis",
+        "transaction_date": "2013-07-09",
+        "items": [
+            {
+                "description": "Sprite-Can",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.6
+            },
+            {
+                "description": "DF Seafood Platter",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 31.6
+            },
+            {
+                "description": "GrilFishFillet/Fries",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.8
+            },
+            {
+                "description": "Bk Rice/PorkChop",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.8
+            },
+            {
+                "description": "Spaghetti/FishFillet",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.8
+            },
+            {
+                "description": "Spaghetti/PorkChop",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.8
+            },
+            {
+                "description": "Rice/ChknP.Ssg&Mush",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.8
+            },
+            {
+                "description": "Set Lunch Add $4",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            }
+        ],
+        "subtotal": 86.2,
+        "tax": 8.62,
+        "tip": null,
+        "total": null
+    }
+]

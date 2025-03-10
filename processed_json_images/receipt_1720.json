@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PINEAPPLE WILLY'S",
+        "transaction_date": "2017-04-15",
+        "items": [
+            {
+                "description": "Large",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Stall",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Chicken Terder Basket",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "880 Baked Beans",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Grilled Shrimp",
+                "quantity": null,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "Cole Slaw",
+                "quantity": null,
+                "price": null,
+                "total_price": 750.0
+            }
+        ],
+        "subtotal": 54.5,
+        "tax": 4.3,
+        "tip": null,
+        "total": 58.8
+    }
+]

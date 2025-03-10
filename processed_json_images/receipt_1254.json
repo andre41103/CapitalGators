@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Khansama Tandoori\nRestaurant",
+        "transaction_date": "2017-03-12",
+        "items": [
+            {
+                "description": "Tiger Bottle",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "Mineral water",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "Mixed Tikka 5 pcs",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "Pepper Chicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "GarlicButter Naan",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "Tandoori Roti",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Tiger Draft Mug",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.5
+            }
+        ],
+        "subtotal": 54.0,
+        "tax": 3.78,
+        "tip": null,
+        "total": 57.8
+    }
+]

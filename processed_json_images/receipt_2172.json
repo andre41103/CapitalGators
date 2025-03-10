@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Mister Car Wash",
+        "transaction_date": "2016-02-20",
+        "items": [
+            {
+                "description": "Final Touch",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 39.99
+            },
+            {
+                "description": "Dissolve-All",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "Lube Wash Coupon*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -13.99
+            }
+        ],
+        "subtotal": 46.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 46.0
+    }
+]

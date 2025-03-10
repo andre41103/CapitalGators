@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LA CANASTA",
+        "transaction_date": "2017-01-03",
+        "items": [
+            {
+                "description": "CAFE CON LECHE\nCAFE MITAD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "CAFE CON LECHE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "CAFE CORTADO",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "FLAUTA QUESO F",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.7
+            },
+            {
+                "description": "FLAUTA TORTILL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 8.2
+    }
+]

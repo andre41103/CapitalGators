@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "McDonald's Schiphol",
+        "transaction_date": "2011-09-05",
+        "items": [
+            {
+                "description": "Ontbijt New York",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.5
+            },
+            {
+                "description": "Koffie 03 Ltr",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.6
+            },
+            {
+                "description": "Ontbijt New York\nVittel 0.5",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Koffie 03 Ltr",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.85
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.24,
+        "tip": null,
+        "total": 21.95
+    }
+]

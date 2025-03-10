@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Cooley Ltd",
+        "transaction_date": "2016-01-28",
+        "items": [
+            {
+                "description": "Nike 747998-401 Team Hustle\nD7 Kids Blue Mid Top Basketball\nShoes Size 4Y US",
+                "quantity": 2.0,
+                "price": 10.99,
+                "total_price": 24.18
+            },
+            {
+                "description": "5 YOUTH Boys Big Kids Nike\nJordan 6-17-23 Basketball White\nred Black 428818 100",
+                "quantity": 3.0,
+                "price": 89.99,
+                "total_price": 296.97
+            },
+            {
+                "description": "The Children's Place Brown\nDress Boy Lace Up Shoes Size\n12",
+                "quantity": 5.0,
+                "price": 8.0,
+                "total_price": 44.0
+            },
+            {
+                "description": "jordan 3 white cement size 13.5\nkids youth boys",
+                "quantity": 5.0,
+                "price": 21.0,
+                "total_price": 115.5
+            },
+            {
+                "description": "PUMA Pre-School Scuderia\nFerrari Drift Cat 5 Ultra II Shoes\nBoys 12c",
+                "quantity": 4.0,
+                "price": 21.22,
+                "total_price": 93.37
+            },
+            {
+                "description": "Joma Boys Youth Gol-102\nSoccer Cleats Shoes Size 3.5\nWhite Red Futbol NEW",
+                "quantity": 2.0,
+                "price": 19.99,
+                "total_price": 43.98
+            },
+            {
+                "description": "Jordan 10 Retro Fusion Red Size\n6Y",
+                "quantity": 2.0,
+                "price": 60.0,
+                "total_price": 132.0
+            }
+        ],
+        "subtotal": 681.81,
+        "tax": 68.18,
+        "tip": null,
+        "total": 749.99
+    }
+]

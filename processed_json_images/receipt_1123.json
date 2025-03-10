@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "21 Club",
+        "transaction_date": "2012-05-10",
+        "items": [
+            {
+                "description": "'21'Caesar Salad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "Peeky Toe",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 21.0
+            },
+            {
+                "description": "Ch Petrus 82",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 16640.0
+            },
+            {
+                "description": "Fiji",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 18.5
+            },
+            {
+                "description": "Coffee",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "DOVER SOLE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 65.0
+            },
+            {
+                "description": "Steelhead Salmon",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 39.0
+            },
+            {
+                "description": "MUSHROOMS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Choc Torte",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.5
+            },
+            {
+                "description": "Frsh Berries",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.5
+            },
+            {
+                "description": "COMP COOKIES",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 1494.68,
+        "tip": 400.0,
+        "total": 18736.18
+    }
+]

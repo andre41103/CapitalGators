@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "S'AIN ADOR JEAN",
+        "transaction_date": "2014-06-10",
+        "items": [
+            {
+                "description": "PUPUSA DE QUESO T1",
+                "quantity": 2.0,
+                "price": 2.6,
+                "total_price": 2.55
+            },
+            {
+                "description": "PUPLSA FRI/QUESO 11",
+                "quantity": 3.0,
+                "price": 2.55,
+                "total_price": 5.2
+            },
+            {
+                "description": "PUPLSA DE QUESO T1",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.65
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.39,
+        "tip": null,
+        "total": 18.79
+    }
+]

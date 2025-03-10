@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Wise and Sons",
+        "transaction_date": "2021-03-24",
+        "items": [
+            {
+                "description": "One Pebbled Confetti Glass\nWine Water Goblet 12 oz 8\" tall",
+                "quantity": 1.0,
+                "price": 8.99,
+                "total_price": 9.89
+            },
+            {
+                "description": "Twas The Nightcap Before\nChristmas Rosy Red Felt Fabric\nWine Bottle Cover",
+                "quantity": 4.0,
+                "price": 16.95,
+                "total_price": 74.58
+            },
+            {
+                "description": "Vintage Set of 3 Cobalt Blue\nGlass Wine Glasses / Water\nGoblets Barware Stemware",
+                "quantity": 4.0,
+                "price": 24.0,
+                "total_price": 105.6
+            },
+            {
+                "description": "Mikasa Cheers Metallics Gold\n14oz Wine Glasses With Original\nStickers ~Set Of 2",
+                "quantity": 1.0,
+                "price": 9.99,
+                "total_price": 10.99
+            }
+        ],
+        "subtotal": 182.78,
+        "tax": 18.28,
+        "tip": null,
+        "total": 201.06
+    }
+]

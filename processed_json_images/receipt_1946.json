@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "alVicolo",
+        "transaction_date": "2018-02-17",
+        "items": [
+            {
+                "description": "Mix Salad small",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "Prosciutto Ham Pizza",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.0
+            },
+            {
+                "description": "Well Vodka-Tini",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 19.5
+            },
+            {
+                "description": "Margarita",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "Well Juarez",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 12.0
+            }
+        ],
+        "subtotal": 92.5,
+        "tax": 2.85,
+        "tip": null,
+        "total": 95.35
+    }
+]

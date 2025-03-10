@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PIZZERIA RIVA D'ARNO",
+        "transaction_date": "2018-05-20",
+        "items": [
+            {
+                "description": "SERVICE /COPERTO",
+                "quantity": 2.0,
+                "price": 1.5,
+                "total_price": 3.0
+            },
+            {
+                "description": "PIZZA DEL GIORNO",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "BIRRA SPINA BIONDA MEDIA",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "BIRRA SPINA BIONDA PIC.",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 20.0
+    }
+]

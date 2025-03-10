@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "sweetgreen.com",
+        "transaction_date": "2015-05-19",
+        "items": [
+            {
+                "description": "KALE CAESAR",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.75
+            }
+        ],
+        "subtotal": 12.5,
+        "tax": 1.25,
+        "tip": null,
+        "total": 13.75
+    }
+]

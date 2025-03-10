@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Justin's Roseville Car Wash",
+        "transaction_date": "2016-07-19",
+        "items": [
+            {
+                "description": "Gold Wash",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 31.99
+            },
+            {
+                "description": "Slip Stream Wax",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Oversize Charge",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

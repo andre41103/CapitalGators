@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Transmetropolitan",
+        "transaction_date": "2013-04-30",
+        "items": [
+            {
+                "description": "Veg Med",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.85
+            },
+            {
+                "description": "Diet Coke",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.75
+            }
+        ],
+        "subtotal": 16.6,
+        "tax": null,
+        "tip": null,
+        "total": 17.76
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Rose Club",
+        "transaction_date": "2011-12-08",
+        "items": [
+            {
+                "description": "Ciroc Methuselah",
+                "quantity": 24.0,
+                "price": 1850.0,
+                "total_price": 44400.0
+            },
+            {
+                "description": "Dom Perignon Rose Magnum",
+                "quantity": 6.0,
+                "price": 1.0,
+                "total_price": 7200.0
+            },
+            {
+                "description": "Heineken",
+                "quantity": 13.0,
+                "price": 5.0,
+                "total_price": 65.0
+            },
+            {
+                "description": "Fiji Water",
+                "quantity": 6.0,
+                "price": 3.0,
+                "total_price": 18.0
+            },
+            {
+                "description": "Cigarettes",
+                "quantity": 2.0,
+                "price": 9.0,
+                "total_price": 16.0
+            },
+            {
+                "description": "Mahiki Coconut Bottle",
+                "quantity": 7.0,
+                "price": 160.0,
+                "total_price": 1120.0
+            },
+            {
+                "description": "Cover \u00a315",
+                "quantity": 16.0,
+                "price": 15.0,
+                "total_price": 225.0
+            }
+        ],
+        "subtotal": 53044.0,
+        "tax": 0.0,
+        "tip": 10000.0,
+        "total": 71000.6
+    }
+]

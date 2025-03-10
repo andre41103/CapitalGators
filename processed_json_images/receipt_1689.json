@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Saizeriya",
+        "transaction_date": "2014-11-21",
+        "items": [
+            {
+                "description": "Doria Lunch",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.9
+            },
+            {
+                "description": "Tuna & Fish Egg",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.9,
+        "tip": null,
+        "total": null
+    }
+]

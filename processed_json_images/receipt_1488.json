@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Carlson Ltd",
+        "transaction_date": "2017-05-02",
+        "items": [
+            {
+                "description": "The Art of Glen Loates",
+                "quantity": 1.0,
+                "price": 6.08,
+                "total_price": 6.69
+            },
+            {
+                "description": "Pictures From a Distant\nCountry: Seeing America\nThrough Old Paper Money",
+                "quantity": 1.0,
+                "price": 13.84,
+                "total_price": 15.22
+            },
+            {
+                "description": "Motorcycle Journeys Through\nNorth America : A Guide for\nChoosing and Planning ...",
+                "quantity": 4.0,
+                "price": 6.0,
+                "total_price": 26.4
+            },
+            {
+                "description": "CCNA 200-301 50 GB AUG 2020\nCisco Video/Official Books/Exam\nDumps/Licences",
+                "quantity": 4.0,
+                "price": 1.99,
+                "total_price": 8.76
+            },
+            {
+                "description": "Enough By Helen Roseveare",
+                "quantity": 2.0,
+                "price": 8.86,
+                "total_price": 19.49
+            },
+            {
+                "description": "Fatawa Islamiyah (Islamic\nVerdicts) (8 Volume Set)",
+                "quantity": 3.0,
+                "price": 99.9,
+                "total_price": 329.67
+            }
+        ],
+        "subtotal": 369.3,
+        "tax": 36.93,
+        "tip": null,
+        "total": 406.23
+    }
+]

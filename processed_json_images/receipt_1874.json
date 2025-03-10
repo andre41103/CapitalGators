@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Shady Grove",
+        "transaction_date": "2003-11-26",
+        "items": [
+            {
+                "description": "SODA/TEA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "HIPPIE PLATE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.59
+            },
+            {
+                "description": "PEANUT DRESSI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "SOUP/SALAD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.29
+            },
+            {
+                "description": "JALAPENO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 13.27,
+        "tax": 1.09,
+        "tip": null,
+        "total": 14.36
+    }
+]

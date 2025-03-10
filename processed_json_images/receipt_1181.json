@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Pendo Chinese Restaurant",
+        "transaction_date": "2017-02-16",
+        "items": [
+            {
+                "description": "SHAO BAO (3)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "GARLIC NOODLES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            }
+        ],
+        "subtotal": 33.0,
+        "tax": null,
+        "tip": null,
+        "total": 33.0
+    }
+]

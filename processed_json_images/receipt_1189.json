@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Med Chop Sal",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.5
+            },
+            {
+                "description": "Margherita Pizza",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "Bison Burger",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "D-Chili Shrimp",
+                "quantity": null,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "Southern Star",
+                "quantity": 2.0,
+                "price": 5.75,
+                "total_price": 11.5
+            },
+            {
+                "description": "G_Tangent",
+                "quantity": 2.0,
+                "price": 7.0,
+                "total_price": 14.0
+            },
+            {
+                "description": "Love Street",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.75
+            },
+            {
+                "description": "Daily Soup",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.0
+            }
+        ],
+        "subtotal": 94.75,
+        "tax": 7.82,
+        "tip": null,
+        "total": 102.57
+    }
+]

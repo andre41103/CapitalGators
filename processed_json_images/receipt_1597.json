@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Harrison and Sons",
+        "transaction_date": "2012-03-30",
+        "items": [
+            {
+                "description": "YILONG 4'x6' Traditional\nHandmade Carpet Sitting Room\nHand Knotted Silk Rug 076B",
+                "quantity": 3.0,
+                "price": 3600.0,
+                "total_price": 11880.0
+            },
+            {
+                "description": "Bohemian Rag Rug- Woven\nChindi Dari Living Room Rug /\nHand-Woven Carpet Rug-Mats",
+                "quantity": 5.0,
+                "price": 23.39,
+                "total_price": 128.65
+            },
+            {
+                "description": "Cotton Linen Kitchen Mat\nBathroom Doormat Absorbent\nRug Hand-woven Tassel Carpet",
+                "quantity": 1.0,
+                "price": 20.52,
+                "total_price": 22.57
+            },
+            {
+                "description": "YILONG 5.6'x8.3' All Over\nPattern HandKnotted Silk Rugs\nOriental Carpets 1807",
+                "quantity": 2.0,
+                "price": 9000.0,
+                "total_price": 19800.0
+            },
+            {
+                "description": "YILONG 4'x6' Handmade Carpet\nHunting Scene Hand Knotted\nSilk Rugs 079B",
+                "quantity": 1.0,
+                "price": 3600.0,
+                "total_price": 3960.0
+            },
+            {
+                "description": "7x10 Diamond Geometric Rugs\nContemporary Black Color Large\nMat Dhurrie Carpet",
+                "quantity": 3.0,
+                "price": 350.0,
+                "total_price": 1155.0
+            }
+        ],
+        "subtotal": 33587.47,
+        "tax": 3358.75,
+        "tip": null,
+        "total": 36946.22
+    }
+]

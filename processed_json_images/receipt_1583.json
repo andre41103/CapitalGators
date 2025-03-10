@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2015-07-13",
+        "items": [
+            {
+                "description": "Q&A a Day: 5-Year Journal",
+                "quantity": 3.0,
+                "price": 4.49,
+                "total_price": 14.82
+            },
+            {
+                "description": "Poor Charlie's Almanack The Wit\nand Wisdom of Charles T\nMunger 3rd Ed. BRAND NEW",
+                "quantity": 5.0,
+                "price": 64.95,
+                "total_price": 357.23
+            },
+            {
+                "description": "Against All Odds : The Untold\nStory of Canada's Unlikely\nHockey Heroes",
+                "quantity": 5.0,
+                "price": 4.41,
+                "total_price": 24.26
+            },
+            {
+                "description": "Enough By Helen Roseveare",
+                "quantity": 3.0,
+                "price": 8.86,
+                "total_price": 29.24
+            },
+            {
+                "description": "Waterfowl Illustrated",
+                "quantity": 4.0,
+                "price": 5.8,
+                "total_price": 25.52
+            },
+            {
+                "description": "The Messiah",
+                "quantity": 5.0,
+                "price": 4.49,
+                "total_price": 24.7
+            }
+        ],
+        "subtotal": 432.5,
+        "tax": 43.25,
+        "tip": null,
+        "total": 475.75
+    }
+]

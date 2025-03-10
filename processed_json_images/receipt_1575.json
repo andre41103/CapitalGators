@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2013-02-04",
+        "items": [
+            {
+                "description": "New Wallis black floral midi\ndress sleeveles, size UK 12",
+                "quantity": 2.0,
+                "price": 38.0,
+                "total_price": 83.6
+            },
+            {
+                "description": "Caslon Blue White Sleeveless\nBelted Ruffle Rayon Dress Sz L",
+                "quantity": 4.0,
+                "price": 4.99,
+                "total_price": 21.96
+            },
+            {
+                "description": "Lulus Women's Black Bell\nSleeve Floral Swing Dress Size S",
+                "quantity": 2.0,
+                "price": 22.95,
+                "total_price": 50.49
+            },
+            {
+                "description": "Cherry Halter Rockabilly Black\nSummer Dress Size 3/4",
+                "quantity": 5.0,
+                "price": 3.5,
+                "total_price": 19.25
+            }
+        ],
+        "subtotal": 159.36,
+        "tax": 15.94,
+        "tip": null,
+        "total": 175.3
+    }
+]

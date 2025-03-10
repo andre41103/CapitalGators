@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Obrien Group",
+        "transaction_date": "2012-03-23",
+        "items": [
+            {
+                "description": "Nordic Braided Tassels Sofa\nRugs Area Rug Soft Mat Palm\nLeaves Room Carpet",
+                "quantity": 4.0,
+                "price": 186.54,
+                "total_price": 820.78
+            },
+            {
+                "description": "YILONG 6.56'x9.84' Blue\nHandknotted Silk Carpet Easy to\nClean Indoor Rug YWX137A",
+                "quantity": 2.0,
+                "price": 4.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "6'8 \u00d7 5' Handwoven Afghan\nKilim Wool Area Rug Kelim Tapis\nOriental Carpet #4434",
+                "quantity": 4.0,
+                "price": 259.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "Carton Tiger Print Area Rug\nFaux Skin Rug Hide Cute Carpet\nFloor Mat Home Decor",
+                "quantity": 5.0,
+                "price": 10.99,
+                "total_price": 60.45
+            },
+            {
+                "description": "Sheepskin Shaggy Faux Fur\nSilky Plush Soft Fabric\nRectangular Rug Doormat\nCarpet",
+                "quantity": 2.0,
+                "price": 8.99,
+                "total_price": 19.78
+            },
+            {
+                "description": "YILONG 4'x6' Golden Antique\nHandmade Silk Area Rugs Home\nFurniture Carpet 087B",
+                "quantity": 5.0,
+                "price": 4.0,
+                "total_price": 26.0
+            }
+        ],
+        "subtotal": 35.0,
+        "tax": 3545.51,
+        "tip": null,
+        "total": 39000.6
+    }
+]

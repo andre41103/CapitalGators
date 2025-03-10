@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BJ'S IRVINE",
+        "transaction_date": "2015-12-07",
+        "items": [
+            {
+                "description": "PINT RED",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.25
+            },
+            {
+                "description": "CHICKEN WINGS",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.25
+            },
+            {
+                "description": "BUD LIGHT",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.5
+            }
+        ],
+        "subtotal": 18.0,
+        "tax": 1.52,
+        "tip": null,
+        "total": 19.52
+    }
+]

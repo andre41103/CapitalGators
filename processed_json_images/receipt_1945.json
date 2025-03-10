@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Connor Clothing Pty Ltd",
+        "transaction_date": "2013-11-10",
+        "items": [
+            {
+                "description": "COBEK SKINNY JEAN",
+                "quantity": 1.0,
+                "price": 29195.0,
+                "total_price": 19.95
+            }
+        ],
+        "subtotal": 29195.0,
+        "tax": 1.81,
+        "tip": null,
+        "total": 19.95
+    }
+]

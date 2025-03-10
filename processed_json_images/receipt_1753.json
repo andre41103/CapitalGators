@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DARTMOUTH BOOKSTORE, INC.",
+        "transaction_date": "2001-01-05",
+        "items": [
+            {
+                "description": "WAR TO BE WON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 35.0
+            },
+            {
+                "description": "WARDEN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "INSPECTOR GENERAL022400",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "TIEPOLOS HOUNDS",
+                "quantity": 11.0,
+                "price": null,
+                "total_price": 30.0
+            }
+        ],
+        "subtotal": 68.5,
+        "tax": null,
+        "tip": null,
+        "total": 65.08
+    }
+]

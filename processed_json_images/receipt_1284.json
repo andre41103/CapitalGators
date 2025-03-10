@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PIZZA PINO",
+        "transaction_date": "2016-06-25",
+        "items": [
+            {
+                "description": "MOJITO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.9
+            },
+            {
+                "description": "KIR",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "VERRE COTE PROVENCE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.6
+            },
+            {
+                "description": "PIZZA THON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.1
+            },
+            {
+                "description": "PIZZA CAPRINA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.9
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": 4.78,
+        "total": 43.5
+    }
+]

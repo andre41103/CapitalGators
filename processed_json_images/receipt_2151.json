@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Chick-fil-a",
+        "transaction_date": "2010-07-09",
+        "items": [
+            {
+                "description": "Meal-CGSand",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.64
+            },
+            {
+                "description": "Promo Free",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -1.59
+            },
+            {
+                "description": "Promo Free",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -4.64
+            },
+            {
+                "description": "Dt Lmnde MD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.59
+            }
+        ],
+        "subtotal": 0.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 0.0
+    }
+]

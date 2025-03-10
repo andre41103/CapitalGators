@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Harrison-Pierce",
+        "transaction_date": "2019-07-14",
+        "items": [
+            {
+                "description": "QcoQce Wine Bottle Opener",
+                "quantity": 5.0,
+                "price": 30.0,
+                "total_price": 165.0
+            },
+            {
+                "description": "NIB Set Of 4 Riedel Wine\nGlasses, Viognier Chardonnay -\n448/5",
+                "quantity": 3.0,
+                "price": 24.99,
+                "total_price": 82.47
+            },
+            {
+                "description": "Waring Pro WO50B Cordless\nWine Opener Black Brushed\nStainless w Charger",
+                "quantity": 5.0,
+                "price": 14.99,
+                "total_price": 82.45
+            }
+        ],
+        "subtotal": 299.92,
+        "tax": 29.99,
+        "tip": null,
+        "total": 329.91
+    }
+]

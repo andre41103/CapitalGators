@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Contreras-Rangel",
+        "transaction_date": "2019-01-02",
+        "items": [
+            {
+                "description": "3 Ikea Stainless Steel 4-bottle\nWine Rack 300.557.60 - great\ncondition gift it!",
+                "quantity": 1.0,
+                "price": 25.0,
+                "total_price": 27.5
+            },
+            {
+                "description": "CYLINDER GLASS PAROT for\n100ml WHISKEY WINE BEER\nFORCES OF ALCOHOL HOOCH",
+                "quantity": 5.0,
+                "price": 35.0,
+                "total_price": 192.5
+            },
+            {
+                "description": "Unicorn Wine Bottle Display",
+                "quantity": 2.0,
+                "price": 15.85,
+                "total_price": 34.87
+            },
+            {
+                "description": "NIB Corkit Wine Cork & Bottle\nDisplay Holder Industrial\nSteampunk Modern Art NEW",
+                "quantity": 4.0,
+                "price": 14.95,
+                "total_price": 65.78
+            }
+        ],
+        "subtotal": 291.5,
+        "tax": 29.15,
+        "tip": null,
+        "total": 320.65
+    }
+]

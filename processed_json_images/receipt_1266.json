@@ -1,0 +1,104 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Colony",
+        "transaction_date": "2017-04-21",
+        "items": [
+            {
+                "description": "Onion Rings",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Misc Meat",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.22
+            },
+            {
+                "description": "Jap Sweet Corn",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "Soft Drink",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 5.7
+            },
+            {
+                "description": "Cobbler",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 9.75
+            },
+            {
+                "description": "Corn on Cob",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.25
+            },
+            {
+                "description": "Sweet Potato Fries",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.75
+            },
+            {
+                "description": "Misc Meat",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.15
+            },
+            {
+                "description": "Shrimp Poppers",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.25
+            },
+            {
+                "description": "Cole Slaw",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "Cornbread Salad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.75
+            },
+            {
+                "description": "Shrimp Poppers",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.75
+            },
+            {
+                "description": "Misc Meat",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.51
+            },
+            {
+                "description": "Shrimp Poppers",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.75
+            },
+            {
+                "description": "Misc Meat",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.53
+            }
+        ],
+        "subtotal": 71.36,
+        "tax": 5.89,
+        "tip": null,
+        "total": 77.25
+    }
+]

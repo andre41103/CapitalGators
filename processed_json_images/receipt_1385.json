@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Franco Group",
+        "transaction_date": "2016-07-19",
+        "items": [
+            {
+                "description": "Round Indian Braided Jute\nCarpet | Hand Woven Brown\nRound Shape Living Room Rug",
+                "quantity": 5.0,
+                "price": 49.99,
+                "total_price": 274.95
+            },
+            {
+                "description": "Cartoon Rabbit Printed\nCarpet Area Rug Children Play\nTent Floor Mat Rug",
+                "quantity": 4.0,
+                "price": 177.08,
+                "total_price": 779.15
+            }
+        ],
+        "subtotal": 958.27,
+        "tax": 95.83,
+        "tip": null,
+        "total": 1054.1
+    }
+]

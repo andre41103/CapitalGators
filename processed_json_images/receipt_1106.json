@@ -1,0 +1,116 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2010-07-06",
+        "items": [
+            {
+                "description": "CPN NABISCO CRACKE\nCPN NABISCO CRACKE",
+                "quantity": null,
+                "price": null,
+                "total_price": -81.0
+            },
+            {
+                "description": "SCANNED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "SCANNED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.5
+            },
+            {
+                "description": "SCANNED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "SCANNED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "SCANNED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "SCANNED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "SCANNED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "SCANNED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "SCANNED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "SCANNED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "SCANNED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "SCANNED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "SCANNED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "SCANNED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "SCANNED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "SCANNED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 1.0
+    }
+]

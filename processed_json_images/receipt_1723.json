@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AD\u0130SYON\nSARAY",
+        "transaction_date": "2014-10-05",
+        "items": [
+            {
+                "description": "KUVER",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "PALAMUT IZGARA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "CINEKOP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 30.0
+            },
+            {
+                "description": "PATLICAN SALATASI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "SODA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "\u015eA\u015eAL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "SALATA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "20 L\u0130K YEN\u0130 RAKI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 40.0
+            },
+            {
+                "description": "MIDYE DOLMA TANE",
+                "quantity": 8.0,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 130.0
+    }
+]

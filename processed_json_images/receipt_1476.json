@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Weaver Ltd",
+        "transaction_date": "2016-12-21",
+        "items": [
+            {
+                "description": "Adult Kids Pokemon Pikachu\nKigurumi Pajama Cosplay\nChristmas Costume Sleepwear",
+                "quantity": 3.0,
+                "price": 9.95,
+                "total_price": 32.83
+            }
+        ],
+        "subtotal": 29.85,
+        "tax": 2.98,
+        "tip": null,
+        "total": 32.83
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Bates LLC",
+        "transaction_date": "2017-11-11",
+        "items": [
+            {
+                "description": "16\"x16\" White Marble Top\nCounter Table Malachite Inlay\nMarquetry Art Home D\u00e9cor",
+                "quantity": 1.0,
+                "price": 745.99,
+                "total_price": 820.59
+            },
+            {
+                "description": "36 Inches Marble Meeting Table\nTop Inlay Dinning Table with\nJasper Stone Art",
+                "quantity": 5.0,
+                "price": 1.0,
+                "total_price": 7569.37
+            }
+        ],
+        "subtotal": 7627.24,
+        "tax": 762.72,
+        "tip": null,
+        "total": 8389.96
+    }
+]

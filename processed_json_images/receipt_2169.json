@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Morrisons",
+        "transaction_date": "2016-12-05",
+        "items": [
+            {
+                "description": "Create Oun Breakfast",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "> BACON",
+                "quantity": 3.0,
+                "price": 0.7,
+                "total_price": 2.1
+            },
+            {
+                "description": "> MUSHROOMS",
+                "quantity": 1.0,
+                "price": 0.6,
+                "total_price": 0.6
+            },
+            {
+                "description": "> FRIED EGG",
+                "quantity": 1.0,
+                "price": 0.6,
+                "total_price": 50.6
+            },
+            {
+                "description": "Wht Toast 2 Slices",
+                "quantity": 1.0,
+                "price": 0.8,
+                "total_price": 0.8
+            },
+            {
+                "description": "Large Fizzy",
+                "quantity": 1.0,
+                "price": 1.45,
+                "total_price": 1.45
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 5.55
+    }
+]

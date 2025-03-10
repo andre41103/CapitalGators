@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "SPEEDWAY 0007569",
+        "transaction_date": "2017-09-30",
+        "items": [
+            {
+                "description": "Regular Unleaded",
+                "quantity": 21.026,
+                "price": 2.559,
+                "total_price": 53.81
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 53.81
+    }
+]

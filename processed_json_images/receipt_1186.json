@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Jothi Stores",
+        "transaction_date": "2013-02-08",
+        "items": [
+            {
+                "description": "curd",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Puli",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "Kaduku",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            }
+        ],
+        "subtotal": 41.5,
+        "tax": 0.0,
+        "tip": null,
+        "total": 41.5
+    }
+]

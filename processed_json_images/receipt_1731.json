@@ -1,0 +1,98 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Gaucho Grill",
+        "transaction_date": "2015-10-16",
+        "items": [
+            {
+                "description": "TUNA CEVICHE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "Caesar Salad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Surf and Turf",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 46.0
+            },
+            {
+                "description": "Churrasco",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 32.0
+            },
+            {
+                "description": "Parrillada",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 38.0
+            },
+            {
+                "description": "Side Asparagus",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "Potato Wedges",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "POLENTA SP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Creme Brulee",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Sorbets",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Iced Tea",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Saratoga Flat",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "CAB SAUV GL",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "Dirty Gaucho",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 24.0
+            }
+        ],
+        "subtotal": 250.0,
+        "tax": 20.94,
+        "tip": null,
+        "total": 270.94
+    }
+]

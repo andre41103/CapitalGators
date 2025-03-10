@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ALDI",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Artisan Lettuce",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "Mushrooms",
+                "quantity": 4.0,
+                "price": 0.59,
+                "total_price": 2.36
+            },
+            {
+                "description": "Multi-ColorPeppers",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "Baby Carrots",
+                "quantity": 2.0,
+                "price": 0.59,
+                "total_price": 1.18
+            }
+        ],
+        "subtotal": 6.52,
+        "tax": 0.0,
+        "tip": null,
+        "total": 6.52
+    }
+]

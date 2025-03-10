@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Lewis Group",
+        "transaction_date": "2013-11-15",
+        "items": [
+            {
+                "description": "Double Dorje Carpet Tibetan\nRug Handwoven by Artisans in\nNepal",
+                "quantity": 1.0,
+                "price": 297.0,
+                "total_price": 326.7
+            },
+            {
+                "description": "Nordic Braided Tassels Sofa\nRugs Area Rug Soft Mat Palm\nLeaves Room Carpet",
+                "quantity": 4.0,
+                "price": 186.54,
+                "total_price": 820.78
+            },
+            {
+                "description": "4'x6' Wool Floral Handmade\nRugs Carpet Moroccan Pastel\nColor Living Room Navajo",
+                "quantity": 4.0,
+                "price": 299.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "Valentine's Day Roses Area\nRugs Floor Mat Non-slip\nRomantic Bedroom Carpet\nDecor",
+                "quantity": 1.0,
+                "price": 11.92,
+                "total_price": 13.11
+            },
+            {
+                "description": "2x Soft Faux Fur Chair Cover\nSmall Area Rugs Mat for\nBedroom Floor Carpet 30cm",
+                "quantity": 3.0,
+                "price": 13.59,
+                "total_price": 44.85
+            }
+        ],
+        "subtotal": 2291.85,
+        "tax": 229.19,
+        "tip": null,
+        "total": 2521.04
+    }
+]

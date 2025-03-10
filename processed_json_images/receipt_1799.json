@@ -1,0 +1,104 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ALDI",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Sparkling Apple",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.29
+            },
+            {
+                "description": "Hot Cocoa Mix",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.19
+            },
+            {
+                "description": "Slcd Potatoes w/Sc",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "Solid Choc Balls",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "Pfeffernusse",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.29
+            },
+            {
+                "description": "Holiday Tableware",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "Holiday Tableware",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "Stuffing Mix",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.59
+            },
+            {
+                "description": "Crescent Rolls",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "b Boneless Ham",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.49
+            },
+            {
+                "description": "t Potato Patties",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "ut Green Beans",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.48
+            },
+            {
+                "description": "Cheese Balls",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.29
+            },
+            {
+                "description": "Entertainment Crck",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.49
+            },
+            {
+                "description": "Stuffing Mix",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.59
+            }
+        ],
+        "subtotal": 24.64,
+        "tax": null,
+        "tip": null,
+        "total": 25.14
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Bridges Inc",
+        "transaction_date": "2013-08-18",
+        "items": [
+            {
+                "description": "Nintendo Switch Lite Yellow\nCONSOLE ONLY - No\nAccessories or Charger [B1-2]",
+                "quantity": 2.0,
+                "price": 135.0,
+                "total_price": 297.0
+            },
+            {
+                "description": "Microsoft Xbox One S 1TB\nConsole System Model 1681 w/\nOne Controller & Cables",
+                "quantity": 2.0,
+                "price": 219.99,
+                "total_price": 483.98
+            },
+            {
+                "description": "Sony PlayStation 5 Console -\nWhite - Disc Version -\nCONFIRMED PRE ORDER PS5",
+                "quantity": 1.0,
+                "price": 499.99,
+                "total_price": 549.99
+            }
+        ],
+        "subtotal": 1209.97,
+        "tax": 121.0,
+        "tip": null,
+        "total": 1330.97
+    }
+]

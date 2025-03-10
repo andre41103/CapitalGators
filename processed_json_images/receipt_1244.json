@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GIOVANNI'S\nWINE BAR & RISTORANTE",
+        "transaction_date": "2016-06-23",
+        "items": [
+            {
+                "description": "BTL MINERAL",
+                "quantity": 2.0,
+                "price": 14.95,
+                "total_price": 3.55
+            },
+            {
+                "description": "SET MENU 2 COURSE",
+                "quantity": null,
+                "price": null,
+                "total_price": 29.9
+            },
+            {
+                "description": "ESPRESSO",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.45
+            },
+            {
+                "description": "Disc.Service Charge",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.54
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 40.84
+    }
+]

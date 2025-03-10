@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BORDER CAFE",
+        "transaction_date": "2014-04-19",
+        "items": [
+            {
+                "description": "Beverage",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.96
+            },
+            {
+                "description": "Water",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Sh/Cr Ques*E, add guac",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.88
+            },
+            {
+                "description": "Blk Salmon Sal",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.98
+            },
+            {
+                "description": "Chkn Quesa*E, add guac",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.93
+            }
+        ],
+        "subtotal": 31.75,
+        "tax": 2.22,
+        "tip": null,
+        "total": 33.97
+    }
+]

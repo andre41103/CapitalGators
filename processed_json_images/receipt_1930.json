@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "heesecake\nThe\nFactory.",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Avocado Eggrolls",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.95
+            },
+            {
+                "description": "Four Cheese w/Chkn Pasta,\nx mushrooms",
+                "quantity": null,
+                "price": null,
+                "total_price": 22.0
+            },
+            {
+                "description": "Fettucini Alfredo",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.95
+            }
+        ],
+        "subtotal": 51.9,
+        "tax": 5.24,
+        "tip": null,
+        "total": 57.14
+    }
+]

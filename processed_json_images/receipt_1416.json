@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2012-04-24",
+        "items": [
+            {
+                "description": "Bronze Dragon Codex (The\nDragon Codices) by R.D.\nHenham",
+                "quantity": 3.0,
+                "price": 4.49,
+                "total_price": 14.82
+            },
+            {
+                "description": "Michael Jackson: A Life in Music\n(Paperback or Softback)",
+                "quantity": 4.0,
+                "price": 12.33,
+                "total_price": 54.25
+            },
+            {
+                "description": "Tumbling by Caela Carter",
+                "quantity": 3.0,
+                "price": 4.49,
+                "total_price": 14.82
+            }
+        ],
+        "subtotal": 76.26,
+        "tax": 7.63,
+        "tip": null,
+        "total": 83.89
+    }
+]

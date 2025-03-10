@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Premier Restaurants Eesti AS",
+        "transaction_date": "2010-09-15",
+        "items": [
+            {
+                "description": "Cola XL XXL eine",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Big Mac XL E",
+                "quantity": 1.0,
+                "price": 60.0,
+                "total_price": 60.0
+            },
+            {
+                "description": "Ketsup",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 52.5,
+        "tax": 4.03,
+        "tip": null,
+        "total": 63.0
+    }
+]

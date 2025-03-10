@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Gaines",
+        "transaction_date": "2019-01-30",
+        "items": [
+            {
+                "description": "Metal Storage Shelf Wine Glass\nRack Wine Glasses for The\nCabinet",
+                "quantity": 5.0,
+                "price": 22.42,
+                "total_price": 123.31
+            },
+            {
+                "description": "Wine Things Unlimited - Tipsy\nWine Elf - Pewter Wine Bottle\nStopper/Cork",
+                "quantity": 1.0,
+                "price": 8.99,
+                "total_price": 9.89
+            },
+            {
+                "description": "Set of 2 Stemless Christmas\nWine Glasses NEW",
+                "quantity": 5.0,
+                "price": 12.0,
+                "total_price": 66.0
+            }
+        ],
+        "subtotal": 181.09,
+        "tax": 18.11,
+        "tip": null,
+        "total": 199.2
+    }
+]

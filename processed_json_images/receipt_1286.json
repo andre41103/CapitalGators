@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Firearms Unknown",
+        "transaction_date": "2016-12-17",
+        "items": [
+            {
+                "description": "ACE Skeleton Stock\nBlack\nRifle",
+                "quantity": 1.0,
+                "price": 99.99,
+                "total_price": 99.99
+            }
+        ],
+        "subtotal": 99.99,
+        "tax": 9.0,
+        "tip": null,
+        "total": 108.99
+    }
+]

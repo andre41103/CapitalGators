@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Chase, Green and Bailey",
+        "transaction_date": "2019-12-19",
+        "items": [
+            {
+                "description": "the invisible life of addie larue,\nEBOOK new original high\nquality, updated 2020",
+                "quantity": 2.0,
+                "price": 2.99,
+                "total_price": 6.58
+            }
+        ],
+        "subtotal": 5.98,
+        "tax": 0.6,
+        "tip": null,
+        "total": 6.58
+    }
+]

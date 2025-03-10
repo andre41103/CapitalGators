@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Sanchez Group\nEstrada-Vasquez",
+        "transaction_date": "2019-02-17",
+        "items": [
+            {
+                "description": "Imitation Wool Carpet Rugs\nKoala Panda Plush Living Room\nBlankets Non Slip Decor",
+                "quantity": 5.0,
+                "price": 26.11,
+                "total_price": 143.61
+            },
+            {
+                "description": "Romantic Rose Flowers Area\nRugs Kitchen Living Room Floor\nMat Non-slip Carpets",
+                "quantity": 5.0,
+                "price": 13.37,
+                "total_price": 73.53
+            },
+            {
+                "description": "3D Printed Mat Vortex Illusion\nLiving room Rug Carpet Floors\nDoors Round Mat",
+                "quantity": 3.0,
+                "price": 11.63,
+                "total_price": 38.38
+            },
+            {
+                "description": "handmade carpet rug vtg\nmoroccan boucherouite wollen\n9.4*3.5/288cm*107cm",
+                "quantity": 1.0,
+                "price": 289.99,
+                "total_price": 318.99
+            }
+        ],
+        "subtotal": 522.28,
+        "tax": 52.23,
+        "tip": null,
+        "total": 574.51
+    }
+]

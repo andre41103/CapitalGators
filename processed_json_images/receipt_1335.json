@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "NIKE",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "THE 10 : NIKE AIR PRESTO",
+                "quantity": null,
+                "price": null,
+                "total_price": 160.0
+            }
+        ],
+        "subtotal": 160.0,
+        "tax": 14.21,
+        "tip": null,
+        "total": 174.21
+    }
+]

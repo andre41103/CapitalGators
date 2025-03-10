@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Miller PLC",
+        "transaction_date": "2016-02-25",
+        "items": [
+            {
+                "description": "Lilly Pulitzer 8 Sunkissed with\nGlow Janice Shift Dress",
+                "quantity": 5.0,
+                "price": 56.89,
+                "total_price": 312.9
+            },
+            {
+                "description": "LAUREN RALPH LAUREN\nWomens Landette V-Neck",
+                "quantity": 4.0,
+                "price": 45.99,
+                "total_price": 202.36
+            },
+            {
+                "description": "Pre-Owned Women's Nah Nah\nSexy",
+                "quantity": 4.0,
+                "price": 12.99,
+                "total_price": 57.16
+            },
+            {
+                "description": "Diane Von Furstenberg Wrap\nRed Black Classic Dress Size 14",
+                "quantity": 4.0,
+                "price": 65.0,
+                "total_price": 286.0
+            },
+            {
+                "description": "New Wallis black floral midi\ndress sleeveles,",
+                "quantity": 4.0,
+                "price": 38.0,
+                "total_price": 167.2
+            }
+        ],
+        "subtotal": 932.37,
+        "tax": 93.24,
+        "tip": null,
+        "total": 1025.61
+    }
+]

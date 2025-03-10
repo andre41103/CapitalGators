@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Shaw and Sons",
+        "transaction_date": "2012-10-20",
+        "items": [
+            {
+                "description": "Wall Mounted Upside Down\nWine Bottle Rack Goblet Glass",
+                "quantity": 1.0,
+                "price": 14.98,
+                "total_price": 16.48
+            },
+            {
+                "description": "Wine Openers.Heavy Duty\nStainless Steel Hinges Wine\nKey.12Pcs/Random Color.",
+                "quantity": 3.0,
+                "price": 29.99,
+                "total_price": 98.97
+            },
+            {
+                "description": "New without boxes heavy duty\nplastic wine glasses lot of 16",
+                "quantity": 2.0,
+                "price": 12.95,
+                "total_price": 28.49
+            },
+            {
+                "description": "EU Blichmann Riptide Brewing\nPump - Hombrew Beer Wine",
+                "quantity": 5.0,
+                "price": 200.0,
+                "total_price": 1100.0
+            },
+            {
+                "description": "Pier 1 Multi-color Cordial\nLiqueur Wine Glasses Set of 4",
+                "quantity": 5.0,
+                "price": 30.0,
+                "total_price": 165.0
+            }
+        ],
+        "subtotal": 1280.85,
+        "tax": 128.09,
+        "tip": null,
+        "total": 1408.94
+    }
+]

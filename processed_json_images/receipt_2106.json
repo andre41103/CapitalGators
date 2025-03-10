@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "omino's Pizza Singapore Pte Ltd",
+        "transaction_date": "2023-02-16",
+        "items": [
+            {
+                "description": "9\"THN (HW)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.8
+            },
+            {
+                "description": "GRD\n4 GRD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.8
+            },
+            {
+                "description": "ORNG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.8
+            },
+            {
+                "description": "T/B",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.8
+            }
+        ],
+        "subtotal": 37.2,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Jones and",
+        "transaction_date": "2019-03-12",
+        "items": [
+            {
+                "description": "Tea with Jane Austen",
+                "quantity": 5.0,
+                "price": 4.89,
+                "total_price": 26.9
+            },
+            {
+                "description": "Michael Jackson: A Life in Music\n(Paperback or Softback)",
+                "quantity": 2.0,
+                "price": 12.33,
+                "total_price": 27.13
+            },
+            {
+                "description": "Most famous bracelet in the\nworld",
+                "quantity": 4.0,
+                "price": 20.0,
+                "total_price": 88.0
+            }
+        ],
+        "subtotal": 129.11,
+        "tax": 12.91,
+        "tip": null,
+        "total": 142.02
+    }
+]

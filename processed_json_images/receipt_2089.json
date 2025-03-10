@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ONE MILL STREET",
+        "transaction_date": "2003-01-09",
+        "items": [
+            {
+                "description": "CALAMARI W/ MOJO",
+                "quantity": 2.0,
+                "price": 8.0,
+                "total_price": 16.0
+            },
+            {
+                "description": "ARTICHOKES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "PORK CHOP",
+                "quantity": 3.0,
+                "price": 18.0,
+                "total_price": 54.0
+            },
+            {
+                "description": "VEG IE SAND",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "NEW YORK STRIP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 19.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 5.25,
+        "tip": 18.9,
+        "total": 129.15
+    }
+]

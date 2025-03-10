@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Le Louis Philippe",
+        "transaction_date": "2017-05-19",
+        "items": [
+            {
+                "description": "PLAT SEUL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            }
+        ],
+        "subtotal": 12.5,
+        "tax": 1.14,
+        "tip": null,
+        "total": 12.5
+    }
+]

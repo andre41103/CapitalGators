@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2017-04-28",
+        "items": [
+            {
+                "description": "HUMUS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "LAVAS HOLLOW BREAD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "TARAMA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "SHEPHERD SALAD SMALL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.5
+            },
+            {
+                "description": "LAMB SHISH KEBAB",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.95
+            },
+            {
+                "description": "Lamb COMBO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24.95
+            },
+            {
+                "description": "Baklava Combo",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "House White Wine by Glass",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "SODA FOUNTAIN",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.75
+            }
+        ],
+        "subtotal": 100.65,
+        "tax": 8.68,
+        "tip": null,
+        "total": null
+    }
+]

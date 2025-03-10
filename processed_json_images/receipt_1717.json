@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BDB INVEST sprl",
+        "transaction_date": "2014-11-20",
+        "items": [
+            {
+                "description": "Anguilles au vert",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 21.3
+            },
+            {
+                "description": "Choucroute",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 23.5
+            },
+            {
+                "description": "Tarte",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.9
+            },
+            {
+                "description": "Eaux",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 6.8
+            },
+            {
+                "description": "Verre de vin",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "Cafeterie",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

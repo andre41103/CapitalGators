@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Coffee Roast Malaysia tidn. Bhd",
+        "transaction_date": "2015-05-21",
+        "items": [
+            {
+                "description": "Opera kenye",
+                "quantity": 1.0,
+                "price": 16.9,
+                "total_price": 16.9
+            }
+        ],
+        "subtotal": 16.9,
+        "tax": 1.12,
+        "tip": 1.69,
+        "total": null
+    }
+]

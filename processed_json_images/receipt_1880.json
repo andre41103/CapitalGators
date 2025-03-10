@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Boyer, Trevino and Hines",
+        "transaction_date": "2015-06-30",
+        "items": [
+            {
+                "description": "Yilong 5'x8' Handknotted Silk\nArea Rug Living Room Black\nClassic Carpet L38B",
+                "quantity": 5.0,
+                "price": 8.0,
+                "total_price": 44.0
+            },
+            {
+                "description": "Bohemia Style Round Morocco\nArea Rug Tassel Carpet Mat\nFloor Blanket Room Decor",
+                "quantity": 1.0,
+                "price": 46.89,
+                "total_price": 51.58
+            },
+            {
+                "description": "3D Carpet Mat Printing Home\nHallway Door Floor Anti-slip Rug\n40*60mm/40*120mm",
+                "quantity": 2.0,
+                "price": 11.71,
+                "total_price": 25.76
+            },
+            {
+                "description": "Cartoon Rabbit Printed Round\nCarpet Area Rug Children Play\nTent Floor Mat Rug",
+                "quantity": 2.0,
+                "price": 177.08,
+                "total_price": 389.58
+            },
+            {
+                "description": "Wow Floral Medallion Rectangle\nArea Rug Hand Knotted Wool\nSilk Carpet (5 x 3)'",
+                "quantity": 5.0,
+                "price": 314.99,
+                "total_price": 1.0
+            },
+            {
+                "description": "Feather Pattern Area Rugs\nLiving Room Floor Mat Non-slip\nKitchen Carpets Decor",
+                "quantity": 5.0,
+                "price": 13.46,
+                "total_price": 74.03
+            }
+        ],
+        "subtotal": 42.0,
+        "tax": 4206.67,
+        "tip": null,
+        "total": 46273.39
+    }
+]

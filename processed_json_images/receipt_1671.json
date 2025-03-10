@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walmart",
+        "transaction_date": "2017-01-08",
+        "items": [
+            {
+                "description": "VAI SYNHXL",
+                "quantity": null,
+                "price": null,
+                "total_price": 22.47
+            },
+            {
+                "description": "COKE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.68
+            },
+            {
+                "description": "FILTER",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.94
+            },
+            {
+                "description": "TURKEY BITES",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.94
+            },
+            {
+                "description": "DN LS TEE",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "NA IS VNECK",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "ACCENT 806",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.97
+            }
+        ],
+        "subtotal": 51.0,
+        "tax": 3.36,
+        "tip": null,
+        "total": 54.36
+    }
+]

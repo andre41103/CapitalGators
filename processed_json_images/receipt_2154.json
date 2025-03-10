@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KOHL'S",
+        "transaction_date": "2009-09-19",
+        "items": [
+            {
+                "description": "TODD GRLS APPAR",
+                "quantity": null,
+                "price": 12.0,
+                "total_price": 2.4
+            },
+            {
+                "description": "TODDLER APPAREL",
+                "quantity": null,
+                "price": 12.0,
+                "total_price": 2.4
+            },
+            {
+                "description": "INFANT APPAREL",
+                "quantity": null,
+                "price": 10.0,
+                "total_price": 2.0
+            },
+            {
+                "description": "INFANT APPAREL",
+                "quantity": null,
+                "price": 10.0,
+                "total_price": 2.0
+            },
+            {
+                "description": "TODD GRLS APPAR",
+                "quantity": null,
+                "price": 12.0,
+                "total_price": 2.4
+            }
+        ],
+        "subtotal": 11.2,
+        "tax": 0.73,
+        "tip": null,
+        "total": 11.93
+    }
+]

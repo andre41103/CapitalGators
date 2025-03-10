@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Banks, Wright and Mills\nLLC",
+        "transaction_date": "2013-03-15",
+        "items": [
+            {
+                "description": "Durango Lil' Little Kid Western\nCasual Western Purple Boys -\nSize 2 M",
+                "quantity": 3.0,
+                "price": 204.0,
+                "total_price": 224.4
+            },
+            {
+                "description": "NWT adidas Pulseboost HD (Big\nKid) Casual Running Shoes Boys\nBLACK SIZE 4",
+                "quantity": 5.0,
+                "price": 84.99,
+                "total_price": 467.45
+            },
+            {
+                "description": "RICOSTA BGE boys everyday\ncasual sandals NEW Size 33/ US\n2",
+                "quantity": 5.0,
+                "price": 225.0,
+                "total_price": 247.5
+            },
+            {
+                "description": "Timberland Kid's Brown Field\nScuff-Proof Boots Size 7",
+                "quantity": 4.0,
+                "price": 39.99,
+                "total_price": 175.96
+            },
+            {
+                "description": "5 YOUTH Boys Big Kids Nike\nJordan 6-17-23 Basketball White\nred Black 428818 100",
+                "quantity": 1.0,
+                "price": 89.99,
+                "total_price": 98.99
+            }
+        ],
+        "subtotal": 1103.9,
+        "tax": 110.39,
+        "tip": null,
+        "total": 1214.29
+    }
+]

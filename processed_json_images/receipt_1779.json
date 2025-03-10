@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2013-10-11",
+        "items": [
+            {
+                "description": "Lamb Coco Curry",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 105000.0
+            },
+            {
+                "description": "VN Rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12000.0
+            },
+            {
+                "description": "Goa Fish Curry",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 80000.0
+            },
+            {
+                "description": "Cheese&Garlic N",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 38000.0
+            },
+            {
+                "description": "Tiger",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 50000.0
+            }
+        ],
+        "subtotal": 285000.0,
+        "tax": null,
+        "tip": null,
+        "total": 285000.0
+    }
+]

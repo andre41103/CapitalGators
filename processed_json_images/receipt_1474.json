@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Medina Inc",
+        "transaction_date": "2019-06-08",
+        "items": [
+            {
+                "description": "Double Lever Wine Corker Used\nIn Good Shape",
+                "quantity": 5.0,
+                "price": 6.3,
+                "total_price": 34.65
+            },
+            {
+                "description": "Wine Bottle Opener Corkscrew\nSet RED 5 pc Stopper Pourer\nFoil Cutter Bottle",
+                "quantity": 1.0,
+                "price": 8.65,
+                "total_price": 9.52
+            },
+            {
+                "description": "500g Active Dry Yeast for\nAlcohol Fermentation / White\nWine Brewing with sacchar",
+                "quantity": 2.0,
+                "price": 19.99,
+                "total_price": 43.98
+            },
+            {
+                "description": "HAND PAINTED WINE GLASSES\nGRAPE DESIGN SET OF FOUR",
+                "quantity": 4.0,
+                "price": 14.99,
+                "total_price": 65.96
+            }
+        ],
+        "subtotal": 140.09,
+        "tax": 14.01,
+        "tip": null,
+        "total": 154.1
+    }
+]

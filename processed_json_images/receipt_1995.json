@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2017-05-08",
+        "items": [
+            {
+                "description": "PRAWNS 12",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.6
+            },
+            {
+                "description": "BREW HOUSE BURGER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.65
+            },
+            {
+                "description": "BARON OF BEEF",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.95
+            },
+            {
+                "description": "LARGE POP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.95
+            },
+            {
+                "description": "FM LAGER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.34
+            }
+        ],
+        "subtotal": 40.49,
+        "tax": null,
+        "tip": null,
+        "total": 42.96
+    }
+]

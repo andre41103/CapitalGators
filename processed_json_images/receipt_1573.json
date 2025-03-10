@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Bishop-Taylor",
+        "transaction_date": "2011-11-09",
+        "items": [
+            {
+                "description": "Pictures From a Distant\nCountry: Seeing America\nThrough Old Paper Money",
+                "quantity": 5.0,
+                "price": 13.84,
+                "total_price": 76.12
+            },
+            {
+                "description": "Arnold Ehret RATIONAL FASTING\n1971 paperback collector's\nedition",
+                "quantity": 3.0,
+                "price": 6.75,
+                "total_price": 22.27
+            },
+            {
+                "description": "Walleye wisdom",
+                "quantity": 5.0,
+                "price": 4.49,
+                "total_price": 24.7
+            }
+        ],
+        "subtotal": 111.9,
+        "tax": 11.19,
+        "tip": null,
+        "total": 123.09
+    }
+]

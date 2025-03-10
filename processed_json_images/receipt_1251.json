@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Laiola",
+        "transaction_date": "2008-02-10",
+        "items": [],
+        "subtotal": null,
+        "tax": null,
+        "tip": 7.0,
+        "total": 43.35
+    }
+]

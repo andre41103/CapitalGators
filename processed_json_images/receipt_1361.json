@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Kemp and Sons",
+        "transaction_date": "2017-12-24",
+        "items": [
+            {
+                "description": "Gaming PC Desktop Computer\nIntel i7 RGB GTX 1660, 16GB\nRAM, 2TB HDD, 240GB SSD",
+                "quantity": 4.0,
+                "price": 779.99,
+                "total_price": 3431.96
+            },
+            {
+                "description": "Desktop Computer AMD\nSempron LE1250 No HDD No OS",
+                "quantity": 3.0,
+                "price": 9.99,
+                "total_price": 32.97
+            },
+            {
+                "description": "Nexlink DG41RQ Desktop\nComputer Windows 10\nw/DVD/CD Rom Drive",
+                "quantity": 2.0,
+                "price": 11.95,
+                "total_price": 26.29
+            },
+            {
+                "description": "Intel core i7 Geforce GTX1060\nSuper Game Gamer Master\nGaming Desktop Computer PC",
+                "quantity": 4.0,
+                "price": 689.99,
+                "total_price": 3035.96
+            },
+            {
+                "description": "SAMA RGB Gaming PC Desktop\nComputer i5 3.7GHz Nvidia GTX\n1060 16GB Windows 10",
+                "quantity": 5.0,
+                "price": 400.0,
+                "total_price": 2200.0
+            }
+        ],
+        "subtotal": 7933.79,
+        "tax": 793.38,
+        "tip": null,
+        "total": 8727.17
+    }
+]

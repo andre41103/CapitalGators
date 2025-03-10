@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Hill PLC",
+        "transaction_date": "2017-10-21",
+        "items": [
+            {
+                "description": "Nightmares in the Sky:\nGargoyles and Grotesques",
+                "quantity": 5.0,
+                "price": 7.5,
+                "total_price": 41.25
+            },
+            {
+                "description": "Spectacular Ireland Coffee\nTable Book - very large",
+                "quantity": 1.0,
+                "price": 10.0,
+                "total_price": 11.0
+            },
+            {
+                "description": "Midnight Sun(Twilight) by\nStephenie Meyer | Hardback UK\nEdition",
+                "quantity": 3.0,
+                "price": 24.99,
+                "total_price": 82.47
+            },
+            {
+                "description": "The Fifty Greatest Conspiracies\nof All Time History s Biggest\nMyster",
+                "quantity": 1.0,
+                "price": 4.49,
+                "total_price": 4.94
+            }
+        ],
+        "subtotal": 126.96,
+        "tax": 12.7,
+        "tip": null,
+        "total": 139.66
+    }
+]

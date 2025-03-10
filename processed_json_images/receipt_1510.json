@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Jordan-Spencer",
+        "transaction_date": "2018-09-08",
+        "items": [
+            {
+                "description": "9.5 Inch Dinosaur Bones Wine\nBottle Holder",
+                "quantity": 1.0,
+                "price": 24.0,
+                "total_price": 26.4
+            },
+            {
+                "description": "Luigi Bormioli Crescendo Wine\nCarafe (48oz)",
+                "quantity": 3.0,
+                "price": 14.1,
+                "total_price": 46.53
+            },
+            {
+                "description": "Single Bottle Wine Holder Mini\nBar Painted & Signed",
+                "quantity": 3.0,
+                "price": 39.99,
+                "total_price": 131.97
+            }
+        ],
+        "subtotal": 186.27,
+        "tax": 18.63,
+        "tip": null,
+        "total": 204.9
+    }
+]

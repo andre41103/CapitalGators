@@ -1,0 +1,128 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Kroger",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "FRI GNGR ORG",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.49
+            },
+            {
+                "description": "ROMAINE ORG",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "KRO BNS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.19
+            },
+            {
+                "description": "MISF TORTLLA",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.59
+            },
+            {
+                "description": "MNMU PORTABL",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "MNMU PORTABL",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "KRO OLV OIL",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.59
+            },
+            {
+                "description": "MISF TORTLLA",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.59
+            },
+            {
+                "description": "KRO BNS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.19
+            },
+            {
+                "description": "KRO CHLI PWD",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.19
+            },
+            {
+                "description": "P S CORIANDR",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.29
+            },
+            {
+                "description": "ONIONS ORG",
+                "quantity": 1.33,
+                "price": 1.39,
+                "total_price": 1.85
+            },
+            {
+                "description": "HAAS AVOCADO",
+                "quantity": 3.0,
+                "price": 0.89,
+                "total_price": 2.67
+            },
+            {
+                "description": "PPR BELL RED",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "PPR YLW ORG",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.29
+            },
+            {
+                "description": "LETTUCE LEAF",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.88
+            },
+            {
+                "description": "TOMATO ORG",
+                "quantity": 0.69,
+                "price": 3.99,
+                "total_price": 2.75
+            },
+            {
+                "description": "CILANTRO ORG",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "PS ORG BAY L",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.96,
+        "tip": null,
+        "total": 44.48
+    }
+]

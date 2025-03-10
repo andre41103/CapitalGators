@@ -1,0 +1,134 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "MURGH TIKKA Main",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 10.9
+            },
+            {
+                "description": "MURGH TANDOORI\nHALA\nMAIN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.9
+            },
+            {
+                "description": "Ma\u015bscia ChickkenTikka",
+                "quantity": null,
+                "price": null,
+                "total_price": 38.86
+            },
+            {
+                "description": "Furka Dall Main",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.9
+            },
+            {
+                "description": "Bati Chicken\nCAPNA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 66.9
+            },
+            {
+                "description": "Rice Pilou",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 8.55
+            },
+            {
+                "description": "Poppadom",
+                "quantity": 18.0,
+                "price": null,
+                "total_price": 12.6
+            },
+            {
+                "description": "Pickle Tray",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "Pickle Tray",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.8
+            },
+            {
+                "description": "Nan Botad Family Piain\n1731",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.45
+            },
+            {
+                "description": "Choppati",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 1.6
+            },
+            {
+                "description": "Chappab",
+                "quantity": 6.0,
+                "price": null,
+                "total_price": 4.8
+            },
+            {
+                "description": "Chips",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "King Fisher Pint",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 15.6
+            },
+            {
+                "description": "Bottle Kopparberg",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.3
+            },
+            {
+                "description": "Coke Normal",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.4
+            },
+            {
+                "description": "Coke Normal",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 19.6
+            },
+            {
+                "description": "Diet Coke Normal",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.4
+            },
+            {
+                "description": "120 Apple Mango\nCZ",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.9
+            },
+            {
+                "description": "Diet Coke Normat",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 14.3
+            }
+        ],
+        "subtotal": 159.8,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

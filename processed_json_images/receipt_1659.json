@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THE LICHENS AKTIE",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Cheesebrgr Animal",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.7
+            },
+            {
+                "description": "Dol-Dbl Animal",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.65
+            },
+            {
+                "description": "Fry",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.85
+            },
+            {
+                "description": "Animal Ery",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.85
+            },
+            {
+                "description": "Reg Chocolate SHk",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.45
+            },
+            {
+                "description": "Med Diet Coke",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.6
+            }
+        ],
+        "subtotal": 16.3,
+        "tax": 1.18,
+        "tip": null,
+        "total": 17.48
+    }
+]

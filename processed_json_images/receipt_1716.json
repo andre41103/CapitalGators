@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Cuisine of India",
+        "transaction_date": "2014-05-04",
+        "items": [
+            {
+                "description": "Lamb Bhuna",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.99
+            },
+            {
+                "description": "Basmati Boiled Rice 1\\2 Order",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "Naan",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.99
+            }
+        ],
+        "subtotal": 20.97,
+        "tax": 1.68,
+        "tip": null,
+        "total": 22.65
+    }
+]

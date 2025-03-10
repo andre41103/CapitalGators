@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "ARCO AMPM 42259",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "EC UNLD CA #05",
+                "quantity": 0.6106,
+                "price": 2.799,
+                "total_price": 1.71
+            },
+            {
+                "description": "Prepaid Fuel",
+                "quantity": null,
+                "price": null,
+                "total_price": -5.0
+            }
+        ],
+        "subtotal": -3.29,
+        "tax": 0.0,
+        "tip": null,
+        "total": -3.29
+    }
+]

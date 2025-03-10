@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Main Street Restaurant",
+        "transaction_date": "2017-04-10",
+        "items": [
+            {
+                "description": "Cappuccino",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "Apple Pie",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Brownies",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.5
+            }
+        ],
+        "subtotal": 10.0,
+        "tax": null,
+        "tip": null,
+        "total": 10.0
+    }
+]

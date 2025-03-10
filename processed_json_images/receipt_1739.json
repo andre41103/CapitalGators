@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": null,
+                "quantity": 4.0,
+                "price": 15.0,
+                "total_price": 60.0
+            },
+            {
+                "description": "YOUR TIME AND MILEAGE",
+                "quantity": null,
+                "price": null,
+                "total_price": 60.0
+            },
+            {
+                "description": "** 11.11% FEE",
+                "quantity": null,
+                "price": null,
+                "total_price": 26.68
+            },
+            {
+                "description": "FUEL PURCH OPT",
+                "quantity": null,
+                "price": null,
+                "total_price": 61.02
+            },
+            {
+                "description": "LOSS DAMAGE WAIVER",
+                "quantity": null,
+                "price": null,
+                "total_price": 111.96
+            },
+            {
+                "description": "CUST FAC CHARGE",
+                "quantity": null,
+                "price": 6.0,
+                "total_price": 24.0
+            },
+            {
+                "description": "ENERGY RECOVERY\n0.60/DY",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.4
+            },
+            {
+                "description": "MTNC FAC FEE\n1.19/DY",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.76
+            }
+        ],
+        "subtotal": 290.82,
+        "tax": 44.5,
+        "tip": null,
+        "total": 344.77
+    }
+]

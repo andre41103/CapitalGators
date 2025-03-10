@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Zubrowka Apple Pie",
+                "quantity": 3.0,
+                "price": 6.5,
+                "total_price": 19.5
+            },
+            {
+                "description": "FeverTree ElderFlower",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "0x Chilli",
+                "quantity": 2.0,
+                "price": 12.0,
+                "total_price": 24.0
+            },
+            {
+                "description": "Chicken Schnitzel",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Chicken Burger",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "PU Onion Rings",
+                "quantity": 2.0,
+                "price": 4.0,
+                "total_price": 8.0
+            },
+            {
+                "description": "Bratwurst",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "Chips",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "Da Luca Prosecco<Bt>",
+                "quantity": 3.0,
+                "price": 23.0,
+                "total_price": 69.0
+            },
+            {
+                "description": "Lucky Dip",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.0
+            },
+            {
+                "description": "Cheesecake",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 97.0
+    }
+]

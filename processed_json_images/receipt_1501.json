@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Hardin and Sons",
+        "transaction_date": "2012-05-20",
+        "items": [
+            {
+                "description": "SONY Playstation2 Console",
+                "quantity": 1.0,
+                "price": 60.0,
+                "total_price": 66.0
+            },
+            {
+                "description": "Nintendo Wii White Console",
+                "quantity": 1.0,
+                "price": 100.0,
+                "total_price": 110.0
+            }
+        ],
+        "subtotal": 160.0,
+        "tax": 16.0,
+        "tip": null,
+        "total": 176.0
+    }
+]

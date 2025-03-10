@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HARBOR FREIGHT TOOLS",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "SAFETY GLASSES (CLEAR LEN",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.49
+            },
+            {
+                "description": "SAFETY GLASSES (CLEAR LEN",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.49
+            },
+            {
+                "description": "EAR MUFFS",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.99
+            },
+            {
+                "description": "15IN FLAT PRY BAR",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "160Z FIBERGLASS CLAW HAMM",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            }
+        ],
+        "subtotal": 24.95,
+        "tax": 1.5,
+        "tip": null,
+        "total": 26.45
+    }
+]

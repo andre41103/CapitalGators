@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Holland, Griffin and Coleman",
+        "transaction_date": "2012-09-10",
+        "items": [
+            {
+                "description": "HP Z220 Desktop Computer\nBarebone system",
+                "quantity": 2.0,
+                "price": 70.0,
+                "total_price": 154.0
+            },
+            {
+                "description": "Custom Build HP EliteDesk 800\nG1 Tower i5-4570 3.20GHZ\nDesktop Computer PC",
+                "quantity": 5.0,
+                "price": 124.99,
+                "total_price": 687.44
+            }
+        ],
+        "subtotal": 764.95,
+        "tax": 76.49,
+        "tip": null,
+        "total": 841.44
+    }
+]

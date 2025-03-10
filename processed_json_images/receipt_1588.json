@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "White PLC",
+        "transaction_date": "2017-10-02",
+        "items": [
+            {
+                "description": "RICOSTA BGE boys everyday\ncasual sandals NEW Size 33/ US\n2",
+                "quantity": 2.0,
+                "price": 45.0,
+                "total_price": 99.0
+            },
+            {
+                "description": "Blueteeth LED Galaxy Projector\nStarry Night Lamp Star\nProjection Night Light USB",
+                "quantity": 4.0,
+                "price": 28.49,
+                "total_price": 125.36
+            },
+            {
+                "description": "Kid's Unicorn Sunglasses Girls\nRainbow Mythical Fashion\nShades",
+                "quantity": 3.0,
+                "price": 9.95,
+                "total_price": 32.83
+            }
+        ],
+        "subtotal": 233.81,
+        "tax": 23.38,
+        "tip": null,
+        "total": 257.19
+    }
+]

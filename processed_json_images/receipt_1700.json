@@ -1,0 +1,134 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walmart",
+        "transaction_date": "2011-10-13",
+        "items": [
+            {
+                "description": "BEVERAGE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "BEVERAGE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "BEVERAGE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "SDR 12 CT",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.97
+            },
+            {
+                "description": "SDR 12 CT",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.97
+            },
+            {
+                "description": "SDR 12 CT",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.97
+            },
+            {
+                "description": "SDR 12 CT",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.97
+            },
+            {
+                "description": "FLOSS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.97
+            },
+            {
+                "description": "FLOSS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.97
+            },
+            {
+                "description": "DENTAL FLOSS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.97
+            },
+            {
+                "description": "DENTAL FLOSS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.97
+            },
+            {
+                "description": "COV ULT FNSH",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.64
+            },
+            {
+                "description": "COV CHEEKERS\nCOUPON 78000\nCOUPON 78000",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.74
+            },
+            {
+                "description": "COUPON 41058",
+                "quantity": null,
+                "price": null,
+                "total_price": -2.0
+            },
+            {
+                "description": "COUPON 41058",
+                "quantity": null,
+                "price": null,
+                "total_price": -2.0
+            },
+            {
+                "description": "COUPON 12547",
+                "quantity": null,
+                "price": null,
+                "total_price": -2.5
+            },
+            {
+                "description": "COUPON 12547",
+                "quantity": null,
+                "price": null,
+                "total_price": -2.5
+            },
+            {
+                "description": "COUPON 22700",
+                "quantity": null,
+                "price": null,
+                "total_price": -8.0
+            },
+            {
+                "description": "COUPON 41058",
+                "quantity": null,
+                "price": null,
+                "total_price": -4.0
+            },
+            {
+                "description": "COUPON 78000",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            }
+        ],
+        "subtotal": 2.04,
+        "tax": 1.7,
+        "tip": null,
+        "total": 3.74
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2018-05-03",
+        "items": [
+            {
+                "description": "JUGO NARANJA 2PINOS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1050.0
+            },
+            {
+                "description": "MANZANA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 700.0
+            },
+            {
+                "description": "NABISCO CHIPS AHOY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 950.0
+            },
+            {
+                "description": "QUEQUE JUNIOR VAINI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1325.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 463.05,
+        "tip": null,
+        "total": 4025.0
+    }
+]

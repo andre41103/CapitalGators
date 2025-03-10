@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2015-01-11",
+        "items": [
+            {
+                "description": "Rage By Bob Woodward -\nDonald Trump NEW\nHARDCOVER Sept 2020",
+                "quantity": 5.0,
+                "price": 22.93,
+                "total_price": 126.12
+            },
+            {
+                "description": "Spectacular Ireland Coffee\nTable Book - very large",
+                "quantity": 4.0,
+                "price": 10.0,
+                "total_price": 44.0
+            },
+            {
+                "description": "The Complete Life's Little\nInstruction Book by Brown, H.\nJackson, Jr.",
+                "quantity": 4.0,
+                "price": 4.09,
+                "total_price": 18.0
+            }
+        ],
+        "subtotal": 171.01,
+        "tax": 17.1,
+        "tip": null,
+        "total": 188.11
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Hobbs Group",
+        "transaction_date": "2018-02-24",
+        "items": [
+            {
+                "description": "Nike Air Max 90 All Black\nLeather Running Shoes",
+                "quantity": 4.0,
+                "price": 74.99,
+                "total_price": 329.96
+            },
+            {
+                "description": "Nike Air Force 1 Low\nTriple White Youth\nBoys\n5Y",
+                "quantity": 2.0,
+                "price": 54.95,
+                "total_price": 120.89
+            },
+            {
+                "description": "Nike Boys Shorts Size 5",
+                "quantity": 5.0,
+                "price": 8.99,
+                "total_price": 49.45
+            }
+        ],
+        "subtotal": 454.81,
+        "tax": 45.48,
+        "tip": null,
+        "total": 500.29
+    }
+]

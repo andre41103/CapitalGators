@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Kramer, Harris and Martinez",
+        "transaction_date": "2018-11-23",
+        "items": [
+            {
+                "description": "Dell Desktop Computers\nCore i5 16GB 2TB HD 512GB\nSSD\nWindows 10 PC 22\" LCD",
+                "quantity": 3.0,
+                "price": 129.95,
+                "total_price": 428.83
+            }
+        ],
+        "subtotal": 389.85,
+        "tax": 38.98,
+        "tip": null,
+        "total": 428.83
+    }
+]

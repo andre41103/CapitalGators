@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GAYLORD LONDON",
+        "transaction_date": "2017-11-01",
+        "items": [
+            {
+                "description": "Itom",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Cover Charge",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 5.75
+            },
+            {
+                "description": "181 Voss",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.25
+            },
+            {
+                "description": "Garlic Naan",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.25
+            },
+            {
+                "description": "Lamb Korma",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.5
+            },
+            {
+                "description": "Lamb Chops Anardana",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.5
+            }
+        ],
+        "subtotal": 50.25,
+        "tax": 7.88,
+        "tip": 8.28,
+        "total": 56.53
+    }
+]

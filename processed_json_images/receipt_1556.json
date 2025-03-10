@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Barber LLC",
+        "transaction_date": "2016-07-26",
+        "items": [
+            {
+                "description": "NEW TOMMY HILFIGER RED\nWHITE BLUE #5 COLOR BLOCK\nBEACH SANDALS BOYS KIDS 8/9",
+                "quantity": 5.0,
+                "price": 34.5,
+                "total_price": 189.75
+            },
+            {
+                "description": "Kid's Unicorn Sunglasses Girls\nRainbow Mythical Fashion\nShades",
+                "quantity": 3.0,
+                "price": 9.95,
+                "total_price": 32.83
+            }
+        ],
+        "subtotal": 202.35,
+        "tax": 20.23,
+        "tip": null,
+        "total": 222.58
+    }
+]

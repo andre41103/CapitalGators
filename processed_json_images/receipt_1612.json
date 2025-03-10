@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Hog Island Oyster Co.",
+        "transaction_date": "2015-01-24",
+        "items": [
+            {
+                "description": "Bar Mix 12",
+                "quantity": null,
+                "price": null,
+                "total_price": 36.0
+            },
+            {
+                "description": "Sweet 6",
+                "quantity": null,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "Worcestershire",
+                "quantity": 4.0,
+                "price": 3.25,
+                "total_price": 13.0
+            },
+            {
+                "description": "Pesto",
+                "quantity": 4.0,
+                "price": 3.25,
+                "total_price": 13.0
+            },
+            {
+                "description": "Spot Prawn Risotto",
+                "quantity": null,
+                "price": null,
+                "total_price": 23.0
+            },
+            {
+                "description": "Chowder",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.0
+            }
+        ],
+        "subtotal": 117.0,
+        "tax": 10.55,
+        "tip": null,
+        "total": 131.08
+    }
+]

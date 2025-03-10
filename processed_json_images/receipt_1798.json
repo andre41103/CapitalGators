@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Shangri-La's",
+        "transaction_date": "2009-10-22",
+        "items": [
+            {
+                "description": "Tanuf 1500 ml",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.6
+            },
+            {
+                "description": "Dinner Buffet Adul",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 27.0
+            }
+        ],
+        "subtotal": 28.6,
+        "tax": null,
+        "tip": 2.29,
+        "total": 33.46
+    }
+]

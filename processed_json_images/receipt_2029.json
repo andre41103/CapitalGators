@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LA SOLANA RIBADEO S.L.",
+        "transaction_date": "2013-08-02",
+        "items": [
+            {
+                "description": "ENSALADA ESPECIAL LA\nSOLANA",
+                "quantity": 1.0,
+                "price": 9.42,
+                "total_price": 9.42
+            },
+            {
+                "description": "CROQUETAS DE MARISCO",
+                "quantity": 1.0,
+                "price": 9.5,
+                "total_price": 9.5
+            },
+            {
+                "description": "PARRILLADA DE PESCADO",
+                "quantity": 1.0,
+                "price": 36.86,
+                "total_price": 36.86
+            },
+            {
+                "description": "RACION DE PAN",
+                "quantity": 3.0,
+                "price": 1.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "AGUA LITRO",
+                "quantity": 1.0,
+                "price": 2.6,
+                "total_price": 2.6
+            },
+            {
+                "description": "CA\u00d1A",
+                "quantity": 1.0,
+                "price": 1.8,
+                "total_price": 1.8
+            },
+            {
+                "description": "PAZO DO MAR BOTELLA",
+                "quantity": 1.0,
+                "price": 12.22,
+                "total_price": 12.22
+            }
+        ],
+        "subtotal": null,
+        "tax": 6.85,
+        "tip": null,
+        "total": 75.4
+    }
+]

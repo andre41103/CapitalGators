@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Woolworths Cafe",
+        "transaction_date": "2016-10-26",
+        "items": [
+            {
+                "description": "Beef Brg",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 80.0
+            },
+            {
+                "description": "Med Plate",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 75.0
+            },
+            {
+                "description": "Sprite 330ml",
+                "quantity": 2.0,
+                "price": 19.0,
+                "total_price": 38.0
+            },
+            {
+                "description": "Ex Chillies",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Still Water500ml",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Espresso Dbl",
+                "quantity": 2.0,
+                "price": 20.0,
+                "total_price": 40.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 255.0
+    }
+]

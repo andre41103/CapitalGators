@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Nelson Ltd",
+        "transaction_date": "2012-08-11",
+        "items": [
+            {
+                "description": "Sony PlayStation 3 PS3 Super\nSlim Black Console 20 GB\n*Tested* Console & Cables",
+                "quantity": 4.0,
+                "price": 99.95,
+                "total_price": 439.78
+            },
+            {
+                "description": "Sony PlayStation 3 500GB\nCharcoal Black Console System\nWith Box Cech 4001c",
+                "quantity": 5.0,
+                "price": 75.0,
+                "total_price": 412.5
+            },
+            {
+                "description": "PlayStation 5 Console Disc\nVersion",
+                "quantity": 1.0,
+                "price": 899.99,
+                "total_price": 989.99
+            },
+            {
+                "description": "Nintendo Switch Lite Gray\nCONSOLE ONLY - No\nAccessories or Charger [B5-3]",
+                "quantity": 2.0,
+                "price": 135.0,
+                "total_price": 297.0
+            },
+            {
+                "description": "Anbernic Retro Games 500 in 1\n8 Bit Classic Video Game\nConsole Handheld Player",
+                "quantity": 4.0,
+                "price": 1.25,
+                "total_price": 5.5
+            },
+            {
+                "description": "Sega Saturn Console Gray\nJapanese",
+                "quantity": 5.0,
+                "price": 119.98,
+                "total_price": 659.89
+            }
+        ],
+        "subtotal": 2549.69,
+        "tax": 254.97,
+        "tip": null,
+        "total": 2804.66
+    }
+]

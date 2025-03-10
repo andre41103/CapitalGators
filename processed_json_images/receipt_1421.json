@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Dickerson-Burgess",
+        "transaction_date": "2014-08-13",
+        "items": [
+            {
+                "description": "miley cyrus Bubble Dress",
+                "quantity": 3.0,
+                "price": 16.0,
+                "total_price": 52.8
+            },
+            {
+                "description": "Vintage 90s Sostanza Plus Size\nDress 22W Floral Cottagecore",
+                "quantity": 5.0,
+                "price": 49.96,
+                "total_price": 274.78
+            },
+            {
+                "description": "PAS DE CALAIS DRESS WOMENS\nSIZE 36",
+                "quantity": 1.0,
+                "price": 9.95,
+                "total_price": 10.94
+            },
+            {
+                "description": "Matilda Jane Womans Lets Go\nTogether Black Knit Dress Size\nM Medium NWT",
+                "quantity": 2.0,
+                "price": 19.6,
+                "total_price": 43.12
+            },
+            {
+                "description": "Lands End Womens 3/4 Sleeve\nDress Plus 3X Navy Blue Floral",
+                "quantity": 2.0,
+                "price": 21.23,
+                "total_price": 46.71
+            }
+        ],
+        "subtotal": 389.41,
+        "tax": 38.94,
+        "tip": null,
+        "total": 428.35
+    }
+]

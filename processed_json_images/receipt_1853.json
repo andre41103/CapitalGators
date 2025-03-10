@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KESAR DA DHABA",
+        "transaction_date": "2016-12-27",
+        "items": [
+            {
+                "description": "ALOO PRANTHA THA",
+                "quantity": 1.0,
+                "price": 275.0,
+                "total_price": 275.0
+            },
+            {
+                "description": "MISSI ROTI",
+                "quantity": 4.0,
+                "price": 60.0,
+                "total_price": 240.0
+            },
+            {
+                "description": "CHAPATI CHOPRI",
+                "quantity": 1.0,
+                "price": 15.0,
+                "total_price": 15.0
+            },
+            {
+                "description": "PALAK PANEER",
+                "quantity": 1.0,
+                "price": 220.0,
+                "total_price": 220.0
+            },
+            {
+                "description": "CHANNA PLAIN",
+                "quantity": 1.0,
+                "price": 30.0,
+                "total_price": 30.0
+            },
+            {
+                "description": "MINRAL WATER",
+                "quantity": 1.0,
+                "price": 20.0,
+                "total_price": 20.0
+            }
+        ],
+        "subtotal": 800.0,
+        "tax": null,
+        "tip": null,
+        "total": 800.0
+    }
+]

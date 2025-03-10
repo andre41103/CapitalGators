@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LURE\nFISH HOUSE",
+        "transaction_date": "2014-01-13",
+        "items": [
+            {
+                "description": "Diet Coca Cola",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Bowl of Chowder & Salad",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.95
+            },
+            {
+                "description": "Half Strawberry Salad",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "Sangria",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "Live Maine Lobster 1.5 1b",
+                "quantity": null,
+                "price": null,
+                "total_price": 24.95
+            },
+            {
+                "description": "Lobster Ravioli",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.95
+            },
+            {
+                "description": "Charbroil Oysters",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.95
+            },
+            {
+                "description": "Wild Mahi Mahi",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.95
+            },
+            {
+                "description": "Bowl White Clam Chowder",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.5
+            }
+        ],
+        "subtotal": 101.25,
+        "tax": 7.59,
+        "tip": null,
+        "total": 108.84
+    }
+]

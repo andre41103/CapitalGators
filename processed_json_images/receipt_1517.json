@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Chandler-Figueroa",
+        "transaction_date": "2020-11-04",
+        "items": [
+            {
+                "description": "Art History Portables Book 6 by\nMichael W. Cothren and Marilyn\nStokstad 5th edtn",
+                "quantity": 3.0,
+                "price": 26.0,
+                "total_price": 85.8
+            },
+            {
+                "description": "Most famous bracelet in the\nworld",
+                "quantity": 5.0,
+                "price": 20.0,
+                "total_price": 110.0
+            },
+            {
+                "description": "Q&A a Day: 5-Year Journal",
+                "quantity": 3.0,
+                "price": 4.49,
+                "total_price": 14.82
+            },
+            {
+                "description": "Rebecca and Ana (American Girl\n(Quality))",
+                "quantity": 3.0,
+                "price": 4.49,
+                "total_price": 14.82
+            },
+            {
+                "description": "Care & Repair of Furniture",
+                "quantity": 5.0,
+                "price": 4.25,
+                "total_price": 23.37
+            },
+            {
+                "description": "Earl Scruggs and the 5-String\nBanjo: Revised and Enhanced\nEdition (Paperback or",
+                "quantity": 2.0,
+                "price": 22.68,
+                "total_price": 49.9
+            },
+            {
+                "description": "Beverley Nichols : A Life by\nBryan Connon 2005 Hardcover\nNew",
+                "quantity": 5.0,
+                "price": 35.95,
+                "total_price": 197.73
+            }
+        ],
+        "subtotal": 451.3,
+        "tax": 45.13,
+        "tip": null,
+        "total": 496.43
+    }
+]

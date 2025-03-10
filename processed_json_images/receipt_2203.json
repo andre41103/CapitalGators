@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SusieCakes",
+        "transaction_date": "2016-09-24",
+        "items": [
+            {
+                "description": "Celebration Cake 6\"",
+                "quantity": null,
+                "price": null,
+                "total_price": 36.0
+            },
+            {
+                "description": "Inscription Specialty Cake",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Healthy CA (2%)",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.78
+            }
+        ],
+        "subtotal": 39.78,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BURGER\nKING",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "CANS WEID",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.9
+            },
+            {
+                "description": "ENOR BUR BISVEIC",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.49
+            },
+            {
+                "description": "LO COKE",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 2.01
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.98,
+        "tip": null,
+        "total": 10.05
+    }
+]

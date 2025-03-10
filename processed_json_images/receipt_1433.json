@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Porter-Perkins",
+        "transaction_date": "2012-03-12",
+        "items": [
+            {
+                "description": "Nintendo 3DS Handheld Console\nPurple",
+                "quantity": 5.0,
+                "price": 98.99,
+                "total_price": 544.45
+            },
+            {
+                "description": "PocketGo Bittboy v2 White\nRetro Video Game Portable\nConsole - 3.5 IPS display",
+                "quantity": 4.0,
+                "price": 39.0,
+                "total_price": 171.6
+            },
+            {
+                "description": "Sony PlayStation 3 Slim 120GB\nBlack Console",
+                "quantity": 4.0,
+                "price": 99.99,
+                "total_price": 439.96
+            },
+            {
+                "description": "Microsoft Xbox 360 - White -\nConsole, Power Supply, AV\nCables *Tested, Working*",
+                "quantity": 1.0,
+                "price": 39.95,
+                "total_price": 43.95
+            },
+            {
+                "description": "SONY Playstation2 Console\nSCPH-39000 \" Aqua Color \" /\nTESTED 11181",
+                "quantity": 1.0,
+                "price": 45.0,
+                "total_price": 49.5
+            },
+            {
+                "description": "Nintendo 64 Console \"Perfect\" +\nLot Games \"6 Games\"",
+                "quantity": 1.0,
+                "price": 200.0,
+                "total_price": 220.0
+            }
+        ],
+        "subtotal": 1335.86,
+        "tax": 133.59,
+        "tip": null,
+        "total": 1469.45
+    }
+]

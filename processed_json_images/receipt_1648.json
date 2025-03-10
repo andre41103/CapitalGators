@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2017-02-13",
+        "items": [
+            {
+                "description": "BT Biere Artisanal",
+                "quantity": 1.0,
+                "price": 4.9,
+                "total_price": 4.9
+            },
+            {
+                "description": null,
+                "quantity": 6.0,
+                "price": 4.9,
+                "total_price": 29.4
+            },
+            {
+                "description": "Ap\u00e9ritif maison",
+                "quantity": 1.0,
+                "price": 4.9,
+                "total_price": 4.9
+            },
+            {
+                "description": "Truite papiotte",
+                "quantity": 1.0,
+                "price": 16.5,
+                "total_price": 16.5
+            },
+            {
+                "description": "CHOUCROUTE ROYALE",
+                "quantity": 3.0,
+                "price": 19.9,
+                "total_price": 59.7
+            },
+            {
+                "description": "Tourte de la\nvall\u00e9e",
+                "quantity": 1.0,
+                "price": 14.5,
+                "total_price": 14.5
+            },
+            {
+                "description": "Coupe de cr\u00e9mant",
+                "quantity": 1.0,
+                "price": 4.4,
+                "total_price": 4.4
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": 3.2,
+                "total_price": 3.2
+            }
+        ],
+        "subtotal": 135.91,
+        "tax": null,
+        "tip": null,
+        "total": 153.4
+    }
+]

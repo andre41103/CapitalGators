@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Sanchez Inc",
+        "transaction_date": "2014-09-06",
+        "items": [
+            {
+                "description": "Lands' End Kids Boys Snow\nWinter Boots",
+                "quantity": 2.0,
+                "price": 9.5,
+                "total_price": 20.9
+            },
+            {
+                "description": "Cherokee Boys Grayton Skate\nShoes 12 Surf Skate Casual 12K\nBlack",
+                "quantity": 4.0,
+                "price": 19.99,
+                "total_price": 87.96
+            },
+            {
+                "description": "Joma Boys Youth Gol-102\nSoccer Cleats Shoes",
+                "quantity": 1.0,
+                "price": 19.99,
+                "total_price": 21.99
+            }
+        ],
+        "subtotal": 118.95,
+        "tax": 11.89,
+        "tip": null,
+        "total": 130.84
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TARGET",
+        "transaction_date": "2016-06-03",
+        "items": [
+            {
+                "description": "AF TRAIL MIX",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.69
+            },
+            {
+                "description": "AF TRAIL MIX",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.39
+            },
+            {
+                "description": "KIND GRANOLA",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "KIND GRANOLA",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "LUNA PROT",
+                "quantity": null,
+                "price": 5.79,
+                "total_price": 5.0
+            },
+            {
+                "description": "CRUNCH PAK",
+                "quantity": 2.0,
+                "price": 2.99,
+                "total_price": 5.98
+            },
+            {
+                "description": "1.5LB GRAPES",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "1.5LB GRAPES",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "BANANA",
+                "quantity": 7.0,
+                "price": 0.29,
+                "total_price": 2.03
+            }
+        ],
+        "subtotal": 44.05,
+        "tax": 0.0,
+        "tip": null,
+        "total": 44.05
+    }
+]

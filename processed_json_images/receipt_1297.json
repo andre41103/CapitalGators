@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Jimmy Johns",
+        "transaction_date": "2016-05-11",
+        "items": [
+            {
+                "description": "#4 Turkey Ton",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.99
+            },
+            {
+                "description": "#16 Club Lulu",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.69
+            },
+            {
+                "description": "#4 Turkey Tom",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.69
+            },
+            {
+                "description": "#4 Turkey Tom",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.69
+            },
+            {
+                "description": "Jimmy Regular Chips",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.29
+            },
+            {
+                "description": "Jimmy Regular Chips",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.29
+            },
+            {
+                "description": "Jimmy Regular Chips",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.29
+            }
+        ],
+        "subtotal": 30.6,
+        "tax": 2.91,
+        "tip": null,
+        "total": 33.51
+    }
+]

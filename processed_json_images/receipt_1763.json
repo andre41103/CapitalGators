@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Tiendas Comercial Mexicana S.A. de C.V.",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "BIOTRUE 300ML BAUSC",
+                "quantity": 1.0,
+                "price": 107.9,
+                "total_price": 107.9
+            },
+            {
+                "description": "BIOTRUE 60ML BAUSCH",
+                "quantity": 1.0,
+                "price": 47.4,
+                "total_price": 47.4
+            },
+            {
+                "description": "AGUA OXIGENADA 480M",
+                "quantity": 1.0,
+                "price": 11.9,
+                "total_price": 11.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 23.06,
+        "tip": null,
+        "total": 167.2
+    }
+]

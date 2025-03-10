@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2015-05-09",
+        "items": [
+            {
+                "description": "BREAD",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "SOUP",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "BLACK COD",
+                "quantity": null,
+                "price": null,
+                "total_price": 31.0
+            },
+            {
+                "description": "PORRIDGE",
+                "quantity": null,
+                "price": null,
+                "total_price": 33.0
+            },
+            {
+                "description": "RHUBARB",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Syrah, MGraillot Equinoxe",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.0
+            }
+        ],
+        "subtotal": 108.0,
+        "tax": 9.45,
+        "tip": null,
+        "total": 117.45
+    }
+]

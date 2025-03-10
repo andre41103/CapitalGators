@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ROCK ROAD SEAFOOD RESTAURANT SDN BHD",
+        "transaction_date": "2016-04-08",
+        "items": [
+            {
+                "description": "PJ-Mixed Fruit Juice (P)",
+                "quantity": 1.0,
+                "price": 8.0,
+                "total_price": 8.0
+            },
+            {
+                "description": "PJ-Dragon Juice(P)",
+                "quantity": 1.0,
+                "price": 8.0,
+                "total_price": 8.0
+            },
+            {
+                "description": "Bidin",
+                "quantity": 1.0,
+                "price": 18.0,
+                "total_price": 18.0
+            },
+            {
+                "description": "Prawn - Boiled",
+                "quantity": 1.0,
+                "price": 42.0,
+                "total_price": 42.0
+            },
+            {
+                "description": "Lokan-Dry Chilli",
+                "quantity": 1.0,
+                "price": 25.0,
+                "total_price": 25.0
+            },
+            {
+                "description": "Scallop With Brocolli",
+                "quantity": 1.0,
+                "price": 38.0,
+                "total_price": 38.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

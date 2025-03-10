@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2015-02-03",
+        "items": [
+            {
+                "description": "GARLICBREAD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.95
+            },
+            {
+                "description": "Diet",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Iced Tea",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "TASTE OF NO",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 33.9
+            },
+            {
+                "description": "Whole Muff",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.95
+            },
+            {
+                "description": "Alfredo",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.95
+            }
+        ],
+        "subtotal": null,
+        "tax": 7.78,
+        "tip": null,
+        "total": 87.53
+    }
+]

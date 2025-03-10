@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Harris-Green",
+        "transaction_date": "2015-12-19",
+        "items": [
+            {
+                "description": "16 Inches Marble Coffee Table",
+                "quantity": 4.0,
+                "price": 280.5,
+                "total_price": 1234.2
+            },
+            {
+                "description": "6'x3' Black Marble Large Dining",
+                "quantity": 5.0,
+                "price": 5.0,
+                "total_price": 29170.13
+            },
+            {
+                "description": "Luxurious Pattern Stone Dinning",
+                "quantity": 2.0,
+                "price": 3.0,
+                "total_price": 7682.4
+            }
+        ],
+        "subtotal": 624.3,
+        "tax": 38086.73,
+        "tip": null,
+        "total": null
+    }
+]

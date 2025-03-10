@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "SPEEDWAY",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Unleaded, Self Serve",
+                "quantity": 13.439,
+                "price": 3.579,
+                "total_price": 48.1
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 48.1
+    }
+]

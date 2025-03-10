@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Bloody Mary 's",
+        "transaction_date": "2015-02-02",
+        "items": [
+            {
+                "description": "Eau Royale 1L:",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 400.0
+            },
+            {
+                "description": "Calamari Steak",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1600.0
+            },
+            {
+                "description": "Sashimi",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1600.0
+            },
+            {
+                "description": "Broadbill Sword",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3500.0
+            },
+            {
+                "description": "Wahoo",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3200.0
+            },
+            {
+                "description": "Marlin",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3200.0
+            },
+            {
+                "description": "Mahi Mahi Spl",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3500.0
+            },
+            {
+                "description": "Lagoon Fish",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3000.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 2301.0,
+        "tip": null,
+        "total": 20000.0
+    }
+]

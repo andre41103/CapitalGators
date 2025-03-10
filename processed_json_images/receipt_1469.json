@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Williams LLC",
+        "transaction_date": "2012-10-09",
+        "items": [
+            {
+                "description": "Lilly Pulitzer dress Size 2",
+                "quantity": 5.0,
+                "price": 45.0,
+                "total_price": 247.5
+            },
+            {
+                "description": "New ERIN Erin Fertherston\nStraight Dress White Sequence\nLining Sleeveless SZ 10",
+                "quantity": 1.0,
+                "price": 59.99,
+                "total_price": 65.99
+            },
+            {
+                "description": "Sequence dress Size Small",
+                "quantity": 3.0,
+                "price": 35.0,
+                "total_price": 115.5
+            },
+            {
+                "description": "fire los angeles dress Medium",
+                "quantity": 3.0,
+                "price": 6.5,
+                "total_price": 21.45
+            },
+            {
+                "description": "Eileen Fisher Women's Long\nSleeve Fleece Lined Front\nPockets Dress XS Gray",
+                "quantity": 3.0,
+                "price": 15.99,
+                "total_price": 52.77
+            },
+            {
+                "description": "Lularoe Nicole Dress Size Small\nLight Solid Grey/ White Ringer\nTee Trim",
+                "quantity": 2.0,
+                "price": 3.75,
+                "total_price": 8.25
+            },
+            {
+                "description": "J.Crew Collection Black & White\nsweater Dress sz S",
+                "quantity": 1.0,
+                "price": 30.0,
+                "total_price": 33.0
+            }
+        ],
+        "subtotal": 494.96,
+        "tax": 49.5,
+        "tip": null,
+        "total": 544.46
+    }
+]

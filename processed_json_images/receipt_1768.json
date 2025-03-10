@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Vasanta Bhavan",
+        "transaction_date": "2017-02-25",
+        "items": [
+            {
+                "description": "Veg Kotthu",
+                "quantity": null,
+                "price": null,
+                "total_price": 300.0
+            },
+            {
+                "description": "String Hopper Beiyeni",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 350.0
+            },
+            {
+                "description": "blondhu Voda Each",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 75.0
+            },
+            {
+                "description": "Pannerkofhos",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 490.0
+            },
+            {
+                "description": "Noan",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 150.0
+            }
+        ],
+        "subtotal": 1365.0,
+        "tax": 0.0,
+        "tip": 0.0,
+        "total": 2000.0
+    }
+]

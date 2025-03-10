@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Japengo\nCaf\u00e9",
+        "transaction_date": "2015-07-17",
+        "items": [
+            {
+                "description": "Crab Cake",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 56.0
+            },
+            {
+                "description": "Edamame",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 28.0
+            },
+            {
+                "description": "Stir Fry Chicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 52.0
+            },
+            {
+                "description": "Delivery Charges",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 141.0
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "P.F. Chang & Chips Bistro.",
+        "transaction_date": "2015-10-01",
+        "items": [
+            {
+                "description": "Straw Cucumber Limeade",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.95
+            },
+            {
+                "description": "Honey Chicken",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.25
+            },
+            {
+                "description": "Sesame Chicken",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.5
+            },
+            {
+                "description": "Rice - Fried Side",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

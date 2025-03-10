@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CHIPOTLE",
+        "transaction_date": "2016-07-29",
+        "items": [
+            {
+                "description": "Chicken Bowl",
+                "quantity": 2.0,
+                "price": 6.8,
+                "total_price": 13.6
+            },
+            {
+                "description": "Guacamole",
+                "quantity": 2.0,
+                "price": 2.05,
+                "total_price": 4.5
+            },
+            {
+                "description": "Chocolate Milk",
+                "quantity": 2.0,
+                "price": 2.25,
+                "total_price": null
+            },
+            {
+                "description": "Chips",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.35
+            }
+        ],
+        "subtotal": 23.55,
+        "tax": 2.35,
+        "tip": null,
+        "total": 25.91
+    }
+]

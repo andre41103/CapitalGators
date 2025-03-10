@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DUPLICATE\nArtisanal Studio Pvt.Ltd.",
+        "transaction_date": "2015-05-23",
+        "items": [
+            {
+                "description": "GUACAMOLE TRADICIONAL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 350.0
+            },
+            {
+                "description": "BEEF TACO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 425.0
+            },
+            {
+                "description": "SHRIMP TOSTADA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 375.0
+            },
+            {
+                "description": "LEMON CHIA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 195.0
+            },
+            {
+                "description": "TAMARIND WATER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 195.0
+            },
+            {
+                "description": "SEABASS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 650.0
+            },
+            {
+                "description": "TRES LECHES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 395.0
+            }
+        ],
+        "subtotal": 2585.0,
+        "tax": null,
+        "tip": 259.0,
+        "total": 3341.0
+    }
+]

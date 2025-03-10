@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TRADER JOE'S",
+        "transaction_date": "2015-11-14",
+        "items": [
+            {
+                "description": "NUT WALNUT PIECES POINDEXTER",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.99
+            },
+            {
+                "description": "OLIVES PITTED KAL IN XVOO",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "A-APPLE EACH PINK LADY.",
+                "quantity": 7.0,
+                "price": 0.69,
+                "total_price": 4.83
+            }
+        ],
+        "subtotal": 14.81,
+        "tax": null,
+        "tip": null,
+        "total": 14.81
+    }
+]

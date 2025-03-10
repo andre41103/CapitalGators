@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2021-01-28",
+        "items": [
+            {
+                "description": "Wine Glasses Set Of 4",
+                "quantity": 2.0,
+                "price": 6.0,
+                "total_price": 13.2
+            },
+            {
+                "description": "Uncork New York rolling\nvineryards Wine glass set of 2",
+                "quantity": 5.0,
+                "price": 5.99,
+                "total_price": 32.95
+            },
+            {
+                "description": "Anthropologie Gold Elegant\nSwan Decorative Metal Bottle\nStopper Wine Saver",
+                "quantity": 1.0,
+                "price": 19.98,
+                "total_price": 21.98
+            },
+            {
+                "description": "Moonshine Still 8Gal/30L Water\nAlcohol Distiller Home Brew\nWine Making Kit 3 Pot",
+                "quantity": 3.0,
+                "price": 89.99,
+                "total_price": 296.97
+            },
+            {
+                "description": "4 Tupperware Wine Stemless\nCups Set Acrylic Plastic Shatter\nProof Beverages New",
+                "quantity": 2.0,
+                "price": 34.99,
+                "total_price": 76.98
+            }
+        ],
+        "subtotal": 401.88,
+        "tax": 40.19,
+        "tip": null,
+        "total": 442.07
+    }
+]

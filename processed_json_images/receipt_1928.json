@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THALIAS CO.,LTD",
+        "transaction_date": "2018-01-13",
+        "items": [
+            {
+                "description": "Angkor Big",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "Eau Kulen 150cl",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "A2-Cambodian Skewers",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "A4-Fried Softshell Crab",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "ST2-Fish Amok",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "V3-Wok-Fried Eggplants",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "C3-Saraman Beef",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.0
+            }
+        ],
+        "subtotal": 52.5,
+        "tax": 5.25,
+        "tip": null,
+        "total": null
+    }
+]

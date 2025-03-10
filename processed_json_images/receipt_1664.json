@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Black Bear Diner",
+        "transaction_date": "2014-09-02",
+        "items": [
+            {
+                "description": "BBS Chicken Sausage & Egg",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "N/A JUICE OJ SM Fresh Squ",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.49
+            }
+        ],
+        "subtotal": 13.48,
+        "tax": 1.21,
+        "tip": null,
+        "total": 14.69
+    }
+]

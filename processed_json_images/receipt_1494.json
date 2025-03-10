@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Schmidt and",
+        "transaction_date": "2019-03-29",
+        "items": [
+            {
+                "description": "The Wim Hof Method Activate\nYour Potential, Transcend Your\nLimits 0000",
+                "quantity": 4.0,
+                "price": 4.22,
+                "total_price": 18.57
+            },
+            {
+                "description": "Merry Robin Hood by H. Pyle\nNew Sealed Illustrated Leather\nBound Gift Hardback",
+                "quantity": 4.0,
+                "price": 19.99,
+                "total_price": 87.96
+            },
+            {
+                "description": "Christmas Cupcake Murder: A\nFestive & Delicious Ch ... by\nJoanne Fluke (P.D.F)",
+                "quantity": 5.0,
+                "price": 2.99,
+                "total_price": 16.45
+            },
+            {
+                "description": "Sing My Way Home: Voices of\nthe New American Roots",
+                "quantity": 5.0,
+                "price": 5.61,
+                "total_price": 30.86
+            },
+            {
+                "description": "Rebecca and Ana (American Girl\n(Quality))",
+                "quantity": 1.0,
+                "price": 4.49,
+                "total_price": 4.94
+            },
+            {
+                "description": "Unleashed : The Story of Tool,\nPaperback by Mclver, Joel,\nBrand New, Free shi ...",
+                "quantity": 2.0,
+                "price": 16.88,
+                "total_price": 37.14
+            },
+            {
+                "description": "[NEW] A Divine Revelation Of\nHell by Mary",
+                "quantity": 5.0,
+                "price": 15.35,
+                "total_price": 84.43
+            }
+        ],
+        "subtotal": 254.84,
+        "tax": 25.48,
+        "tip": null,
+        "total": 280.32
+    }
+]

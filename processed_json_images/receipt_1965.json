@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "meijer",
+        "transaction_date": "2011-11-22",
+        "items": [
+            {
+                "description": "FROZEN ONIONS",
+                "quantity": 2.0,
+                "price": 99.0,
+                "total_price": 1.98
+            },
+            {
+                "description": "MEIJER KETCHUP",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.59
+            },
+            {
+                "description": "ICE CREAM",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.99
+            },
+            {
+                "description": "TORTILLA CHP",
+                "quantity": null,
+                "price": 3.29,
+                "total_price": 2.99
+            },
+            {
+                "description": "COCACOLA",
+                "quantity": null,
+                "price": 7.48,
+                "total_price": 5.5
+            },
+            {
+                "description": "DEPOSIT",
+                "quantity": 2.0,
+                "price": 2.4,
+                "total_price": 4.8
+            },
+            {
+                "description": "COCACOLA",
+                "quantity": null,
+                "price": 7.48,
+                "total_price": 5.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 28.35
+    }
+]

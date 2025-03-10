@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Caddy's at the Pointe",
+        "transaction_date": "2018-04-08",
+        "items": [
+            {
+                "description": "Tailgate Burger",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.95
+            },
+            {
+                "description": "Jerk Chicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.95
+            },
+            {
+                "description": "Sierra Mist",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.49
+            },
+            {
+                "description": "Fried Pickles",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.95
+            },
+            {
+                "description": "FRIED Shrimp App",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.95
+            }
+        ],
+        "subtotal": 43.29,
+        "tax": 3.03,
+        "tip": null,
+        "total": 46.32
+    }
+]

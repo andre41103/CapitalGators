@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2016-08-24",
+        "items": [
+            {
+                "description": "Red Traditional Oriental\nMedallion 8x10 Area Rug Carpet\n2\u00d73 Mat 5\u00d77 Rugs",
+                "quantity": 5.0,
+                "price": 39.98,
+                "total_price": 219.89
+            },
+            {
+                "description": "Sheepskin Shaggy Faux Fur\nSilky Plush Soft Fabric\nRectangular Rug Doormat\nCarpet",
+                "quantity": 2.0,
+                "price": 8.99,
+                "total_price": 19.78
+            },
+            {
+                "description": "YILONG 5.6'x8.2' Handknotted\nSilk Rug Red Medallion Indoor\nDurable Carpet 1842",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "Galaxy Butterfly Area Rugs\nChildren Bedroom Non-Slip\nDoormat Floor Mat Carpet",
+                "quantity": 4.0,
+                "price": 13.69,
+                "total_price": 60.24
+            },
+            {
+                "description": "YILONG 9'x12' Oversize\nHandmade Silk Carpet Antistatic\nLuxurious Area Rug TJ107A",
+                "quantity": 2.0,
+                "price": 7.0,
+                "total_price": 17.0
+            }
+        ],
+        "subtotal": 19172.64,
+        "tax": 1917.26,
+        "tip": null,
+        "total": 21089.9
+    }
+]

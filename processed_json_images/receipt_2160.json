@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Collins-Cooley",
+        "transaction_date": "2013-06-19",
+        "items": [
+            {
+                "description": "Nintendo 64 Console \"Perfect\" +\nLot Games \"6 Games\"",
+                "quantity": 2.0,
+                "price": 200.0,
+                "total_price": 440.0
+            },
+            {
+                "description": "Nintendo Wii Teal Blue Limited\nEdition Console with Mario Kart -\nMINT TESTED",
+                "quantity": 3.0,
+                "price": 114.99,
+                "total_price": 379.47
+            },
+            {
+                "description": "Nintendo NES System Console\nChoose Your Super Mario Game\nBundle New 72 Pin",
+                "quantity": 5.0,
+                "price": 114.99,
+                "total_price": 632.44
+            }
+        ],
+        "subtotal": 1319.92,
+        "tax": 131.99,
+        "tip": null,
+        "total": 1451.91
+    }
+]

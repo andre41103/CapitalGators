@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Golden Spoon",
+        "transaction_date": "2008-08-27",
+        "items": [
+            {
+                "description": "St Frd Tofu # Broc Mus",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.1
+            },
+            {
+                "description": "Sliced Beef in Ginger",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.4
+            },
+            {
+                "description": "Mixed Fried Rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "Mineral water (Lrg)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.2
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 7.2
+    }
+]

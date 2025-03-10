@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Decker, Miller and Hall",
+        "transaction_date": "2012-03-04",
+        "items": [
+            {
+                "description": "Fluffy Rugs Anti-slip Area Rug\nDining Room Carpet Floor Mat\nHome Bedroom Decor !",
+                "quantity": 4.0,
+                "price": 4.99,
+                "total_price": 21.96
+            },
+            {
+                "description": "Nordic Style Round Carpet Blue\nGreen Stitching Pattern Decor\nRug Room Area Rugs",
+                "quantity": 4.0,
+                "price": 25.3,
+                "total_price": 111.32
+            },
+            {
+                "description": "YILONG 5.6'x8.2' Handknotted\nSilk Rug Red Medallion Indoor\nDurable Carpet 1842",
+                "quantity": 2.0,
+                "price": 3.0,
+                "total_price": 7260.0
+            },
+            {
+                "description": "YILONG 4'x6' Yellow Handmade\nCarpet Living Room Hand\nKnotted Silk Rugs 077B",
+                "quantity": 2.0,
+                "price": 3.0,
+                "total_price": 7920.0
+            },
+            {
+                "description": "Moroccan Handmade Amazigh\nCarpet 9'2\" x 4'5\"",
+                "quantity": 2.0,
+                "price": 329.0,
+                "total_price": 723.8
+            },
+            {
+                "description": "60cmx90cm Sheepskin Fluffy\nSkin Faux Fur Fake Rug Mat\nCarpet Rugs Red",
+                "quantity": 2.0,
+                "price": 31.52,
+                "total_price": 69.34
+            },
+            {
+                "description": "Yilong 5'x7.5' Hand Knotted Silk\nArea Rug Medium Size Classic\nFloor Carpets 0186",
+                "quantity": 3.0,
+                "price": 2.0,
+                "total_price": 9240.0
+            }
+        ],
+        "subtotal": 23042.2,
+        "tax": 2304.22,
+        "tip": null,
+        "total": 25346.42
+    }
+]

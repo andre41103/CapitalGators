@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Schultz-Garcia",
+        "transaction_date": "2020-10-28",
+        "items": [
+            {
+                "description": "Checkered Modern Kashkoli\nOriental Area Rug Foyer\nHand-knotted Wool Carpet 4'x6'",
+                "quantity": 4.0,
+                "price": 806.0,
+                "total_price": 3546.4
+            },
+            {
+                "description": "Soft Sheepskin Mat Faux Fur\nRug Small Shaggy Non Slip\nFloor Carpet Light Pink",
+                "quantity": 1.0,
+                "price": 8.11,
+                "total_price": 8.92
+            },
+            {
+                "description": "Cotton Linen Kitchen Mat\nBathroom Doormat Absorbent\nRug Hand-woven Tassel Carpet",
+                "quantity": 3.0,
+                "price": 20.52,
+                "total_price": 67.72
+            },
+            {
+                "description": "Pond Scenery Fish Area Rugs\nKitchen Rug Bedroom Floor Mat\nNon-slip Carpet Decor",
+                "quantity": 1.0,
+                "price": 13.73,
+                "total_price": 15.1
+            },
+            {
+                "description": "Indian Rectangular Beautifully\nMade Chindi Rag Rug Floor\nCarpet Ethnic Mat",
+                "quantity": 5.0,
+                "price": 29.99,
+                "total_price": 164.94
+            },
+            {
+                "description": "Yilong 9'x12' Oversized\nHandwoven Silk Carpet\nLuxurious Villa Area Rug\nHF058A",
+                "quantity": 3.0,
+                "price": 7800.0,
+                "total_price": 25740.0
+            }
+        ],
+        "subtotal": 26857.35,
+        "tax": 2685.74,
+        "tip": null,
+        "total": 29543.09
+    }
+]

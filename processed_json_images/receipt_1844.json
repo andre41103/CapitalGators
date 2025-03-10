@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GRUPO EMPORIO CASIDI S.L",
+        "transaction_date": "2014-06-22",
+        "items": [
+            {
+                "description": "CA\u00d1A TINTO VERA",
+                "quantity": 10.0,
+                "price": 1.3,
+                "total_price": 13.0
+            },
+            {
+                "description": "TAPA 1",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "TAPA 2",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "TAPA 3",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "TAPA 4",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "TAPA 5",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "PAN",
+                "quantity": 2.0,
+                "price": 0.5,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 14.0
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Super\nGrocery",
+        "transaction_date": "2017-07-16",
+        "items": [
+            {
+                "description": "DOZ FREE RNG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.33
+            },
+            {
+                "description": "HORIZON 2% ORG",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.89
+            }
+        ],
+        "subtotal": 11.11,
+        "tax": null,
+        "tip": null,
+        "total": 11.11
+    }
+]

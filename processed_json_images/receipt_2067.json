@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Real Pizza Company",
+        "transaction_date": "2015-03-12",
+        "items": [
+            {
+                "description": "Coca Cola Reg",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.25
+            },
+            {
+                "description": "Thai Chicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.95
+            },
+            {
+                "description": "Filter Coffee",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.95
+            }
+        ],
+        "subtotal": 18.15,
+        "tax": null,
+        "tip": 2.27,
+        "total": 20.42
+    }
+]

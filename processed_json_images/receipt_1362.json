@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Brewers Restaurant and Sports Bar",
+        "transaction_date": "2017-03-17",
+        "items": [
+            {
+                "description": "BLT Sandwich",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.99
+            },
+            {
+                "description": "Corned Beef Tacos",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.99
+            },
+            {
+                "description": "Side Fries",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.99
+            }
+        ],
+        "subtotal": 20.96,
+        "tax": 2.18,
+        "tip": 3.77,
+        "total": 26.91
+    }
+]

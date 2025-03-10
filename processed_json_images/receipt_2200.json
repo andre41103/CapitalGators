@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ZNK Foods & Beverages Pvt. Ltd.",
+        "transaction_date": "2015-04-17",
+        "items": [
+            {
+                "description": "Fireen (Only Me)",
+                "quantity": 1.0,
+                "price": 100.0,
+                "total_price": 100.0
+            }
+        ],
+        "subtotal": 100.0,
+        "tax": null,
+        "tip": null,
+        "total": 118.0
+    }
+]

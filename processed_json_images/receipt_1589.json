@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Lambert-Murphy",
+        "transaction_date": "2019-08-03",
+        "items": [
+            {
+                "description": "Fluffy Floor Mat Anti-Skid\nShaggy Area Rugs Dining Living\nRoom Carpet Home Decor",
+                "quantity": 5.0,
+                "price": 3.89,
+                "total_price": 21.4
+            },
+            {
+                "description": "Handmade Tribal Geometric\nDesign 4X6 Indo-Gabbeh\nOriental Rug",
+                "quantity": 2.0,
+                "price": 272.6,
+                "total_price": 599.72
+            },
+            {
+                "description": "Striped Contemporary Gabbeh\nKashkoli Oriental Area Rug\n6x8",
+                "quantity": 1.0,
+                "price": 417.24,
+                "total_price": 458.96
+            }
+        ],
+        "subtotal": 981.89,
+        "tax": 98.19,
+        "tip": null,
+        "total": 1080.08
+    }
+]

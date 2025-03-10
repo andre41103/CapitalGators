@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2016-09-16",
+        "items": [
+            {
+                "description": "CrnchWrap Only",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.19
+            },
+            {
+                "description": "Burrito Only",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

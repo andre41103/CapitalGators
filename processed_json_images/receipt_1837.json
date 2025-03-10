@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Art Burger-Sushi-Bar",
+        "transaction_date": "2015-09-26",
+        "items": [
+            {
+                "description": "Michelangelo",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "El Greco",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "Ketel One Vodka",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            }
+        ],
+        "subtotal": 32.0,
+        "tax": null,
+        "tip": null,
+        "total": 35.72
+    }
+]

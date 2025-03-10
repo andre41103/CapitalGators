@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "De Gulden Bock",
+        "transaction_date": "2016-04-20",
+        "items": [
+            {
+                "description": "1/2 Gemarineerde za\n1m",
+                "quantity": 2.0,
+                "price": 9.0,
+                "total_price": 18.0
+            },
+            {
+                "description": "1/2 groene sla",
+                "quantity": 2.0,
+                "price": 9.5,
+                "total_price": 19.0
+            },
+            {
+                "description": "1/2 San pellegrino",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 5.0
+            },
+            {
+                "description": "Duvel",
+                "quantity": 1.0,
+                "price": 4.5,
+                "total_price": 4.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 46.5
+    }
+]

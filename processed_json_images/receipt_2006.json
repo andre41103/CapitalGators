@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Citadel",
+        "transaction_date": "2018-06-08",
+        "items": [
+            {
+                "description": "WMNS NIKE FLEX 2017",
+                "quantity": null,
+                "price": 39.99,
+                "total_price": 39.99
+            },
+            {
+                "description": "NIKE ROSHE ONE",
+                "quantity": null,
+                "price": null,
+                "total_price": 74.99
+            },
+            {
+                "description": "Store Level Promotion",
+                "quantity": null,
+                "price": null,
+                "total_price": 59.99
+            }
+        ],
+        "subtotal": 99.98,
+        "tax": 10.0,
+        "tip": null,
+        "total": 109.98
+    }
+]

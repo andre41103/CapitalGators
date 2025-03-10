@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BEST BUY",
+        "transaction_date": "2017-05-27",
+        "items": [
+            {
+                "description": "DVD RECEIVER WITH 6.2\" DISPLAY",
+                "quantity": null,
+                "price": 249.99,
+                "total_price": 186.99
+            },
+            {
+                "description": "METRA FORD/LINCOLN/MERCEDES/MA",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.99
+            },
+            {
+                "description": "FORD LINCOLN MERCURY HARNESS 9",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.99
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

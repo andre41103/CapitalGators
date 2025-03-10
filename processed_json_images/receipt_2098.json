@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MAGIC MOUNTAIN",
+        "transaction_date": "2017-07-15",
+        "items": [
+            {
+                "description": "Cinnamon & Sugar",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Coco Vanil",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "Avalanche",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            }
+        ],
+        "subtotal": 21.0,
+        "tax": 2.74,
+        "tip": null,
+        "total": 21.0
+    }
+]

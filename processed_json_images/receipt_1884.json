@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TARGET",
+        "transaction_date": "2018-02-27",
+        "items": [
+            {
+                "description": "CLOROX",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.39
+            },
+            {
+                "description": "SMARTIES",
+                "quantity": 2.0,
+                "price": 2.51,
+                "total_price": 5.02
+            },
+            {
+                "description": "SOUR PUNCH",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.99
+            }
+        ],
+        "subtotal": 17.4,
+        "tax": 1.49,
+        "tip": null,
+        "total": 18.02
+    }
+]

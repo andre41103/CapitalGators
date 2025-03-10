@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Bethesda",
+        "transaction_date": "2015-12-05",
+        "items": [
+            {
+                "description": "Wheat Hse",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.25
+            },
+            {
+                "description": "Cod Fish & Chips",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.99
+            },
+            {
+                "description": "MJ Bourbon Pecan Pie",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.99
+            },
+            {
+                "description": "Red Ale Hse",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.25
+            },
+            {
+                "description": "Maker's Mark Burger",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.99
+            }
+        ],
+        "subtotal": 44.42,
+        "tax": 2.99,
+        "tip": null,
+        "total": 47.41
+    }
+]

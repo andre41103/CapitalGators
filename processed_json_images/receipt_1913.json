@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Wheeler-Dawson",
+        "transaction_date": "2017-06-14",
+        "items": [
+            {
+                "description": "Joma Youth Boys Gol 205 Piso\nMultitaco Soccer Cleats 2.5",
+                "quantity": 5.0,
+                "price": 19.99,
+                "total_price": 109.94
+            },
+            {
+                "description": "Reebok Kids Boys Blue Sneakers\nShoes US 11 No Laces",
+                "quantity": 2.0,
+                "price": 5.0,
+                "total_price": 11.0
+            },
+            {
+                "description": "Adult Girl Version Hermione\nGranger Cosplay Costume",
+                "quantity": 4.0,
+                "price": 64.16,
+                "total_price": 282.3
+            }
+        ],
+        "subtotal": 366.59,
+        "tax": 36.66,
+        "tip": null,
+        "total": 403.25
+    }
+]

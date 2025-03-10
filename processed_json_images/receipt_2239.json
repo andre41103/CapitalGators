@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Sushi Boat Town",
+        "transaction_date": "2014-08-28",
+        "items": [
+            {
+                "description": "Red Lady Roll",
+                "quantity": 1.0,
+                "price": 12.95,
+                "total_price": 12.95
+            },
+            {
+                "description": "Caterpillar R",
+                "quantity": 1.0,
+                "price": 10.95,
+                "total_price": 10.95
+            },
+            {
+                "description": "28 Chicken/Te",
+                "quantity": 1.0,
+                "price": 8.45,
+                "total_price": 8.45
+            }
+        ],
+        "subtotal": 32.35,
+        "tax": 2.83,
+        "tip": null,
+        "total": 35.18
+    }
+]

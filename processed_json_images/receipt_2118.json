@@ -1,0 +1,104 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Waitrose",
+        "transaction_date": "2013-08-03",
+        "items": [
+            {
+                "description": "DEEPA GURUNG",
+                "quantity": null,
+                "price": null,
+                "total_price": 20.25
+            },
+            {
+                "description": "ATHENO'S HUMMUS THRE",
+                "quantity": 0.236,
+                "price": null,
+                "total_price": 31.85
+            },
+            {
+                "description": "SCOTTISH SALMON FIL",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "DELSEA SMOKED SALM",
+                "quantity": 0.365,
+                "price": null,
+                "total_price": 22.5
+            },
+            {
+                "description": "AUST WAGYU BEEF ROAS",
+                "quantity": null,
+                "price": null,
+                "total_price": 29.15
+            },
+            {
+                "description": "PASSION P. ROASTED B",
+                "quantity": null,
+                "price": null,
+                "total_price": 35.5
+            },
+            {
+                "description": "ENERGY BREAD",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "FRUTIA BANANA PHILIP",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.75
+            },
+            {
+                "description": "AL ARZ ARABIC BREAD",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "BLUEBERRY USA 170GM",
+                "quantity": 0.679,
+                "price": null,
+                "total_price": 21.95
+            },
+            {
+                "description": "HOLLAND PLUM TOMATO",
+                "quantity": null,
+                "price": null,
+                "total_price": 15.1
+            },
+            {
+                "description": "LAYS CHIPS SALT&VINE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.95
+            },
+            {
+                "description": "LAYS CHIPS SALT&VINE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.95
+            },
+            {
+                "description": "FRESH HERBS PARSLEY",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "AL MARAI MILK 1% 5",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.75
+            }
+        ],
+        "subtotal": 197.7,
+        "tax": null,
+        "tip": null,
+        "total": 197.7
+    }
+]

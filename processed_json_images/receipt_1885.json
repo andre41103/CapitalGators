@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2008-11-22",
+        "items": [
+            {
+                "description": "Sodas",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 9.16
+            },
+            {
+                "description": "Buffet 2 Adulto",
+                "quantity": 6.0,
+                "price": null,
+                "total_price": 83.94
+            },
+            {
+                "description": "Buffet 2 Nitos",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.99
+            }
+        ],
+        "subtotal": 101.09,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

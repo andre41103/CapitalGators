@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Price-Bishop",
+        "transaction_date": "2013-11-09",
+        "items": [
+            {
+                "description": "The Cheater (Fear Street, No.\n18) by R. L. Stine",
+                "quantity": 4.0,
+                "price": 4.09,
+                "total_price": 18.0
+            },
+            {
+                "description": "The Picture of Dorian Gray by\nOscar Wilde",
+                "quantity": 1.0,
+                "price": 4.49,
+                "total_price": 4.94
+            },
+            {
+                "description": "Luke s Fate Star Wars",
+                "quantity": 4.0,
+                "price": 4.49,
+                "total_price": 19.76
+            },
+            {
+                "description": "All American History Vol 1\nStudent Reader",
+                "quantity": 2.0,
+                "price": 9.99,
+                "total_price": 21.98
+            }
+        ],
+        "subtotal": 58.79,
+        "tax": 5.88,
+        "tip": null,
+        "total": 64.67
+    }
+]

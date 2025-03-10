@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.parking",
+        "merchant_name": "Lamai Viewpoint & Valentine Stone",
+        "transaction_date": "2015-11-28",
+        "items": [
+            {
+                "description": "Entrance Fee - Normal",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 200.0
+            }
+        ],
+        "subtotal": 200.0,
+        "tax": null,
+        "tip": null,
+        "total": 200.0
+    }
+]

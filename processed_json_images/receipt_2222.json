@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HOMEDELIVERY",
+        "transaction_date": "2015-06-28",
+        "items": [
+            {
+                "description": "XO Chicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 40.0
+            },
+            {
+                "description": "Tom Yum Soup",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 26.0
+            },
+            {
+                "description": "Prawns",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Salt and Pepper",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 26.0
+            },
+            {
+                "description": "Chicken Wings",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Chicken Spring Roll",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 124.0
+    }
+]

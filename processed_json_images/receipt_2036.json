@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CVS/pharmacy",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "FG SPIDERMAN SG\nEACH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.99
+            }
+        ],
+        "subtotal": 8.99,
+        "tax": 74.0,
+        "tip": null,
+        "total": 9.73
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Lewis and Sons",
+        "transaction_date": "2013-12-21",
+        "items": [
+            {
+                "description": "1-4 Seater General Elastic\nFabric Protector Sofa Covers\nCouch\nStretch",
+                "quantity": 2.0,
+                "price": 0.99,
+                "total_price": 2.18
+            },
+            {
+                "description": "24\"x24\" Marble Real White Top\nCoffee Table lapis Marquetry\nFloral Christmas Gift",
+                "quantity": 4.0,
+                "price": 2500.0,
+                "total_price": 11000.0
+            },
+            {
+                "description": "18\"x18\" White Hand Curved Top\nCoffee Table Inlay Decorative\nFor Her Wedding",
+                "quantity": 5.0,
+                "price": 475.22,
+                "total_price": 2613.71
+            }
+        ],
+        "subtotal": 12378.08,
+        "tax": 1237.81,
+        "tip": null,
+        "total": 13615.89
+    }
+]

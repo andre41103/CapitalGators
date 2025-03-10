@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KOHL'S",
+        "transaction_date": "2011-07-24",
+        "items": [
+            {
+                "description": "BOYS8-20 LNG BT",
+                "quantity": null,
+                "price": 46.0,
+                "total_price": 9.2
+            },
+            {
+                "description": "88-20 TOP",
+                "quantity": null,
+                "price": 32.0,
+                "total_price": 6.4
+            },
+            {
+                "description": "B8-20 TOP",
+                "quantity": null,
+                "price": 32.0,
+                "total_price": 6.4
+            },
+            {
+                "description": "BOYS8-20 LNG BT",
+                "quantity": null,
+                "price": 34.0,
+                "total_price": 10.2
+            },
+            {
+                "description": "B8-20 BOTTOMS",
+                "quantity": null,
+                "price": 29.99,
+                "total_price": 5.99
+            },
+            {
+                "description": "B8-20 TOP",
+                "quantity": null,
+                "price": 32.0,
+                "total_price": 12.8
+            },
+            {
+                "description": "B8-20 TOP",
+                "quantity": null,
+                "price": 32.0,
+                "total_price": 6.4
+            }
+        ],
+        "subtotal": 57.39,
+        "tax": 3.79,
+        "tip": 11.48,
+        "total": 49.7
+    }
+]

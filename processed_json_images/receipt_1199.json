@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "FARMACIA",
+        "transaction_date": "2020-05-04",
+        "items": [
+            {
+                "description": "FARMACO",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.69
+            },
+            {
+                "description": "FARMACO",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.28
+            }
+        ],
+        "subtotal": 21.7,
+        "tax": null,
+        "tip": null,
+        "total": 21.7
+    }
+]

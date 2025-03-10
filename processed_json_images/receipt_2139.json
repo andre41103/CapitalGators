@@ -1,0 +1,92 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TRADER JOE'S",
+        "transaction_date": "2016-02-03",
+        "items": [
+            {
+                "description": "ORGANIC RND YELLOW TORT. CHIPS",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.69
+            },
+            {
+                "description": "R-SALAD SPINACH BABY 6 OZ",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "ORGANIC SUGAR",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.49
+            },
+            {
+                "description": "BEANS ORGANIC GARBANZO",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "CHOC CHUNKS SEMI SWEET 10 OZ",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "SPAGHETTI TOMATO SAUCE ORGANIC",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.49
+            },
+            {
+                "description": "MEAT PANCETTA CUBED CITTERIO.",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.29
+            },
+            {
+                "description": "BANANAS",
+                "quantity": 3.0,
+                "price": 0.19,
+                "total_price": 0.57
+            },
+            {
+                "description": "A-POTATO EACH RUSSET",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.49
+            },
+            {
+                "description": "R-CARROTS WHOLE ORG 1 LB",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.89
+            },
+            {
+                "description": "A-AVOCADOS EACH HASS 40 CT.",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "A-CUCUMBERS PERSIAN 14 OZ",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.49
+            },
+            {
+                "description": "TRADITIONAL REFRIED BEANS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            }
+        ],
+        "subtotal": 22.35,
+        "tax": null,
+        "tip": null,
+        "total": 22.35
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Baker-Jackson",
+        "transaction_date": "2018-05-04",
+        "items": [
+            {
+                "description": "Custom Built Gaming Computer",
+                "quantity": 2.0,
+                "price": 217.5,
+                "total_price": 478.5
+            },
+            {
+                "description": "AMD Custom Ryzen 5 Quad\nCore Gaming PC 4.2GHZ\nComputer\nDDR4\n11",
+                "quantity": 2.0,
+                "price": 574.99,
+                "total_price": 1.0
+            },
+            {
+                "description": "HP Compaq 6200 Pro SFF\nDesktop Computer Pentium\nWindows 10 System 500GB 1TB",
+                "quantity": 5.0,
+                "price": 113.96,
+                "total_price": 626.78
+            },
+            {
+                "description": "SAMA RGB Gaming PC Desktop\nComputer i5 3.7GHz Nvidia GTX\n1060 16GB\n10",
+                "quantity": 1.0,
+                "price": 400.0,
+                "total_price": 440.0
+            }
+        ],
+        "subtotal": 2554.78,
+        "tax": 255.48,
+        "tip": null,
+        "total": 2810.26
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TIP TOP MEATS",
+        "transaction_date": "2014-06-29",
+        "items": [
+            {
+                "description": "GROCERY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "GROCERY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "GROCERY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.99
+            },
+            {
+                "description": "GROCERY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.29
+            },
+            {
+                "description": "GROCERY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.09
+            },
+            {
+                "description": "GROCERY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.29
+            },
+            {
+                "description": "GROCERY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.99
+            },
+            {
+                "description": "GROCERY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.99
+            },
+            {
+                "description": "GROCERY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.99
+            },
+            {
+                "description": "GROCERY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.99
+            },
+            {
+                "description": "GROCERY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.99
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 76.59
+    }
+]

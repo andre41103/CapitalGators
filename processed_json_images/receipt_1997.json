@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2016-02-07",
+        "items": [
+            {
+                "description": "AGUA",
+                "quantity": 2.0,
+                "price": 2.0,
+                "total_price": 4.0
+            },
+            {
+                "description": "TABLA VARIADA 2",
+                "quantity": 1.0,
+                "price": 7.85,
+                "total_price": 7.85
+            },
+            {
+                "description": "CESTA PAN Y PIQUITOS",
+                "quantity": 1.0,
+                "price": 1.5,
+                "total_price": 1.5
+            },
+            {
+                "description": "VIRUTAS SOLOMILLO",
+                "quantity": 1.0,
+                "price": 10.85,
+                "total_price": 10.85
+            },
+            {
+                "description": "HAMBURGUESA LAEXPERI",
+                "quantity": 1.0,
+                "price": 10.65,
+                "total_price": 10.65
+            },
+            {
+                "description": "POCO HECHO",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 34.85
+    }
+]

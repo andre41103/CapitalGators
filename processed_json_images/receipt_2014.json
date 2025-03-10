@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Cohen LLC",
+        "transaction_date": "2015-12-17",
+        "items": [
+            {
+                "description": "NWT Women's MAX EDITION\nClassy Gray Knit Stretch Dress\nside",
+                "quantity": 2.0,
+                "price": 12.5,
+                "total_price": 27.5
+            }
+        ],
+        "subtotal": 25.0,
+        "tax": 2.5,
+        "tip": null,
+        "total": 27.5
+    }
+]

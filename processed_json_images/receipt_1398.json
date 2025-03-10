@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Carney-Rogers",
+        "transaction_date": "2017-10-07",
+        "items": [
+            {
+                "description": "Jordan B'Loyal Boys Grade\nSchool Sneakers US 3Y",
+                "quantity": 4.0,
+                "price": 9.0,
+                "total_price": 39.6
+            },
+            {
+                "description": "Western Chief Kids' Boys Classic\nRain Boots w/ Pull Handles Navy\nBlue Size 12",
+                "quantity": 1.0,
+                "price": 9.99,
+                "total_price": 10.99
+            },
+            {
+                "description": "Hot Toys COSB748 Mandalorian\n& The Child COSBABY Mini\nFigure Model Collection",
+                "quantity": 4.0,
+                "price": 32.89,
+                "total_price": 144.72
+            }
+        ],
+        "subtotal": 177.55,
+        "tax": 17.76,
+        "tip": null,
+        "total": 195.31
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Martin Group",
+        "transaction_date": "2015-02-24",
+        "items": [
+            {
+                "description": "Boden black blue floral short\nsleeve dress size 6",
+                "quantity": 1.0,
+                "price": 36.99,
+                "total_price": 40.69
+            }
+        ],
+        "subtotal": 36.99,
+        "tax": 3.7,
+        "tip": null,
+        "total": 40.69
+    }
+]

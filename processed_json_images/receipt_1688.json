@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2016-05-21",
+        "items": [
+            {
+                "description": "Exp Wax.",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 34.99
+            },
+            {
+                "description": "20% off UNL Exp/Full",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -7.0
+            },
+            {
+                "description": "Meguiars 6Mth UGSeal",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            }
+        ],
+        "subtotal": 42.99,
+        "tax": 0.0,
+        "tip": null,
+        "total": 42.99
+    }
+]

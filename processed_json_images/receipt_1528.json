@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Faulkner Group\nMendoza-Scott",
+        "transaction_date": "2020-08-23",
+        "items": [
+            {
+                "description": "Dell Optiplex XE2 SFF Desktop\nComputer W10 Pro Licensed",
+                "quantity": 3.0,
+                "price": 99.0,
+                "total_price": 326.7
+            },
+            {
+                "description": "Custom Build Dell Desktop\nComputer i5 | 16GB | 1TB SSD |\nHDMI Windows 10 PC WiFi",
+                "quantity": 1.0,
+                "price": 99.0,
+                "total_price": 108.9
+            },
+            {
+                "description": "custom gaming computer",
+                "quantity": 4.0,
+                "price": 450.0,
+                "total_price": 1980.0
+            },
+            {
+                "description": "Dell Optiplex Windows 10 Pro\nDesktop Computer PC i5 4th\nGen 3.2GHz 8 GB 2 TB HDD",
+                "quantity": 3.0,
+                "price": 149.95,
+                "total_price": 494.83
+            },
+            {
+                "description": "HP Desktop Computers Core i5\n16GB 2TB 256GB SSD Wifi 22\"\nLCD Windows 10 Pro PC",
+                "quantity": 5.0,
+                "price": 139.95,
+                "total_price": 769.73
+            },
+            {
+                "description": "2 Gaming Computers",
+                "quantity": 1.0,
+                "price": 1300.0,
+                "total_price": 1430.0
+            },
+            {
+                "description": "HP All-in-One Computer 22\"\nFull-HD Display Intel 2.90GHz\n4GB 1TB HD Win10 - TEAL",
+                "quantity": 1.0,
+                "price": 449.99,
+                "total_price": 494.99
+            }
+        ],
+        "subtotal": 5095.59,
+        "tax": 509.56,
+        "tip": null,
+        "total": 5605.15
+    }
+]

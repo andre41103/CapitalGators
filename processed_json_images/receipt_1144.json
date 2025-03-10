@@ -1,0 +1,116 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walmart",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "CORN CHEX",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.18
+            },
+            {
+                "description": "RICE KRISPY",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.98
+            },
+            {
+                "description": "KIX CEREAL",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.98
+            },
+            {
+                "description": "GV FF MILK",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.72
+            },
+            {
+                "description": "GV FF MILK",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.72
+            },
+            {
+                "description": "GV ALH UNSVN",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.57
+            },
+            {
+                "description": "DAIRYREDUCT",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.27
+            },
+            {
+                "description": "DAIRYREDUCT",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.27
+            },
+            {
+                "description": "DAIRYREDUCT",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.27
+            },
+            {
+                "description": "CELERY STALK",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.48
+            },
+            {
+                "description": "LB WHT CORN",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.38
+            },
+            {
+                "description": "MOTTS JCE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.48
+            },
+            {
+                "description": "NORTH BEAN",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.92
+            },
+            {
+                "description": "NAVY BEAN",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.92
+            },
+            {
+                "description": "NORTH BEAN",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.92
+            },
+            {
+                "description": "NAVY BEAN",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.92
+            },
+            {
+                "description": "GV SHRFIESTA",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.97
+            }
+        ],
+        "subtotal": 45.95,
+        "tax": null,
+        "tip": null,
+        "total": 45.95
+    }
+]

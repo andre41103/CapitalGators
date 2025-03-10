@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Food Mark L.L.C.",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Carpaccio",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 58.0
+            },
+            {
+                "description": "GOATCHZ&BETROOT",
+                "quantity": null,
+                "price": null,
+                "total_price": 58.0
+            },
+            {
+                "description": "SPAG MEATBALLS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 72.0
+            },
+            {
+                "description": "Mixed Olives",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "Focaccia",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "Tiramisu",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 40.0
+            },
+            {
+                "description": "Acqua Panna",
+                "quantity": null,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "Diet Pepsi",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.0
+            },
+            {
+                "description": "Diet Pepsi",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.0
+            },
+            {
+                "description": "Espresso",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 15.71,
+        "tip": null,
+        "total": 330.0
+    }
+]

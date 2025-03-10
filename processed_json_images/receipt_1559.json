@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Barton, Garcia and Richards",
+        "transaction_date": "2013-07-03",
+        "items": [
+            {
+                "description": "Muted Vegetable Dye Khootan\nOriental Area Rug Hand-knotted\nFloral 8'x11' Carpet",
+                "quantity": 4.0,
+                "price": 2.0,
+                "total_price": 8.0
+            },
+            {
+                "description": "Imitation Wool Carpet Rugs\nKoala Panda Plush Living Room\nBlankets Non Slip Decor",
+                "quantity": 5.0,
+                "price": 26.11,
+                "total_price": 143.61
+            },
+            {
+                "description": "Moroccan Handmade Amazigh\nCarpet 9'2\" x 4'5\"",
+                "quantity": 2.0,
+                "price": 329.0,
+                "total_price": 723.8
+            },
+            {
+                "description": "YILONG 1.2x1.7' 300L\nHandmade Tree of Life Silk\nCarpet Home Tapestry LH693A",
+                "quantity": 2.0,
+                "price": 188.0,
+                "total_price": 413.6
+            },
+            {
+                "description": "Carton Tiger Print Area Rug\nFaux Skin Rug Hide Cute Carpet\nFloor Mat Home Decor",
+                "quantity": 2.0,
+                "price": 10.99,
+                "total_price": 24.18
+            },
+            {
+                "description": "7x10 Diamond Geometric Rugs\nContemporary Black Color Large\nMat Dhurrie Carpet",
+                "quantity": 1.0,
+                "price": 350.0,
+                "total_price": 385.0
+            }
+        ],
+        "subtotal": 9599.09,
+        "tax": 959.91,
+        "tip": null,
+        "total": 10559.0
+    }
+]

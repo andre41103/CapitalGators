@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Perry, Brown and Hudson",
+        "transaction_date": "2012-01-09",
+        "items": [
+            {
+                "description": "300,000 PLR Articles, 2,000\nE-books + More",
+                "quantity": 1.0,
+                "price": 1.99,
+                "total_price": 2.19
+            }
+        ],
+        "subtotal": 1.99,
+        "tax": 0.2,
+        "tip": null,
+        "total": 2.19
+    }
+]

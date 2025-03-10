@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RESTORAN QADAR BALOTS",
+        "transaction_date": "2017-04-15",
+        "items": [
+            {
+                "description": "CHICKEN HANDY 1/2",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.0
+            },
+            {
+                "description": "LAMB MANDY",
+                "quantity": null,
+                "price": null,
+                "total_price": 23.0
+            },
+            {
+                "description": "7UP.",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "ARABIC SALAD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            }
+        ],
+        "subtotal": 51.0,
+        "tax": null,
+        "tip": null,
+        "total": 54.05
+    }
+]

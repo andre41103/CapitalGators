@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2013-02-15",
+        "items": [
+            {
+                "description": "6'8 \u00d7 5' Handwoven Afghan\nKilim Wool Area Rug Kelim Tapis\nOriental Carpet #4434",
+                "quantity": 3.0,
+                "price": 259.0,
+                "total_price": 854.7
+            },
+            {
+                "description": "Sun Series Modern Small Large\nLong Floor Carpet Area Rugs\nVarious Size Soft Rug",
+                "quantity": 3.0,
+                "price": 36.3,
+                "total_price": 119.79
+            },
+            {
+                "description": "Bohemia Style Round Morocco\nArea Rug Tassel Carpet Mat\nFloor Blanket Room Decor",
+                "quantity": 4.0,
+                "price": 46.89,
+                "total_price": 206.32
+            },
+            {
+                "description": "Soft Sheepskin Mat Faux Fur\nRug Small Shaggy Non Slip\nFloor Carpet Yellow",
+                "quantity": 4.0,
+                "price": 8.4,
+                "total_price": 36.96
+            },
+            {
+                "description": "Chindi Rug Carpet Beautifull\nBohemian Garden Yoga Mat\nBraided Foyer Indian Kilim",
+                "quantity": 1.0,
+                "price": 29.99,
+                "total_price": 32.99
+            }
+        ],
+        "subtotal": 1137.05,
+        "tax": 113.7,
+        "tip": null,
+        "total": 1250.75
+    }
+]

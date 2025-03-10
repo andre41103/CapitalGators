@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SUPREME",
+        "transaction_date": "2017-03-09",
+        "items": [
+            {
+                "description": "DIGI COACHES JACKET",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 128.0
+            },
+            {
+                "description": "SLEEVE PATCH HOODEI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 148.0
+            },
+            {
+                "description": "SMALL BOX TEE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 49.0
+            },
+            {
+                "description": "SUPREME\u00ae/CHAMPIONE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 148.0
+            },
+            {
+                "description": "VERTICAL LOGO PANEL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 148.0
+            }
+        ],
+        "subtotal": 621.0,
+        "tax": 103.51,
+        "tip": null,
+        "total": 621.0
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.parking",
+        "merchant_name": "Q-PARK (NI) LTD",
+        "transaction_date": "2010-10-02",
+        "items": [],
+        "subtotal": 0.88,
+        "tax": 0.15,
+        "tip": null,
+        "total": 1.03
+    }
+]

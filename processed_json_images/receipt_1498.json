@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Boyd-Freeman\nCardenas-Young",
+        "transaction_date": "2020-06-17",
+        "items": [
+            {
+                "description": "Leopard Printed Rug Skin Mat\nLeather Faux Fur Animals Area\nRugs Home Carpets",
+                "quantity": 3.0,
+                "price": 19.49,
+                "total_price": 64.32
+            }
+        ],
+        "subtotal": 58.47,
+        "tax": 5.85,
+        "tip": null,
+        "total": 64.32
+    }
+]

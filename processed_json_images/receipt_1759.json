@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Kildare Village Outlet Shopping",
+        "transaction_date": "2016-10-29",
+        "items": [
+            {
+                "description": "Chick+Veal Meatballs",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.96
+            },
+            {
+                "description": "2 Courses For \u20ac14.85",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.95
+            },
+            {
+                "description": "Reg Cappuccino",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Flat white",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.25
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.42,
+        "tip": null,
+        "total": 40.87
+    }
+]

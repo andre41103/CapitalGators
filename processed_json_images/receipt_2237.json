@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Cruz, Miller and Brown",
+        "transaction_date": "2014-07-17",
+        "items": [
+            {
+                "description": "European Colour Sunflower\nPattern Mats Hallway Carpets\nDoormat Bedroom Area Rugs",
+                "quantity": 5.0,
+                "price": 13.66,
+                "total_price": 75.13
+            },
+            {
+                "description": "3D Printed Illusion Rug Round\nGrid Vortex Carpet Anti-slip Mat\nFloor Home C4R0",
+                "quantity": 5.0,
+                "price": 17.13,
+                "total_price": 94.21
+            }
+        ],
+        "subtotal": 153.95,
+        "tax": 15.39,
+        "tip": null,
+        "total": 169.34
+    }
+]

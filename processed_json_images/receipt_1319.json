@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "SHOPPERS",
+        "transaction_date": "2017-03-10",
+        "items": [
+            {
+                "description": "PRESCRIPTIONS",
+                "quantity": null,
+                "price": 28.42,
+                "total_price": 28.42
+            },
+            {
+                "description": "PRESCRIPTIONS",
+                "quantity": null,
+                "price": 20.41,
+                "total_price": 20.41
+            },
+            {
+                "description": "PRESCRIPTIONS",
+                "quantity": null,
+                "price": 16.45,
+                "total_price": 16.45
+            }
+        ],
+        "subtotal": 65.28,
+        "tax": null,
+        "tip": null,
+        "total": 65.28
+    }
+]

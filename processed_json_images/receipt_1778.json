@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Rexall",
+        "transaction_date": "2018-06-07",
+        "items": [
+            {
+                "description": "TRIO STRUBKY UTRAL",
+                "quantity": null,
+                "price": 2.96,
+                "total_price": null
+            },
+            {
+                "description": "HIG STRUBRY UTRHL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.78
+            },
+            {
+                "description": "EDS LIP BALM STRA",
+                "quantity": 1.0,
+                "price": 1.45,
+                "total_price": 0.87
+            }
+        ],
+        "subtotal": 4.43,
+        "tax": 0.22,
+        "tip": null,
+        "total": 4.65
+    }
+]

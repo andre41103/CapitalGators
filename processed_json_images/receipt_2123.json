@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Gavin DeGraw",
+        "transaction_date": "2014-03-10",
+        "items": [
+            {
+                "description": "New Hats",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 118.17
+            },
+            {
+                "description": "BTLs Water",
+                "quantity": 100.0,
+                "price": null,
+                "total_price": 104.12
+            },
+            {
+                "description": "Large Pillow",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 19.99
+            },
+            {
+                "description": "Video Games/DVDs",
+                "quantity": null,
+                "price": null,
+                "total_price": 29.99
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 317.14
+    }
+]

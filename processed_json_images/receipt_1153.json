@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AREAS USA ORD, LLC.",
+        "transaction_date": "2016-10-26",
+        "items": [
+            {
+                "description": "LG REVO IPA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "SM SODA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.95
+            },
+            {
+                "description": "CHZ BURGER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.95
+            },
+            {
+                "description": "TKY CHPD SLD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.95
+            },
+            {
+                "description": "ADD PITA TST",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.99
+            }
+        ],
+        "subtotal": 43.83,
+        "tax": 4.6,
+        "tip": null,
+        "total": 48.43
+    }
+]

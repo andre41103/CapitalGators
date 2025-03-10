@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Manila",
+        "transaction_date": "2018-01-26",
+        "items": [
+            {
+                "description": "COGOLLITOS",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.8
+            },
+            {
+                "description": "FOIE HUEVOS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.6
+            },
+            {
+                "description": "BAO BUM PATA",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "DORADA PILSEN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.4
+            },
+            {
+                "description": "DORADAESPECIAL",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "CORTADO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.9
+            }
+        ],
+        "subtotal": 23.7,
+        "tax": null,
+        "tip": null,
+        "total": 23.7
+    }
+]

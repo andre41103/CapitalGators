@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "California Pizza Kitchen(TKO)",
+        "transaction_date": "2016-09-09",
+        "items": [
+            {
+                "description": "California Veggie",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 106.0
+            },
+            {
+                "description": "(New)Konbu Spag w/Shrimp",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 120.0
+            }
+        ],
+        "subtotal": 120.0,
+        "tax": null,
+        "tip": 22.6,
+        "total": 124.6
+    }
+]

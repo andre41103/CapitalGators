@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "uf Town Car Wash & Quick Lube",
+        "transaction_date": "2015-09-22",
+        "items": [
+            {
+                "description": "FULL SERVICE OIL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 34.95
+            },
+            {
+                "description": "10W-30 BULK OIL",
+                "quantity": 4.4,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "M252-SP1",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "XX:ENVIRO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.02
+            }
+        ],
+        "subtotal": 35.97,
+        "tax": 2.93,
+        "tip": null,
+        "total": 38.9
+    }
+]

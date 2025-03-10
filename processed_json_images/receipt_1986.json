@@ -1,0 +1,116 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DISTRIBUIDORA INTERNACIONAL DE ALIMENTAC\nION, S.A.",
+        "transaction_date": "2014-06-30",
+        "items": [
+            {
+                "description": "REUTILIZABLE\nDIA",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.05
+            },
+            {
+                "description": "REUTILIZABLE\nDIA",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.05
+            },
+            {
+                "description": "REUTILIZABLE\nDIA",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.05
+            },
+            {
+                "description": "ACE.OLIVA CARBONELL",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "YOGUR GRIEGO C/FRUT",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.56
+            },
+            {
+                "description": "LECHE SEMID BOTE DI",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.71
+            },
+            {
+                "description": "BARRA PAN 6 CEREALE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.65
+            },
+            {
+                "description": "JAMON SERRAN DIA 24",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.29
+            },
+            {
+                "description": "SALCHICHON EX ELPOZ",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "FILETE PECHUGA POLL",
+                "quantity": 0.657,
+                "price": 6.3,
+                "total_price": 4.14
+            },
+            {
+                "description": "CHAMPINON BANDEJA",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "SALSA BARBACOA DIA",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.92
+            },
+            {
+                "description": "MANZ-ROYAL GALA PES",
+                "quantity": 0.295,
+                "price": 1.75,
+                "total_price": 0.52
+            },
+            {
+                "description": "TOMATE EN RAMA PESO",
+                "quantity": 0.23,
+                "price": 1.25,
+                "total_price": 0.29
+            },
+            {
+                "description": "AGUACATE",
+                "quantity": 0.185,
+                "price": 2.99,
+                "total_price": 0.55
+            },
+            {
+                "description": "TOMATE FRITO FRASCO",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.65
+            },
+            {
+                "description": "PLUMAS GALLO 500GRS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.78
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 19.2
+    }
+]

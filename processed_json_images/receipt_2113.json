@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Petco",
+        "transaction_date": "2016-06-18",
+        "items": [
+            {
+                "description": "LPNB-SM SASQUATCH",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.99
+            },
+            {
+                "description": "STM-SM BENTO BALL",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "PDA- DEER GIANTANT",
+                "quantity": null,
+                "price": null,
+                "total_price": 19.99
+            },
+            {
+                "description": "WLN-DOG 2# CORE AD",
+                "quantity": null,
+                "price": null,
+                "total_price": 29.99
+            },
+            {
+                "description": "MER-CAT 7# HLTHY W",
+                "quantity": null,
+                "price": null,
+                "total_price": 22.99
+            },
+            {
+                "description": "DONATION-THANK YOU",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.0
+            }
+        ],
+        "subtotal": 97.62,
+        "tax": 6.67,
+        "tip": null,
+        "total": null
+    }
+]

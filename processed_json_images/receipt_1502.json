@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Andrade-Bennett",
+        "transaction_date": "2011-09-16",
+        "items": [
+            {
+                "description": "Nike Air Force 1 Low\n314192-117",
+                "quantity": 4.0,
+                "price": 54.95,
+                "total_price": 241.78
+            },
+            {
+                "description": "The Children's Place Brown\nDress\n12",
+                "quantity": 1.0,
+                "price": 8.0,
+                "total_price": 8.8
+            },
+            {
+                "description": "Saucony Boys' Ride ISO\nSneaker,\nM US Little Kid",
+                "quantity": 1.0,
+                "price": 27.99,
+                "total_price": 30.79
+            },
+            {
+                "description": "Cherokee Boys Grayton Skate\nShoes 12 Surf Skate Casual 12K\nBlack",
+                "quantity": 3.0,
+                "price": 19.99,
+                "total_price": 65.97
+            },
+            {
+                "description": "boys bogs waterproof boots\nyouth\n3",
+                "quantity": 1.0,
+                "price": 9.8,
+                "total_price": 10.78
+            },
+            {
+                "description": "Skechers Shoes Kids Size 2",
+                "quantity": 3.0,
+                "price": 10.0,
+                "total_price": 33.0
+            }
+        ],
+        "subtotal": 355.56,
+        "tax": 35.56,
+        "tip": null,
+        "total": 391.12
+    }
+]

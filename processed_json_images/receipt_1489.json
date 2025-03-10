@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Gibson PLC",
+        "transaction_date": "2020-03-10",
+        "items": [
+            {
+                "description": "Nordic Braided Tassels Sofa\nRugs Area Rug Soft Mat Palm\nLeaves Room Carpet",
+                "quantity": 4.0,
+                "price": 186.54,
+                "total_price": 820.78
+            },
+            {
+                "description": "Chindi Area Rugs Carpet New\nDesign Bohemian Hippi Garden\nYoga Mat Indian Kilim",
+                "quantity": 4.0,
+                "price": 29.99,
+                "total_price": 131.96
+            },
+            {
+                "description": "Happy Christmas Home\nDecoration Rug Mat Carpet\nBedroom Rugs Bedside Area\nRug New",
+                "quantity": 3.0,
+                "price": 60.32,
+                "total_price": 199.06
+            }
+        ],
+        "subtotal": 1047.08,
+        "tax": 104.71,
+        "tip": null,
+        "total": 1151.79
+    }
+]

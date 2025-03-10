@@ -1,0 +1,188 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walmart",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "TOMATOES",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.68
+            },
+            {
+                "description": "TOMATOES",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.68
+            },
+            {
+                "description": "GV STEW TOM",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.68
+            },
+            {
+                "description": "GV STEW TOM",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.68
+            },
+            {
+                "description": "GV TOM SAUCE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.66
+            },
+            {
+                "description": "GV TOM SAUCE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.66
+            },
+            {
+                "description": "GV TOM PASTE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.44
+            },
+            {
+                "description": "GV TOM PASTE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.44
+            },
+            {
+                "description": "GV TOM SAUCE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.66
+            },
+            {
+                "description": "GV PEANUTS",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.98
+            },
+            {
+                "description": "GV PNT BUTTR",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.98
+            },
+            {
+                "description": "GV COLM",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.18
+            },
+            {
+                "description": "SOY SAUCE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.88
+            },
+            {
+                "description": "GV BRN SUGAR",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "GV OATMEAL",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.48
+            },
+            {
+                "description": "GV OATMEAL",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.48
+            },
+            {
+                "description": "GV SALTIN MG",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.18
+            },
+            {
+                "description": "GV SALTIN MG",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.78
+            },
+            {
+                "description": "GV SALTIN MG",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.78
+            },
+            {
+                "description": "CILANTRO",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.98
+            },
+            {
+                "description": "CILANTRO",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.98
+            },
+            {
+                "description": "CILANTRO",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.98
+            },
+            {
+                "description": "ITAL PARSLEY",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.94
+            },
+            {
+                "description": "LIMES",
+                "quantity": 2.0,
+                "price": 0.68,
+                "total_price": 1.36
+            },
+            {
+                "description": "GARLIC",
+                "quantity": 0.43,
+                "price": 1.0,
+                "total_price": 1.5
+            },
+            {
+                "description": "3 YLW ONION",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.78
+            },
+            {
+                "description": "BAREFOOT",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.97
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 14.95
+            },
+            {
+                "description": "5LB GRD BFCK",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 59.88,
+        "tax": 0.45,
+        "tip": null,
+        "total": 60.33
+    }
+]

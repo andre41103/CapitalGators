@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Campbell and Sons",
+        "transaction_date": "2018-05-23",
+        "items": [
+            {
+                "description": "Abstract Blue Gray Gradient\nBedside Area Rugs Bedroom\nDecor",
+                "quantity": 2.0,
+                "price": 36.98,
+                "total_price": 81.36
+            },
+            {
+                "description": "Yilong 5'x7' Handknotted Silk\nCarpet Home Interior Classic",
+                "quantity": 2.0,
+                "price": 8.0,
+                "total_price": 18.0
+            }
+        ],
+        "subtotal": 16873.96,
+        "tax": 1687.4,
+        "tip": null,
+        "total": 18561.36
+    }
+]

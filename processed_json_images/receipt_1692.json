@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Tucker Inc",
+        "transaction_date": "2021-02-10",
+        "items": [
+            {
+                "description": "The Key to Rebecca by Ken\nFollett",
+                "quantity": 5.0,
+                "price": 5.17,
+                "total_price": 28.44
+            },
+            {
+                "description": "Escape from the Carnival of\nHorrors (Give Yourself\nGoosebumps) by R. L. Stine",
+                "quantity": 5.0,
+                "price": 5.01,
+                "total_price": 27.55
+            },
+            {
+                "description": "Master and God",
+                "quantity": 1.0,
+                "price": 7.0,
+                "total_price": 7.7
+            }
+        ],
+        "subtotal": 57.9,
+        "tax": 5.79,
+        "tip": null,
+        "total": 63.69
+    }
+]

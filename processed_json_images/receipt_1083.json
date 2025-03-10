@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "Diamond Gas & Mart.",
+        "transaction_date": "2016-09-01",
+        "items": [
+            {
+                "description": "REGULAR CA",
+                "quantity": null,
+                "price": null,
+                "total_price": 20.0
+            }
+        ],
+        "subtotal": 20.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 20.0
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ITSILRESTAURANT",
+        "transaction_date": "2016-03-31",
+        "items": [
+            {
+                "description": "EDAMAME",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.0
+            },
+            {
+                "description": "MISO SOUP",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 32.0
+            },
+            {
+                "description": "UNAGI SUSHI 2PCS",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 50.0
+            },
+            {
+                "description": "SPICY SALMON SUSHI",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 40.0
+            },
+            {
+                "description": "KANI SUSHI 2PCS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "SHAKE SASHIMI 3PCS",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 50.0
+            },
+            {
+                "description": "ATLANTIC SALMON 6 PC",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 42.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 254.0
+    }
+]

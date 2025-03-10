@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Shelton Inc",
+        "transaction_date": "2019-12-08",
+        "items": [
+            {
+                "description": "HP Windows 10 Pro Desktop\nComputer Intel QUAD CORE i5\nWifi, Keyboard & Mouse",
+                "quantity": 1.0,
+                "price": 169.95,
+                "total_price": 186.95
+            },
+            {
+                "description": "Alarco Gaming PC Desktop\nComputer Intel i5/ 8G/ 1TbV\nWIN 10/ NVIDIA GTX 650 1GB",
+                "quantity": 1.0,
+                "price": 500.0,
+                "total_price": 550.0
+            },
+            {
+                "description": "HP Pro 3500 Microtower\nDesktop Computer 3.4GHz i3\n4GB 500GB Windows 10 Pro",
+                "quantity": 1.0,
+                "price": 74.99,
+                "total_price": 82.49
+            },
+            {
+                "description": "Intel Compute Stick PC (32GB,\n1.33GHZ, 2GB) -\nBOXSTCK1A32WFC + Wireless\nKeyboard",
+                "quantity": 5.0,
+                "price": 29.99,
+                "total_price": 164.94
+            },
+            {
+                "description": "NEW RGB Quad Core Gaming PC\nDesktop Computer 4.2 GHz 500\n8GB RAM WIN 10 WIFI",
+                "quantity": 2.0,
+                "price": 299.99,
+                "total_price": 659.98
+            },
+            {
+                "description": "HP XW9400 AMD Dual Core\n2216 2.6GHZ /8GB/250GB/ PC\nComputer / Desktop",
+                "quantity": 4.0,
+                "price": 225.0,
+                "total_price": 990.0
+            },
+            {
+                "description": "Alienware Area 51 Gaming\nDesktop Computer",
+                "quantity": 4.0,
+                "price": 600.0,
+                "total_price": 2640.0
+            }
+        ],
+        "subtotal": 4794.87,
+        "tax": 479.49,
+        "tip": null,
+        "total": 5274.36
+    }
+]

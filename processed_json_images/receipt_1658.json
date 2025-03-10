@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Yoder Inc",
+        "transaction_date": "2021-04-03",
+        "items": [
+            {
+                "description": "Pond Scenery Fish Area Rugs\nKitchen Rug Bedroom Floor Mat\nNon-slip Carpet Decor",
+                "quantity": 3.0,
+                "price": 13.73,
+                "total_price": 45.31
+            },
+            {
+                "description": "Nordic Braided Tassels Sofa\nRugs Area Rug Soft Mat Palm\nLeaves Room Carpet",
+                "quantity": 5.0,
+                "price": 186.54,
+                "total_price": 1025.97
+            },
+            {
+                "description": "Abstract Blue Gray Gradient\nBedside Area Rugs Bedroom\nDecor Carpets Non-Slip Mat",
+                "quantity": 4.0,
+                "price": 36.98,
+                "total_price": 162.71
+            },
+            {
+                "description": "YILONG 1.2x1.7' 300L Tree And\nBirds Handmade Silk Rug\nCarpet Tapestry LH691A",
+                "quantity": 1.0,
+                "price": 188.0,
+                "total_price": 206.8
+            },
+            {
+                "description": "5x6 Geometric Modern Gabbeh\nKashkoli Oriental Area Rug\nHand-knotted Foyer Carpet",
+                "quantity": 4.0,
+                "price": 310.68,
+                "total_price": 1366.99
+            },
+            {
+                "description": "Victorian European Country\nTraditional Floral Floor Mat Area\nRug Carpet Beige U",
+                "quantity": 4.0,
+                "price": 178.0,
+                "total_price": 783.2
+            },
+            {
+                "description": "Floor Mat Kitchen Bedroom\nBathroom Non Slip Doormat\nCarpet Area Rug 180x60cm",
+                "quantity": 4.0,
+                "price": 31.58,
+                "total_price": 138.95
+            }
+        ],
+        "subtotal": 3390.85,
+        "tax": 339.09,
+        "tip": null,
+        "total": 3729.94
+    }
+]

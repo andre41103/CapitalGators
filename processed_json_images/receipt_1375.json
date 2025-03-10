@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Daniels-Farrell",
+        "transaction_date": "2016-11-10",
+        "items": [
+            {
+                "description": "The Messiah",
+                "quantity": 4.0,
+                "price": 4.49,
+                "total_price": 19.76
+            },
+            {
+                "description": "The Wim Hof Method Activate\nYour Potential, Transcend Your\nLimits 0000",
+                "quantity": 1.0,
+                "price": 4.22,
+                "total_price": 4.64
+            },
+            {
+                "description": "The Last Kings of Shanghai by\nJonathan Kaufman",
+                "quantity": 4.0,
+                "price": 2.99,
+                "total_price": 13.16
+            }
+        ],
+        "subtotal": 34.14,
+        "tax": 3.41,
+        "tip": null,
+        "total": 37.55
+    }
+]

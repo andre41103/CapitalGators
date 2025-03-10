@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Retail) Ltd",
+        "transaction_date": "2017-03-27",
+        "items": [
+            {
+                "description": "BUTCHERS ROSTI\nOMELETTE",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.95
+            },
+            {
+                "description": "small egg & tom omlette for weird\nfreak\\11",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "FRESH ORANGE JUICE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.95
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 13.4
+    }
+]

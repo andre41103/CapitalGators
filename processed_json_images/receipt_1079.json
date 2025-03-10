@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2015-12-21",
+        "items": [
+            {
+                "description": "PHO GA NHO",
+                "quantity": null,
+                "price": null,
+                "total_price": 68000.0
+            },
+            {
+                "description": "PHO TAI NHO",
+                "quantity": 2.0,
+                "price": 58000.0,
+                "total_price": 116000.0
+            },
+            {
+                "description": "KHAN LANH",
+                "quantity": 3.0,
+                "price": 2000.0,
+                "total_price": 5000.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 190000.0
+    }
+]

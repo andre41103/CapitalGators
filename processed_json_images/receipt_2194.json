@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RESTAURANTE ENRIQUE S",
+        "transaction_date": "2018-09-18",
+        "items": [
+            {
+                "description": "SOPA CASERA",
+                "quantity": 1.0,
+                "price": 4.6,
+                "total_price": 4.6
+            },
+            {
+                "description": "PAN Y MANTEQUILLA",
+                "quantity": 2.0,
+                "price": 1.5,
+                "total_price": 3.0
+            },
+            {
+                "description": "PAN DE AJG",
+                "quantity": 1.0,
+                "price": 1.95,
+                "total_price": 1.95
+            },
+            {
+                "description": "PENNE SICCILIANA",
+                "quantity": 1.0,
+                "price": 7.85,
+                "total_price": 7.95
+            },
+            {
+                "description": "LINGUINI NEGRO",
+                "quantity": 1.0,
+                "price": 10.85,
+                "total_price": 10.95
+            },
+            {
+                "description": "COULANT CHOCOLATE",
+                "quantity": 1.0,
+                "price": 8.0,
+                "total_price": 6.0
+            },
+            {
+                "description": "AGUA CON GAS",
+                "quantity": 1.0,
+                "price": 1.5,
+                "total_price": 1.5
+            },
+            {
+                "description": "COPA BLANCO CASA",
+                "quantity": null,
+                "price": 2.63,
+                "total_price": 2.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.5,
+        "tip": null,
+        "total": 38.45
+    }
+]

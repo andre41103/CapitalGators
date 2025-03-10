@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "MCCARTHY RANCH CORP",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "EXP CARWASH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.95
+            },
+            {
+                "description": "CARWASH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "COFFEE SMALL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.49
+            }
+        ],
+        "subtotal": 21.44,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

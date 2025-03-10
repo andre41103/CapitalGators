@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Harris and Sons",
+        "transaction_date": "2017-06-12",
+        "items": [
+            {
+                "description": "Dell Precision Workstation\nComputer Intel Xeon Quad Core\n16GB 1TB Windows 10 Pro",
+                "quantity": 3.0,
+                "price": 139.0,
+                "total_price": 458.7
+            },
+            {
+                "description": "gaming pc desktop computer\nintel i5",
+                "quantity": 2.0,
+                "price": 850.0,
+                "total_price": 1870.0
+            },
+            {
+                "description": "Sentry Gaming Computer |\nRyzen 3 3200G | 16 GB Ram |\nBuild-to-Order",
+                "quantity": 3.0,
+                "price": 594.99,
+                "total_price": 1963.47
+            },
+            {
+                "description": "Dell Desktop Computer[Intel\nCore 2 Duo 8GB 1TB HD\nWindows 10 PC 22\" LCD Wifi",
+                "quantity": 3.0,
+                "price": 69.95,
+                "total_price": 230.84
+            },
+            {
+                "description": "Dell Desktop Computer Tower\nQuad Intel Core i5 8GB 1TB HD\nDVD Wifi Windows 10 PC",
+                "quantity": 5.0,
+                "price": 149.95,
+                "total_price": 824.73
+            },
+            {
+                "description": "Quality Dell Windows XP Pro\nDesktop PC Computer Core 2\nvPro 4Gb 250Gb DVD WiFi",
+                "quantity": 3.0,
+                "price": 119.99,
+                "total_price": 395.97
+            }
+        ],
+        "subtotal": 5221.54,
+        "tax": 522.15,
+        "tip": null,
+        "total": 5743.69
+    }
+]

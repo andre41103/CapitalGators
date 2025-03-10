@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "XYZ STORE",
+        "transaction_date": "2019-02-02",
+        "items": [
+            {
+                "description": "1",
+                "quantity": null,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "ITEM 2",
+                "quantity": null,
+                "price": null,
+                "total_price": 18.68
+            },
+            {
+                "description": "3",
+                "quantity": null,
+                "price": null,
+                "total_price": 58.0
+            },
+            {
+                "description": "4",
+                "quantity": 2.0,
+                "price": 15.89,
+                "total_price": 30.0
+            },
+            {
+                "description": "5",
+                "quantity": 3.0,
+                "price": 18.09,
+                "total_price": 38.08
+            },
+            {
+                "description": "6",
+                "quantity": null,
+                "price": null,
+                "total_price": 28.03
+            }
+        ],
+        "subtotal": 168.08,
+        "tax": null,
+        "tip": null,
+        "total": 155.08
+    }
+]

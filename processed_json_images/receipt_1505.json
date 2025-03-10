@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Duncan, Montes and Cooper",
+        "transaction_date": "2017-04-16",
+        "items": [
+            {
+                "description": "Gaming PC Desktop Computer\nRGB Intel i7 GTX 1650, 16GB\nRAM, 2TB HDD, 240GB SSD",
+                "quantity": 1.0,
+                "price": 689.99,
+                "total_price": 758.99
+            },
+            {
+                "description": "Gaming PC Desktop Computer\nIntel i7 RGB GTX 1660, 16GB\nRAM, 2TB HDD, 240GB SSD",
+                "quantity": 4.0,
+                "price": 779.99,
+                "total_price": 3431.96
+            }
+        ],
+        "subtotal": 3809.95,
+        "tax": 381.0,
+        "tip": null,
+        "total": 4190.95
+    }
+]

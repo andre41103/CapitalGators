@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2015-04-09",
+        "items": [
+            {
+                "description": "King Prawn Ling",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.95
+            },
+            {
+                "description": "Penne Della Casa",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.75
+            },
+            {
+                "description": "P.Margherita",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.75
+            },
+            {
+                "description": "Sprite",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 4.8
+            },
+            {
+                "description": "Arancini",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.75
+            }
+        ],
+        "subtotal": 41.0,
+        "tax": 6.83,
+        "tip": null,
+        "total": 41.0
+    }
+]

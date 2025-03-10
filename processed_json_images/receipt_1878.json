@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TOPAZ\nRESTAURANT",
+        "transaction_date": "2017-10-07",
+        "items": [
+            {
+                "description": "Vegetable Spring Rolls",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Paneer Butter Masala",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1200.0
+            },
+            {
+                "description": "Plain Rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.4
+            },
+            {
+                "description": "Gobi 65 NO SPICY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Butter Chicken Masala",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.4
+            },
+            {
+                "description": "Garlic Naan",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.4
+            },
+            {
+                "description": "Naan",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.1
+            },
+            {
+                "description": "Soft Drinks (Pepsi, Cola,",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.4
+            },
+            {
+                "description": "Soft Drinks (Pepsi, Cola,",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.2
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 6.1
+    }
+]

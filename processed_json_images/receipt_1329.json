@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Carwash & Lube",
+        "transaction_date": "2016-10-22",
+        "items": [
+            {
+                "description": "Main Line Wash",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 33.99
+            },
+            {
+                "description": "Tip Amount",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": 43.99,
+        "tax": 0.0,
+        "tip": null,
+        "total": 43.99
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THE PASTA BOWL COMPANY",
+        "transaction_date": "2014-09-06",
+        "items": [
+            {
+                "description": "Formaggio Di Capra",
+                "quantity": 1.0,
+                "price": 175.0,
+                "total_price": 175.0
+            },
+            {
+                "description": "Gemberi Marianati Ara",
+                "quantity": 1.0,
+                "price": 375.0,
+                "total_price": 375.0
+            },
+            {
+                "description": "TPBC Sign Ravioli Gra",
+                "quantity": 1.0,
+                "price": 375.0,
+                "total_price": 375.0
+            },
+            {
+                "description": "Lasagne Al Forno Non-",
+                "quantity": 1.0,
+                "price": 395.0,
+                "total_price": 395.0
+            },
+            {
+                "description": "Friutti Di Basco",
+                "quantity": 1.0,
+                "price": 175.0,
+                "total_price": 175.0
+            },
+            {
+                "description": "Mango Pana Cotta",
+                "quantity": 1.0,
+                "price": 165.0,
+                "total_price": 165.0
+            }
+        ],
+        "subtotal": 1660.0,
+        "tax": null,
+        "tip": 166.0,
+        "total": 2134.0
+    }
+]

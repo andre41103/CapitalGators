@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "KAMRAN SIDDIQUI PHARMACY LIMITED",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "NIVEA SH CRM BNS",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "MULTIBIONTA 50+",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.49
+            },
+            {
+                "description": "SECRET.COLLECTION",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "VENDOR CPN 2001",
+                "quantity": null,
+                "price": null,
+                "total_price": -10.0
+            },
+            {
+                "description": "VENDOR CPN 2001",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "VEND CPN FREE 2002",
+                "quantity": null,
+                "price": null,
+                "total_price": -9.99
+            }
+        ],
+        "subtotal": 3.48,
+        "tax": 1.88,
+        "tip": null,
+        "total": 5.36
+    }
+]

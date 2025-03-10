@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Burton Inc",
+        "transaction_date": "2012-03-05",
+        "items": [
+            {
+                "description": "Nintendo BLUE Wii System\nGame Console Complete with 2\nMotion Remotes Tested Work",
+                "quantity": 2.0,
+                "price": 99.98,
+                "total_price": 219.96
+            },
+            {
+                "description": "Playstation 2 Slim console white\nSCPH-90000 boxed Japan PS2\nSystem",
+                "quantity": 4.0,
+                "price": 199.0,
+                "total_price": 875.6
+            }
+        ],
+        "subtotal": 995.96,
+        "tax": 99.6,
+        "tip": null,
+        "total": 1095.56
+    }
+]

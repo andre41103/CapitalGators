@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Yates and Sons",
+        "transaction_date": "2017-07-20",
+        "items": [
+            {
+                "description": "Nintendo Switch Lite Turquoise\nBlue CONSOLE ONLY - No\nCharger [B4-1]",
+                "quantity": 1.0,
+                "price": 130.0,
+                "total_price": 143.0
+            },
+            {
+                "description": "Sony PlayStation Gray PS1\nConsole! CONSOLE",
+                "quantity": 4.0,
+                "price": 21.99,
+                "total_price": 96.76
+            },
+            {
+                "description": "Nintendo BLUE Wii System\nGame Console Complete with",
+                "quantity": 3.0,
+                "price": 99.98,
+                "total_price": 329.93
+            }
+        ],
+        "subtotal": 517.9,
+        "tax": 51.79,
+        "tip": null,
+        "total": 569.69
+    }
+]

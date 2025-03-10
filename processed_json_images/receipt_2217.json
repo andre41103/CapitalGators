@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ICUSS",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "ASST BLK SURGENT P",
+                "quantity": null,
+                "price": null,
+                "total_price": 24.99
+            },
+            {
+                "description": "UA ColdGear Golf M",
+                "quantity": null,
+                "price": null,
+                "total_price": 24.99
+            },
+            {
+                "description": "ASST TEK HYBRID JA",
+                "quantity": null,
+                "price": null,
+                "total_price": 79.99
+            }
+        ],
+        "subtotal": 129.97,
+        "tax": 11.7,
+        "tip": null,
+        "total": 141.67
+    }
+]

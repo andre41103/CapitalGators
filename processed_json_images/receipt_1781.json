@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GAYLORD PALMS",
+        "transaction_date": "2016-08-21",
+        "items": [
+            {
+                "description": "ALL AMERICAN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 21.0
+            },
+            {
+                "description": "IRD DELIVERY CHARGE",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.13,
+        "tip": null,
+        "total": 32.54
+    }
+]

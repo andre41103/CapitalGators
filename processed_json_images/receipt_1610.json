@@ -1,0 +1,104 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walmart\nSupercentre",
+        "transaction_date": "2017-12-22",
+        "items": [
+            {
+                "description": "GR MN 6PK",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "GR LDS 4PK B",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.97
+            },
+            {
+                "description": "GR LDS 4PK B",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "BATH TOWEL",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.97
+            },
+            {
+                "description": "MS BT TEAL",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.97
+            },
+            {
+                "description": "MS BT F PINK",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.97
+            },
+            {
+                "description": "BATH TOWEL",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.97
+            },
+            {
+                "description": "OPP BT",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "OPP BT",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "OPP BT",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "OPP BT",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "OPP BT",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "OPP BT",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "OPP BT",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "OPP BT",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            }
+        ],
+        "subtotal": 84.85,
+        "tax": 4.24,
+        "tip": null,
+        "total": 89.09
+    }
+]

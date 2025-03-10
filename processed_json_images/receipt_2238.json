@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ROSS",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Lg 2 Po 3 Drawer/S",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "GUESS GIRL 1.7 SPR",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.99
+            },
+            {
+                "description": "FLUTE SATIN PEDEST",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.53
+            },
+            {
+                "description": "NAT 6PK BLACK COM",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "BEAR PAM BLK POTN",
+                "quantity": null,
+                "price": null,
+                "total_price": 34.89
+            },
+            {
+                "description": "BLK SINGLE TOOGLE",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 87.94,
+        "tax": 7.69,
+        "tip": null,
+        "total": 95.63
+    }
+]

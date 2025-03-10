@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Ole Ole Tapas",
+        "transaction_date": "2014-01-07",
+        "items": [
+            {
+                "description": "Emilio Moro, Ribera del Duero",
+                "quantity": null,
+                "price": null,
+                "total_price": 21.0
+            },
+            {
+                "description": "Cesta De Pan Con All-011",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.75
+            },
+            {
+                "description": "Patatas Bravas",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.45
+            },
+            {
+                "description": "Croquetas Al Cabrales",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.95
+            },
+            {
+                "description": "Lentejas con Verduras",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.55
+            },
+            {
+                "description": "Chipirones en Salsa",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.75
+            },
+            {
+                "description": "Carrilleras",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.95
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 48.4
+    }
+]

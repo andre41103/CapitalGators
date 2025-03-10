@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LAX - Terminal 2",
+        "transaction_date": "2015-07-28",
+        "items": [
+            {
+                "description": "Eggs/Chz",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 18.8
+            },
+            {
+                "description": "Add Bacon BFast",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Add Sausage",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Shoestring",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.4
+            },
+            {
+                "description": "Coffee",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.45
+            }
+        ],
+        "subtotal": 28.65,
+        "tax": 2.58,
+        "tip": null,
+        "total": 40.0
+    }
+]

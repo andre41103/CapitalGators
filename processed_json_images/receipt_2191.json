@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Arbor Car Wash",
+        "transaction_date": "2008-07-05",
+        "items": [
+            {
+                "description": "Comp. Detail",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 169.95
+            }
+        ],
+        "subtotal": 169.95,
+        "tax": 0.0,
+        "tip": null,
+        "total": 169.95
+    }
+]

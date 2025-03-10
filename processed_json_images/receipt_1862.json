@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2014-06-25",
+        "items": [
+            {
+                "description": "HT9\" Mediterranean S",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 28.9
+            },
+            {
+                "description": "PPJ Wings - 6",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.9
+            },
+            {
+                "description": "Meatballs & Wedges",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.5
+            },
+            {
+                "description": "Hot Chocolate",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.9
+            },
+            {
+                "description": "Mountain Dew",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.9
+            },
+            {
+                "description": "Lipton Ice Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.9
+            },
+            {
+                "description": "Refill - Mountain Dew",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Refill - Mountain Dew",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Refill - Lipton Ice Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Refill - Lipton Ice Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 79.0,
+        "tax": 4.74,
+        "tip": 7.9,
+        "total": 91.65
+    }
+]

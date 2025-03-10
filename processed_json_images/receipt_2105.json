@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Vihar\nVegetarian Restaurant",
+        "transaction_date": "2018-01-06",
+        "items": [
+            {
+                "description": "Banana Dosa",
+                "quantity": 1.0,
+                "price": 65.0,
+                "total_price": 65.0
+            },
+            {
+                "description": "Buns",
+                "quantity": 1.0,
+                "price": 15.0,
+                "total_price": 15.0
+            },
+            {
+                "description": "Chapati Thali",
+                "quantity": 1.0,
+                "price": 110.0,
+                "total_price": 110.0
+            },
+            {
+                "description": "Mineral Water 1 Ltr",
+                "quantity": 1.0,
+                "price": 25.0,
+                "total_price": 25.0
+            },
+            {
+                "description": "Sheera",
+                "quantity": 1.0,
+                "price": 30.0,
+                "total_price": 30.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 245.0
+    }
+]

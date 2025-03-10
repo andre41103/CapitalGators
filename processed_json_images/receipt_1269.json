@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Publix",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "HONEY GLD POTATOES",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "PURP SPLENDOR POT",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "KOBE CRFT BURGERS",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.99
+            },
+            {
+                "description": "PINE PEEL & CORE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "BANANAS",
+                "quantity": 1.94,
+                "price": 0.69,
+                "total_price": 1.34
+            },
+            {
+                "description": "DELIZZA ECLAIRS",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "DELIZZA EG/NG PUFF",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "UNBLEACHED BRD FLR",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "CANTALOUPES",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "DE CECCO BOW FARFA",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 1.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

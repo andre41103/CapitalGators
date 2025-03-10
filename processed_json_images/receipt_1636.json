@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Camacho-Stewart",
+        "transaction_date": "2012-06-18",
+        "items": [
+            {
+                "description": "10-Core Gaming Computer\nDesktop PC Tower 500 GB Quad\n8GB AMD R7 GRAPHICS NEW",
+                "quantity": 2.0,
+                "price": 501.32,
+                "total_price": 1102.9
+            }
+        ],
+        "subtotal": 1002.64,
+        "tax": 100.26,
+        "tip": null,
+        "total": 1102.9
+    }
+]

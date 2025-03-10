@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Papalote Taco House",
+        "transaction_date": "2015-01-05",
+        "items": [
+            {
+                "description": "Taco",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 6.6
+            },
+            {
+                "description": "MEXICAN COKE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            }
+        ],
+        "subtotal": 8.6,
+        "tax": 0.71,
+        "tip": null,
+        "total": 9.31
+    }
+]

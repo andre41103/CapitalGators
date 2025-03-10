@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Harris Ltd",
+        "transaction_date": "2018-05-25",
+        "items": [
+            {
+                "description": "Nike Air Force 1 Low\n314192-117 Triple White Youth\nBoys Size 5Y",
+                "quantity": 1.0,
+                "price": 54.95,
+                "total_price": 60.45
+            },
+            {
+                "description": "Adult Kids Pokemon Pikachu\nKigurumi Pajama Cosplay\nChristmas Costume Sleepwear",
+                "quantity": 4.0,
+                "price": 16.56,
+                "total_price": 72.86
+            },
+            {
+                "description": "Children's sports shoes\nbreathable mesh boys casual\nshoes",
+                "quantity": 4.0,
+                "price": 19.99,
+                "total_price": 87.96
+            },
+            {
+                "description": "Timberland Women's/Junior's\nPremium 6\" Navy Waterproof\nBoots 3793A",
+                "quantity": 5.0,
+                "price": 79.99,
+                "total_price": 439.95
+            },
+            {
+                "description": "LL Bean Boys Lot Size 1 Athletic\nSneakers 2 Black Blue Canvas\nBelts S M",
+                "quantity": 1.0,
+                "price": 6.99,
+                "total_price": 7.69
+            },
+            {
+                "description": "Lego Star Wars Minifigures\nStormtrooper Darth Vader Yoda\nObi Van Mandalorian New",
+                "quantity": 2.0,
+                "price": 2.98,
+                "total_price": 6.56
+            }
+        ],
+        "subtotal": 614.05,
+        "tax": 61.41,
+        "tip": null,
+        "total": 675.46
+    }
+]

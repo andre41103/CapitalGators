@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Spotless Facility Services Pty Ltd",
+        "transaction_date": "2016-11-24",
+        "items": [
+            {
+                "description": "52250Cold Drinks",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.95
+            },
+            {
+                "description": "Hot Meals",
+                "quantity": null,
+                "price": null,
+                "total_price": 15.9
+            },
+            {
+                "description": "Birvito Regular",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.9
+            },
+            {
+                "description": "6ST",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.9
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 20.85
+    }
+]

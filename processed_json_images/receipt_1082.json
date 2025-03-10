@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Mendoza Group",
+        "transaction_date": "2013-12-25",
+        "items": [
+            {
+                "description": "Confetti Stemless Wine Drink\nGlass Multi Green & Blue TAG",
+                "quantity": 5.0,
+                "price": 23.99,
+                "total_price": 131.94
+            }
+        ],
+        "subtotal": 119.95,
+        "tax": 11.99,
+        "tip": null,
+        "total": 131.94
+    }
+]

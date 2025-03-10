@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Hanson LLC",
+        "transaction_date": "2014-03-30",
+        "items": [
+            {
+                "description": "Gaming PC Desktop Computer\nRGB Intel i7 GTX 1650, 16GB\nRAM, 2TB HDD, 240GB SSD",
+                "quantity": 5.0,
+                "price": 689.99,
+                "total_price": 3794.95
+            },
+            {
+                "description": "12-Core Gaming Computer\nDesktop PC Tower Affordable\nGAMING PC 8GB AMD Vega RGB",
+                "quantity": 3.0,
+                "price": 464.89,
+                "total_price": 1534.14
+            },
+            {
+                "description": "Dell Desktop Computer Optiplex\n790 Tower PC Core i5 8GB\n500GB Windows 10 Pro",
+                "quantity": 3.0,
+                "price": 149.95,
+                "total_price": 494.83
+            }
+        ],
+        "subtotal": 5294.47,
+        "tax": 529.45,
+        "tip": null,
+        "total": 5823.92
+    }
+]

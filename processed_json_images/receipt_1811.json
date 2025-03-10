@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TOY PLANET DUMBO\nJUGUETERIA-PAPELERIA",
+        "transaction_date": "2011-11-24",
+        "items": [
+            {
+                "description": "PASATELO DE MIEDO COLECCION-",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.95
+            },
+            {
+                "description": "PASATELO DE MIEDO COLECCION-",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.95
+            },
+            {
+                "description": "PASATELO DE MIEDO COLECCION-",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.95
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 14.85
+    }
+]

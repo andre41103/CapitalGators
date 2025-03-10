@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SIZE?",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "YEEZY 350 V2 BLK",
+                "quantity": 1.0,
+                "price": 150.0,
+                "total_price": 150.0
+            },
+            {
+                "description": "CARRIER BAG LEVY",
+                "quantity": 1.0,
+                "price": 0.05,
+                "total_price": 0.05
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 150.05
+    }
+]

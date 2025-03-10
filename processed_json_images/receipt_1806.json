@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Kikusan Landmark",
+        "transaction_date": "2016-10-27",
+        "items": [
+            {
+                "description": "(T)a.sashimi rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 55.0
+            },
+            {
+                "description": "(T)curry chic.f/rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 55.0
+            },
+            {
+                "description": "(T)pork sandwich",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 55.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 200.0
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Philipp Plein Paris",
+        "transaction_date": "2016-09-24",
+        "items": [
+            {
+                "description": "low sneakers \"bad blood\"",
+                "quantity": null,
+                "price": null,
+                "total_price": 595.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 99.17,
+        "tip": null,
+        "total": 595.0
+    }
+]

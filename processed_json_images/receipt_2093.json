@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Hughes-Jones",
+        "transaction_date": "2020-06-09",
+        "items": [
+            {
+                "description": "YILONG 4'x6' Golden Handmade\nArea Carpet Tribal Hand\nKnotted Silk Rugs 074B",
+                "quantity": 3.0,
+                "price": 3.0,
+                "total_price": 11880.0
+            }
+        ],
+        "subtotal": 10800.0,
+        "tax": 1080.0,
+        "tip": null,
+        "total": 11880.0
+    }
+]

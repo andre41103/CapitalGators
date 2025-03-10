@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Luna Grill Oxnard",
+        "transaction_date": "2017-03-07",
+        "items": [
+            {
+                "description": "Greek Salad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.99
+            },
+            {
+                "description": "Spicy Cilantro Hummus",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.75
+            }
+        ],
+        "subtotal": 17.99,
+        "tax": 1.39,
+        "tip": 3.0,
+        "total": 19.38
+    }
+]

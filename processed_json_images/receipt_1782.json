@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CARRABBA'S",
+        "transaction_date": "2015-11-22",
+        "items": [
+            {
+                "description": "Grilled Chicken",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.99
+            },
+            {
+                "description": "chop gorgonzola",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 17.49
+            },
+            {
+                "description": "COMP 6 PIPELINE 15%",
+                "quantity": null,
+                "price": null,
+                "total_price": -4.72
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

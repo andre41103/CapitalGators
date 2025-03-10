@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "bar\nON15",
+        "transaction_date": "2016-12-24",
+        "items": [
+            {
+                "description": "Fish & Chips",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 175.0
+            },
+            {
+                "description": "Pina Colada",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 98.0
+            },
+            {
+                "description": "Lychee Mojito",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 196.0
+            },
+            {
+                "description": "Snow Summer",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 96.0
+            },
+            {
+                "description": "Sake Mojito",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 99.0
+            },
+            {
+                "description": "Fresh GF Juice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 75.0
+            },
+            {
+                "description": "Ginger Ale",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 62.0
+            }
+        ],
+        "subtotal": 802.0,
+        "tax": null,
+        "tip": 80.2,
+        "total": 882.2
+    }
+]

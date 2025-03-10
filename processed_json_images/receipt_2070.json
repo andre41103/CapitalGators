@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Steak 'n Shake",
+        "transaction_date": "2011-11-06",
+        "items": [
+            {
+                "description": "West BBQ Dbl/FF",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.79
+            }
+        ],
+        "subtotal": 4.79,
+        "tax": 0.44,
+        "tip": null,
+        "total": 5.23
+    }
+]

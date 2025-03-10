@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ROSS",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "ELBW RED/BLK BUFF",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.99
+            },
+            {
+                "description": "AN-2H LSR LC ACR B",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.99
+            }
+        ],
+        "subtotal": 26.98,
+        "tax": 2.23,
+        "tip": null,
+        "total": 29.21
+    }
+]

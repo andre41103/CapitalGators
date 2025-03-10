@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SABOTEN",
+        "transaction_date": "2013-02-19",
+        "items": [
+            {
+                "description": "SET Hitokuchi Hire Tabeku",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 26.0
+            },
+            {
+                "description": "SET Radish Tenderloin Kat",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "Curry Sauce A/L",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Apple Juice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "7UP Can",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 59.5,
+        "tax": 4.58,
+        "tip": 5.95,
+        "total": 70.05
+    }
+]

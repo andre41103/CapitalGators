@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "OUTBACK",
+        "transaction_date": "2016-05-06",
+        "items": [
+            {
+                "description": "COLD BEVERAGE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.49
+            },
+            {
+                "description": "14 STRIP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 26.99
+            }
+        ],
+        "subtotal": 41.48,
+        "tax": 0.5,
+        "tip": null,
+        "total": null
+    }
+]

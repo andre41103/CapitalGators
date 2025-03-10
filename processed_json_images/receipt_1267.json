@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "RaceWay 6883",
+        "transaction_date": "2018-03-16",
+        "items": [
+            {
+                "description": "Un1-87",
+                "quantity": 20.025,
+                "price": 2.199,
+                "total_price": 44.03
+            }
+        ],
+        "subtotal": 44.03,
+        "tax": 0.0,
+        "tip": null,
+        "total": 44.03
+    }
+]

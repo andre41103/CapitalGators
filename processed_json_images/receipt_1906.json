@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2010-06-16",
+        "items": [
+            {
+                "description": "SH STEAKHOUSE",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.19
+            },
+            {
+                "description": "CHIPS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.19
+            },
+            {
+                "description": "MED DRINK",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.59
+            },
+            {
+                "description": "$2.99 SM SUB CMB",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -4.98
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.21,
+        "tip": null,
+        "total": 3.2
+    }
+]

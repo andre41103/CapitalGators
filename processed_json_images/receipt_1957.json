@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LA CAMERA",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Kirin Tap (Small)",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "Rekorderlig Strawberry Lime\n(Bottle)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Capi Sok (750ml)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Garlic Bread Large)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "Carbonara SP (Serve)",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 50.0
+            },
+            {
+                "description": "Carbonara Wine (Glass)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.5
+            },
+            {
+                "description": "Risotto La Camera (Serve)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 27.5
+            },
+            {
+                "description": "Pizza Capricciosa (Serve)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24.5
+            },
+            {
+                "description": "Linguini Pescatora (Serve)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 33.0
+            }
+        ],
+        "subtotal": 206.5,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

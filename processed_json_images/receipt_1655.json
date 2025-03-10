@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GOODWILL OUTLET STORE",
+        "transaction_date": "2017-01-02",
+        "items": [
+            {
+                "description": "SHOES T1",
+                "quantity": 29.0,
+                "price": 1.49,
+                "total_price": 43.21
+            },
+            {
+                "description": "CANDY T1",
+                "quantity": 2.0,
+                "price": 1.09,
+                "total_price": 2.18
+            },
+            {
+                "description": "DVD T1",
+                "quantity": 3.0,
+                "price": 1.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "25+ POUNDS T1",
+                "quantity": 50.0,
+                "price": 0.99,
+                "total_price": 49.5
+            },
+            {
+                "description": "LARGE ITEMS T1",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": null,
+        "tax": 8.16,
+        "tip": null,
+        "total": 107.04
+    }
+]

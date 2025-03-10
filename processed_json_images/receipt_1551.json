@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Fowler-Griffin",
+        "transaction_date": "2014-07-25",
+        "items": [
+            {
+                "description": "Dell Optiplex 9010 PC Computer\nIntel Core",
+                "quantity": 5.0,
+                "price": 99.9,
+                "total_price": 549.45
+            },
+            {
+                "description": "HP 8300 Slim Desktop Small\nComputer PC i5 3.2GHz 4GB\n500GB Windows 10 Pro WiFi",
+                "quantity": 4.0,
+                "price": 99.99,
+                "total_price": 439.96
+            },
+            {
+                "description": "Custom Built Windows 98 Retro\nGaming Industrial PC Computer\nP2 B Montego II 5GB",
+                "quantity": 1.0,
+                "price": 409.99,
+                "total_price": 450.99
+            },
+            {
+                "description": "Custom Build Dell Desktop\nComputer i5 | 16GB | 1TB SSD |\nHDMI Windows 10 PC WiFi",
+                "quantity": 4.0,
+                "price": 99.0,
+                "total_price": 435.6
+            },
+            {
+                "description": "$5.00 Desktop Computers !!!",
+                "quantity": 5.0,
+                "price": 5.0,
+                "total_price": 27.5
+            },
+            {
+                "description": "CAD Solidworks Video Photo\nEditing Workstation 64GB 8C\nXeon Quadro Computer NVME",
+                "quantity": 3.0,
+                "price": 520.0,
+                "total_price": 1716.0
+            }
+        ],
+        "subtotal": 3290.45,
+        "tax": 329.05,
+        "tip": null,
+        "total": 3619.5
+    }
+]

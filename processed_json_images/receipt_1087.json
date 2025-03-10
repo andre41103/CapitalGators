@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2015-07-24",
+        "items": [
+            {
+                "description": "M Strawberry Shake",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.79
+            },
+            {
+                "description": "No Sauce",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "20 McNuggets",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "McDouble",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.38
+            },
+            {
+                "description": "L French Fries",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 4.78
+            }
+        ],
+        "subtotal": 15.95,
+        "tax": 1.44,
+        "tip": null,
+        "total": 17.39
+    }
+]

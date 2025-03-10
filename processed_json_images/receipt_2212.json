@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Pattappa's\nThaligai",
+        "transaction_date": "2016-06-19",
+        "items": [
+            {
+                "description": "Dinner Buffet",
+                "quantity": 2.0,
+                "price": 157.0,
+                "total_price": 314.0
+            }
+        ],
+        "subtotal": 314.0,
+        "tax": null,
+        "tip": null,
+        "total": 339.0
+    }
+]

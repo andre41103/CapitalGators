@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2021-04-13",
+        "items": [
+            {
+                "description": "NWT $1200 J.Crew Silk Chiffon\nIvory Wedding Dress with\nBeading",
+                "quantity": 1.0,
+                "price": 295.0,
+                "total_price": 324.5
+            },
+            {
+                "description": "Vintage AGB Black Velvet Maxi\nDress L Mandarin Collar",
+                "quantity": 3.0,
+                "price": 69.96,
+                "total_price": 230.87
+            }
+        ],
+        "subtotal": 504.88,
+        "tax": 50.49,
+        "tip": null,
+        "total": 555.37
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Jawed Habib",
+        "transaction_date": "2020-09-15",
+        "items": [
+            {
+                "description": "Hair cut.",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 250.0
+            },
+            {
+                "description": "Shave",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 80.0
+            },
+            {
+                "description": "facial Gestation\nDiamond",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1900.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 2545.0
+    }
+]

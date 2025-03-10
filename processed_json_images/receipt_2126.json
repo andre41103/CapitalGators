@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Phillips Group",
+        "transaction_date": "2017-04-09",
+        "items": [
+            {
+                "description": "The Art of Glen Loates",
+                "quantity": 4.0,
+                "price": 6.08,
+                "total_price": 26.75
+            },
+            {
+                "description": "Signed ~THE HOT ZONE A",
+                "quantity": 4.0,
+                "price": 150.0,
+                "total_price": 660.0
+            }
+        ],
+        "subtotal": 624.32,
+        "tax": 62.43,
+        "tip": null,
+        "total": 686.75
+    }
+]

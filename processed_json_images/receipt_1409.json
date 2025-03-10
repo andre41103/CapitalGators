@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Williams, Haley and Ellis",
+        "transaction_date": "2012-12-11",
+        "items": [
+            {
+                "description": "Dell Desktop Computer PC Core\ni5 8GB 500GB HD DVD Wifi 19\"\nLCD Windows 10 Pro",
+                "quantity": 5.0,
+                "price": 144.95,
+                "total_price": 797.23
+            }
+        ],
+        "subtotal": 724.75,
+        "tax": 72.48,
+        "tip": null,
+        "total": 797.23
+    }
+]

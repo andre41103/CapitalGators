@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LIDL",
+        "transaction_date": "2012-03-03",
+        "items": [
+            {
+                "description": "PORTO BLANC 19%",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "PORTO 10 ANS D'",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.79
+            },
+            {
+                "description": "PORTO 19% VOL.",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.69
+            },
+            {
+                "description": "CIDRE BRUT DE N",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.19
+            },
+            {
+                "description": "DEVIDOIR DE RU 69369",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.79
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.52,
+        "tip": null,
+        "total": 21.45
+    }
+]

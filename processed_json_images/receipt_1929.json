@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THE HOTHOUSE RESTAURANT AND BAR",
+        "transaction_date": "2014-07-23",
+        "items": [
+            {
+                "description": "Large Caesar",
+                "quantity": 1.0,
+                "price": 10.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "Grilled Chicken",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 5.0
+            },
+            {
+                "description": "DIN Pesto",
+                "quantity": 1.0,
+                "price": 17.0,
+                "total_price": 17.0
+            },
+            {
+                "description": "Pint Steam Whistle",
+                "quantity": null,
+                "price": 7.0,
+                "total_price": 7.0
+            },
+            {
+                "description": "Pint Heineken",
+                "quantity": 1.0,
+                "price": 7.5,
+                "total_price": 7.5
+            }
+        ],
+        "subtotal": 46.5,
+        "tax": 6.05,
+        "tip": null,
+        "total": null
+    }
+]

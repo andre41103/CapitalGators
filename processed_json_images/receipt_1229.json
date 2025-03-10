@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2018-03-11",
+        "items": [
+            {
+                "description": "White Rice natx",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "Lemon Tea (Cold) \u51b0\u67e0\u6aac\n\u8336",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.2
+            },
+            {
+                "description": "Guava Citrus Iced Tea \u00bbk",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "Teh-Tarik (Hot) Kosong",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Add Nut \u52a0\u9ed1\u679c",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Ayam Buah Keluak M!#1g",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "Nyonya Chap Chye # **",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "Beef Rendang 1 #4",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "Sambal Potato Leaves",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            }
+        ],
+        "subtotal": 87.7,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

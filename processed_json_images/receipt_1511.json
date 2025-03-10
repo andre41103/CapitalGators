@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Grant Inc",
+        "transaction_date": "2015-11-08",
+        "items": [
+            {
+                "description": "New Nintendo 2DS XL Console\nBlack/Turquoise w/ Mario Kart 7",
+                "quantity": 1.0,
+                "price": 129.99,
+                "total_price": 142.99
+            }
+        ],
+        "subtotal": 129.99,
+        "tax": 13.0,
+        "tip": null,
+        "total": 142.99
+    }
+]

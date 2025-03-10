@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Taylor Group",
+        "transaction_date": "2017-11-14",
+        "items": [
+            {
+                "description": "UGG Australia Girl's Classic\nShort RED Hearts Boots 3\nYOUTH - NEW",
+                "quantity": 1.0,
+                "price": 79.99,
+                "total_price": 87.99
+            },
+            {
+                "description": "Under Armour KIDS' LOCKDOWN\n4 BASKETBALL Black/Red/White",
+                "quantity": 4.0,
+                "price": 19.99,
+                "total_price": 87.96
+            }
+        ],
+        "subtotal": 159.95,
+        "tax": 15.99,
+        "tip": null,
+        "total": 175.94
+    }
+]

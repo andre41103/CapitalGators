@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Serrano, Cross and Caldwell\nEdwards-Leonard",
+        "transaction_date": "2012-06-06",
+        "items": [
+            {
+                "description": "Halloween Skeleton Hand\nStemless Single Wine Glass\nBlack with Silver Zinc Alloy",
+                "quantity": 1.0,
+                "price": 24.99,
+                "total_price": 27.49
+            },
+            {
+                "description": "Crystal Grape Wine Bottle\nEmbellishment Jewelry Necklace\nFor The Bottle",
+                "quantity": 4.0,
+                "price": 25.0,
+                "total_price": 110.0
+            },
+            {
+                "description": "Fabulous at 50 wine glass, Out\nof the Box, 33",
+                "quantity": 4.0,
+                "price": 20.0,
+                "total_price": 88.0
+            },
+            {
+                "description": "Vintage Set of 4 Clear Iridescent\nRainbow Glass Glasses\nChampagne Wine",
+                "quantity": 4.0,
+                "price": 15.95,
+                "total_price": 70.18
+            }
+        ],
+        "subtotal": 268.79,
+        "tax": 26.88,
+        "tip": null,
+        "total": 295.67
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TATEL",
+        "transaction_date": "2018-03-03",
+        "items": [
+            {
+                "description": "Pan y Aperitivo",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "Espacial Botella",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.0
+            },
+            {
+                "description": "Ensaladilla Rusa Ci",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 19.0
+            },
+            {
+                "description": "Solomillo Parrilla",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 31.0
+            },
+            {
+                "description": "Chipiron Parrila Lu",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.0
+            },
+            {
+                "description": "Torrija al Anis",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "Descafeinado Cortad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Solan Mineral 1000M",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 112.73,
+        "tax": 11.27,
+        "tip": null,
+        "total": 124.0
+    }
+]

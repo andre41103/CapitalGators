@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2017-03-07",
+        "items": [
+            {
+                "description": "Battery 18V 3.0Ah",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 32.96
+            },
+            {
+                "description": "Hard EVA Travel Case",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "70 in 1 Magnetic Driver Kit",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 23.99
+            }
+        ],
+        "subtotal": null,
+        "tax": 19.98,
+        "tip": null,
+        "total": 119.88
+    }
+]

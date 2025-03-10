@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Taken Pier 195",
+        "transaction_date": "2014-06-24",
+        "items": [
+            {
+                "description": "Cappuccino",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Tofu Scramble",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.95
+            }
+        ],
+        "subtotal": 16.95,
+        "tax": 1.54,
+        "tip": null,
+        "total": 18.66
+    }
+]

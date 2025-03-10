@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Kellner und H\u00fchnlein\nGastronomie GmbH",
+        "transaction_date": "2012-07-16",
+        "items": [
+            {
+                "description": "Wei\u00dfbier 0,51",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.1
+            },
+            {
+                "description": "Kleines Gasthaus-Schnitzel",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.9
+            },
+            {
+                "description": "Espresso",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.9
+            },
+            {
+                "description": "Birnenbrand 2cl",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.46,
+        "tip": null,
+        "total": 15.4
+    }
+]

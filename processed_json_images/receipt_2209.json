@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ADRAK",
+        "transaction_date": "2018-03-17",
+        "items": [
+            {
+                "description": "VS Kebab",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 30.0
+            },
+            {
+                "description": "Kadhai Paneer",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 34.0
+            },
+            {
+                "description": "Vegetarian Jalfrezi",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 34.0
+            },
+            {
+                "description": "R Roti",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "T Roti",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "LP Plain",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Dal Panjrat",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 48.0
+            },
+            {
+                "description": "J Rice",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "Onion & Green Chilie",
+                "quantity": 5.0,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": 220.0,
+        "tax": 28.6,
+        "tip": null,
+        "total": 248.6
+    }
+]

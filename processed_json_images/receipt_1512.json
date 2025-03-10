@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Barnes and Miller",
+        "transaction_date": "2020-02-08",
+        "items": [
+            {
+                "description": "Hanna Anderson Women's L\nLarge Coral Short Sleeve Casual\nFall Tee Shirt Dress",
+                "quantity": 5.0,
+                "price": 24.0,
+                "total_price": 132.0
+            },
+            {
+                "description": "Burent Orange Long Dress With\nBeads SUE WONG SIZE 2",
+                "quantity": 4.0,
+                "price": 75.0,
+                "total_price": 330.0
+            },
+            {
+                "description": "Liza Byrd Dress Sz L- Coral\nGreen Medallion Print Short\nSleeve 100% Cotton Line",
+                "quantity": 1.0,
+                "price": 17.99,
+                "total_price": 19.79
+            }
+        ],
+        "subtotal": 437.99,
+        "tax": 43.8,
+        "tip": null,
+        "total": 481.79
+    }
+]

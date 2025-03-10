@@ -1,0 +1,86 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Peter Chang",
+        "transaction_date": "2016-05-07",
+        "items": [
+            {
+                "description": "21.Dry-Fried Eggplant",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "5.Cilantro Fish Rolls",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "11.Grandma's Noodle",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "24.Szechuan Bang Bang Shrimp",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "Pinot Blanc(g)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Tsing Tao",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "Tsing Tao",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 9.0
+            },
+            {
+                "description": "40c.Basil Chicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "39c.Three Peppers Chicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "35f.Fish in Hot Chili Oil",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 19.0
+            },
+            {
+                "description": "Customer Design\n>im",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Customer Design",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 104.5,
+        "tax": 10.45,
+        "tip": null,
+        "total": 114.95
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CREAMSTONE CONCEPTS",
+        "transaction_date": "2016-08-05",
+        "items": [
+            {
+                "description": "BLUE BERRY YOGUR",
+                "quantity": 1.0,
+                "price": 112.0,
+                "total_price": 112.0
+            }
+        ],
+        "subtotal": 112.0,
+        "tax": null,
+        "tip": null,
+        "total": 500.0
+    }
+]

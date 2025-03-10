@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CIUD",
+        "transaction_date": "2015-12-16",
+        "items": [
+            {
+                "description": "Tiger Btl",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "Craggy Range Chardonnay Gls\nClub",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 26.0
+            }
+        ],
+        "subtotal": 42.0,
+        "tax": 3.23,
+        "tip": 4.2,
+        "total": 49.45
+    }
+]

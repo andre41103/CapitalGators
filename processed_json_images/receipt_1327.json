@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.parking",
+        "merchant_name": "Smart Paak\nAIRPORT PARKINGN",
+        "transaction_date": "2014-12-01",
+        "items": [],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 25.08
+    }
+]

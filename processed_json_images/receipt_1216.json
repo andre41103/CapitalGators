@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Le and Sons",
+        "transaction_date": "2015-11-28",
+        "items": [
+            {
+                "description": "Stacy Adams 43373-221 Kids\n2M Classic Cognac Oxford",
+                "quantity": 3.0,
+                "price": 24.67,
+                "total_price": 81.41
+            },
+            {
+                "description": "Lotto Youth Boys Fuerzapura\nL500 Jr Soccer Cleats Size 2.5\nWhite",
+                "quantity": 4.0,
+                "price": 19.99,
+                "total_price": 87.96
+            }
+        ],
+        "subtotal": 153.97,
+        "tax": 15.4,
+        "tip": null,
+        "total": 169.37
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Henry Inc",
+        "transaction_date": "2014-06-11",
+        "items": [
+            {
+                "description": "3 Gal 12L Moonshine Still\nStainless Steel Water Wine\nAlcohol Distiller Equipment",
+                "quantity": 2.0,
+                "price": 99.92,
+                "total_price": 219.82
+            },
+            {
+                "description": "USB Charging Bar Home Pumps\nWine Opener Bottles Electric\nAutomatic Kitchen Tool",
+                "quantity": 1.0,
+                "price": 35.27,
+                "total_price": 38.8
+            },
+            {
+                "description": "500g Active Dry Yeast for\nAlcohol Fermentation / White\nWine Brewing with sacchar",
+                "quantity": 1.0,
+                "price": 19.99,
+                "total_price": 21.99
+            },
+            {
+                "description": "Wine Glasses Wall Mount Wine\nGlass Rack Storage Shelf for\nThe Cabinet",
+                "quantity": 2.0,
+                "price": 21.56,
+                "total_price": 47.43
+            },
+            {
+                "description": "Leather Wine Carrier Single\nBottle Gift Bag Christmas\nWedding Party Reusable",
+                "quantity": 3.0,
+                "price": 11.99,
+                "total_price": 39.57
+            },
+            {
+                "description": "Bottle tops lid reusable\nvacuume sealer stopper flip cap\ncork wine beer",
+                "quantity": 5.0,
+                "price": 9.99,
+                "total_price": 54.95
+            }
+        ],
+        "subtotal": 384.14,
+        "tax": 38.41,
+        "tip": null,
+        "total": 422.55
+    }
+]

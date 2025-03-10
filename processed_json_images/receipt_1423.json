@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Thompson-Smith",
+        "transaction_date": "2016-02-19",
+        "items": [
+            {
+                "description": "16 Inches Marble Corner Table\nTop Inlay Coffee Table with\nMulti Color Gemstones",
+                "quantity": 3.0,
+                "price": 238.0,
+                "total_price": 785.4
+            },
+            {
+                "description": "24\" Marble White Coffee Top\nTable Inlay Lapis Stone\nFurniture Indoor Decor W045",
+                "quantity": 2.0,
+                "price": 918.17,
+                "total_price": 2019.97
+            },
+            {
+                "description": "Blue Shiny Stone Floral Art\nDinning Table Top Marble\nKitchen Table Top 48 Inches",
+                "quantity": 4.0,
+                "price": 3.0,
+                "total_price": 17424.0
+            },
+            {
+                "description": "24\"x24\" White Marble Top\nCounter Table 18\" Tall Multi\nColor Stone Elephant Art",
+                "quantity": 5.0,
+                "price": 2.0,
+                "total_price": 15334.0
+            }
+        ],
+        "subtotal": 32330.34,
+        "tax": 3233.03,
+        "tip": null,
+        "total": 35563.37
+    }
+]

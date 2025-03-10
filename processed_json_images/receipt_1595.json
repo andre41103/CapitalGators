@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Gardner, Tucker and",
+        "transaction_date": "2019-05-30",
+        "items": [
+            {
+                "description": "Hekate Soteira : A Study of\nHekate's Role in the Chaldean\nOracles and Related ...",
+                "quantity": 1.0,
+                "price": 24.12,
+                "total_price": 26.53
+            }
+        ],
+        "subtotal": 24.12,
+        "tax": 2.41,
+        "tip": null,
+        "total": 26.53
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Lucas Inc",
+        "transaction_date": "2016-06-19",
+        "items": [
+            {
+                "description": "Hanging Wine Cup Rack Goblet\nInverted Holder Stemware",
+                "quantity": 1.0,
+                "price": 26.88,
+                "total_price": 29.57
+            },
+            {
+                "description": "6) Vintage Leaf Etched Straight\nSided Wine Glasses. Set of 6",
+                "quantity": 1.0,
+                "price": 65.0,
+                "total_price": 71.5
+            }
+        ],
+        "subtotal": 91.88,
+        "tax": 9.19,
+        "tip": null,
+        "total": 101.07
+    }
+]

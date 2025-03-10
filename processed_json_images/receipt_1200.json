@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Maito S. r. l.",
+        "transaction_date": "2016-04-10",
+        "items": [
+            {
+                "description": "COPERTO",
+                "quantity": 2.0,
+                "price": 5.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "ANTIPASTI MISTI DI MARE",
+                "quantity": 2.0,
+                "price": 30.0,
+                "total_price": 60.0
+            },
+            {
+                "description": "ORTO MARE",
+                "quantity": 1.0,
+                "price": 25.0,
+                "total_price": 25.0
+            },
+            {
+                "description": "FRITTO TOTANI",
+                "quantity": 2.0,
+                "price": 22.0,
+                "total_price": 44.0
+            },
+            {
+                "description": "PINOT GRIGIO JERMANN",
+                "quantity": 1.0,
+                "price": 30.0,
+                "total_price": 30.0
+            },
+            {
+                "description": "ACQUA GASSATA",
+                "quantity": 1.0,
+                "price": 4.0,
+                "total_price": 4.0
+            },
+            {
+                "description": "ACQUA NATURALE",
+                "quantity": 1.0,
+                "price": 4.0,
+                "total_price": 4.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 177.0
+    }
+]

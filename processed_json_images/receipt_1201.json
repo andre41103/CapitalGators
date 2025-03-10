@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "STARBUCKS",
+        "transaction_date": "2017-01-30",
+        "items": [
+            {
+                "description": "Gr Carml Macchiato",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.65
+            },
+            {
+                "description": "Gr Latte",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.95
+            },
+            {
+                "description": "Tl Chai Tea Latte",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.45
+            }
+        ],
+        "subtotal": 12.55,
+        "tax": 1.22,
+        "tip": null,
+        "total": 13.77
+    }
+]

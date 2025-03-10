@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Cook Group",
+        "transaction_date": "2020-02-20",
+        "items": [
+            {
+                "description": "Endurance : Shackleton's\nIncredible Voyage by Alfred\nLansing",
+                "quantity": 4.0,
+                "price": 4.09,
+                "total_price": 18.0
+            },
+            {
+                "description": "The Wim Hof Method Activate\nYour Potential, Transcend Your\nLimits 0000",
+                "quantity": 1.0,
+                "price": 4.22,
+                "total_price": 4.64
+            },
+            {
+                "description": "B0028NAO6C Shoeless Joe",
+                "quantity": 4.0,
+                "price": 3.49,
+                "total_price": 15.36
+            },
+            {
+                "description": "A History of Christianity Vol. 1 :\nBeginnings to 1500\nKenneth\nS.",
+                "quantity": 5.0,
+                "price": 4.09,
+                "total_price": 22.49
+            }
+        ],
+        "subtotal": 54.99,
+        "tax": 5.5,
+        "tip": null,
+        "total": 60.49
+    }
+]

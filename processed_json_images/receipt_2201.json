@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Nando's IOI City Mall",
+        "transaction_date": "2015-05-17",
+        "items": [
+            {
+                "description": "Full Platter-E",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 55.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.63,
+        "tip": null,
+        "total": 64.15
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Rintre De",
+        "transaction_date": "2017-11-18",
+        "items": [
+            {
+                "description": "6OZ FILET",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 26.0
+            },
+            {
+                "description": "MAHI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 26.0
+            },
+            {
+                "description": "SUB CUP BISQUE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "CUP BISQUE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "SUB HOUSE SALAD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "REESES COOKIE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "GL PINOT GRIGIO",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "RAINTREE RUBY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "NUTTY IRISH ICE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.0
+            }
+        ],
+        "subtotal": 104.0,
+        "tax": 6.77,
+        "tip": 15.6,
+        "total": 126.37
+    }
+]

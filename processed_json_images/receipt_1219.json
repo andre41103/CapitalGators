@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Truluck's of Miami",
+        "transaction_date": "2012-07-23",
+        "items": [
+            {
+                "description": "Crabcake",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "Sea Bass",
+                "quantity": null,
+                "price": null,
+                "total_price": 31.0
+            },
+            {
+                "description": "Berries",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.95
+            },
+            {
+                "description": "Cioppino",
+                "quantity": null,
+                "price": null,
+                "total_price": 27.0
+            }
+        ],
+        "subtotal": 82.95,
+        "tax": 6.64,
+        "tip": null,
+        "total": 89.59
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Wilson-Hanson",
+        "transaction_date": "2017-10-22",
+        "items": [
+            {
+                "description": "Dell Gaming PC 17, NVIDIA GTX\n1650, SSD + 1TB, 16GB RAM,\nWIN10, Desktop Computer",
+                "quantity": 5.0,
+                "price": 509.95,
+                "total_price": 2804.73
+            },
+            {
+                "description": "Dell Optiplex 7020 Desktop\n3.2GHz\n8GB 500GB\n10 Pro",
+                "quantity": 2.0,
+                "price": 169.95,
+                "total_price": 373.89
+            },
+            {
+                "description": "HP Pro 6200 Desktop Tower\n3.1GHz 8GB\n500GB Windows 10 Home WiFi",
+                "quantity": 1.0,
+                "price": 179.95,
+                "total_price": 197.95
+            },
+            {
+                "description": "Dell Optiplex SFF Desktop\nComputer Windows 10 4GB\n160GB",
+                "quantity": 4.0,
+                "price": 89.99,
+                "total_price": 395.96
+            }
+        ],
+        "subtotal": 3429.56,
+        "tax": 342.96,
+        "tip": null,
+        "total": 3772.52
+    }
+]

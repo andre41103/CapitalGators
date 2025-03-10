@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ST.MARC CAFE",
+        "transaction_date": "2014-01-20",
+        "items": [
+            {
+                "description": "Choco Banana Split",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.22
+            },
+            {
+                "description": "S Premium Hot Chocolate",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.67
+            },
+            {
+                "description": "L Premium Hot Chocolate",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.54
+            }
+        ],
+        "subtotal": 19.43,
+        "tax": 1.37,
+        "tip": null,
+        "total": 20.8
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Hippopotamus Restauration S.L.",
+        "transaction_date": "2018-01-15",
+        "items": [
+            {
+                "description": "MENU DIA GV",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 35.8
+            },
+            {
+                "description": "Caf\u00e9 Cortado",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.7
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.59,
+        "tip": null,
+        "total": 39.5
+    }
+]

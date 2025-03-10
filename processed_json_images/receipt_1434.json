@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Harrison-Harris",
+        "transaction_date": "2017-01-07",
+        "items": [
+            {
+                "description": "Fast HP Desktop Computer Intel\nProcessor 4GB 160GB 17\" LCD\nDVD Wifi Windows 10",
+                "quantity": 4.0,
+                "price": 99.95,
+                "total_price": 439.78
+            },
+            {
+                "description": "Fast Dell Optiplex Windows 10\nDesktop Computer Tower PC\nCore i3 3.1GHz 4GB 320GB",
+                "quantity": 5.0,
+                "price": 89.95,
+                "total_price": 494.73
+            },
+            {
+                "description": "Dell Optiplex 390 i5 3.10Ghz\nQuad Core Computer w/4Gb\nRAM DVDRW noHD Free Ship",
+                "quantity": 4.0,
+                "price": 84.99,
+                "total_price": 373.96
+            },
+            {
+                "description": "Dell Desktop Computer Tower\nOptiplex Core i5 8GB 1TB HD\nDVD Wifi Windows 10 Pro",
+                "quantity": 3.0,
+                "price": 169.95,
+                "total_price": 560.83
+            },
+            {
+                "description": "Custom Gaming Computer\nRyzen 7 2700 32GB DDR4\nNvidia RTX 2060 RGB SSD\n500GB HDD",
+                "quantity": 5.0,
+                "price": 1.0,
+                "total_price": 6.0
+            }
+        ],
+        "subtotal": 7160.71,
+        "tax": 716.07,
+        "tip": null,
+        "total": 7876.78
+    }
+]

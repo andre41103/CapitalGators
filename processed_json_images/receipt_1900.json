@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "adidas",
+        "transaction_date": "2016-12-11",
+        "items": [
+            {
+                "description": "SUPERSTAR W\nCBLACK/CBLAC",
+                "quantity": 1.0,
+                "price": 99.95,
+                "total_price": 99.95
+            }
+        ],
+        "subtotal": null,
+        "tax": 16.66,
+        "tip": null,
+        "total": 99.95
+    }
+]

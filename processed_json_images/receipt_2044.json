@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "tibits Restaurant Bar Food to go",
+        "transaction_date": "2017-09-10",
+        "items": [
+            {
+                "description": "Food Boat Plate Larg",
+                "quantity": 0.482,
+                "price": 28.0,
+                "total_price": 13.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.25,
+        "tip": null,
+        "total": 13.5
+    }
+]

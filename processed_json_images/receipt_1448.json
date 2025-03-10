@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Romero Inc",
+        "transaction_date": "2014-07-18",
+        "items": [
+            {
+                "description": "Antique Vintage style hand\ncarved",
+                "quantity": 5.0,
+                "price": 13000.0,
+                "total_price": 71500.0
+            },
+            {
+                "description": "Floral two seater fabric sofa",
+                "quantity": 2.0,
+                "price": 199.0,
+                "total_price": 437.8
+            },
+            {
+                "description": "6'x3' White Marble Living Room",
+                "quantity": 3.0,
+                "price": 5590.21,
+                "total_price": 18447.69
+            },
+            {
+                "description": "6'x3' Black Marble Top Dining\nTable Scagliola Inlay",
+                "quantity": 4.0,
+                "price": 5265.97,
+                "total_price": 23170.27
+            },
+            {
+                "description": "7'x4' Buy Marble Dining Table",
+                "quantity": 5.0,
+                "price": 14721.08,
+                "total_price": 80965.94
+            }
+        ],
+        "subtotal": 176837.91,
+        "tax": 17683.79,
+        "tip": null,
+        "total": 194521.7
+    }
+]

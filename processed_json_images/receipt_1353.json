@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ALDI",
+        "transaction_date": "2015-04-18",
+        "items": [
+            {
+                "description": "Old Fashioned Oats",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.29
+            },
+            {
+                "description": "Raspberries",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.39
+            },
+            {
+                "description": "Blueberries",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.89
+            },
+            {
+                "description": "Strawberries",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.19
+            },
+            {
+                "description": "Avocados",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.69
+            },
+            {
+                "description": "Chia Seeds",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "Dates",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.89
+            }
+        ],
+        "subtotal": 12.33,
+        "tax": 0.28,
+        "tip": null,
+        "total": 12.61
+    }
+]

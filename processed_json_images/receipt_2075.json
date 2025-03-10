@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BOW WOW CAFE SON BHD",
+        "transaction_date": "2015-11-10",
+        "items": [
+            {
+                "description": "SEAFOOD\nAGLIO-OLIO",
+                "quantity": 1.0,
+                "price": 25.0,
+                "total_price": 25.0
+            },
+            {
+                "description": "SEAFOOD\nAGLIO-OLIO",
+                "quantity": 1.0,
+                "price": 25.0,
+                "total_price": 11.0
+            },
+            {
+                "description": "FLAT WHITE-R",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "F/LATTE",
+                "quantity": 1.0,
+                "price": 13.0,
+                "total_price": 13.0
+            },
+            {
+                "description": "BANGERS N\nMASH",
+                "quantity": 1.0,
+                "price": 24.0,
+                "total_price": 24.0
+            },
+            {
+                "description": "PORK\nMEATBALL PASTA",
+                "quantity": 1.0,
+                "price": 24.0,
+                "total_price": 24.0
+            },
+            {
+                "description": "BOW WOW\nULTIMATE PORK\nBURGER",
+                "quantity": 1.0,
+                "price": 30.0,
+                "total_price": 30.0
+            },
+            {
+                "description": "CHIC\nA-LA\nBOW WOW",
+                "quantity": 1.0,
+                "price": 28.0,
+                "total_price": 28.0
+            }
+        ],
+        "subtotal": 180.0,
+        "tax": null,
+        "tip": 0.0,
+        "total": 180.0
+    }
+]

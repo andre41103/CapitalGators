@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SARL DLM & CO",
+        "transaction_date": "2008-09-26",
+        "items": [
+            {
+                "description": "SOUPE DU JOUR",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "TIRAMISU",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "BAGUETTE LEGUME/CHEVRE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.5
+            },
+            {
+                "description": "THE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.7
+            },
+            {
+                "description": "SMOOTHIE B",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 4.05,
+        "tip": null,
+        "total": 24.7
+    }
+]

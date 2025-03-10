@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Zuniga and Sons",
+        "transaction_date": "2012-03-15",
+        "items": [
+            {
+                "description": "3 Gal 12L Moonshine Still\nStainless Steel Water Wine",
+                "quantity": 1.0,
+                "price": 99.92,
+                "total_price": 109.91
+            },
+            {
+                "description": "Custom wine glass",
+                "quantity": 5.0,
+                "price": 19.0,
+                "total_price": 104.5
+            }
+        ],
+        "subtotal": 194.92,
+        "tax": 19.49,
+        "tip": null,
+        "total": 214.41
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Arnold, Mercer and Shelton",
+        "transaction_date": "2017-05-06",
+        "items": [
+            {
+                "description": "Nike Pre School Kids Size 12C\nJordan Jumpman Team II (PS)",
+                "quantity": 1.0,
+                "price": 59.99,
+                "total_price": 65.99
+            },
+            {
+                "description": "Joma Boys Youth Gol-102\nSoccer Cleats Shoes Size 3.5",
+                "quantity": 1.0,
+                "price": 19.99,
+                "total_price": 21.99
+            }
+        ],
+        "subtotal": 79.98,
+        "tax": 8.0,
+        "tip": null,
+        "total": 87.98
+    }
+]

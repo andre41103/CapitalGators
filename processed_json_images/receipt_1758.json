@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Johnson, Frye and Jones\nGarner-Robinson",
+        "transaction_date": "2017-01-15",
+        "items": [
+            {
+                "description": "Lego Star Wars Minifigures",
+                "quantity": 3.0,
+                "price": 2.98,
+                "total_price": 9.83
+            },
+            {
+                "description": "Nike SB Dunk High x Concepts",
+                "quantity": 2.0,
+                "price": 100.0,
+                "total_price": 220.0
+            },
+            {
+                "description": "Nike Air Jordan 1 Mid Obsidian",
+                "quantity": 4.0,
+                "price": 24.99,
+                "total_price": 109.96
+            }
+        ],
+        "subtotal": 308.9,
+        "tax": 30.89,
+        "tip": null,
+        "total": 339.79
+    }
+]

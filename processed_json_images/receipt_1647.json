@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2013-09-20",
+        "items": [
+            {
+                "description": "Silky Fake Fur Fluffy Carpets\nNon-slip Shaggy Area Rug Floor\nMat Light Pink",
+                "quantity": 3.0,
+                "price": 14.12,
+                "total_price": 46.6
+            },
+            {
+                "description": "Modern Tribal Geometric 4X6\nIndo Gabbeh Wool & Bamboo\nSilk Oriental Rug Carpet",
+                "quantity": 5.0,
+                "price": 183.77,
+                "total_price": 1010.74
+            }
+        ],
+        "subtotal": 961.21,
+        "tax": 96.12,
+        "tip": null,
+        "total": 1057.33
+    }
+]

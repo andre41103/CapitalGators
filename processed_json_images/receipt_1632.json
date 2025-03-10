@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THE HOME DEPOT",
+        "transaction_date": "2013-08-14",
+        "items": [
+            {
+                "description": "4X4-8FT #2 PT",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.57
+            },
+            {
+                "description": "HDX 1PC 6.5IN LONG NOSE LOCKING PLIE",
+                "quantity": null,
+                "price": 203.49,
+                "total_price": 6.98
+            },
+            {
+                "description": "#4 ZINC SCREW EYE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.98
+            },
+            {
+                "description": "#2 ZINCSCREW EYE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.98
+            },
+            {
+                "description": "FIRM GRIP ALL PURPOSE-SMALL",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "FIRM GRIP ALL PURPOSE-X LARGE",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.99
+            }
+        ],
+        "subtotal": 36.49,
+        "tax": 2.19,
+        "tip": null,
+        "total": 38.68
+    }
+]

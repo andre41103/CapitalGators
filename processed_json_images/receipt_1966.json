@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Basil Thai",
+        "transaction_date": "2016-03-06",
+        "items": [
+            {
+                "description": "Pak Rad Kang",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.95
+            },
+            {
+                "description": "Jasmine Rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "Brown Rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "Pad Se-ew ** JAY **",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            }
+        ],
+        "subtotal": 28.45,
+        "tax": 2.49,
+        "tip": null,
+        "total": 30.94
+    }
+]

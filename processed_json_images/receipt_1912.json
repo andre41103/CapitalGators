@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2014-09-20",
+        "items": [
+            {
+                "description": "BUD LT 122 CN 12PK",
+                "quantity": 5.0,
+                "price": 19.08,
+                "total_price": 95.4
+            },
+            {
+                "description": "BEEM LABO BUD FAM 12Z CN",
+                "quantity": -5.0,
+                "price": 9.09,
+                "total_price": -45.45
+            },
+            {
+                "description": "MICH ULT 12Z CN 12PK",
+                "quantity": 2.0,
+                "price": 19.08,
+                "total_price": 38.15
+            },
+            {
+                "description": "BEEM LABO MICH VAR 12PK",
+                "quantity": -2.0,
+                "price": 5.09,
+                "total_price": -10.18
+            },
+            {
+                "description": "MICH ULT 12Z 24PK CN",
+                "quantity": 2.0,
+                "price": 38.16,
+                "total_price": 76.32
+            },
+            {
+                "description": "BEE 24PK MICH ULT 12Z CN",
+                "quantity": -2.0,
+                "price": 13.17,
+                "total_price": -26.34
+            }
+        ],
+        "subtotal": 127.91,
+        "tax": 11.52,
+        "tip": null,
+        "total": 139.43
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Clark and Sons",
+        "transaction_date": "2021-01-17",
+        "items": [
+            {
+                "description": "AMD Dual Core 3.9Ghz 4GB\nDDR3 500GB WiFi Windows 10\noffice Desktop PC Computer",
+                "quantity": 2.0,
+                "price": 249.99,
+                "total_price": 549.98
+            }
+        ],
+        "subtotal": 499.98,
+        "tax": 50.0,
+        "tip": null,
+        "total": 549.98
+    }
+]

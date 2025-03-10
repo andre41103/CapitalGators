@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Miller-Williams",
+        "transaction_date": "2014-04-22",
+        "items": [
+            {
+                "description": "1920s Flapper Gatsby Cocktail\nDress Chiffon Wedding Party\nEvening Formal Dresses",
+                "quantity": 3.0,
+                "price": 8.99,
+                "total_price": 29.67
+            },
+            {
+                "description": "Lulus Women's Black Bell\nSleeve Floral Swing Dress Size S",
+                "quantity": 3.0,
+                "price": 22.95,
+                "total_price": 75.73
+            },
+            {
+                "description": "Kate Spade NY Sleeveless Ponte\nFit & Flare Solid Black Dress\nSize 6",
+                "quantity": 1.0,
+                "price": 49.99,
+                "total_price": 54.99
+            },
+            {
+                "description": "Banana Republic Maroon\nAbstract ruffled wrap Dress\nWith slip xs 0",
+                "quantity": 3.0,
+                "price": 5.0,
+                "total_price": 16.5
+            },
+            {
+                "description": "Women Sexy Lingerie Lace\nDress Underwear Babydoll\nSleepwear G-string Bikini Lot",
+                "quantity": 2.0,
+                "price": 0.99,
+                "total_price": 2.18
+            }
+        ],
+        "subtotal": 162.79,
+        "tax": 16.28,
+        "tip": null,
+        "total": 179.07
+    }
+]

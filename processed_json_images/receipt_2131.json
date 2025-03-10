@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MALINOI\nbeach bar",
+        "transaction_date": "2014-07-29",
+        "items": [
+            {
+                "description": "LAYS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.3
+            },
+            {
+                "description": "BAKED LAYS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.8
+            },
+            {
+                "description": "FRESH CARROT JUICE",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.3
+            },
+            {
+                "description": "FRESH APPLE JUICE",
+                "quantity": 2.0,
+                "price": 5.3,
+                "total_price": 10.6
+            },
+            {
+                "description": "FRESH ORANGE JUICE",
+                "quantity": 2.0,
+                "price": 5.3,
+                "total_price": 10.6
+            }
+        ],
+        "subtotal": 27.16,
+        "tax": 2.44,
+        "tip": null,
+        "total": 29.6
+    }
+]

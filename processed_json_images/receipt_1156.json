@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "TEA",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.25
+            },
+            {
+                "description": "HAM/EGG/CHIPS **",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.45
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 6.7
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2011-12-28",
+        "items": [
+            {
+                "description": "Chicken Fajita",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.81
+            },
+            {
+                "description": "Single Chicken",
+                "quantity": 2.0,
+                "price": 2.76,
+                "total_price": 5.52
+            }
+        ],
+        "subtotal": 13.33,
+        "tax": 1.18,
+        "tip": null,
+        "total": 14.5
+    }
+]

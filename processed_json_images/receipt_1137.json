@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DOLLAR GENERAL",
+        "transaction_date": "2012-07-04",
+        "items": [
+            {
+                "description": "WERTHERS ORIGINAL CA",
+                "quantity": null,
+                "price": 1.0,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 0.25
+    }
+]

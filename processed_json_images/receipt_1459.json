@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Baker Inc",
+        "transaction_date": "2018-05-26",
+        "items": [
+            {
+                "description": "FashionNova \"Forecasting You\"\nMAXI DRESS TAUPE SZ M",
+                "quantity": 5.0,
+                "price": 25.0,
+                "total_price": 137.5
+            },
+            {
+                "description": "Leopard Print Large Dress With\nPockets & Floral Sleeves",
+                "quantity": 4.0,
+                "price": 39.0,
+                "total_price": 171.6
+            }
+        ],
+        "subtotal": 281.0,
+        "tax": 28.1,
+        "tip": null,
+        "total": 309.1
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Johnston, Byrd and Hendrix\nMay Inc",
+        "transaction_date": "2012-03-05",
+        "items": [
+            {
+                "description": "Super Nintendo SNES System\nConsole Controller & Cables -\nSNS-001 + 3 Games",
+                "quantity": 1.0,
+                "price": 103.99,
+                "total_price": 114.39
+            },
+            {
+                "description": "Nintendo Switch Lite Gray\nCONSOLE ONLY - No\nAccessories or Charger [B5-2]",
+                "quantity": 3.0,
+                "price": 135.0,
+                "total_price": 445.5
+            }
+        ],
+        "subtotal": 508.99,
+        "tax": 50.9,
+        "tip": null,
+        "total": 559.89
+    }
+]

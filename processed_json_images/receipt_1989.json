@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Milano\nRestaurant",
+        "transaction_date": "2016-11-28",
+        "items": [
+            {
+                "description": "451 ESPRESSO SINGLE ML",
+                "quantity": 3.0,
+                "price": 300.0,
+                "total_price": 900.0
+            }
+        ],
+        "subtotal": 900.0,
+        "tax": null,
+        "tip": 90.0,
+        "total": 990.0
+    }
+]

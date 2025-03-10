@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HMS\nHOST",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "FRP MOCHA G",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.69
+            },
+            {
+                "description": "ICR CR HNY LAT T",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.39
+            }
+        ],
+        "subtotal": 11.08,
+        "tax": 0.9,
+        "tip": null,
+        "total": 11.98
+    }
+]

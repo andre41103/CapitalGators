@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "El Chalan Restaurant",
+        "transaction_date": "2016-03-12",
+        "items": [
+            {
+                "description": "CAUSA DE POLLO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.95
+            },
+            {
+                "description": "CEVICHE DE CAMARONES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.95
+            },
+            {
+                "description": "LIMONADA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "PESCADO AL AJILLO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.95
+            }
+        ],
+        "subtotal": 45.85,
+        "tax": 3.67,
+        "tip": null,
+        "total": 49.52
+    }
+]

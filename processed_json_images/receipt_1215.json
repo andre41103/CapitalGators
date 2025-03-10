@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RED LOBSTER 6368",
+        "transaction_date": "2017-03-24",
+        "items": [
+            {
+                "description": "Grand Patron Margarita",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.79
+            },
+            {
+                "description": "Lobsterfest Fizz + Glass",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.49
+            },
+            {
+                "description": "CYO 2 Selections",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 19.49
+            },
+            {
+                "description": "Grand Patron Margarita",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.79
+            },
+            {
+                "description": "Mango Mai Tai",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.99
+            },
+            {
+                "description": "Lobsterfest Surf + Strip",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 33.98
+            },
+            {
+                "description": "Gumbo Cup",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.49
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

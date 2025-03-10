@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Keller Inc",
+        "transaction_date": "2014-05-14",
+        "items": [
+            {
+                "description": "Lilly Pulitzer XS Spike the Punch\nCassie Cotton Dress with\nQuarter Sleeves",
+                "quantity": 1.0,
+                "price": 44.89,
+                "total_price": 49.38
+            }
+        ],
+        "subtotal": 44.89,
+        "tax": 4.49,
+        "tip": null,
+        "total": 49.38
+    }
+]

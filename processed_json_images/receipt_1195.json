@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "NORDSTROM",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "LUX DGNR H:FALENA SMALL TOP HANDL",
+                "quantity": null,
+                "price": null,
+                "total_price": 3500.0
+            },
+            {
+                "description": "SHIPPING & HANDLING",
+                "quantity": null,
+                "price": null,
+                "total_price": 15.0
+            }
+        ],
+        "subtotal": 3515.0,
+        "tax": 240.63,
+        "tip": null,
+        "total": 3755.63
+    }
+]

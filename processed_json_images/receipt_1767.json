@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "HH Kend Jackson Chard Gl",
+                "quantity": 2.0,
+                "price": 7.0,
+                "total_price": 14.0
+            },
+            {
+                "description": "Mumm Napa Brut Bt",
+                "quantity": 2.0,
+                "price": 12.0,
+                "total_price": 24.0
+            },
+            {
+                "description": "Fried Rice Chicken",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.75
+            },
+            {
+                "description": "Kung Pao Shrimp*",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.5
+            },
+            {
+                "description": "Changs Chicken",
+                "quantity": null,
+                "price": null,
+                "total_price": 15.5
+            },
+            {
+                "description": "Handmade Pork Dumpling(4)",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.95
+            },
+            {
+                "description": "Mongolian Beef",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.5
+            }
+        ],
+        "subtotal": 103.2,
+        "tax": 9.8,
+        "tip": null,
+        "total": 113.0
+    }
+]

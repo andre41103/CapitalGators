@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Collins-Case",
+        "transaction_date": "2013-08-21",
+        "items": [
+            {
+                "description": "Q&A a Day: 5-Year Journal",
+                "quantity": 2.0,
+                "price": 4.49,
+                "total_price": 9.88
+            },
+            {
+                "description": "Sasinowski M-Legacy Of Ra\nBOOK NEW",
+                "quantity": 4.0,
+                "price": 19.4,
+                "total_price": 85.36
+            },
+            {
+                "description": "High-Yield Behavioral Science",
+                "quantity": 2.0,
+                "price": 3.99,
+                "total_price": 8.78
+            },
+            {
+                "description": "return to virgin river by robyn\ncarr",
+                "quantity": 5.0,
+                "price": 2.99,
+                "total_price": 16.45
+            },
+            {
+                "description": "Nutcracker Christmas Tales New\nSealed Illustrated Leather",
+                "quantity": 2.0,
+                "price": 34.99,
+                "total_price": 76.98
+            }
+        ],
+        "subtotal": 179.49,
+        "tax": 17.95,
+        "tip": null,
+        "total": 197.44
+    }
+]

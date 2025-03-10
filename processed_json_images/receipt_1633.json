@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Dunkin Donuts/Baskin Robbins",
+        "transaction_date": "2016-01-01",
+        "items": [
+            {
+                "description": "Ht Cof MD OrigBind",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "Muffin",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.59
+            },
+            {
+                "description": "D708 Free Muffin w/p",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -1.59
+            }
+        ],
+        "subtotal": 1.99,
+        "tax": 0.14,
+        "tip": null,
+        "total": 2.13
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CVS/pharmacy",
+        "transaction_date": "2010-11-13",
+        "items": [
+            {
+                "description": "ZAPPS CAJUN C 2Z",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 99.0
+            },
+            {
+                "description": "ZAPPS REGULAR 2Z",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 99.0
+            }
+        ],
+        "subtotal": 1.98,
+        "tax": 9.0,
+        "tip": null,
+        "total": 2.07
+    }
+]

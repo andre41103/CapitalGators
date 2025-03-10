@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ECOLA SEAFOOD RESTAU",
+        "transaction_date": "2016-07-01",
+        "items": [
+            {
+                "description": "L- HALIBUT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.95
+            },
+            {
+                "description": "BOWL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.49
+            }
+        ],
+        "subtotal": 22.44,
+        "tax": null,
+        "tip": null,
+        "total": 22.44
+    }
+]

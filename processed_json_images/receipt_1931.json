@@ -1,0 +1,86 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Albertsons\u00ae",
+        "transaction_date": "2012-08-08",
+        "items": [
+            {
+                "description": "DAWN ULT LIQ W OLA",
+                "quantity": null,
+                "price": 1.39,
+                "total_price": 0.88
+            },
+            {
+                "description": "DAWN ULT LIQ W OLA",
+                "quantity": null,
+                "price": 1.39,
+                "total_price": 0.88
+            },
+            {
+                "description": "DAWN ULT LIQ W OLA",
+                "quantity": null,
+                "price": 1.39,
+                "total_price": 0.88
+            },
+            {
+                "description": "DAWN ULT LIQ W OLA",
+                "quantity": null,
+                "price": 1.39,
+                "total_price": 0.88
+            },
+            {
+                "description": "DAWN ULT LIQ W OLA",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.5
+            },
+            {
+                "description": "MULTIPLIED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -38.0
+            },
+            {
+                "description": "DAWN ULT LIQ W OLA",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.5
+            },
+            {
+                "description": "MULTIPLIED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.38
+            },
+            {
+                "description": "DAWN ULT LIQ W OLA",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.5
+            },
+            {
+                "description": "MULTIPLIED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.38
+            },
+            {
+                "description": "DAWN ULT LIQ W OLA",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.5
+            },
+            {
+                "description": "MULTIPLIED COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.38
+            }
+        ],
+        "subtotal": 0.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 0.0
+    }
+]

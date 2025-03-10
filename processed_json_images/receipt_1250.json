@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Cafe Residenz A",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Bier 0,31",
+                "quantity": 1.0,
+                "price": 4.0,
+                "total_price": 4.0
+            },
+            {
+                "description": "1/8 Zweigelt",
+                "quantity": 1.0,
+                "price": 4.5,
+                "total_price": 4.5
+            },
+            {
+                "description": "Vosl.mit0,331",
+                "quantity": 1.0,
+                "price": 4.0,
+                "total_price": 4.0
+            },
+            {
+                "description": "Grosser Mocca",
+                "quantity": null,
+                "price": 4.9,
+                "total_price": 4.9
+            },
+            {
+                "description": "Kleiner Mocca",
+                "quantity": 1.0,
+                "price": 3.5,
+                "total_price": 3.5
+            },
+            {
+                "description": "Apfelstrudel Vanille",
+                "quantity": 1.0,
+                "price": 7.0,
+                "total_price": 7.0
+            },
+            {
+                "description": "Bratwurst",
+                "quantity": 1.0,
+                "price": 13.5,
+                "total_price": 13.5
+            },
+            {
+                "description": "H\u00fchnerstreifen Salat",
+                "quantity": 1.0,
+                "price": 13.5,
+                "total_price": 13.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 54.9
+    }
+]

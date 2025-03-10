@@ -1,0 +1,92 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Nobu Hotel Ibiza Bay",
+        "transaction_date": "2017-07-12",
+        "items": [
+            {
+                "description": "Padron Peppers",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "TK 40",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 47.0
+            },
+            {
+                "description": "N.S. Salmon",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "Rock Shr BSDS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 35.0
+            },
+            {
+                "description": "Gambas al Ajillo",
+                "quantity": null,
+                "price": null,
+                "total_price": 58.0
+            },
+            {
+                "description": "Taco Lobster",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "Chicken Jidort",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 32.0
+            },
+            {
+                "description": "Fiji 1L",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Jalap Ginger",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "godello Avancia",
+                "quantity": 3.0,
+                "price": 92.0,
+                "total_price": 246.0
+            },
+            {
+                "description": "Four Horsemen",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "English Rose",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20.67
+            },
+            {
+                "description": "Don Julio 1942 Ch",
+                "quantity": 2.0,
+                "price": 28.0,
+                "total_price": 56.0
+            }
+        ],
+        "subtotal": 598.0,
+        "tax": 54.36,
+        "tip": null,
+        "total": 598.0
+    }
+]

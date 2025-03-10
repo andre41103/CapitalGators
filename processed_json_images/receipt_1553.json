@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Williams Group",
+        "transaction_date": "2018-03-09",
+        "items": [
+            {
+                "description": "FAST Dell Optiplex Windows 10\nDesktop Computer Tower C2D\n4GB DVD WiFi 17\" LCD",
+                "quantity": 5.0,
+                "price": 124.95,
+                "total_price": 687.23
+            },
+            {
+                "description": "Sentry Gaming Computer |\nRyzen 3 3200G | 16 GB Ram |\nBuild-to-Order",
+                "quantity": 4.0,
+                "price": 594.99,
+                "total_price": 2617.96
+            }
+        ],
+        "subtotal": 3004.71,
+        "tax": 300.47,
+        "tip": null,
+        "total": 3305.18
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Levy-Vargas\nKelly-Herring",
+        "transaction_date": "2011-12-08",
+        "items": [
+            {
+                "description": "Breaking Free from Depression:\nPathways to Wellness by Jesse\nH. Wright (English)",
+                "quantity": 2.0,
+                "price": 32.94,
+                "total_price": 72.47
+            },
+            {
+                "description": "The Graphic Design Reference\n& Specification Book:",
+                "quantity": 5.0,
+                "price": 20.18,
+                "total_price": 110.99
+            },
+            {
+                "description": "Escape from the Carnival of\nHorrors (Give Yourself\nGoosebumps)",
+                "quantity": 4.0,
+                "price": 5.01,
+                "total_price": 22.04
+            }
+        ],
+        "subtotal": 186.82,
+        "tax": 18.68,
+        "tip": null,
+        "total": 205.5
+    }
+]

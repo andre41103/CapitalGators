@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KELLS CO. MEATH",
+        "transaction_date": "2011-04-05",
+        "items": [
+            {
+                "description": "MAIN COURSE",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "TEA",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "BALLYGOWAN",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 28.0
+    }
+]

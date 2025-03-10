@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2018-12-14",
+        "items": [
+            {
+                "description": "Champagne Glass Holder\nStorage Bar Accessory with\nShelf Wall Mount Wine Holder",
+                "quantity": 4.0,
+                "price": 19.99,
+                "total_price": 87.96
+            }
+        ],
+        "subtotal": 79.96,
+        "tax": 8.0,
+        "tip": null,
+        "total": 87.96
+    }
+]

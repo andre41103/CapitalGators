@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KFC QUEENSBAY",
+        "transaction_date": "2010-10-19",
+        "items": [
+            {
+                "description": "DINNER COMBO HST T",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.8
+            },
+            {
+                "description": "JJEV SET C T T",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.9
+            },
+            {
+                "description": "PLASTIC BAG T T",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.2
+            }
+        ],
+        "subtotal": 15.9,
+        "tax": 0.79,
+        "tip": null,
+        "total": 16.69
+    }
+]

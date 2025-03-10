@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Mcbonild's Singapore Post",
+        "transaction_date": "2013-05-12",
+        "items": [
+            {
+                "description": "barbeque Sauce Tub",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Chilli Sachet",
+                "quantity": 6.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Margarine Pats",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Curry Sauce Tub",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Spoon",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Dasani 600ML",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 4.8
+            },
+            {
+                "description": "Cheeseburger",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.95
+            },
+            {
+                "description": "BB2 Drumlets 2pc",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.3
+            },
+            {
+                "description": "Impung Burger+Corn",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Filet O Fish Meal",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.45
+            },
+            {
+                "description": "MD3 Surcharge $3.50",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.37,
+        "tip": null,
+        "total": 21.0
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Firearms Unknown",
+        "transaction_date": "2016-12-17",
+        "items": [
+            {
+                "description": "ACE Skeleton Stock",
+                "quantity": 1.0,
+                "price": 99.99,
+                "total_price": 99.99
+            },
+            {
+                "description": "Govt Theft AKA",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 99.99,
+        "tax": 9.0,
+        "tip": null,
+        "total": 108.99
+    }
+]

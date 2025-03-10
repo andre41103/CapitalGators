@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Lucas-Bright",
+        "transaction_date": "2018-11-25",
+        "items": [
+            {
+                "description": "VINTAGE IRON WINE BOTTLE\nHOLDER CADDY~HAND\nWROUGHT, CUT, SOLDERED",
+                "quantity": 5.0,
+                "price": 22.5,
+                "total_price": 123.75
+            },
+            {
+                "description": "Press Wine 15L Fruit Cider\nApple Crusher",
+                "quantity": 5.0,
+                "price": 279.0,
+                "total_price": 1534.5
+            }
+        ],
+        "subtotal": 1507.5,
+        "tax": 150.75,
+        "tip": null,
+        "total": 1658.25
+    }
+]

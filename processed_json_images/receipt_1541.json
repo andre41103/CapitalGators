@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Harvey-Bell",
+        "transaction_date": "2012-08-14",
+        "items": [
+            {
+                "description": "SONY Playstation2 Slim Console\nset \" SCPH-90000 / White \" /\nTESTED Working 11192",
+                "quantity": 3.0,
+                "price": 90.0,
+                "total_price": 297.0
+            },
+            {
+                "description": "Nintendo 64 N64 Console Black\nJapan Tested Working NUSHA",
+                "quantity": 5.0,
+                "price": 49.99,
+                "total_price": 274.95
+            },
+            {
+                "description": "Sony PlayStation 4 500GB\nConsole - 8 Games BUNDLE\n(1)Controller GTAV, METAL\nGEAR",
+                "quantity": 2.0,
+                "price": 239.99,
+                "total_price": 527.98
+            },
+            {
+                "description": "Sega Saturn Console Gray\nHST-3200 HST-3210 Japanese",
+                "quantity": 3.0,
+                "price": 119.98,
+                "total_price": 395.93
+            },
+            {
+                "description": "Nintendo Wii U Console\nDeluxe/Handheld Bundle",
+                "quantity": 5.0,
+                "price": 79.99,
+                "total_price": 439.95
+            }
+        ],
+        "subtotal": 1759.82,
+        "tax": 175.98,
+        "tip": null,
+        "total": 1935.8
+    }
+]

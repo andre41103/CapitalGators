@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Chick-fil-a",
+        "transaction_date": "2009-07-10",
+        "items": [
+            {
+                "description": "Lg Fry",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.75
+            },
+            {
+                "description": "Kids 4 Nugg ML",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.16
+            },
+            {
+                "description": "Lemade KD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.69
+            },
+            {
+                "description": "Swt Tea LG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.65
+            }
+        ],
+        "subtotal": 6.25,
+        "tax": 0.41,
+        "tip": null,
+        "total": 6.66
+    }
+]

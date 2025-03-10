@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Port Charlotte Hotel",
+        "transaction_date": "2018-07-22",
+        "items": [
+            {
+                "description": "Real Ale half",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.3
+            },
+            {
+                "description": "Real Ale",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "Real Ale",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "Best",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.3
+            },
+            {
+                "description": "EB VENISON",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 44.85
+            },
+            {
+                "description": "EB VEGETABLE CURRY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.75
+            },
+            {
+                "description": "OPEN FOOD",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.25
+            },
+            {
+                "description": "Ginger Beer",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "EB BASKET OF BREAD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "EB MANGO & HONEY C",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 92.45
+    }
+]

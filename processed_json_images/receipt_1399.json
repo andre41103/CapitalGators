@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Martinez LLC",
+        "transaction_date": "2014-06-28",
+        "items": [
+            {
+                "description": "6 Pairs Of Jordan's Size 7y",
+                "quantity": 4.0,
+                "price": 130.0,
+                "total_price": 572.0
+            },
+            {
+                "description": "Durango Lil' Little Kid Western\nCasual Western Purple Boys -\nSize 2 M",
+                "quantity": 1.0,
+                "price": 68.0,
+                "total_price": 74.8
+            }
+        ],
+        "subtotal": 588.0,
+        "tax": 58.8,
+        "tip": null,
+        "total": 646.8
+    }
+]

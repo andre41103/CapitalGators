@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Wild",
+        "transaction_date": "2016-02-08",
+        "items": [
+            {
+                "description": "(Set) Aglio Prwn",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "(Set) Cappuccino",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "(Set) Iced Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "LAMB SHANK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 26.8
+            },
+            {
+                "description": "oreo cheesecake",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Panna Cota",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "SALMON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            }
+        ],
+        "subtotal": 66.3,
+        "tax": null,
+        "tip": 6.63,
+        "total": 72.95
+    }
+]

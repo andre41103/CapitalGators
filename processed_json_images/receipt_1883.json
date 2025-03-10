@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Bombay Blues Restaurant",
+        "transaction_date": "2015-11-08",
+        "items": [
+            {
+                "description": "Samosa",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "Chicken Tikka",
+                "quantity": null,
+                "price": null,
+                "total_price": 28.0
+            },
+            {
+                "description": "Shrimp Coconut",
+                "quantity": null,
+                "price": null,
+                "total_price": 50.0
+            },
+            {
+                "description": "Vegetable Makhanwala",
+                "quantity": null,
+                "price": null,
+                "total_price": 28.0
+            },
+            {
+                "description": "Garlic Naan",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": 132.0,
+        "tax": null,
+        "tip": 13.2,
+        "total": 161.04
+    }
+]

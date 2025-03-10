@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Price-Williams",
+        "transaction_date": "2020-05-09",
+        "items": [
+            {
+                "description": "Dell Optiplex 990 MT Computer\nPC Quad Core i7 3.4GHz 16GB\n2TB HD Windows 10 Pro",
+                "quantity": 1.0,
+                "price": 269.95,
+                "total_price": 296.95
+            },
+            {
+                "description": "Lenovo i5 | 32GB | 2TB | SSD\nWindows 10 Pro Desktop\nComputer PC WiFi Bluetooth",
+                "quantity": 2.0,
+                "price": 139.0,
+                "total_price": 305.8
+            },
+            {
+                "description": "Open Box: Dell XPS 8930\nDesktop Computer Intel Core i7\n8GB RAM 1TB HDD Black - 8",
+                "quantity": 4.0,
+                "price": 718.11,
+                "total_price": 3159.68
+            }
+        ],
+        "subtotal": 3420.39,
+        "tax": 342.04,
+        "tip": null,
+        "total": 3762.43
+    }
+]

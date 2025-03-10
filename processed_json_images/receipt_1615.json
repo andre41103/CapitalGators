@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Tower Bar",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "French 75",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 36.0
+            },
+            {
+                "description": "Peroni",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 20.0
+            }
+        ],
+        "subtotal": 56.0,
+        "tax": 5.32,
+        "tip": null,
+        "total": 61.32
+    }
+]

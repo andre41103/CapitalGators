@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "BORDERS",
+        "transaction_date": "2008-01-07",
+        "items": [
+            {
+                "description": "IR T",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.99
+            }
+        ],
+        "subtotal": 9.99,
+        "tax": 0.77,
+        "tip": null,
+        "total": 10.76
+    }
+]

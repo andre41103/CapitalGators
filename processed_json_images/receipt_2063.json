@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Grand Nok",
+        "transaction_date": "2016-08-04",
+        "items": [
+            {
+                "description": "Nevada Roll",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "Rainbow Roll",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.0
+            },
+            {
+                "description": "Potstkr PanFrd",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "S & P Calamari",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Corona",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Cant RoastedDuck",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 27.0
+            },
+            {
+                "description": "Fried Rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 23.0
+            },
+            {
+                "description": "Malaysian Noodle",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 21.0
+            },
+            {
+                "description": "Orange Chicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 21.0
+            }
+        ],
+        "subtotal": 154.0,
+        "tax": 12.55,
+        "tip": null,
+        "total": 166.55
+    }
+]

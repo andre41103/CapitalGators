@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Graves and Jensen\nand",
+        "transaction_date": "2019-01-29",
+        "items": [
+            {
+                "description": "Hammered Brass Over Stainless\nsteel Stemless Wine Glasses/\nCandle Holders",
+                "quantity": 1.0,
+                "price": 9.99,
+                "total_price": 10.99
+            },
+            {
+                "description": "6Pc set Blue Wine Glass 7.5\"\nTall Leaf and Button Pattern\nVGC",
+                "quantity": 2.0,
+                "price": 8.99,
+                "total_price": 19.78
+            },
+            {
+                "description": "2 Hand Blown Wine Water\nGoblet Glass Art Mexico Pulled\nFeather Iridescent Swirl",
+                "quantity": 4.0,
+                "price": 29.99,
+                "total_price": 131.96
+            },
+            {
+                "description": "VTG 1970s MCM Brown Steel\nTube Wall or Desk Mounted\n12-Wine Rack Bottle Holder",
+                "quantity": 1.0,
+                "price": 34.0,
+                "total_price": 37.4
+            },
+            {
+                "description": "(2) stacking Metal 8 Wine bottle\nholder Storage Rack, 8 bottles\ncounter Display",
+                "quantity": 4.0,
+                "price": 16.99,
+                "total_price": 74.76
+            }
+        ],
+        "subtotal": 249.89,
+        "tax": 24.99,
+        "tip": null,
+        "total": 274.88
+    }
+]

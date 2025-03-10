@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walton PLC",
+        "transaction_date": "2017-04-18",
+        "items": [
+            {
+                "description": "DC Kids Turbo Skate Shoe (Little\nKid/Big Kid) Color WHITE/ROYAL",
+                "quantity": 4.0,
+                "price": 55.0,
+                "total_price": 242.0
+            },
+            {
+                "description": "Easy No Tie Rubber Shoe Laces\nColored Trainers Snickers Kids",
+                "quantity": 1.0,
+                "price": 1.55,
+                "total_price": 1.71
+            }
+        ],
+        "subtotal": 221.55,
+        "tax": 22.16,
+        "tip": null,
+        "total": 243.71
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Nicholson and Sons",
+        "transaction_date": "2020-05-30",
+        "items": [
+            {
+                "description": "Nike Kid's Air Jordan 4 Retro\n'Laser' 7y White/Gray",
+                "quantity": 3.0,
+                "price": 120.0,
+                "total_price": 396.0
+            },
+            {
+                "description": "Boys Kids Printed Cotton\nSlippers Zip Fastening",
+                "quantity": 3.0,
+                "price": 19.68,
+                "total_price": 64.94
+            },
+            {
+                "description": "Children Place Boys Snow Boots",
+                "quantity": 3.0,
+                "price": 12.4,
+                "total_price": 40.92
+            },
+            {
+                "description": "100Pcs Wall Stickers Home\nDecor Glow In The Dark Star\nsticker Decal",
+                "quantity": 3.0,
+                "price": 1.7,
+                "total_price": 5.61
+            }
+        ],
+        "subtotal": 461.34,
+        "tax": 46.13,
+        "tip": null,
+        "total": 507.47
+    }
+]

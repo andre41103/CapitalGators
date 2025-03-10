@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "COMPTOIR DU LOUVRE",
+        "transaction_date": "2017-01-18",
+        "items": [
+            {
+                "description": "MENU PAUL",
+                "quantity": 2.0,
+                "price": 10.4,
+                "total_price": 20.8
+            },
+            {
+                "description": "PAVOT JAMBON CRU",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "TOMATE MOZZA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "ANGLAISE ABRICOTS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "ECLAIR CHOCOLAT PAUL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "BADOIT VERTE 50PET",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 20.8
+    }
+]

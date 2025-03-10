@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Houston Group\nHarding Inc",
+        "transaction_date": "2017-02-14",
+        "items": [
+            {
+                "description": "Sony PlayStation 3 PS3\nCECH-2501A Slim 150GB Black\nConsole",
+                "quantity": 5.0,
+                "price": 119.99,
+                "total_price": 659.94
+            },
+            {
+                "description": "Sony PlayStation Gray PS1\nConsole! CONSOLE ONLY!",
+                "quantity": 4.0,
+                "price": 21.99,
+                "total_price": 96.76
+            },
+            {
+                "description": "Nintendo Wii Console RVL-001\nComplete Hookups W/",
+                "quantity": 5.0,
+                "price": 78.88,
+                "total_price": 433.84
+            }
+        ],
+        "subtotal": 1082.31,
+        "tax": 108.23,
+        "tip": null,
+        "total": 1190.54
+    }
+]

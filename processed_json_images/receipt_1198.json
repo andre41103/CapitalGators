@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "shutterstock",
+        "transaction_date": "2018-02-19",
+        "items": [
+            {
+                "description": "fries",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "lemonade",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "brussel sprouts",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.25
+            },
+            {
+                "description": "Refuge Blood orange wit",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "Stone Tangerine IPA",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Smog City Lil Bo Pils",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "grilled cheese",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "avocado taco",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "taquitos",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.25
+            },
+            {
+                "description": "Enchiladas",
+                "quantity": null,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "chaffle",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": 108.5,
+        "tax": 7.87,
+        "tip": null,
+        "total": 116.37
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Lee-Brown",
+        "transaction_date": "2012-07-24",
+        "items": [
+            {
+                "description": "24\" Marble White Coffee Top\nTable Inlay Lapis Stone",
+                "quantity": 3.0,
+                "price": 918.17,
+                "total_price": 3029.96
+            },
+            {
+                "description": "6'x3' Marvelous Marble Living\nRoom Table Top Inlay Scagliola\nInlay Decor H602C",
+                "quantity": 4.0,
+                "price": 5.0,
+                "total_price": 22383.68
+            },
+            {
+                "description": "12\" White Marble Coffee Table\nTop Lapis Turquoise Floral Inlay\nDecors W538",
+                "quantity": 1.0,
+                "price": 295.73,
+                "total_price": 325.3
+            }
+        ],
+        "subtotal": 23399.04,
+        "tax": 2339.9,
+        "tip": null,
+        "total": 25738.94
+    }
+]

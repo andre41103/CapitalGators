@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TRADER JOE'S",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "SV HYDRANGEA 3 STEMS",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.99
+            },
+            {
+                "description": "APTZR SHU MAI PORK",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "SIAN DUMPLING CHICKEN SOUP",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "ALMON HOT SMOKED WILD KING.",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "DOPEE PIES CHOCOLATE",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "VOCADOS EACH HASS 40 CT.",
+                "quantity": null,
+                "price": 0.99,
+                "total_price": 1.98
+            },
+            {
+                "description": "VINO PINOT GRIGIO.",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "INO PINOT GRIGIO.",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "WHOLE WHEAT FUSILLI ORGA",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.49
+            },
+            {
+                "description": "VIPS 1 LB",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.79
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": 0.96,
+        "total": 43.1
+    }
+]

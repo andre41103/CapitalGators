@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Din Tai Fung Restaurant",
+        "transaction_date": "2016-06-20",
+        "items": [
+            {
+                "description": "House Special Salad",
+                "quantity": 1.0,
+                "price": 22.0,
+                "total_price": 22.0
+            },
+            {
+                "description": "Chicken XiaoLongBao",
+                "quantity": 1.0,
+                "price": 28.0,
+                "total_price": 28.0
+            },
+            {
+                "description": "Saut\u00e9ed Kang Kung",
+                "quantity": 1.0,
+                "price": 35.0,
+                "total_price": 35.0
+            },
+            {
+                "description": "Tomato & Tofu Egg\nFlower Soup",
+                "quantity": 1.0,
+                "price": 19.0,
+                "total_price": 19.0
+            },
+            {
+                "description": "Ja Jiang Noodles\nwith Chicken &\nBeans",
+                "quantity": 1.0,
+                "price": 38.0,
+                "total_price": 38.0
+            },
+            {
+                "description": "Oolong Tea",
+                "quantity": 2.0,
+                "price": 5.0,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": 152.0,
+        "tax": null,
+        "tip": null,
+        "total": 152.0
+    }
+]

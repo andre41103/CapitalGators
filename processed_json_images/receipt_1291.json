@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": null,
+        "transaction_date": "2012-04-21",
+        "items": [
+            {
+                "description": "REGULAR CA",
+                "quantity": null,
+                "price": null,
+                "total_price": 20.0
+            }
+        ],
+        "subtotal": 20.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 20.0
+    }
+]

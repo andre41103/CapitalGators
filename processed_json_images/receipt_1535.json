@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2016-02-17",
+        "items": [
+            {
+                "description": "Nike Shoes Size 7",
+                "quantity": 4.0,
+                "price": 8.65,
+                "total_price": 38.06
+            },
+            {
+                "description": "timberland boots 5.5y",
+                "quantity": 4.0,
+                "price": 22.0,
+                "total_price": 96.8
+            },
+            {
+                "description": "Children Place Boys Snow Boots",
+                "quantity": 1.0,
+                "price": 12.4,
+                "total_price": 13.64
+            }
+        ],
+        "subtotal": 135.0,
+        "tax": 13.5,
+        "tip": null,
+        "total": 148.5
+    }
+]

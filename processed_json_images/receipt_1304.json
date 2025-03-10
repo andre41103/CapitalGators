@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Morrison, Hernandez and Hayes",
+        "transaction_date": "2015-02-09",
+        "items": [
+            {
+                "description": "AMD Custom Built Quad Core\nRyzen 5 Gaming PC Computer\n8GB DDR4 Vega 11 SSD",
+                "quantity": 5.0,
+                "price": 599.99,
+                "total_price": 3299.95
+            },
+            {
+                "description": "Custom Build Dell Desktop\nComputer i5 | 16GB | 2TB | SSD\nWindows 10 PC WiFi DVD",
+                "quantity": 5.0,
+                "price": 99.0,
+                "total_price": 544.5
+            },
+            {
+                "description": "Dell Desktop Computer Intel\nCore i5 Windows 10 pro 64\n250gb 3.1ghz 4gb Ram",
+                "quantity": 4.0,
+                "price": 240.24,
+                "total_price": 1057.06
+            },
+            {
+                "description": "Dell OptiPlex 390 SFF Computer\nWindows 7 Pro i3 3.10GHz 4GB\nRAM 232GB HDD",
+                "quantity": 5.0,
+                "price": 59.95,
+                "total_price": 329.73
+            },
+            {
+                "description": "CLEARANCE! Fast Dell Desktop\nComputer PC DUAL CORE\nWINDOWS 10 4/8/16GB RAM",
+                "quantity": 1.0,
+                "price": 209.0,
+                "total_price": 229.9
+            },
+            {
+                "description": "Gaming PC Desktop Computer\nIntel i7 RGB, GTX 1660, 16GB\nRAM, 2TB HDD, 480GB SSD",
+                "quantity": 3.0,
+                "price": 809.99,
+                "total_price": 2672.97
+            }
+        ],
+        "subtotal": 7394.63,
+        "tax": 739.46,
+        "tip": null,
+        "total": 8134.09
+    }
+]

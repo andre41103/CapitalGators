@@ -1,0 +1,134 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TRADER JOE'S",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "BALLAST POINT BREWING GRAPEFRU",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.99
+            },
+            {
+                "description": "NUT A_MOND GOCHUJANG",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "SPARKLING SPRING WATER CRAN CL",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.79
+            },
+            {
+                "description": "ORGANIC CARROT JUICE PTS",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "CHOCOLATE CHIP COOKIES",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "BALLAST POINT BREWING SCULPIN",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.99
+            },
+            {
+                "description": "CHOC DARK COVERED GRAHAM W SEA",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "A-PEACHES YELLOW 2 LB EASTERN",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.49
+            },
+            {
+                "description": "SPARKLING SPRING WATER CRAN CL",
+                "quantity": 4.0,
+                "price": 0.79,
+                "total_price": 3.16
+            },
+            {
+                "description": "MANGO STICKY RICE SPRING ROLLS",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "BANANAS",
+                "quantity": 5.0,
+                "price": 0.19,
+                "total_price": 1.14
+            },
+            {
+                "description": "PIZZA PARLANNO W/SAUSAGE",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "FREEZE DRIED MANGO",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.29
+            },
+            {
+                "description": "TJ'S SOFT 10 GRAIN BREAD",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.49
+            },
+            {
+                "description": "ROLLS FOCCACINI WITH CHEESE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "STEAK & STOUT PIES",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.49
+            },
+            {
+                "description": "DRIEC BABYSWEET PINEAPPLE",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "A-CITRUS .OSIE'S MANDARINS 5 L",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.99
+            },
+            {
+                "description": "MILK GAL WHOLE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.89
+            },
+            {
+                "description": "MILK GAL ORG WHOLE",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.99
+            }
+        ],
+        "subtotal": 96.62,
+        "tax": null,
+        "tip": null,
+        "total": 99.82
+    }
+]

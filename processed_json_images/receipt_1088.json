@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SHAKE SHACK",
+        "transaction_date": "2017-05-20",
+        "items": [
+            {
+                "description": "DBL ShackBurger",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.35
+            },
+            {
+                "description": "DBL Burger",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.85
+            },
+            {
+                "description": "french fries",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "cheese fries",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "LRG Soda",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.85
+            },
+            {
+                "description": "LRG Soda",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.85
+            }
+        ],
+        "subtotal": 27.88,
+        "tax": 2.51,
+        "tip": null,
+        "total": 30.39
+    }
+]

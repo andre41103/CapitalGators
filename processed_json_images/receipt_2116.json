@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TOMBALL RED ROBIN",
+        "transaction_date": "2012-08-02",
+        "items": [
+            {
+                "description": "LEMONADE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.39
+            },
+            {
+                "description": "ICED TEA",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.39
+            },
+            {
+                "description": "ROYAL BG",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.89
+            },
+            {
+                "description": "BACON CHZ BG",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.79
+            },
+            {
+                "description": "APPLE HARVEST CHX SAL",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.79
+            },
+            {
+                "description": "TAVERN DOUBLE BURGER",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.99
+            }
+        ],
+        "subtotal": 43.73,
+        "tax": 3.61,
+        "tip": null,
+        "total": 47.34
+    }
+]

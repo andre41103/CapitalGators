@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KABUKI",
+        "transaction_date": "2016-08-01",
+        "items": [
+            {
+                "description": "IL Chaudfontaine",
+                "quantity": 1.0,
+                "price": 6.6,
+                "total_price": 6.6
+            },
+            {
+                "description": "buffet",
+                "quantity": 4.0,
+                "price": 18.9,
+                "total_price": 75.6
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.15,
+        "tip": null,
+        "total": 82.2
+    }
+]

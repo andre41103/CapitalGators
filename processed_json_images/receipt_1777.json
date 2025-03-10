@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Hong Kong Supermarket (Elmhurst)",
+        "transaction_date": "2009-02-21",
+        "items": [
+            {
+                "description": "QUAKER QUICK OAT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "AROY-D COCONUT M\nAROY-D ABD'",
+                "quantity": 2.0,
+                "price": 0.89,
+                "total_price": 1.78
+            },
+            {
+                "description": "COCK FROZEN BAIT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.99
+            }
+        ],
+        "subtotal": 7.76,
+        "tax": 0.0,
+        "tip": null,
+        "total": 7.76
+    }
+]

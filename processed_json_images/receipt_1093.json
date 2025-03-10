@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Hanson PLC",
+        "transaction_date": "2012-03-03",
+        "items": [
+            {
+                "description": "6'x3' White Marble Dining Table\nTop Multi Inlay Floral Elephant\nArt Decor H4952",
+                "quantity": 5.0,
+                "price": 6.0,
+                "total_price": 35.0
+            },
+            {
+                "description": "12\" White Marble Coffee Table\nTop\nPrecious Inlay\nDecor Furniture W534",
+                "quantity": 1.0,
+                "price": 295.73,
+                "total_price": 325.3
+            }
+        ],
+        "subtotal": 32338.18,
+        "tax": 3233.82,
+        "tip": null,
+        "total": 35572.0
+    }
+]

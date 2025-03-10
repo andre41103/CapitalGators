@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AMT COFFEE",
+        "transaction_date": "2017-07-04",
+        "items": [
+            {
+                "description": "AR - Ham & Cheddar Panini",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "AR - Breakfast Ciabatta",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Latte",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 5.4
+            },
+            {
+                "description": "Houseblend Tea Prism",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.43,
+        "tip": null,
+        "total": 17.4
+    }
+]

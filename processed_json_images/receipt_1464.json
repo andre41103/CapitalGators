@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Dawson-Strickland",
+        "transaction_date": "2020-06-29",
+        "items": [
+            {
+                "description": "NWT $1200 J.Crew Silk Chiffon\nIvory Wedding Dress with\nBeading",
+                "quantity": 1.0,
+                "price": 295.0,
+                "total_price": 324.5
+            }
+        ],
+        "subtotal": 295.0,
+        "tax": 29.5,
+        "tip": null,
+        "total": 324.5
+    }
+]

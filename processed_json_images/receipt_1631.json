@@ -1,0 +1,86 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "MADERA LLAVERO TAMBORIN",
+                "quantity": 3.0,
+                "price": 18.0,
+                "total_price": 54.0
+            },
+            {
+                "description": "SUVENIR PULSERA TRES HILOS",
+                "quantity": 31.0,
+                "price": 18.0,
+                "total_price": 558.0
+            },
+            {
+                "description": "MADERA MARACA LLAVERO",
+                "quantity": 2.0,
+                "price": 36.0,
+                "total_price": 36.0
+            },
+            {
+                "description": "ONIX MAGNETO ACRILICO",
+                "quantity": 3.0,
+                "price": 18.0,
+                "total_price": 54.0
+            },
+            {
+                "description": "MADERA TORTILLERO TIPICO MINI",
+                "quantity": 3.0,
+                "price": 18.0,
+                "total_price": 54.0
+            },
+            {
+                "description": "SUVENIR VASO TEQ 1 USD CZM",
+                "quantity": 4.0,
+                "price": 18.0,
+                "total_price": 72.0
+            },
+            {
+                "description": "ARENA BOTELLA",
+                "quantity": 1.0,
+                "price": 18.0,
+                "total_price": 18.0
+            },
+            {
+                "description": "ARENA LLAVERO CONCHA",
+                "quantity": 6.0,
+                "price": 18.0,
+                "total_price": null
+            },
+            {
+                "description": "ARENA RECUERDO",
+                "quantity": 4.0,
+                "price": 18.0,
+                "total_price": 72.0
+            },
+            {
+                "description": "SUVENIR RESINA LLAVERO SOMBRER ...",
+                "quantity": 4.0,
+                "price": 36.0,
+                "total_price": 144.0
+            },
+            {
+                "description": "CRISTAL AGITADOR CON FIGURA AN ...",
+                "quantity": 2.0,
+                "price": 18.0,
+                "total_price": 36.0
+            },
+            {
+                "description": "BOLSA MORRAL ESCOLAR 4",
+                "quantity": 2.0,
+                "price": 180.0,
+                "total_price": 360.0
+            }
+        ],
+        "subtotal": 1566.0,
+        "tax": null,
+        "tip": null,
+        "total": 1566.0
+    }
+]

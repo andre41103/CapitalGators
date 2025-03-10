@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Boyd, Davis and Mason",
+        "transaction_date": "2020-10-14",
+        "items": [
+            {
+                "description": "Diadora Youth Boys Avanti MD\nJR Soccer Cleats Size 2.5 Yellow\nBlack NEW",
+                "quantity": 2.0,
+                "price": 19.99,
+                "total_price": 43.98
+            },
+            {
+                "description": "Fila Boys Skele-Toes Bay RNR 3\nBlack Running Shoes 11\nMedium (D) Little Kid 9953",
+                "quantity": 3.0,
+                "price": 10.25,
+                "total_price": 33.83
+            },
+            {
+                "description": "6 Pairs Of Jordan's Size 7y",
+                "quantity": 2.0,
+                "price": 130.0,
+                "total_price": 286.0
+            },
+            {
+                "description": "Durango Lil' Little Kid Saddle\nWestern Casual Western Tan\nBoys - Size 2 M",
+                "quantity": 1.0,
+                "price": 68.0,
+                "total_price": 74.8
+            },
+            {
+                "description": "Sperry Top Sider Billfish Boys\nUS Size 3W Youth Childrens\nShoes",
+                "quantity": 2.0,
+                "price": 0.99,
+                "total_price": 2.18
+            },
+            {
+                "description": "Boys Slip-On Black Dress Shoes\nLoafers 3.5 W Wide Width",
+                "quantity": 1.0,
+                "price": 19.99,
+                "total_price": 21.99
+            }
+        ],
+        "subtotal": 420.7,
+        "tax": 42.07,
+        "tip": null,
+        "total": 462.77
+    }
+]

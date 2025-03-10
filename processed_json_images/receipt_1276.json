@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Facci",
+        "transaction_date": "2014-04-20",
+        "items": [
+            {
+                "description": "House Chardonnay",
+                "quantity": 2.0,
+                "price": 6.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "Iced Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "Root Beer",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "Pollo Trentino",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.0
+            },
+            {
+                "description": "Kids Chix Finger",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Gnocchi Caprese",
+                "quantity": 2.0,
+                "price": 18.0,
+                "total_price": 36.0
+            },
+            {
+                "description": "Angl Hair Sophia",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "Chicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            }
+        ],
+        "subtotal": 94.0,
+        "tax": null,
+        "tip": null,
+        "total": 100.0
+    }
+]

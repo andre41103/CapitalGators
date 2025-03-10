@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HINTZELL's OYSTER VERRE",
+        "transaction_date": "2015-11-30",
+        "items": [
+            {
+                "description": "*Water",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Soft Drink",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.29
+            },
+            {
+                "description": "Oyster Polloy Okti Sauce",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.99
+            },
+            {
+                "description": "Lunch Fish Tacos STam",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.49
+            },
+            {
+                "description": "*$Gumbo",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "Pecan Pie",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.49
+            }
+        ],
+        "subtotal": 31.25,
+        "tax": 3.13,
+        "tip": null,
+        "total": 34.38
+    }
+]

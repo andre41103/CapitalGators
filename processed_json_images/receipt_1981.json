@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Duncan and Sons",
+        "transaction_date": "2020-01-16",
+        "items": [
+            {
+                "description": "18\" White Marble Coffee Table\nTop\nInlay Art\nFurniture",
+                "quantity": 4.0,
+                "price": 394.64,
+                "total_price": 1736.42
+            },
+            {
+                "description": "48 Inches Marble Coffee Table\nTop Inlay with Yellow Stone Art\nDinette Table Top",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3740.0
+            },
+            {
+                "description": "Multi Color Stones Inlay Art\nCoffee Table Top Marble Patio\nSofa Table 27 Inches",
+                "quantity": 2.0,
+                "price": 517.5,
+                "total_price": 1138.5
+            },
+            {
+                "description": "Malachite Stone Luxurious Look\nCoffee Table Top Marble Center\nTable 27 Inches",
+                "quantity": 1.0,
+                "price": 765.0,
+                "total_price": 841.5
+            },
+            {
+                "description": "7'x4' Blue Random Marble\nDining Hallway Table Top Lapis\nLazuli Inlay Decor E947A",
+                "quantity": 1.0,
+                "price": 8.0,
+                "total_price": 9013.5
+            },
+            {
+                "description": "Hand Painted Octagonal\nMoroccan End Table",
+                "quantity": 3.0,
+                "price": 67.0,
+                "total_price": 221.1
+            }
+        ],
+        "subtotal": 15173.65,
+        "tax": 1517.37,
+        "tip": null,
+        "total": 16691.02
+    }
+]

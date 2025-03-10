@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "EL GRECO",
+        "transaction_date": "2016-06-23",
+        "items": [
+            {
+                "description": "Coca cola light",
+                "quantity": 4.0,
+                "price": 3.25,
+                "total_price": 13.0
+            },
+            {
+                "description": "Filet de poitrine de pou",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.5
+            },
+            {
+                "description": "Brochette d'agneau",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.0
+            }
+        ],
+        "subtotal": 38.87,
+        "tax": 5.63,
+        "tip": null,
+        "total": 44.5
+    }
+]

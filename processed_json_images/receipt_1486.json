@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Barton-Higgins",
+        "transaction_date": "2018-06-03",
+        "items": [
+            {
+                "description": "HP Desktop Computers Core i5\n16GB 2TB 256GB SSD Wifi 22\"\nLCD\n10 Pro PC",
+                "quantity": 2.0,
+                "price": 139.95,
+                "total_price": 307.89
+            },
+            {
+                "description": "Ryzen Gaming Computer",
+                "quantity": 2.0,
+                "price": 752.0,
+                "total_price": 1654.4
+            },
+            {
+                "description": "Dell Optiplex 390 i5 3.10Ghz\nQuad Core Computer w/4Gb\nRAM DVDRW noHD Free Ship",
+                "quantity": 5.0,
+                "price": 84.99,
+                "total_price": 467.45
+            },
+            {
+                "description": "CAD Solidworks Video Photo\nEditing Workstation 64GB 8C\nXeon",
+                "quantity": 2.0,
+                "price": 520.0,
+                "total_price": 1144.0
+            },
+            {
+                "description": "HP T520 Thin Client Computer\nAMD GX-212JC 1.2GHz 4GB RAM\nTESTED\nREAD BELOW !!",
+                "quantity": 4.0,
+                "price": 37.75,
+                "total_price": 166.1
+            },
+            {
+                "description": "AMD Dual Core 4GB RAM 500GB\nHDD WIFI Window 7 Pro 32bit\nDesktop PC Computer",
+                "quantity": 2.0,
+                "price": 279.99,
+                "total_price": 615.98
+            }
+        ],
+        "subtotal": 3959.83,
+        "tax": 395.98,
+        "tip": null,
+        "total": 4355.81
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TARGET",
+        "transaction_date": "2011-10-06",
+        "items": [
+            {
+                "description": "SKITTLES",
+                "quantity": 2.0,
+                "price": 2.0,
+                "total_price": 4.0
+            },
+            {
+                "description": "ORAL B FLOSS",
+                "quantity": 2.0,
+                "price": 0.97,
+                "total_price": 1.94
+            },
+            {
+                "description": "BLUSH",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.74
+            },
+            {
+                "description": "BLUSH",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.74
+            },
+            {
+                "description": "UP FACIAL",
+                "quantity": null,
+                "price": 0.99,
+                "total_price": 0.49
+            },
+            {
+                "description": "INDEX DIVIOR",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.69
+            },
+            {
+                "description": "MER COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "MER COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "MFR COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.5
+            },
+            {
+                "description": "MER COLPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -8.0
+            }
+        ],
+        "subtotal": 5.1,
+        "tax": 1.2,
+        "tip": null,
+        "total": 6.3
+    }
+]

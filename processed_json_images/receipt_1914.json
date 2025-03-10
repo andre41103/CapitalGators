@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Reilly, Hicks and Hughes",
+        "transaction_date": "2017-11-27",
+        "items": [
+            {
+                "description": "Vintage Art from India Marble\nDinning Table Top Round",
+                "quantity": 3.0,
+                "price": 3.0,
+                "total_price": 9900.0
+            },
+            {
+                "description": "12\" Marble Side Coffee Table\nTop Multi Stone Floral Inlay",
+                "quantity": 1.0,
+                "price": 259.77,
+                "total_price": 285.75
+            },
+            {
+                "description": "7'x4' Buy Marble Dining Table\nWith Black Top Marquetry Inlay",
+                "quantity": 2.0,
+                "price": 14.0,
+                "total_price": 32386.38
+            },
+            {
+                "description": "Real Madrid Inflatable Chair",
+                "quantity": 2.0,
+                "price": 43.95,
+                "total_price": 96.69
+            }
+        ],
+        "subtotal": 38789.83,
+        "tax": 3878.98,
+        "tip": null,
+        "total": 42668.81
+    }
+]

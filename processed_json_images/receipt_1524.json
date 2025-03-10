@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Peterson-Bryant",
+        "transaction_date": "2020-04-18",
+        "items": [
+            {
+                "description": "10-Core Gaming Computer\nDesktop PC Tower 3TB Quad\n16GB DDR4 AMD Graphics WIFI\nPC",
+                "quantity": 5.0,
+                "price": 618.49,
+                "total_price": 3401.7
+            },
+            {
+                "description": "Lenovo C20-00 ... all in one\ndesktop computer ... with\nWireless Mouse",
+                "quantity": 1.0,
+                "price": 277.64,
+                "total_price": 305.4
+            }
+        ],
+        "subtotal": 3370.09,
+        "tax": 337.01,
+        "tip": null,
+        "total": 3707.1
+    }
+]

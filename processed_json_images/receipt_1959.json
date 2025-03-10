@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Redondo Car Wash",
+        "transaction_date": "2017-02-15",
+        "items": [
+            {
+                "description": "SCUBA DIVER (FULL DETAIL)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 270.0
+            },
+            {
+                "description": "DETAIL DISCOUNT $",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -70.0
+            }
+        ],
+        "subtotal": 200.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 200.0
+    }
+]

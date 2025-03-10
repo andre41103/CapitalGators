@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Salazar PLC",
+        "transaction_date": "2017-11-15",
+        "items": [
+            {
+                "description": "Kate Spade NY Sleeveless Ponte\nFit & Flare Solid Black Dress\nSize 6",
+                "quantity": 5.0,
+                "price": 49.99,
+                "total_price": 274.95
+            },
+            {
+                "description": "Guess Dress Size 6",
+                "quantity": 4.0,
+                "price": 20.0,
+                "total_price": 88.0
+            },
+            {
+                "description": "Women Elegant Fashion O-Neck\nKnee Length Short Sleeve Retro\nFloral Print Dress",
+                "quantity": 1.0,
+                "price": 12.0,
+                "total_price": 13.2
+            },
+            {
+                "description": "Vintage AGB Black Velvet Maxi\nDress L Mandarin Collar",
+                "quantity": 5.0,
+                "price": 69.96,
+                "total_price": 384.78
+            },
+            {
+                "description": "J crew Mercantile Women's Maxi\nDress Size 2 Floral Tiered Lined\nPink",
+                "quantity": 5.0,
+                "price": 20.0,
+                "total_price": 110.0
+            },
+            {
+                "description": "Tommy Bahama Women's V\nNeck Linen Floral Dress Size M\nBeige Short Sleeve Tan",
+                "quantity": 4.0,
+                "price": 34.99,
+                "total_price": 153.96
+            },
+            {
+                "description": "Zara Yellow Shift Dress XS",
+                "quantity": 5.0,
+                "price": 24.75,
+                "total_price": 136.13
+            }
+        ],
+        "subtotal": 1055.46,
+        "tax": 105.55,
+        "tip": null,
+        "total": 1161.01
+    }
+]

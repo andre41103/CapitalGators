@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Watts-Glover",
+        "transaction_date": "2015-12-04",
+        "items": [
+            {
+                "description": "Rickshaw Decoration Gift Wine\nRack Retro Holder Bar Home\nOrnaments Vintage Iron",
+                "quantity": 4.0,
+                "price": 71.49,
+                "total_price": 314.56
+            },
+            {
+                "description": "Custom wine glass",
+                "quantity": 4.0,
+                "price": 19.0,
+                "total_price": 83.6
+            }
+        ],
+        "subtotal": 361.96,
+        "tax": 36.2,
+        "tip": null,
+        "total": 398.16
+    }
+]

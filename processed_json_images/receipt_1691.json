@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Lowery LLC",
+        "transaction_date": "2017-02-12",
+        "items": [
+            {
+                "description": "Vince Camuto Sweater Dress\nSize Medium Striped Long\nSleeve",
+                "quantity": 5.0,
+                "price": 32.0,
+                "total_price": 176.0
+            }
+        ],
+        "subtotal": 160.0,
+        "tax": 16.0,
+        "tip": null,
+        "total": 176.0
+    }
+]

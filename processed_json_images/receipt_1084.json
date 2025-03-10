@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PIZZA HUT",
+        "transaction_date": "2009-09-27",
+        "items": [
+            {
+                "description": "HPM3 WH E",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.0
+            }
+        ],
+        "subtotal": 25.5,
+        "tax": 1.25,
+        "tip": 2.5,
+        "total": 29.25
+    }
+]

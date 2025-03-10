@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Butcher Shop & Grill",
+        "transaction_date": "2016-12-02",
+        "items": [
+            {
+                "description": "Fillet 240",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 126.0
+            },
+            {
+                "description": "Add Lobster",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 65.0
+            },
+            {
+                "description": "Strwbery Mojito",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 215.0
+    }
+]

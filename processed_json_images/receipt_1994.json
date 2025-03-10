@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "5/PREF DE VILLEFRANCHE DE RGUE",
+        "transaction_date": "1995-06-08",
+        "items": [
+            {
+                "description": "CV + 10 ANS",
+                "quantity": null,
+                "price": null,
+                "total_price": 375.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 380.0
+    }
+]

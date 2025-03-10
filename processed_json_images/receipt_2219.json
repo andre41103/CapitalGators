@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "SELFRIDGES@",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "PANTHERE\nOPTIKA ACCS",
+                "quantity": 1.0,
+                "price": 485.0,
+                "total_price": 485.0
+            },
+            {
+                "description": "OPTIKA ACCS\nCLEANER",
+                "quantity": 1.0,
+                "price": 2.99,
+                "total_price": 2.99
+            },
+            {
+                "description": "OPTIKA ACCS\nRAYBAN",
+                "quantity": 1.0,
+                "price": 109.0,
+                "total_price": 109.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 596.99
+    }
+]

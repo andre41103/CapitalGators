@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Larson-Grant",
+        "transaction_date": "2014-06-25",
+        "items": [
+            {
+                "description": "Selmash Lux Home Alcohol\nDistiller Kit for wine brewing, 15\n20 30 |",
+                "quantity": 4.0,
+                "price": 157.9,
+                "total_price": 694.76
+            },
+            {
+                "description": "Gold Band Wine Glasses Clear\nglass round stems 2 12 ounce\nelegant stems",
+                "quantity": 5.0,
+                "price": 1.99,
+                "total_price": 10.94
+            },
+            {
+                "description": "Metal 12\" tabletop Wine Bottle\nDisplay Rack Holder Caddy\nbarware glass grapes",
+                "quantity": 3.0,
+                "price": 45.0,
+                "total_price": 148.5
+            },
+            {
+                "description": "Hoodie Wine Bottle Holder",
+                "quantity": 2.0,
+                "price": 11.69,
+                "total_price": 25.72
+            },
+            {
+                "description": "Set Of 2 Etched \" Hers\" and\n\"Hers Too\" Wine Glasses",
+                "quantity": 4.0,
+                "price": 4.0,
+                "total_price": 17.6
+            }
+        ],
+        "subtotal": 815.93,
+        "tax": 81.59,
+        "tip": null,
+        "total": 897.52
+    }
+]

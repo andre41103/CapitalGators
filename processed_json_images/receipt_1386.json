@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Moore-Miller",
+        "transaction_date": "2016-03-10",
+        "items": [
+            {
+                "description": "Victorian European Country\nTraditional\nMat Area",
+                "quantity": 1.0,
+                "price": 178.0,
+                "total_price": 195.8
+            },
+            {
+                "description": "Round Rug Carpet For Living\nRoom Decor Faux Fur Rugs",
+                "quantity": 4.0,
+                "price": 9.87,
+                "total_price": 43.43
+            }
+        ],
+        "subtotal": 217.48,
+        "tax": 21.75,
+        "tip": null,
+        "total": 239.23
+    }
+]

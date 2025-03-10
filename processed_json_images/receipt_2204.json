@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Wilson, Freeman and Lyons",
+        "transaction_date": "2013-08-16",
+        "items": [
+            {
+                "description": "All Mattel Disney Pixar Model",
+                "quantity": 5.0,
+                "price": 12.99,
+                "total_price": 71.45
+            },
+            {
+                "description": "Nike Air Max 90 All Black\nLeather Running Shoes",
+                "quantity": 5.0,
+                "price": 74.99,
+                "total_price": 412.44
+            },
+            {
+                "description": "Timberland brown slip on shoes\nsize\njuniors",
+                "quantity": 1.0,
+                "price": 2.0,
+                "total_price": 2.2
+            },
+            {
+                "description": "Lego Star Wars Minifigures\nStormtrooper Darth Vader Yoda",
+                "quantity": 5.0,
+                "price": 2.98,
+                "total_price": 16.39
+            },
+            {
+                "description": "Sperry Boys shoes Size 2M",
+                "quantity": 5.0,
+                "price": 4.99,
+                "total_price": 27.45
+            },
+            {
+                "description": "Children Place Boys Snow Boots",
+                "quantity": 4.0,
+                "price": 12.4,
+                "total_price": 54.56
+            }
+        ],
+        "subtotal": 531.35,
+        "tax": 53.13,
+        "tip": null,
+        "total": 584.48
+    }
+]

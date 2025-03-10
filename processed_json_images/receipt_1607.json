@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Montgomery LLC",
+        "transaction_date": "2020-01-16",
+        "items": [
+            {
+                "description": "15\"x15\" White Marble Coffee",
+                "quantity": 5.0,
+                "price": 650.0,
+                "total_price": 3575.0
+            },
+            {
+                "description": "30\"x30\" Marble Black Top Table\nSemi\nBird Art Black\nFriday Gift D\u00e9cor",
+                "quantity": 5.0,
+                "price": 2.0,
+                "total_price": 13194.5
+            },
+            {
+                "description": "15\"x15\" White Marble Chess",
+                "quantity": 3.0,
+                "price": 600.0,
+                "total_price": 1980.0
+            }
+        ],
+        "subtotal": 17045.0,
+        "tax": 1704.5,
+        "tip": null,
+        "total": 18749.5
+    }
+]

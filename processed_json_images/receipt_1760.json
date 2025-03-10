@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ANNA DLONE",
+        "transaction_date": "2015-07-04",
+        "items": [
+            {
+                "description": "0,21 Orangensaft frisch",
+                "quantity": 2.0,
+                "price": 4.2,
+                "total_price": 8.4
+            },
+            {
+                "description": "2Pers. VEGETAR.mit Lachs",
+                "quantity": null,
+                "price": null,
+                "total_price": 22.5
+            },
+            {
+                "description": "Espresso Macchiato",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "Cappuccino",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.9
+            }
+        ],
+        "subtotal": 30.5,
+        "tax": 5.8,
+        "tip": null,
+        "total": 36.3
+    }
+]

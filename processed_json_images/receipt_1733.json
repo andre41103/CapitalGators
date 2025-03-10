@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "STAPLES",
+        "transaction_date": "2014-11-21",
+        "items": [
+            {
+                "description": "LOGITECH C920 WEBCAM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 74.99
+            }
+        ],
+        "subtotal": 74.99,
+        "tax": 6.63,
+        "tip": null,
+        "total": 81.62
+    }
+]

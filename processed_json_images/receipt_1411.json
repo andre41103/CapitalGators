@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Holt-Snow",
+        "transaction_date": "2014-11-27",
+        "items": [
+            {
+                "description": "Carnelian Stone Inlay Art Marble\nCoffee Table Top White Corner",
+                "quantity": 3.0,
+                "price": 225.25,
+                "total_price": 743.33
+            },
+            {
+                "description": "Multi Color Stones Inlay Art\nCoffee Table Top Marble Patio\nSofa Table 27 Inches",
+                "quantity": 5.0,
+                "price": 517.5,
+                "total_price": 2846.25
+            },
+            {
+                "description": "18\" Handmade White Top Chess\nTable Inlaid Mosaic Gemstone",
+                "quantity": 3.0,
+                "price": 525.0,
+                "total_price": 1732.5
+            }
+        ],
+        "subtotal": 4838.25,
+        "tax": 483.83,
+        "tip": null,
+        "total": 5322.08
+    }
+]

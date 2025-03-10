@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Walters-Hall",
+        "transaction_date": "2011-08-23",
+        "items": [
+            {
+                "description": "Microsoft Xbox Series X 1TB\nVideo Game Console - Black,\nPreorder Confirm PRESALE",
+                "quantity": 5.0,
+                "price": 729.98,
+                "total_price": 4014.89
+            },
+            {
+                "description": "Animal Crossing Downloaded\n3DS Nintendo Multi Color Game\nConsole White with BOX",
+                "quantity": 5.0,
+                "price": 154.97,
+                "total_price": 852.34
+            },
+            {
+                "description": "Microsoft Xbox Series X Console\nPre-Order - CONFIRMED",
+                "quantity": 3.0,
+                "price": 849.99,
+                "total_price": 2804.97
+            },
+            {
+                "description": "SONY PlayStation 3 Fat Console\nBundle | Cords 2 DualShock 3\nControllers 7 Games",
+                "quantity": 5.0,
+                "price": 119.99,
+                "total_price": 659.94
+            },
+            {
+                "description": "Nintendo Switch Lite Yellow\nCONSOLE ONLY - No\nAccessories or Charger [B1-1]",
+                "quantity": 1.0,
+                "price": 135.0,
+                "total_price": 148.5
+            },
+            {
+                "description": "Nintendo 64 Console \"Perfect\" +\nLot Games \"6 Games\"",
+                "quantity": 1.0,
+                "price": 200.0,
+                "total_price": 220.0
+            }
+        ],
+        "subtotal": 7909.67,
+        "tax": 790.97,
+        "tip": null,
+        "total": 8700.64
+    }
+]

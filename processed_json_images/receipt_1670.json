@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ASDA",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "NAPPIES",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "MUFFIN TRAY",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "TEST KIT",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.02
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 17.02
+    }
+]

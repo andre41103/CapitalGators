@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "C Thrift Store",
+        "transaction_date": "2015-09-10",
+        "items": [
+            {
+                "description": "BRICBR-KIT PLASTICY\nYELLOW",
+                "quantity": 1.0,
+                "price": 1.99,
+                "total_price": 199.0
+            },
+            {
+                "description": "BRICBR-KIT PLASTICY\nYELLOW",
+                "quantity": 1.0,
+                "price": 1.98,
+                "total_price": 1.99
+            },
+            {
+                "description": "FURNIT-COMP MISC-WHI\nWHITE",
+                "quantity": 1.0,
+                "price": 3.99,
+                "total_price": 2.0
+            },
+            {
+                "description": "BRICBR-OFFICE-BLUE-\nBLUE",
+                "quantity": 1.0,
+                "price": 1.99,
+                "total_price": 1.99
+            }
+        ],
+        "subtotal": 7.97,
+        "tax": 0.61,
+        "tip": null,
+        "total": 8.58
+    }
+]

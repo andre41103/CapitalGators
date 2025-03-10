@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Williams and Sons",
+        "transaction_date": "2015-08-23",
+        "items": [
+            {
+                "description": "R&M; RICHARDS WOMAN'S\nBLUE PRINT LONG DRESS WITH\nSHRUG JACKET SIZE 18W NWT",
+                "quantity": 1.0,
+                "price": 29.99,
+                "total_price": 32.99
+            },
+            {
+                "description": "Xhilaration Womens L Burgandy\nBoho Embroidered Festival Mini\nDress NEW",
+                "quantity": 5.0,
+                "price": 14.95,
+                "total_price": 82.23
+            },
+            {
+                "description": "Jams World Hawaiian\nDress\nRayon sz.L",
+                "quantity": 5.0,
+                "price": 65.0,
+                "total_price": 357.5
+            },
+            {
+                "description": "NWT Boohoo Sabra Emerald\nGreen Floral Ruffle Dress Sz 12",
+                "quantity": 4.0,
+                "price": 4.99,
+                "total_price": 21.96
+            },
+            {
+                "description": "J crew Mercantile Women's Maxi\nDress Size 2 Floral Tiered Lined\nPink",
+                "quantity": 2.0,
+                "price": 20.0,
+                "total_price": 44.0
+            }
+        ],
+        "subtotal": 489.7,
+        "tax": 48.97,
+        "tip": null,
+        "total": 538.67
+    }
+]

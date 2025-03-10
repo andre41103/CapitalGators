@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Castillo LLC",
+        "transaction_date": "2017-04-01",
+        "items": [
+            {
+                "description": "Handmade Thick round warm\ncrochet Rug Carpet Mat 97%\nacrylic 3% me Floor Decor",
+                "quantity": 4.0,
+                "price": 44.99,
+                "total_price": 197.96
+            },
+            {
+                "description": "Rug White Moroccan Beni\nOurain Trellis Shag Area Rug\nAuthentic Handmade Carpet",
+                "quantity": 2.0,
+                "price": 245.0,
+                "total_price": 539.0
+            },
+            {
+                "description": "Abstract Living Room Carpet\nHome Decor Nordic Style\nBedside Area Rug Floor Mats",
+                "quantity": 1.0,
+                "price": 24.01,
+                "total_price": 26.41
+            },
+            {
+                "description": "Leopard Printed Rug Skin Mat\nLeather Faux Fur Animals Area\nRugs Home Carpets",
+                "quantity": 1.0,
+                "price": 19.49,
+                "total_price": 21.44
+            },
+            {
+                "description": "1pc Exquisite Durable Foot\nCloth Christmas Carpet Xmas\nCushion for Kitchen",
+                "quantity": 2.0,
+                "price": 15.57,
+                "total_price": 34.25
+            }
+        ],
+        "subtotal": 744.6,
+        "tax": 74.46,
+        "tip": null,
+        "total": 819.06
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "XIN WANG",
+        "transaction_date": "2016-07-13",
+        "items": [
+            {
+                "description": "(705)Kopi",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.7
+            },
+            {
+                "description": "(074)Wanton Soup Noodle",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.9
+            },
+            {
+                "description": "(503)Spy P.Dices Soup Ndl",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.8
+            },
+            {
+                "description": "(043)Pork Chop Bk Rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "(545)Chicken Flos Fried Ri",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.5
+            },
+            {
+                "description": "(110)F. Toast PeanutButter",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.9
+            }
+        ],
+        "subtotal": 47.3,
+        "tax": 3.64,
+        "tip": 4.73,
+        "total": 55.67
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2018-01-22",
+        "items": [
+            {
+                "description": "Espect\u00e1culo Flamenco en\n\"Caf\u00e9 de Ch",
+                "quantity": 1.0,
+                "price": 82.0,
+                "total_price": null
+            },
+            {
+                "description": ">Titulo Adulto",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 164.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 164.0
+    }
+]

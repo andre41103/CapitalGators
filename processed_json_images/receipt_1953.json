@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DAIKO",
+        "transaction_date": "2017-04-15",
+        "items": [
+            {
+                "description": "Edamame",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Wasabi Shumai",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Sp Tuna+Avo Salad",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.5
+            },
+            {
+                "description": "Fresh Scallop. SA, 2PC",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "R Double Daiker",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.95
+            },
+            {
+                "description": "R Spider",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.5
+            }
+        ],
+        "subtotal": 55.43,
+        "tax": 3.52,
+        "tip": null,
+        "total": 58.95
+    }
+]

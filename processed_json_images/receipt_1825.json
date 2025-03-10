@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Roberson and Sons",
+        "transaction_date": "2017-03-05",
+        "items": [
+            {
+                "description": "6'x3' Marble Dining Center\nTable With Black Top Floral",
+                "quantity": 4.0,
+                "price": 6.0,
+                "total_price": 26577.76
+            }
+        ],
+        "subtotal": 24161.6,
+        "tax": 2416.16,
+        "tip": null,
+        "total": 26577.76
+    }
+]

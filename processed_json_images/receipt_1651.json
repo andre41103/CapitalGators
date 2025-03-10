@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "Shell",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "LABOR",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "LABOR",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            }
+        ],
+        "subtotal": 30.0,
+        "tax": 2.78,
+        "tip": null,
+        "total": 32.78
+    }
+]

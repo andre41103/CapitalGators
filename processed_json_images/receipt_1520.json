@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Bennett, Sullivan and Collier",
+        "transaction_date": "2021-07-01",
+        "items": [
+            {
+                "description": "Wine Bottle Opener Corkscrew\nSet RED 5 pc Stopper Pourer\nFoil Cutter Bottle",
+                "quantity": 2.0,
+                "price": 8.65,
+                "total_price": 19.03
+            },
+            {
+                "description": "Cup Hanging Shelf Cup Rack\nIron Wine Glass Shelf\nRestaurant Bar for Home\nKitchen",
+                "quantity": 2.0,
+                "price": 26.63,
+                "total_price": 58.59
+            },
+            {
+                "description": "Threshold Quality Strafford\nChampagne Glasses Set of 4,\nNew in Box, Wine Flutes",
+                "quantity": 3.0,
+                "price": 24.99,
+                "total_price": 82.47
+            }
+        ],
+        "subtotal": 145.53,
+        "tax": 14.55,
+        "tip": null,
+        "total": 160.08
+    }
+]

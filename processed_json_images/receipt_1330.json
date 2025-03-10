@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Stam Secret Sdn Bhd",
+        "transaction_date": "2018-05-22",
+        "items": [
+            {
+                "description": "Kailan W Garlic Oyster",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "PRAWN CAKE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 23.0
+            },
+            {
+                "description": "MUSHROOM MIX KANGKUNG R",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.0
+            },
+            {
+                "description": "HONEY LEMON SODA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.9
+            },
+            {
+                "description": "Plain Rice",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.6
+            }
+        ],
+        "subtotal": 71.5,
+        "tax": null,
+        "tip": 7.15,
+        "total": 83.35
+    }
+]

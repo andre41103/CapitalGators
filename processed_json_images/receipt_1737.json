@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2009-02-20",
+        "items": [
+            {
+                "description": "NON-VEG. MEAL(n)",
+                "quantity": 4.0,
+                "price": 7.9,
+                "total_price": 34.444
+            },
+            {
+                "description": "ORANGE JUICE(N)",
+                "quantity": 1.0,
+                "price": 1.4,
+                "total_price": 1.526
+            },
+            {
+                "description": "Orange Cooler(R)",
+                "quantity": 1.0,
+                "price": 1.2,
+                "total_price": 1.308
+            },
+            {
+                "description": "MINERAL WATER (LARGE)",
+                "quantity": 1.0,
+                "price": 0.8,
+                "total_price": 0.872
+            },
+            {
+                "description": "AREATED DRIN(REGULAR)",
+                "quantity": 1.0,
+                "price": 0.9,
+                "total_price": 0.981
+            }
+        ],
+        "subtotal": 39.131,
+        "tax": null,
+        "tip": 3.13,
+        "total": 42.261
+    }
+]

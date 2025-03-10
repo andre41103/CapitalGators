@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2011-09-03",
+        "items": [
+            {
+                "description": "PUMA Boys Youth Universal FG\nJr Soccer Cleats 2.5 White High\nRed NEW Futbol",
+                "quantity": 3.0,
+                "price": 19.99,
+                "total_price": 65.97
+            },
+            {
+                "description": "Roper Boys' American Patriot\nBoot Square Toe Sz 4 Big Kids\nFlag Red White Blue",
+                "quantity": 4.0,
+                "price": 49.0,
+                "total_price": 215.6
+            },
+            {
+                "description": "Timberland brown slip on shoes\nsize 4.5 juniors",
+                "quantity": 3.0,
+                "price": 2.0,
+                "total_price": 6.6
+            },
+            {
+                "description": "Skechers Kids' Snap Sprints\nSneaker Size 4 Blue/Black",
+                "quantity": 2.0,
+                "price": 29.99,
+                "total_price": 65.98
+            }
+        ],
+        "subtotal": 321.95,
+        "tax": 32.2,
+        "tip": null,
+        "total": 354.15
+    }
+]

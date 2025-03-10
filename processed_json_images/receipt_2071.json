@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Schmidt-Fitzgerald",
+        "transaction_date": "2018-09-14",
+        "items": [
+            {
+                "description": "Sega V Saturn Victor Console\nRG-JX1 Gray Tested Working\nJapan",
+                "quantity": 5.0,
+                "price": 119.99,
+                "total_price": 659.94
+            },
+            {
+                "description": "Nintendo NES System Console",
+                "quantity": 4.0,
+                "price": 114.99,
+                "total_price": 505.96
+            }
+        ],
+        "subtotal": 1059.91,
+        "tax": 105.99,
+        "tip": null,
+        "total": 1165.9
+    }
+]

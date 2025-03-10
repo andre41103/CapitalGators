@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DENNY'S GUAM",
+        "transaction_date": "2015-10-17",
+        "items": [
+            {
+                "description": "SIDE YOGURT, do not burn",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "SIDE BREAD, eng muff,",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.39
+            },
+            {
+                "description": "SANTA FE SKILLET, up,MEMO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.49
+            }
+        ],
+        "subtotal": 14.87,
+        "tax": null,
+        "tip": null,
+        "total": 14.87
+    }
+]

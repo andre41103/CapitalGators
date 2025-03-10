@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "La Parrilla",
+        "transaction_date": "2017-04-03",
+        "items": [
+            {
+                "description": "Q Dip",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "Parrilla Margarita",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.99
+            },
+            {
+                "description": "Parrilla Tilapia & Shrimp",
+                "quantity": null,
+                "price": null,
+                "total_price": 15.99
+            },
+            {
+                "description": "Ensenda Fish Taco",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.99
+            },
+            {
+                "description": "Ensenda Fish Taco",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.99
+            }
+        ],
+        "subtotal": 55.45,
+        "tax": 3.88,
+        "tip": null,
+        "total": 59.34
+    }
+]

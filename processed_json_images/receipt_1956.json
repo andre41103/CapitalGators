@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "6\" Roast Beef Sub",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.1
+            },
+            {
+                "description": "3 Cookies",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "(SG)BIG1 6in Sub 50% Off",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "6\" -Roast Beef Sub",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.55
+            }
+        ],
+        "subtotal": 12.76,
+        "tax": 0.89,
+        "tip": null,
+        "total": 13.65
+    }
+]

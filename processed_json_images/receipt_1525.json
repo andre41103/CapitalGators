@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Dixon, Hall and Payne",
+        "transaction_date": "2020-07-14",
+        "items": [
+            {
+                "description": "26\"x26\" Marble Black Top\nCoffee Table Inlay Floral\nPietradura Art Christmas Gift",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1637.9
+            },
+            {
+                "description": "October Mist - Deer Metal Side\nTable by Rosemary Millette",
+                "quantity": 4.0,
+                "price": 89.95,
+                "total_price": 395.78
+            },
+            {
+                "description": "36\" Agate Center Dining Table\nTop Precious Stone Hallway\nFurniture Decors A026",
+                "quantity": 4.0,
+                "price": 1.0,
+                "total_price": 6556.0
+            },
+            {
+                "description": "7'x4' Black Marble Pietra dura\nDining Table Top Furniture Inlay\nPatio Decor",
+                "quantity": 5.0,
+                "price": 9.0,
+                "total_price": 53073.46
+            },
+            {
+                "description": "34\"x34\" Marble Round Top\nCoffee Table Elephant Floral\nInlaid Art Christmas Gifts",
+                "quantity": 3.0,
+                "price": 1.0,
+                "total_price": 6270.0
+            },
+            {
+                "description": "Semi precious Stone Work Inlaid\nDinning Table Top Marble\nKitchen Table 42 Inches",
+                "quantity": 5.0,
+                "price": 2.0,
+                "total_price": 13728.0
+            }
+        ],
+        "subtotal": 74237.4,
+        "tax": 7423.74,
+        "tip": null,
+        "total": 81661.14
+    }
+]

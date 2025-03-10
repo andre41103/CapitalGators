@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Wilson Inc",
+        "transaction_date": "2018-05-16",
+        "items": [
+            {
+                "description": "Sony PlayStation 5 Disc Edition",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1320.0
+            },
+            {
+                "description": "PocketGo Bittboy v2 White\nRetro Video Game Portable\nConsole - 3.5 IPS display",
+                "quantity": 3.0,
+                "price": 39.0,
+                "total_price": 128.7
+            },
+            {
+                "description": "Sony PlayStation 3 12 GB\nCharcoal Black Console (Used)",
+                "quantity": 1.0,
+                "price": 109.99,
+                "total_price": 120.99
+            },
+            {
+                "description": "Nintendo Switch Lite Gray\nCONSOLE ONLY - No\nAccessories or Charger [B5-2]",
+                "quantity": 5.0,
+                "price": 135.0,
+                "total_price": 742.5
+            },
+            {
+                "description": "Vg PlayStation PS Vita console\nPCH-1100AB01 PCH-1100\nCrystal Black 4GB 271214",
+                "quantity": 5.0,
+                "price": 114.98,
+                "total_price": 632.39
+            },
+            {
+                "description": "Sony PlayStation 3 150GB\nCharcoal Black Console (Used)",
+                "quantity": 1.0,
+                "price": 139.99,
+                "total_price": 153.99
+            }
+        ],
+        "subtotal": 2816.88,
+        "tax": 281.69,
+        "tip": null,
+        "total": 3098.57
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HAJI SYED RESTAURANT",
+        "transaction_date": "2013-01-10",
+        "items": [
+            {
+                "description": "LEMON ICE",
+                "quantity": 1.0,
+                "price": 1.3,
+                "total_price": 1.3
+            },
+            {
+                "description": "CHEESE AYAM RJ",
+                "quantity": 1.0,
+                "price": 5.5,
+                "total_price": 5.5
+            },
+            {
+                "description": "LEMON ICE G",
+                "quantity": 1.0,
+                "price": 2.1,
+                "total_price": 2.1
+            },
+            {
+                "description": "ORANGE",
+                "quantity": 2.0,
+                "price": 2.5,
+                "total_price": 5.0
+            },
+            {
+                "description": "MEE HOON GRG MU",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 5.0
+            },
+            {
+                "description": "KWAY TEOW GRG C",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 23.9,
+        "tax": null,
+        "tip": null,
+        "total": 23.9
+    }
+]

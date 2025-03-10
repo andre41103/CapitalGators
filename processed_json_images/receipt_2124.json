@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CHAPELBANK HOTEL",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "SOUP\nLunch Main",
+                "quantity": 3.0,
+                "price": 3.95,
+                "total_price": 11.85
+            },
+            {
+                "description": "Lasagne (V)",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.95
+            },
+            {
+                "description": "MISC FOOD",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.95
+            },
+            {
+                "description": "CHIPS / ONION RINGS",
+                "quantity": 2.0,
+                "price": 1.75,
+                "total_price": 3.5
+            }
+        ],
+        "subtotal": 29.25,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

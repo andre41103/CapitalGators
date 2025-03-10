@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2014-12-26",
+        "items": [
+            {
+                "description": "Cajun Albacore sashi",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Hydro Bibb Blk Cod",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Salmon Avocado Roll",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Ika Geso",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Tada - Salmon",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "Uni Dou - W/Catalina",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "Baked Mussels",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 49.0,
+        "tax": 3.97,
+        "tip": null,
+        "total": 52.97
+    }
+]

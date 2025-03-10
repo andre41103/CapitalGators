@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Lawrence LLC",
+        "transaction_date": "2018-07-29",
+        "items": [
+            {
+                "description": "The Children's Place Brown\nDress Boy Lace Up Shoes Size\n12",
+                "quantity": 4.0,
+                "price": 8.0,
+                "total_price": 35.2
+            },
+            {
+                "description": "Adult Girl Version Hermione\nGranger Cosplay Costume",
+                "quantity": 3.0,
+                "price": 64.16,
+                "total_price": 211.73
+            },
+            {
+                "description": "Joma Youth Boy Supercopa 201\nSoccer Cleats 4.5 Negro Verde\nGreen",
+                "quantity": 5.0,
+                "price": 19.99,
+                "total_price": 109.94
+            },
+            {
+                "description": "Skechers Blue Athletic Shoes\nKids Size 2 EUC",
+                "quantity": 1.0,
+                "price": 11.99,
+                "total_price": 13.19
+            },
+            {
+                "description": "Children Place Boys Snow Boots",
+                "quantity": 5.0,
+                "price": 12.4,
+                "total_price": 68.2
+            },
+            {
+                "description": "Reebok Kids Boys Blue Sneakers\nShoes US 11 No Laces",
+                "quantity": 4.0,
+                "price": 5.0,
+                "total_price": 22.0
+            },
+            {
+                "description": "Lotto Soccer Turf Shoes 6 Black\nVincente Turf Jr Indoor Outdoor\nFutbol Cleats",
+                "quantity": 1.0,
+                "price": 19.99,
+                "total_price": 21.99
+            }
+        ],
+        "subtotal": 438.41,
+        "tax": 43.84,
+        "tip": null,
+        "total": 482.25
+    }
+]

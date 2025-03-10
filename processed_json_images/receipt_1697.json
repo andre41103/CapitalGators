@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "IKEA NORTH LAKES",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Meatballs/sml",
+                "quantity": 1.0,
+                "price": 3.69,
+                "total_price": 3.69
+            },
+            {
+                "description": "Cinnamon bun",
+                "quantity": 1.0,
+                "price": 1.49,
+                "total_price": 1.49
+            },
+            {
+                "description": "Garlic bread",
+                "quantity": 1.0,
+                "price": 2.0,
+                "total_price": 2.0
+            },
+            {
+                "description": "K\u00c4LLVATTEN water",
+                "quantity": 1.0,
+                "price": 2.0,
+                "total_price": 2.0
+            },
+            {
+                "description": "Coffee",
+                "quantity": 1.0,
+                "price": 2.99,
+                "total_price": 2.99
+            }
+        ],
+        "subtotal": 11.25,
+        "tax": 0.92,
+        "tip": null,
+        "total": 12.17
+    }
+]

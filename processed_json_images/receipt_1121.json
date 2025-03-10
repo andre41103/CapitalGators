@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "H&M",
+        "transaction_date": "2018-08-12",
+        "items": [
+            {
+                "description": "Equatorial Assortmen",
+                "quantity": null,
+                "price": null,
+                "total_price": 54.95
+            },
+            {
+                "description": "Equatorial Assortmen",
+                "quantity": null,
+                "price": null,
+                "total_price": 54.95
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 109.9
+    }
+]

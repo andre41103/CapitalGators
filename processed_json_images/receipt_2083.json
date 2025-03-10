@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SWETT 'S",
+        "transaction_date": "2007-01-06",
+        "items": [
+            {
+                "description": "SFT DRNK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.65
+            },
+            {
+                "description": "CHICKEN & 2 VEG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.25
+            },
+            {
+                "description": "CHICKEN & 2 VEG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.25
+            },
+            {
+                "description": "BTL DRNK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.65
+            },
+            {
+                "description": "BTL DRNK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.65
+            },
+            {
+                "description": "DESSERT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.05
+            },
+            {
+                "description": "THIGH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.75
+            },
+            {
+                "description": "SFT DRNK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.65
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.3,
+        "tip": null,
+        "total": 27.2
+    }
+]

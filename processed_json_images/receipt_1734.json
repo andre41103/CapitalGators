@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "IN-N-OUT BURGER LAS VEGAS EASTERN",
+        "transaction_date": "2004-10-31",
+        "items": [
+            {
+                "description": "DblDbl",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.65
+            },
+            {
+                "description": "Meat Pty XChz",
+                "quantity": 98.0,
+                "price": null,
+                "total_price": 88.2
+            }
+        ],
+        "subtotal": 90.85,
+        "tax": 6.81,
+        "tip": null,
+        "total": 97.66
+    }
+]

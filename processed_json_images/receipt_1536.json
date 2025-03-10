@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Johnson Group",
+        "transaction_date": "2013-01-02",
+        "items": [
+            {
+                "description": "6'x3' Marble Dining Table Hakik\nPietradura Inlay Room Outdoor\nMosaic",
+                "quantity": 3.0,
+                "price": 8.0,
+                "total_price": 28.0
+            },
+            {
+                "description": "6'x3' White Marble Living Room\nDining Table Top Marquetry",
+                "quantity": 4.0,
+                "price": 5.0,
+                "total_price": 24.0
+            }
+        ],
+        "subtotal": 48253.6,
+        "tax": 4825.36,
+        "tip": null,
+        "total": 53078.96
+    }
+]

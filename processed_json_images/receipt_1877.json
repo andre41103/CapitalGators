@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MEAT\n& POTATOES",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Bone Marrow",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "Fried Pig Ears",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Tartare",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "Poutine",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Fried Brussels",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Butter Noodles",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Ribeye",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 74.0
+            },
+            {
+                "description": "Salt Pig",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "GL Besieged",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "GL Besieged",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "GL Besieged",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            }
+        ],
+        "subtotal": 188.0,
+        "tax": 13.16,
+        "tip": null,
+        "total": 201.16
+    }
+]

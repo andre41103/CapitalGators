@@ -1,0 +1,104 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Hotel Okura Amsterdam",
+        "transaction_date": "2013-07-07",
+        "items": [
+            {
+                "description": "Heineken Draught",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "Horin300 Bottle",
+                "quantity": 2.0,
+                "price": 40.0,
+                "total_price": 80.0
+            },
+            {
+                "description": "Horin300 Bottle",
+                "quantity": null,
+                "price": null,
+                "total_price": 40.0
+            },
+            {
+                "description": "Naveko Tofu",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "Wakame Kyuri Su",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Gyu Sashi",
+                "quantity": null,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "Toro",
+                "quantity": 4.0,
+                "price": 9.0,
+                "total_price": 36.0
+            },
+            {
+                "description": "Maguro",
+                "quantity": 2.0,
+                "price": 5.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "Hirame",
+                "quantity": 4.0,
+                "price": 6.0,
+                "total_price": 24.0
+            },
+            {
+                "description": "Ama Ebi",
+                "quantity": 2.0,
+                "price": 3.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "Aj1",
+                "quantity": 3.0,
+                "price": 5.0,
+                "total_price": 15.0
+            },
+            {
+                "description": "Ika",
+                "quantity": 4.0,
+                "price": 5.0,
+                "total_price": 20.0
+            },
+            {
+                "description": "Unagi",
+                "quantity": 2.0,
+                "price": 8.0,
+                "total_price": 16.0
+            },
+            {
+                "description": "Sashimi Carte",
+                "quantity": null,
+                "price": null,
+                "total_price": 90.0
+            },
+            {
+                "description": "Dembuccino",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

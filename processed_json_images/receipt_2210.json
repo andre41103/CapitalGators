@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Ozen Zanmai - The Garden",
+        "transaction_date": "2017-07-12",
+        "items": [
+            {
+                "description": "SSM Toro Salmon",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.8
+            },
+            {
+                "description": "Tempura Udon S",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.8
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.85,
+        "tip": null,
+        "total": 32.6
+    }
+]

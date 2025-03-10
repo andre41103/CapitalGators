@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2011-02-06",
+        "items": [
+            {
+                "description": "Nintendo 3DS Handheld Console\nPurple",
+                "quantity": 3.0,
+                "price": 98.99,
+                "total_price": 326.67
+            },
+            {
+                "description": "Sony PlayStation 3 PS3 Super\nSlim Black Console 20 GB",
+                "quantity": 2.0,
+                "price": 99.95,
+                "total_price": 219.89
+            },
+            {
+                "description": "Nintendo Wii Console Complete\nBundle w/extras tested",
+                "quantity": 5.0,
+                "price": 104.99,
+                "total_price": 577.44
+            }
+        ],
+        "subtotal": 1021.82,
+        "tax": 102.18,
+        "tip": null,
+        "total": 1124.0
+    }
+]

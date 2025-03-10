@@ -1,0 +1,92 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Kalamazoo Beer Exchange",
+        "transaction_date": "2011-06-16",
+        "items": [
+            {
+                "description": "BEER TASTE 10Z",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "BEER TASTE 10Z",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "BEER TASTE 10Z",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "Lion Stout",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "Fish n Chips",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Lion Stout",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.75
+            },
+            {
+                "description": "Lion Stout",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.75
+            },
+            {
+                "description": "BEER TASTE 10Z",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Palm Ale",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.25
+            },
+            {
+                "description": "Bar Chips",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Fried Pickles",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Mushroom Crepes",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Palm Ale",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 56.25,
+        "tax": 2.16,
+        "tip": null,
+        "total": 58.41
+    }
+]

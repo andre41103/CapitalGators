@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2018-04-11",
+        "items": [
+            {
+                "description": "SWEATSHIRTS",
+                "quantity": null,
+                "price": 24.99,
+                "total_price": 17.5
+            },
+            {
+                "description": "2NDS",
+                "quantity": null,
+                "price": 12.99,
+                "total_price": 9.09
+            },
+            {
+                "description": "2NDS",
+                "quantity": null,
+                "price": 15.99,
+                "total_price": 11.19
+            },
+            {
+                "description": "JEANS",
+                "quantity": null,
+                "price": -26.99,
+                "total_price": 26.99
+            }
+        ],
+        "subtotal": 10.79,
+        "tax": 0.97,
+        "tip": null,
+        "total": 12.0
+    }
+]

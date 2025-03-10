@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "McDonald's.",
+        "transaction_date": "2018-10-06",
+        "items": [
+            {
+                "description": "Bac Egg Ch Bis Ml-Hb",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.55
+            },
+            {
+                "description": "Egg Cheese Biscuit",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 5.55,
+        "tax": 0.39,
+        "tip": null,
+        "total": 5.94
+    }
+]

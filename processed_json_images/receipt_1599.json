@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2016-07-01",
+        "items": [
+            {
+                "description": "Vintage AGB Black Velvet Maxi\nDress L Mandarin Collar",
+                "quantity": 5.0,
+                "price": 69.96,
+                "total_price": 384.78
+            },
+            {
+                "description": "NEW NWT OPEN BACK\nXHILERATION PLUM LACY\nDRESS WOMENS SIZE MEDIUM\n10/12",
+                "quantity": 4.0,
+                "price": 2.99,
+                "total_price": 13.16
+            },
+            {
+                "description": "Athleta Coral Paisley Print\nStretch Ruching Wrap Athletic\nDress Size L",
+                "quantity": 3.0,
+                "price": 39.99,
+                "total_price": 131.97
+            }
+        ],
+        "subtotal": 481.73,
+        "tax": 48.17,
+        "tip": null,
+        "total": 529.9
+    }
+]

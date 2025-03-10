@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Amore Trattoria Italiana",
+        "transaction_date": "2013-07-26",
+        "items": [
+            {
+                "description": "SOFT DRINKS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "SECONDI CHEF SELECTION",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "GNOCCHI DI PATATE*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            }
+        ],
+        "subtotal": 28.5,
+        "tax": 1.71,
+        "tip": null,
+        "total": null
+    }
+]

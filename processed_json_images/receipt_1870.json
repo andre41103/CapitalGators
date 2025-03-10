@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2013-12-21",
+        "items": [
+            {
+                "description": "Qtr Pounder Cheese",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.59
+            },
+            {
+                "description": "Filet-O-Fish",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 8.78
+            },
+            {
+                "description": "L French Fries",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.39
+            },
+            {
+                "description": "M French Fries",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.79
+            }
+        ],
+        "subtotal": 17.55,
+        "tax": 1.67,
+        "tip": null,
+        "total": 19.22
+    }
+]

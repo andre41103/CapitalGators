@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2013-08-14",
+        "items": [
+            {
+                "description": "Regular #56 BEEF",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "Regular #13",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.25
+            },
+            {
+                "description": "Reg Combo",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.25
+            },
+            {
+                "description": "Reg Combo",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.25
+            }
+        ],
+        "subtotal": 19.25,
+        "tax": 1.54,
+        "tip": null,
+        "total": 20.79
+    }
+]

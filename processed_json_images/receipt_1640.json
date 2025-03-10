@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PREMIER CAPITAL \u0395\u039b\u039b\u0391\u03a3 \u0391.\u0395.",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Greek Mac",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.55
+            },
+            {
+                "description": "\u039d\u03b5\u03c1\u03cc 500ml",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 4.05
+    }
+]

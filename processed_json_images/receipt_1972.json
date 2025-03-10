@@ -1,0 +1,176 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AL MANAMA HYPERMARKET",
+        "transaction_date": "2014-01-10",
+        "items": [
+            {
+                "description": "COURGETTES GREEN ESP",
+                "quantity": 0.48,
+                "price": null,
+                "total_price": 7.92
+            },
+            {
+                "description": "BROCCOLI SPAIN",
+                "quantity": 0.27,
+                "price": null,
+                "total_price": 3.65
+            },
+            {
+                "description": "CARROT LOOSE AUST",
+                "quantity": 0.38,
+                "price": null,
+                "total_price": 1.43
+            },
+            {
+                "description": "LETTUCE - ICEBERG -",
+                "quantity": 0.92,
+                "price": null,
+                "total_price": 12.42
+            },
+            {
+                "description": "LYCHEE",
+                "quantity": 0.3,
+                "price": null,
+                "total_price": 3.29
+            },
+            {
+                "description": "PK MUSHROOM-FINE/SMALL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "GINGER CHINA",
+                "quantity": 0.21,
+                "price": null,
+                "total_price": 2.84
+            },
+            {
+                "description": "ONION BROWN SPAIN",
+                "quantity": 0.43,
+                "price": null,
+                "total_price": 2.37
+            },
+            {
+                "description": "POTATO SAUDI",
+                "quantity": 0.89,
+                "price": null,
+                "total_price": 4.41
+            },
+            {
+                "description": "KIWIFRUIT ITALY",
+                "quantity": 0.64,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "PC NORLANDER BREAD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.5
+            },
+            {
+                "description": "PC YOPLAIT F/F YOGHURTS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "PK BANANA PHILIPPINES D",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.75
+            },
+            {
+                "description": "BT AL RAWABI LOW FAT MI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.25
+            },
+            {
+                "description": "PK ALMARAI UHT LOWFAT M",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.75
+            },
+            {
+                "description": "TN ALALALI WHITE MEAT T",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 31.5
+            },
+            {
+                "description": "BT FIGARO STUFD GREEN O",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "PC PATAKS TANDOORI PAST",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "PC FRICO EDAM CHEESE 15",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.5
+            },
+            {
+                "description": "PK SMOKED SALMON NORWAY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.9
+            },
+            {
+                "description": "PK KELLOGGS CORNFLAKES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 26.5
+            },
+            {
+                "description": "PC NATURE VALLEY S/F V/",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.5
+            },
+            {
+                "description": "PC NATURE VALLEY S/FOAT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.5
+            },
+            {
+                "description": "AUS LAMB RACK",
+                "quantity": 0.47,
+                "price": null,
+                "total_price": 29.43
+            },
+            {
+                "description": "AUS CUBE ROLL STEAK",
+                "quantity": 0.39,
+                "price": null,
+                "total_price": 27.24
+            },
+            {
+                "description": "BT AL AIN MINERAL WATER",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "CUCUMBER PREPACKED",
+                "quantity": 0.31,
+                "price": null,
+                "total_price": 4.73
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 278.88
+    }
+]

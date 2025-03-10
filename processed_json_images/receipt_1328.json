@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Roberts, Smith and Rogers",
+        "transaction_date": "2019-04-05",
+        "items": [
+            {
+                "description": "Boden Wren Ponte Midi Dress",
+                "quantity": 1.0,
+                "price": 58.99,
+                "total_price": 64.89
+            },
+            {
+                "description": "Women Black Dress Mori Girl\nPuff Sleeve",
+                "quantity": 1.0,
+                "price": 13.99,
+                "total_price": 15.39
+            }
+        ],
+        "subtotal": 72.98,
+        "tax": 7.3,
+        "tip": null,
+        "total": 80.28
+    }
+]

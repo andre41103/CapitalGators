@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Weber-Torres",
+        "transaction_date": "2012-06-18",
+        "items": [
+            {
+                "description": "NEW 6 Pcs Rabbit Wine Opener\nSet With Accessories Tools Gift\nBox #A16",
+                "quantity": 5.0,
+                "price": 19.95,
+                "total_price": 109.73
+            },
+            {
+                "description": "Lolita \"Wine Bouquet\" Hand\nPainted and Decorated Wine\nGlass NIB",
+                "quantity": 4.0,
+                "price": 20.0,
+                "total_price": 88.0
+            },
+            {
+                "description": "Black Pug wine holder",
+                "quantity": 1.0,
+                "price": 12.95,
+                "total_price": 14.24
+            },
+            {
+                "description": "Electric wine opener Automatic\nbottle opener Red wine\nCorkscrew",
+                "quantity": 1.0,
+                "price": 25.09,
+                "total_price": 27.6
+            },
+            {
+                "description": "CORK POPS Black WINE OPENER\nand Foil Remover",
+                "quantity": 5.0,
+                "price": 8.0,
+                "total_price": 44.0
+            },
+            {
+                "description": "2 Wine Glasses 8oz 7\" inches\ntall drinks for two Good\ncondition (fast shipper)",
+                "quantity": 4.0,
+                "price": 5.0,
+                "total_price": 22.0
+            }
+        ],
+        "subtotal": 277.79,
+        "tax": 27.78,
+        "tip": null,
+        "total": 305.57
+    }
+]

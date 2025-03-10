@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RSH NU SENTRAL",
+        "transaction_date": "2015-02-06",
+        "items": [
+            {
+                "description": "8UWwwww.",
+                "quantity": 1.0,
+                "price": 199.0,
+                "total_price": 159.2
+            }
+        ],
+        "subtotal": 159.2,
+        "tax": null,
+        "tip": null,
+        "total": 159.2
+    }
+]

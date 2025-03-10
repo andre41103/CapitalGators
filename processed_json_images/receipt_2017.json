@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BISTRO & BAKERY",
+        "transaction_date": "2017-07-13",
+        "items": [
+            {
+                "description": "FLAVORS CROISANT",
+                "quantity": 3.0,
+                "price": 2.5,
+                "total_price": 7.5
+            },
+            {
+                "description": "VANILLA TWIST",
+                "quantity": 2.0,
+                "price": 2.95,
+                "total_price": 5.9
+            },
+            {
+                "description": "OPEN MISC.",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 18.9
+    }
+]

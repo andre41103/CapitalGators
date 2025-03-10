@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Travelex UK Ltd)",
+        "transaction_date": "2016-10-13",
+        "items": [
+            {
+                "description": "European Euro",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "United Kingdom Pound",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.99
+            }
+        ],
+        "subtotal": 8.98,
+        "tax": 1.99,
+        "tip": null,
+        "total": 8.98
+    }
+]

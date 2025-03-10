@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Sala\nIntom",
+        "transaction_date": "2017-04-28",
+        "items": [
+            {
+                "description": "COPERTO",
+                "quantity": 2.0,
+                "price": 5.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "ANTIPASTI MISTI DI MARE",
+                "quantity": 2.0,
+                "price": 36.0,
+                "total_price": 72.0
+            },
+            {
+                "description": "GRAN CRUDO DI MARE",
+                "quantity": 1.0,
+                "price": 40.0,
+                "total_price": 40.0
+            },
+            {
+                "description": "CAFFE",
+                "quantity": 1.0,
+                "price": 4.0,
+                "total_price": 4.0
+            },
+            {
+                "description": "GELATO",
+                "quantity": 1.0,
+                "price": 7.0,
+                "total_price": 7.0
+            },
+            {
+                "description": "FOOD",
+                "quantity": null,
+                "price": null,
+                "total_price": 133.0
+            },
+            {
+                "description": "ACQUA GASSATA",
+                "quantity": 1.0,
+                "price": 4.0,
+                "total_price": 4.0
+            },
+            {
+                "description": "VINO AL BICC 5",
+                "quantity": 2.0,
+                "price": 5.0,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": 130.0,
+        "total": 147.0
+    }
+]

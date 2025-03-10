@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SUNSET CAFE",
+        "transaction_date": "2014-11-14",
+        "items": [
+            {
+                "description": "Naked Dog",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Prime Fillet",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "Pepsi Large",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "Juice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 44.5
+    }
+]

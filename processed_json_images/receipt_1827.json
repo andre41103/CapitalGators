@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TARGET",
+        "transaction_date": "2015-10-01",
+        "items": [
+            {
+                "description": "REESES",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.29
+            }
+        ],
+        "subtotal": 1.29,
+        "tax": 0.0,
+        "tip": null,
+        "total": 1.29
+    }
+]

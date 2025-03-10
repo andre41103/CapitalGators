@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Benihana",
+        "transaction_date": "2010-09-03",
+        "items": [
+            {
+                "description": "Scallops, Lunch",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.95
+            },
+            {
+                "description": "Manager Comp",
+                "quantity": null,
+                "price": null,
+                "total_price": -12.95
+            }
+        ],
+        "subtotal": 0.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 0.0
+    }
+]

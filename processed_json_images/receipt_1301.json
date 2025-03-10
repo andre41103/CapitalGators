@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BREIZH CAFE",
+        "transaction_date": "2014-07-16",
+        "items": [
+            {
+                "description": "6 HUITRES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "COMPLETE OIGNON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.5
+            },
+            {
+                "description": "COMPLETE MIROIR",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "NORDIQUE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "SALADE VERTE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.8
+            },
+            {
+                "description": "VERRE MUSCADET",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "CARAFFE MUSCADET",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            }
+        ],
+        "subtotal": 69.06,
+        "tax": null,
+        "tip": null,
+        "total": 78.3
+    }
+]

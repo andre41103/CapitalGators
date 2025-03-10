@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MASA",
+        "transaction_date": "2007-02-21",
+        "items": [
+            {
+                "description": "DIET COKE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Prix Fixe",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 800.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 67.42,
+        "tip": 161.0,
+        "total": 1033.42
+    }
+]

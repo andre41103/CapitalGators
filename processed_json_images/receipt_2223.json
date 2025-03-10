@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "COMPTOIR LIBANAIS",
+        "transaction_date": "2017-01-28",
+        "items": [
+            {
+                "description": "Coca-Cola",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.9
+            },
+            {
+                "description": "Soda Water",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "Almaza",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "Apple Juice Reg",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.45
+            }
+        ],
+        "subtotal": 16.35,
+        "tax": 2.72,
+        "tip": 81.64,
+        "total": 17.99
+    }
+]

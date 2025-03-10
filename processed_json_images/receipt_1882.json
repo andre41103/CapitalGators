@@ -1,0 +1,152 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2017-05-10",
+        "items": [
+            {
+                "description": "Chateau Margaux'99",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13888.0
+            },
+            {
+                "description": "Cht Margaux'98",
+                "quantity": null,
+                "price": null,
+                "total_price": 18000.0
+            },
+            {
+                "description": "Cht Pavie'05",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15488.0
+            },
+            {
+                "description": "Lobster Salad",
+                "quantity": 3.0,
+                "price": 138.0,
+                "total_price": 414.0
+            },
+            {
+                "description": "Bone Marrow",
+                "quantity": 4.0,
+                "price": 128.0,
+                "total_price": 512.0
+            },
+            {
+                "description": "Tomahawk 1.6Kgm",
+                "quantity": 2.0,
+                "price": 1380.0,
+                "total_price": 2760.0
+            },
+            {
+                "description": "Lamb Rack",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 158.0
+            },
+            {
+                "description": "Spring Chicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 128.0
+            },
+            {
+                "description": "Steak Fries",
+                "quantity": 3.0,
+                "price": 18.0,
+                "total_price": 54.0
+            },
+            {
+                "description": "Portobello Mshroom",
+                "quantity": 3.0,
+                "price": 18.0,
+                "total_price": 54.0
+            },
+            {
+                "description": "Creamed Spinach",
+                "quantity": 3.0,
+                "price": 26.0,
+                "total_price": 78.0
+            },
+            {
+                "description": "Truffle Mash",
+                "quantity": 3.0,
+                "price": 18.0,
+                "total_price": 54.0
+            },
+            {
+                "description": "Cristal Champgn",
+                "quantity": 2.0,
+                "price": 3888.0,
+                "total_price": 7776.0
+            },
+            {
+                "description": "Choc Fondant",
+                "quantity": 3.0,
+                "price": 48.0,
+                "total_price": 144.0
+            },
+            {
+                "description": "Creme Brulee",
+                "quantity": 3.0,
+                "price": 38.0,
+                "total_price": 114.0
+            },
+            {
+                "description": "MV Still 750ml",
+                "quantity": 11.0,
+                "price": 28.0,
+                "total_price": 308.0
+            },
+            {
+                "description": "Open Food\nOSETRA CAVIA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1400.0
+            },
+            {
+                "description": "Open Food\nOSETRA CAVIA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1400.0
+            },
+            {
+                "description": "Open Food",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1400.0
+            },
+            {
+                "description": "OSETRA CAVIA",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Open Food",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2000.0
+            },
+            {
+                "description": "BELUGA CAVIA",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Open Food\nSPECIAL CHEESE",
+                "quantity": 12.0,
+                "price": 98.0,
+                "total_price": 1176.0
+            }
+        ],
+        "subtotal": 67306.0,
+        "tax": 4442.2,
+        "tip": null,
+        "total": 78478.8
+    }
+]

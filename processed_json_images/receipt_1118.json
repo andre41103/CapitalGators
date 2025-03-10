@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CAFFE' LAVENA SRL",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "SPREMUTA ARANCIA",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "BLACK COFFEE",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "CAPPUCCINO",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "CAPPUCCINO DECAFF.",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "CROISSANT",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "TOAST FARCITO",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "FETTA DI TORTA",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.8
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 63.8
+    }
+]

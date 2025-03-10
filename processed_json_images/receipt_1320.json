@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Dash",
+        "transaction_date": "2012-02-06",
+        "items": [
+            {
+                "description": "Rabbit Fur Mix Vest\nCream/Brn Med",
+                "quantity": 1.0,
+                "price": 274.0,
+                "total_price": 274.0
+            }
+        ],
+        "subtotal": 274.0,
+        "tax": 23.98,
+        "tip": null,
+        "total": 297.98
+    }
+]

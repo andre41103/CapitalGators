@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Your Company",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "LES 11 (20) Trial Pack",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.1
+            }
+        ],
+        "subtotal": 12.18,
+        "tax": 0.69,
+        "tip": null,
+        "total": 12.18
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BOTTOM OF THE HILL\nTAVERN.",
+        "transaction_date": "2017-06-27",
+        "items": [
+            {
+                "description": "Blue Moon Drauc",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.67
+            },
+            {
+                "description": "Coors Lito Bottle",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.84
+            },
+            {
+                "description": "C BALL BASKET",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.95
+            },
+            {
+                "description": "REUBEN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.95
+            },
+            {
+                "description": "POTATO SALAD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 28.41,
+        "tax": null,
+        "tip": null,
+        "total": 31.34
+    }
+]

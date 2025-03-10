@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Jones-Frazier",
+        "transaction_date": "2015-09-08",
+        "items": [
+            {
+                "description": "Under Armour Kids' Grade\nSchool Curry 3Zer0 2 Basketball\nShoes",
+                "quantity": 4.0,
+                "price": 44.99,
+                "total_price": 197.96
+            },
+            {
+                "description": "10\" Cuphead Game Soft Plush\nDoll Cuphead Mugman Mecup\nBrocup kids Gift US Stock",
+                "quantity": 1.0,
+                "price": 26.99,
+                "total_price": 29.69
+            },
+            {
+                "description": "Boys Kids Printed Cotton\nSlippers Zip Fastening",
+                "quantity": 2.0,
+                "price": 19.68,
+                "total_price": 43.3
+            }
+        ],
+        "subtotal": 246.31,
+        "tax": 24.63,
+        "tip": null,
+        "total": 270.94
+    }
+]

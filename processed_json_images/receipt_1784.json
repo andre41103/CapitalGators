@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "ARROYO CAR WASH",
+        "transaction_date": "2017-03-19",
+        "items": [
+            {
+                "description": "Taxable item",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "Package #2",
+                "quantity": null,
+                "price": null,
+                "total_price": 22.99
+            }
+        ],
+        "subtotal": 27.98,
+        "tax": 0.45,
+        "tip": null,
+        "total": 28.43
+    }
+]

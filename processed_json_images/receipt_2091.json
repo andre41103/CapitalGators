@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "JAIPUR",
+        "transaction_date": "2016-10-12",
+        "items": [
+            {
+                "description": "20-MANGO CHICKEN",
+                "quantity": null,
+                "price": null,
+                "total_price": 249.0
+            },
+            {
+                "description": "25-PALAK CHICKEN",
+                "quantity": null,
+                "price": null,
+                "total_price": 219.0
+            },
+            {
+                "description": "61-GARLIC NAN",
+                "quantity": null,
+                "price": null,
+                "total_price": 55.0
+            },
+            {
+                "description": "66-PUNJABI RAITA",
+                "quantity": null,
+                "price": null,
+                "total_price": 39.0
+            },
+            {
+                "description": "0,51 AASS BEER",
+                "quantity": null,
+                "price": null,
+                "total_price": 99.0
+            }
+        ],
+        "subtotal": 661.0,
+        "tax": 132.2,
+        "tip": null,
+        "total": null
+    }
+]

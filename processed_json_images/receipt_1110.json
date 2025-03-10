@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2018-08-23",
+        "items": [
+            {
+                "description": "Onion Rings",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 415.25
+            },
+            {
+                "description": "1L LightBrew",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 762.71
+            }
+        ],
+        "subtotal": null,
+        "tax": 188.47,
+        "tip": null,
+        "total": 1390.0
+    }
+]

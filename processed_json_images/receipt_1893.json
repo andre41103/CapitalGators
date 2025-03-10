@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Brandi Pizzeria CW",
+        "transaction_date": "2014-12-13",
+        "items": [
+            {
+                "description": "Margarita",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 65.0
+            },
+            {
+                "description": "Black Olives Gaeta",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Margarita",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 65.0
+            },
+            {
+                "description": "Mushroom Button Whit",
+                "quantity": 80.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Artichoke In 011",
+                "quantity": 50.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Pizza Pepperoni",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 75.0
+            },
+            {
+                "description": "Onion White",
+                "quantity": 20.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Mushroom Button Whit",
+                "quantity": 80.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Pomodoro Fresco Spag",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 65.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 299.0
+    }
+]

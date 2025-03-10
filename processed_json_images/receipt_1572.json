@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Stone-Ruiz",
+        "transaction_date": "2020-02-06",
+        "items": [
+            {
+                "description": "Dell Optiplex 990 MT Computer\nPC Quad Core i7 3.4GHz 16GB\n2TB HD Windows 10 Pro",
+                "quantity": 2.0,
+                "price": 269.95,
+                "total_price": 593.89
+            },
+            {
+                "description": "Alarco Gaming PC Desktop\nComputer Intel i5/ 8G/ 1TbV\nWIN 10/ NVIDIA GTX 650 1GB",
+                "quantity": 3.0,
+                "price": 500.0,
+                "total_price": 1650.0
+            },
+            {
+                "description": "Dell Precision Workstation\nComputer Intel Xeon Quad Core\n16GB 1TB Windows 10 Pro",
+                "quantity": 4.0,
+                "price": 139.0,
+                "total_price": 611.6
+            },
+            {
+                "description": "Lenovo C20-00 ... all in one\ndesktop computer ... with\nWireless Mouse",
+                "quantity": 3.0,
+                "price": 277.64,
+                "total_price": 916.21
+            },
+            {
+                "description": "HP 6200 Pro Core i7 3.4GHz\nQuad Core 16GB 500GB\nComputer",
+                "quantity": 3.0,
+                "price": 256.68,
+                "total_price": 847.04
+            }
+        ],
+        "subtotal": 4198.86,
+        "tax": 419.89,
+        "tip": null,
+        "total": 4618.75
+    }
+]

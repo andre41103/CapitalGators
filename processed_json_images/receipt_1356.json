@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "H\u00e4agen-Dazs",
+        "transaction_date": "2009-02-24",
+        "items": [
+            {
+                "description": "Love Letter",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 85.0
+            },
+            {
+                "description": "Love Concerto",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 79.0
+            },
+            {
+                "description": "Ufood-DI20%",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 164.0,
+        "tax": null,
+        "tip": 16.4,
+        "total": 147.6
+    }
+]

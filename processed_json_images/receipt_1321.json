@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LIZARRAN",
+        "transaction_date": "2008-06-29",
+        "items": [
+            {
+                "description": "Diet Coke",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "GL Sangria",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.25
+            },
+            {
+                "description": "Tabla de quesos",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "Tabla de Embutidos",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "Paella de Marisco",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "Paella de Arroz Negro",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "Paella Mixta",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "Coke",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            }
+        ],
+        "subtotal": 73.75,
+        "tax": 5.72,
+        "tip": null,
+        "total": 79.47
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TZANTZAMINI-",
+        "transaction_date": "2017-08-22",
+        "items": [
+            {
+                "description": "\u0395\u0399\u0394\u0397 \u0393",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.9
+            },
+            {
+                "description": "\u0395\u0399\u0394\u0397 \u0393",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.9
+            },
+            {
+                "description": "\u0395\u0399\u0394\u0397 \u0393",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.2
+            },
+            {
+                "description": "EIAH T",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.4
+            },
+            {
+                "description": "\u0395\u0399\u0394\u0397 \u0393",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "\u0395\u0399\u0394\u0397 \u0393",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.2
+            },
+            {
+                "description": "\u0395\u0399\u0394\u0397 \u0393",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "\u0395\u0399\u0394\u0397 \u0393",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 31.1
+    }
+]

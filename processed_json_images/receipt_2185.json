@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HIGHLANDS COFFEE",
+        "transaction_date": "2014-05-20",
+        "items": [
+            {
+                "description": "Iced-Coffee CondensedMilk",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 29000.0
+            },
+            {
+                "description": "Lime Juice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 39000.0
+            }
+        ],
+        "subtotal": 68000.0,
+        "tax": 2277.0,
+        "tip": null,
+        "total": 48000.0
+    }
+]

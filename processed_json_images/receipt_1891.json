@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Taylor Ltd",
+        "transaction_date": "2016-02-02",
+        "items": [
+            {
+                "description": "100cm Nordic Round Area Rug",
+                "quantity": 2.0,
+                "price": 30.98,
+                "total_price": 68.16
+            }
+        ],
+        "subtotal": 61.96,
+        "tax": 6.2,
+        "tip": null,
+        "total": 68.16
+    }
+]

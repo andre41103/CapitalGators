@@ -1,0 +1,92 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ASDA",
+        "transaction_date": "2015-04-26",
+        "items": [
+            {
+                "description": "BROWN ONIONS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.6
+            },
+            {
+                "description": "SARDINES SP",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.34
+            },
+            {
+                "description": "L/G RICE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.4
+            },
+            {
+                "description": "P BUTTER",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.62
+            },
+            {
+                "description": "BAKED BEANS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.24
+            },
+            {
+                "description": "COFFEE",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.47
+            },
+            {
+                "description": "B/S REDUCED",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.1
+            },
+            {
+                "description": "B/S REDUCED",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.03
+            },
+            {
+                "description": "B/S REDUCED",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.03
+            },
+            {
+                "description": "BANANAS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.23
+            },
+            {
+                "description": "VEG REDUCED",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.2
+            },
+            {
+                "description": "POTATOES",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.15
+            },
+            {
+                "description": "FROZ VEG",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.77
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 4.18
+    }
+]

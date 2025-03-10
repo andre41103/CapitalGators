@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Din Tai Fung Restaurant",
+        "transaction_date": "2016-11-02",
+        "items": [
+            {
+                "description": "Oolong Tea",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 5.0
+            },
+            {
+                "description": "Beef Chow Mein",
+                "quantity": 1.0,
+                "price": 33.0,
+                "total_price": 33.0
+            },
+            {
+                "description": "Vegetable Chow Mein",
+                "quantity": 1.0,
+                "price": 29.0,
+                "total_price": 29.0
+            },
+            {
+                "description": "Crispy Beef",
+                "quantity": 1.0,
+                "price": 45.0,
+                "total_price": 45.0
+            },
+            {
+                "description": "Oolong Tea",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 117.0,
+        "tax": null,
+        "tip": null,
+        "total": 117.0
+    }
+]

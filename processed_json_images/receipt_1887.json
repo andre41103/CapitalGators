@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "POPPIES",
+        "transaction_date": "2016-07-31",
+        "items": [
+            {
+                "description": "CHIPS LRG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "COD REG",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "CALAMARI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 22.0
+    }
+]

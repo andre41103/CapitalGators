@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Brown-Harris",
+        "transaction_date": "2018-07-08",
+        "items": [
+            {
+                "description": "LuLaRoe Nicole Dress Size\nMedium 12",
+                "quantity": 4.0,
+                "price": 1.99,
+                "total_price": 8.76
+            },
+            {
+                "description": "Xhilaration Womens L Burgandy\nBoho Embroidered Festival Mini\nDress NEW",
+                "quantity": 1.0,
+                "price": 14.95,
+                "total_price": 16.45
+            },
+            {
+                "description": "Betsey Johnson Black Solid\nPolyester Textured Shift Dress\nSz 10",
+                "quantity": 2.0,
+                "price": 5.0,
+                "total_price": 11.0
+            },
+            {
+                "description": "Free People Lace Dress One\nShoulder Size L",
+                "quantity": 4.0,
+                "price": 12.0,
+                "total_price": 52.8
+            },
+            {
+                "description": "Adult Kids Pokemon Pikachu\nKigurumi Pajama Cosplay\nChristmas Costume Sleepwear",
+                "quantity": 4.0,
+                "price": 9.95,
+                "total_price": 43.78
+            },
+            {
+                "description": "Jones Wear Dress Women White\nPink Floral Sleeveless Formal\nTea Dress Size 12",
+                "quantity": 1.0,
+                "price": 20.0,
+                "total_price": 22.0
+            },
+            {
+                "description": "Caslon Blue White Sleeveless\nBelted Ruffle Rayon Dress Sz L",
+                "quantity": 5.0,
+                "price": 4.99,
+                "total_price": 27.45
+            }
+        ],
+        "subtotal": 165.66,
+        "tax": 16.57,
+        "tip": null,
+        "total": 182.23
+    }
+]

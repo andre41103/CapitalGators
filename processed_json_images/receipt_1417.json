@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Jones Ltd",
+        "transaction_date": "2014-04-03",
+        "items": [
+            {
+                "description": "mDesign Metal Wine Rack\nStorage Organizer, 6 Bottles -\nChrome",
+                "quantity": 3.0,
+                "price": 22.99,
+                "total_price": 75.87
+            },
+            {
+                "description": "NEW 6 Pcs Rabbit Wine Opener\nSet With Accessories Tools Gift\nBox #A16",
+                "quantity": 4.0,
+                "price": 19.95,
+                "total_price": 87.78
+            },
+            {
+                "description": "Whiskey Glass Mountain\nWooden Bottom Wine\nTransparent",
+                "quantity": 5.0,
+                "price": 19.48,
+                "total_price": 107.14
+            },
+            {
+                "description": "Alcoholmeter Alcohol Meter\nWine 0-100%+Thermometer\nSet Bar Tools Vintage Tester",
+                "quantity": 4.0,
+                "price": 14.08,
+                "total_price": 61.95
+            },
+            {
+                "description": "Vintage wine 2 bottles holder\nIron & rattan rack",
+                "quantity": 5.0,
+                "price": 55.0,
+                "total_price": 302.5
+            },
+            {
+                "description": "Vintage Set of 3 Cobalt Blue\nGlass Wine Glasses / Water\nGoblets Barware Stemware",
+                "quantity": 1.0,
+                "price": 24.0,
+                "total_price": 26.4
+            }
+        ],
+        "subtotal": 601.49,
+        "tax": 60.15,
+        "tip": null,
+        "total": 661.64
+    }
+]

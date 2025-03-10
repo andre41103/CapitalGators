@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PUENT",
+        "transaction_date": "2015-02-14",
+        "items": [
+            {
+                "description": "GIRL INI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": 10.0,
+        "tax": null,
+        "tip": null,
+        "total": 10.0
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ILIO'S",
+        "transaction_date": "2013-07-10",
+        "items": [
+            {
+                "description": "L\u00f6wenbr\u00e4u Original",
+                "quantity": 4.0,
+                "price": 3.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "Weissbier dunkel",
+                "quantity": 8.0,
+                "price": 3.3,
+                "total_price": 26.4
+            },
+            {
+                "description": "Hefe-Weissbier",
+                "quantity": 3.0,
+                "price": 3.3,
+                "total_price": 9.9
+            },
+            {
+                "description": "Saft 0,25",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "Grosses Wasser",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.4
+            },
+            {
+                "description": "Vegetarische Varia",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.9
+            },
+            {
+                "description": "Gyros",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.9
+            },
+            {
+                "description": "Baby Kalamari Gefu",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.9
+            },
+            {
+                "description": "Gyros Folie",
+                "quantity": 2.0,
+                "price": 9.9,
+                "total_price": 19.8
+            },
+            {
+                "description": "Schafsk\u00e4se Ofen",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.9
+            },
+            {
+                "description": "Bifteki Metaxa",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.9
+            },
+            {
+                "description": "Schweinefilet Meta",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.9
+            },
+            {
+                "description": "Stifado",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.9
+            },
+            {
+                "description": "Tee",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.1
+            }
+        ],
+        "subtotal": null,
+        "tax": 24.65,
+        "tip": null,
+        "total": 154.4
+    }
+]

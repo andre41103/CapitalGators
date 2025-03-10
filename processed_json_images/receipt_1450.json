@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Cruz LLC",
+        "transaction_date": "2011-09-10",
+        "items": [
+            {
+                "description": "Lolita Happy Retirement Wine\nGlass 15 Ounce GLS11-5534H",
+                "quantity": 2.0,
+                "price": 8.0,
+                "total_price": 17.6
+            },
+            {
+                "description": "Wine Glass European Style Wine\nGlass Rack for Home Kitchen\nBar Restaurant",
+                "quantity": 4.0,
+                "price": 31.79,
+                "total_price": 139.88
+            },
+            {
+                "description": "Libbey Classic White Wine\nGlasses, Set of 4 14 ounce Glass",
+                "quantity": 2.0,
+                "price": 18.74,
+                "total_price": 41.23
+            },
+            {
+                "description": "Cuisinart Stainless Steel Electric\nWine Opener - CWO-25 - Brand\nNew in the Box",
+                "quantity": 5.0,
+                "price": 19.9,
+                "total_price": 109.45
+            },
+            {
+                "description": "Double Lever Wine Corker Used\nIn Good Shape",
+                "quantity": 4.0,
+                "price": 6.3,
+                "total_price": 27.72
+            },
+            {
+                "description": "Electric Automatic Wine Bottle\nOpener w/Foil Cutter\nRechargeable Corkscre",
+                "quantity": 1.0,
+                "price": 6.28,
+                "total_price": 6.91
+            },
+            {
+                "description": "VTG 1970s MCM Brown Steel\nTube Wall or Desk Mounted\n12-Wine Rack Bottle Holder",
+                "quantity": 5.0,
+                "price": 34.0,
+                "total_price": 187.0
+            }
+        ],
+        "subtotal": 481.62,
+        "tax": 48.16,
+        "tip": null,
+        "total": 529.78
+    }
+]

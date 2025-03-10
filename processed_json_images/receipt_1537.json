@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Campbell-Weiss",
+        "transaction_date": "2012-03-21",
+        "items": [
+            {
+                "description": "mDesign Metal Wine Rack\nStorage Organizer, 12 Bottles -\nDark Gray",
+                "quantity": 4.0,
+                "price": 44.99,
+                "total_price": 197.96
+            },
+            {
+                "description": "Replacement Corkscrew Parts\nSpiral Worm Wine Opener Bottle\nHoudini",
+                "quantity": 5.0,
+                "price": 7.5,
+                "total_price": 41.25
+            },
+            {
+                "description": "Lolita \"Wine Bouquet\" Hand\nPainted and Decorated Wine\nGlass NIB",
+                "quantity": 1.0,
+                "price": 20.0,
+                "total_price": 22.0
+            },
+            {
+                "description": "confetti wine glass",
+                "quantity": 4.0,
+                "price": 15.0,
+                "total_price": 66.0
+            },
+            {
+                "description": "2 Hand Blown Wine Water\nGoblet Glass Art Mexico Pulled\nFeather Iridescent Swirl",
+                "quantity": 3.0,
+                "price": 29.99,
+                "total_price": 98.97
+            },
+            {
+                "description": "1PC Tricycle Shape Red Wine\nRack Cocktail Holder Wine\nDisplay Rack for Home Bar",
+                "quantity": 4.0,
+                "price": 32.13,
+                "total_price": 141.37
+            }
+        ],
+        "subtotal": 515.95,
+        "tax": 51.6,
+        "tip": null,
+        "total": 567.55
+    }
+]

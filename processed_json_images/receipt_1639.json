@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BEST BUY",
+        "transaction_date": "2015-09-05",
+        "items": [
+            {
+                "description": "X553MA-BPDO\nASUS X553MA-BPD0705I 15.6\"/PEN",
+                "quantity": null,
+                "price": null,
+                "total_price": 157.49
+            }
+        ],
+        "subtotal": 157.49,
+        "tax": null,
+        "tip": null,
+        "total": 168.51
+    }
+]

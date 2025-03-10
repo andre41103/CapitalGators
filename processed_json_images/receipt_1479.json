@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Kelley-Thomas\nKelly and Matthews",
+        "transaction_date": "2018-07-02",
+        "items": [
+            {
+                "description": "Executive style",
+                "quantity": 5.0,
+                "price": 5.99,
+                "total_price": 32.95
+            }
+        ],
+        "subtotal": 29.95,
+        "tax": 3.0,
+        "tip": null,
+        "total": 32.95
+    }
+]

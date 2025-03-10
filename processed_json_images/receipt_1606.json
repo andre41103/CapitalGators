@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Phillips-Barnes",
+        "transaction_date": "2017-09-02",
+        "items": [
+            {
+                "description": "Cup Hanging Shelf Cup Rack\nIron Wine Glass Shelf",
+                "quantity": 4.0,
+                "price": 26.63,
+                "total_price": 117.17
+            },
+            {
+                "description": "Iron Glass Holder Organizer Wall\nMounted Kitchen Bar 5 Bottles\nWine",
+                "quantity": 1.0,
+                "price": 44.33,
+                "total_price": 48.76
+            }
+        ],
+        "subtotal": 150.85,
+        "tax": 15.09,
+        "tip": null,
+        "total": 165.94
+    }
+]

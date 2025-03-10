@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "West PLC",
+        "transaction_date": "2014-10-03",
+        "items": [
+            {
+                "description": "Black+White Rectangle Shape\nArea Rug Carpet Floor Pad\nDoormat Mats Non-slip Z4F9",
+                "quantity": 1.0,
+                "price": 21.1,
+                "total_price": 23.21
+            },
+            {
+                "description": "Imitation Wool Carpet Rugs\nKoala Panda Plush Living Room\nBlankets Non Slip Decor",
+                "quantity": 2.0,
+                "price": 26.11,
+                "total_price": 57.44
+            },
+            {
+                "description": "YILONG 4'x6' Yellow Handmade\nCarpet Dining Room Hand\nKnotted Silk Rugs 083B",
+                "quantity": 3.0,
+                "price": 3.0,
+                "total_price": 11880.0
+            },
+            {
+                "description": "Silky Fake Fur Fluffy Carpets\nNon-slip Shaggy Area Rug Floor\nMat Light Pink",
+                "quantity": 2.0,
+                "price": 14.12,
+                "total_price": 31.06
+            },
+            {
+                "description": "YILONG 5.6'x8.3' All Over\nPattern HandKnotted Silk Rugs\nOriental Carpets 1807",
+                "quantity": 4.0,
+                "price": 9.0,
+                "total_price": 39600.0
+            },
+            {
+                "description": "New Candy Color Soft Anti-Skid\nCarpet Soft Non slip Rug Living\nBedroom Floor Mat",
+                "quantity": 3.0,
+                "price": 11.99,
+                "total_price": 39.57
+            }
+        ],
+        "subtotal": 46937.53,
+        "tax": 4693.75,
+        "tip": null,
+        "total": 51631.28
+    }
+]

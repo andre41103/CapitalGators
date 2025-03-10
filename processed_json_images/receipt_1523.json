@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Young LLC\nRodriguez LLC",
+        "transaction_date": "2020-03-23",
+        "items": [
+            {
+                "description": "Jordan Sneakers Size 3.5 Youth\nRed And Blue",
+                "quantity": 2.0,
+                "price": 9.99,
+                "total_price": 21.98
+            },
+            {
+                "description": "Adidas Baseball Youth Cleats\nSpikes Kids Shoes Black White\nSize 12K",
+                "quantity": 1.0,
+                "price": 11.99,
+                "total_price": 13.19
+            },
+            {
+                "description": "Joma Boys Youth Gol-102\nSoccer Cleats Shoes Size 4\nWhite Red Futbol NEW",
+                "quantity": 3.0,
+                "price": 19.99,
+                "total_price": 65.97
+            },
+            {
+                "description": "TODDLER SHAQ HIGH TOP\nSHOES SIZE 4",
+                "quantity": 1.0,
+                "price": 9.99,
+                "total_price": 10.99
+            }
+        ],
+        "subtotal": 101.93,
+        "tax": 10.19,
+        "tip": null,
+        "total": 112.12
+    }
+]

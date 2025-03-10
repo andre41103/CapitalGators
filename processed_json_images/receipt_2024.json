@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CIR\nCENTRAL\nINDIAN RESTAURANT",
+        "transaction_date": "2014-08-22",
+        "items": [
+            {
+                "description": "ChickenTikka",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 80.0
+            },
+            {
+                "description": "Yellow Dal",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 60.0
+            },
+            {
+                "description": "Garlic Naan",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.0
+            },
+            {
+                "description": "Pullao Rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 38.0
+            },
+            {
+                "description": "Kingfisher",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": -70.0
+            }
+        ],
+        "subtotal": 270.0,
+        "tax": null,
+        "tip": 27.0,
+        "total": 297.0
+    }
+]

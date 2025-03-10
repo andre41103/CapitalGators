@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2016-01-08",
+        "items": [
+            {
+                "description": "Mythos",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.5
+            },
+            {
+                "description": "Tanqueray",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.5
+            },
+            {
+                "description": "Crab Souva",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Duck Souva",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "FOD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 23.5
+            },
+            {
+                "description": "Horiatiki",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 7.68,
+        "tip": null,
+        "total": 84.5
+    }
+]

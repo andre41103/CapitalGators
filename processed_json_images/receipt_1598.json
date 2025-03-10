@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "King-Lawrence",
+        "transaction_date": "2016-09-16",
+        "items": [
+            {
+                "description": "Vintage Gothic Lolita Dress\nWomen Loose Puff Sleeve Pure",
+                "quantity": 5.0,
+                "price": 22.77,
+                "total_price": 125.23
+            },
+            {
+                "description": "Xhilaration Womens L Burgandy\nBoho Embroidered Festival Mini\nDress NEW",
+                "quantity": 4.0,
+                "price": 14.95,
+                "total_price": 65.78
+            },
+            {
+                "description": "Leopard Print Large Dress With\nPockets & Floral Sleeves\nHoneyMe Size L NWT",
+                "quantity": 5.0,
+                "price": 39.0,
+                "total_price": 214.5
+            },
+            {
+                "description": "1920s Flapper Gatsby Cocktail\nDress Chiffon Wedding Party\nEvening Formal",
+                "quantity": 1.0,
+                "price": 8.99,
+                "total_price": 9.89
+            },
+            {
+                "description": "Boden Size 8 US Green & Navy\nDark Blue Belted Midi Wool Knit\nSweater Fall Dress",
+                "quantity": 1.0,
+                "price": 35.0,
+                "total_price": 38.5
+            },
+            {
+                "description": "14 Colors Women Spaghetti\nStrap Bodycon Mini Dress Sexy\nParty Club Wear Dresses",
+                "quantity": 4.0,
+                "price": 4.71,
+                "total_price": 20.72
+            },
+            {
+                "description": "Lands End Womens 3/4 Sleeve\nDress Plus 3X Navy Blue Floral\nCotton Knit 482038",
+                "quantity": 1.0,
+                "price": 21.23,
+                "total_price": 23.35
+            }
+        ],
+        "subtotal": 452.71,
+        "tax": 45.27,
+        "tip": null,
+        "total": 497.98
+    }
+]

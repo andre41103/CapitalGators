@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MORRISONS",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "SHREDDIES",
+                "quantity": 1.0,
+                "price": 2.68,
+                "total_price": 2.68
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 2.68
+    }
+]

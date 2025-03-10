@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Martin-Schmidt",
+        "transaction_date": "2012-02-21",
+        "items": [
+            {
+                "description": "Escada Long Black Dress SZ 40\n100% Silk Lining",
+                "quantity": 4.0,
+                "price": 74.99,
+                "total_price": 329.96
+            },
+            {
+                "description": "Boden Size 8 US Green & Navy\nDark Blue Belted Midi Wool Knit\nSweater Fall Dress",
+                "quantity": 2.0,
+                "price": 35.0,
+                "total_price": 77.0
+            },
+            {
+                "description": "J crew mercantile Knitted Tweed\nDress Size 4 Black And White",
+                "quantity": 1.0,
+                "price": 26.0,
+                "total_price": 28.6
+            },
+            {
+                "description": "NEW NWT OPEN BACK\nXHILERATION PLUM LACY\nDRESS WOMENS SIZE MEDIUM\n10/12",
+                "quantity": 5.0,
+                "price": 2.99,
+                "total_price": 16.45
+            },
+            {
+                "description": "Bcbgeneration Black Sleeveless\nLace Back Cut Out Dress Sz 2",
+                "quantity": 1.0,
+                "price": 2.99,
+                "total_price": 3.29
+            },
+            {
+                "description": "Papaya Floral Dress Medium\nBlue White",
+                "quantity": 4.0,
+                "price": 9.0,
+                "total_price": 39.6
+            }
+        ],
+        "subtotal": 449.9,
+        "tax": 44.99,
+        "tip": null,
+        "total": 494.89
+    }
+]

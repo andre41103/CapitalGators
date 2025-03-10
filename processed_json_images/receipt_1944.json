@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Squeaky Clean Car Wash",
+        "transaction_date": "2016-04-16",
+        "items": [
+            {
+                "description": "Simoniz Complete Dt",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 69.0
+            },
+            {
+                "description": "Open Coupon",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -2.0
+            }
+        ],
+        "subtotal": 67.0,
+        "tax": 5.95,
+        "tip": null,
+        "total": 72.95
+    }
+]

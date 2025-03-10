@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Harris-Scott",
+        "transaction_date": "2015-06-20",
+        "items": [
+            {
+                "description": "balmain dress 36",
+                "quantity": 4.0,
+                "price": 1.0,
+                "total_price": 6820.0
+            },
+            {
+                "description": "LuLaRoe Nicole Dress Size Large\n25",
+                "quantity": 3.0,
+                "price": 1.99,
+                "total_price": 6.57
+            },
+            {
+                "description": "Speechless Green Brown White\nPsychedelic Sleeveless Dress\nSize Large",
+                "quantity": 3.0,
+                "price": 7.0,
+                "total_price": 23.1
+            },
+            {
+                "description": "Matilda Jane Womans Lets Go\nTogether Black Knit Dress Size\nM Medium NWT",
+                "quantity": 4.0,
+                "price": 19.6,
+                "total_price": 86.24
+            }
+        ],
+        "subtotal": 6305.37,
+        "tax": 630.54,
+        "tip": null,
+        "total": 6935.91
+    }
+]

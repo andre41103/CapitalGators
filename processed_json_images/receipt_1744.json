@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2018-01-31",
+        "items": [
+            {
+                "description": "Endless Choice",
+                "quantity": 2.0,
+                "price": 12.99,
+                "total_price": 25.98
+            },
+            {
+                "description": "RF Endless Choic",
+                "quantity": 9.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "12oz Ribeye",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.99
+            },
+            {
+                "description": "NY Strip",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.99
+            },
+            {
+                "description": "ULT LongIsl T",
+                "quantity": 3.0,
+                "price": 8.6,
+                "total_price": 25.8
+            },
+            {
+                "description": "ULT Mojita Luk7",
+                "quantity": 2.0,
+                "price": 9.6,
+                "total_price": 19.2
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 106.96
+    }
+]

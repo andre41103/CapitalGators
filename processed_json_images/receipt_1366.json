@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Moore PLC",
+        "transaction_date": "2018-01-02",
+        "items": [
+            {
+                "description": "SONY Playstation2 Console\nSCPH-50000 \" Peal Color \" /\nTESTED 11177",
+                "quantity": 1.0,
+                "price": 60.0,
+                "total_price": 66.0
+            },
+            {
+                "description": "Nintendo Wii Console Complete\nBundle w/extras tested",
+                "quantity": 5.0,
+                "price": 104.99,
+                "total_price": 577.44
+            },
+            {
+                "description": "Working - Super Nintendo SNES\nOriginal System Console w/\nMario World!",
+                "quantity": 3.0,
+                "price": 85.0,
+                "total_price": 280.5
+            },
+            {
+                "description": "Sony PlayStation 3 PS3 Super\nSlim Black Console 20 GB\n*Tested* Console & Cables",
+                "quantity": 5.0,
+                "price": 99.95,
+                "total_price": 549.73
+            }
+        ],
+        "subtotal": 1339.7,
+        "tax": 133.97,
+        "tip": null,
+        "total": 1473.67
+    }
+]

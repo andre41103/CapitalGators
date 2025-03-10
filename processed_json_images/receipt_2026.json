@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Hayden-Young",
+        "transaction_date": "2016-01-19",
+        "items": [
+            {
+                "description": "The Great One: The Complete\nWayne Gretzky Collection",
+                "quantity": 2.0,
+                "price": 4.89,
+                "total_price": 10.76
+            },
+            {
+                "description": "Care & Repair of Furniture",
+                "quantity": 1.0,
+                "price": 4.25,
+                "total_price": 4.68
+            },
+            {
+                "description": "The Puzzle Palace",
+                "quantity": 4.0,
+                "price": 4.49,
+                "total_price": 19.76
+            },
+            {
+                "description": "Pictures From a Distant\nCountry: Seeing America\nThrough Old Paper Money",
+                "quantity": 5.0,
+                "price": 13.84,
+                "total_price": 76.12
+            }
+        ],
+        "subtotal": 101.19,
+        "tax": 10.12,
+        "tip": null,
+        "total": 111.31
+    }
+]

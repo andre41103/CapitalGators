@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "la\naie",
+        "transaction_date": "2010-02-15",
+        "items": [
+            {
+                "description": "POT A MIEL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.95
+            }
+        ],
+        "subtotal": 6.95,
+        "tax": null,
+        "tip": null,
+        "total": 7.85
+    }
+]

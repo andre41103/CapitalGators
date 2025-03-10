@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "watsons",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "SENSODYNE REPA+PRO W",
+                "quantity": 4.0,
+                "price": 9.3,
+                "total_price": 37.2
+            }
+        ],
+        "subtotal": 11.9,
+        "tax": 0.78,
+        "tip": null,
+        "total": 12.0
+    }
+]

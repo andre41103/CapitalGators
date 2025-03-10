@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BC Food & Beverages Sdn Bhd",
+        "transaction_date": "2017-01-07",
+        "items": [
+            {
+                "description": "PT Black Velvet",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 33.0
+            },
+            {
+                "description": "BTL Heartland Cab Sauv",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 135.0
+            },
+            {
+                "description": "PT Strongbow",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 33.0
+            }
+        ],
+        "subtotal": 201.0,
+        "tax": 12.06,
+        "tip": null,
+        "total": 213.05
+    }
+]

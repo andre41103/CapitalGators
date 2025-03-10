@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RAJ GAYLORD\nINDIAN RESTAURANT.",
+        "transaction_date": "2016-10-09",
+        "items": [
+            {
+                "description": "CHICKEN JAL FREZI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.95
+            },
+            {
+                "description": "PANEER MAKHNI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.95
+            },
+            {
+                "description": "CHEESE & ONION NAN",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 19.8
+            },
+            {
+                "description": "PILAU RICE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 53.2
+    }
+]

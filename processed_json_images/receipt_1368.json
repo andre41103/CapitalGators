@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Bryan-Armstrong",
+        "transaction_date": "2013-03-11",
+        "items": [
+            {
+                "description": "B310 Nintendo 3DS console\nCosmo Black Japan x",
+                "quantity": 1.0,
+                "price": 11.99,
+                "total_price": 13.19
+            },
+            {
+                "description": "Nintendo Wii U Console\nDeluxe/Handheld Bundle",
+                "quantity": 1.0,
+                "price": 79.99,
+                "total_price": 87.99
+            },
+            {
+                "description": "New Nintendo 2DS XL Console\nBlack/Turquoise w/ Mario Kart 7\nPreinstalled",
+                "quantity": 2.0,
+                "price": 129.99,
+                "total_price": 285.98
+            },
+            {
+                "description": "Nintendo Wii - Original 8GB\nBlack Home Console",
+                "quantity": 3.0,
+                "price": 45.0,
+                "total_price": 148.5
+            },
+            {
+                "description": "Microsoft Xbox One S 1TB\nConsole System Model 1681 w/\nOne Controller & Cables",
+                "quantity": 3.0,
+                "price": 219.99,
+                "total_price": 725.97
+            },
+            {
+                "description": "Atari Flashback 4 Classic Game\nConsole 75 built in games",
+                "quantity": 5.0,
+                "price": 8.5,
+                "total_price": 46.75
+            }
+        ],
+        "subtotal": 1189.43,
+        "tax": 118.94,
+        "tip": null,
+        "total": 1308.37
+    }
+]

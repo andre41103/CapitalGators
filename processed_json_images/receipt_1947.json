@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walker LLC",
+        "transaction_date": "2013-12-15",
+        "items": [
+            {
+                "description": "Imitation Wool Carpet Rugs\nKoala Panda Plush Living Room\nBlankets Non Slip Decor",
+                "quantity": 3.0,
+                "price": 26.11,
+                "total_price": 86.16
+            },
+            {
+                "description": "Geometry Hippie Non-slip Area\nRugs Kitchen Rug Floor Mat\nLivingRoom\nDecor",
+                "quantity": 4.0,
+                "price": 13.66,
+                "total_price": 60.1
+            }
+        ],
+        "subtotal": 132.97,
+        "tax": 13.3,
+        "tip": null,
+        "total": 146.27
+    }
+]

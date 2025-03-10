@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Diaz Ltd",
+        "transaction_date": "2019-08-11",
+        "items": [
+            {
+                "description": "Sperry Top-Sider Boys Toddlers\nLace Tie Boat Shoes Brown 13M\nNew",
+                "quantity": 5.0,
+                "price": 37.69,
+                "total_price": 207.29
+            },
+            {
+                "description": "Native Charley White\nSandals~Size Infant/Child\n6~Boys/Girls~Very Good\nCondition",
+                "quantity": 3.0,
+                "price": 13.0,
+                "total_price": 42.9
+            },
+            {
+                "description": "Jordan Sneakers Size 3.5 Youth\nRed And Blue",
+                "quantity": 3.0,
+                "price": 9.99,
+                "total_price": 32.97
+            },
+            {
+                "description": "PUMA Boys Youth Universal FG\nJr Soccer Cleats 2.5 White High\nRed NEW Futbol",
+                "quantity": 1.0,
+                "price": 19.99,
+                "total_price": 21.99
+            },
+            {
+                "description": "NWT The Childrens Place Boys\nTan Lace Up Boots 4",
+                "quantity": 4.0,
+                "price": 20.99,
+                "total_price": 92.36
+            }
+        ],
+        "subtotal": 361.37,
+        "tax": 36.14,
+        "tip": null,
+        "total": 397.51
+    }
+]

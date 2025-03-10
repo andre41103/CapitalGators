@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Deli In The Park",
+        "transaction_date": "2011-05-14",
+        "items": [
+            {
+                "description": "Latte",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "With Soy Milk",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Chai (Vanila)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "Crabmeat Pasta",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 19.0
+            },
+            {
+                "description": "Pork Rack",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 26.0
+            }
+        ],
+        "subtotal": 57.0,
+        "tax": 4.39,
+        "tip": 5.7,
+        "total": 67.1
+    }
+]

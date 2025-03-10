@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Greene Ltd",
+        "transaction_date": "2020-11-03",
+        "items": [
+            {
+                "description": "Custom Build Dell Desktop\nComputer i5 | 16GB | 2TB | SSD\nWindows\nPC\nDVD",
+                "quantity": 3.0,
+                "price": 99.0,
+                "total_price": 326.7
+            },
+            {
+                "description": "Dell OptiPlex 9020 SFF\nDVD-RW/Barebone PC Desktop",
+                "quantity": 2.0,
+                "price": 49.99,
+                "total_price": 109.98
+            },
+            {
+                "description": "Dell Precision Workstation\nComputer Intel Xeon Quad Core\n16GB 1TB Windows 10 Pro",
+                "quantity": 2.0,
+                "price": 139.0,
+                "total_price": 305.8
+            },
+            {
+                "description": "Dell Desktop Computer Optiplex\n790 USFF Core i3 4GB 250GB\nHD Windows 10 Pro PC",
+                "quantity": 4.0,
+                "price": 99.95,
+                "total_price": 439.78
+            },
+            {
+                "description": "AMD Quad Core Custom Built\nGaming PC Computer Desktop\n16GB 2TB Blue LED",
+                "quantity": 2.0,
+                "price": 509.99,
+                "total_price": 1.0
+            },
+            {
+                "description": "HP T520 Thin Client Computer\nAMD GX-212JC 1.2GHz 4GB RAM",
+                "quantity": 1.0,
+                "price": 37.75,
+                "total_price": 41.53
+            }
+        ],
+        "subtotal": 2132.51,
+        "tax": 213.25,
+        "tip": null,
+        "total": 2345.76
+    }
+]

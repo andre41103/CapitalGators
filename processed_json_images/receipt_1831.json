@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KFC KL CENTRAL",
+        "transaction_date": "2018-09-21",
+        "items": [
+            {
+                "description": "T SNKER BOX OR E E\nE",
+                "quantity": 2.0,
+                "price": 8.4,
+                "total_price": 16.8
+            },
+            {
+                "description": "NUGG BOX OR E E",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.3
+            },
+            {
+                "description": "T SNTURE BX OR E E",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.75
+            },
+            {
+                "description": "RICE ALA CARTE E E",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 43.85,
+        "tax": 2.63,
+        "tip": null,
+        "total": 46.48
+    }
+]

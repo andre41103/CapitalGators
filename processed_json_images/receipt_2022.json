@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "BODY BEAUTIFUL",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "DRB/SPEEDPASS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 76.08
+            }
+        ],
+        "subtotal": 76.08,
+        "tax": 0.0,
+        "tip": null,
+        "total": 76.08
+    }
+]

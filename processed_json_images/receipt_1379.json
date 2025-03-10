@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Ayers PLC",
+        "transaction_date": "2018-10-07",
+        "items": [
+            {
+                "description": "Signed ~THE HOT ZONE A",
+                "quantity": 3.0,
+                "price": 150.0,
+                "total_price": 495.0
+            },
+            {
+                "description": "How to Get an Asian Girlfriend\nPaperback\nFree",
+                "quantity": 4.0,
+                "price": 15.44,
+                "total_price": 67.94
+            },
+            {
+                "description": "Warman's Star Wars Field Guide",
+                "quantity": 4.0,
+                "price": 5.77,
+                "total_price": 25.39
+            },
+            {
+                "description": "The Nature Notes of an\nEdwardian Lady (Country Dia",
+                "quantity": 4.0,
+                "price": 26.67,
+                "total_price": 117.35
+            },
+            {
+                "description": "An Hour With Jesus",
+                "quantity": 1.0,
+                "price": 4.49,
+                "total_price": 4.94
+            },
+            {
+                "description": "The Wire in the Blood (Tony Hill",
+                "quantity": 4.0,
+                "price": 15.12,
+                "total_price": 66.53
+            }
+        ],
+        "subtotal": 706.49,
+        "tax": 70.65,
+        "tip": null,
+        "total": 777.14
+    }
+]

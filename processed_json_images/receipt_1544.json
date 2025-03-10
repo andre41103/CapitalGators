@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Harvey-Rivas",
+        "transaction_date": "2018-05-16",
+        "items": [
+            {
+                "description": "Rabbit Wine Tool Kit 6 Piece Set.\nOpen box Sealed",
+                "quantity": 3.0,
+                "price": 24.2,
+                "total_price": 79.86
+            },
+            {
+                "description": "Lolita Happy Retirement Wine\nGlass 15 Ounce GLS11-5534H",
+                "quantity": 4.0,
+                "price": 8.0,
+                "total_price": 35.2
+            },
+            {
+                "description": "VINTAGE ANTIQUE BRASS\nTABLE TOP WINE BOTTLE\nOPENER /WOOD HANDLE",
+                "quantity": 3.0,
+                "price": 60.0,
+                "total_price": 198.0
+            },
+            {
+                "description": "Anthropologie Gold Elegant\nSwan Decorative Metal Bottle",
+                "quantity": 1.0,
+                "price": 19.98,
+                "total_price": 21.98
+            }
+        ],
+        "subtotal": 304.58,
+        "tax": 30.46,
+        "tip": null,
+        "total": 335.04
+    }
+]

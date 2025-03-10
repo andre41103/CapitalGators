@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Hicks and Sons",
+        "transaction_date": "2019-03-10",
+        "items": [
+            {
+                "description": "26\"x26\" Top White Marble",
+                "quantity": 4.0,
+                "price": 2.0,
+                "total_price": 9794.4
+            },
+            {
+                "description": "18\"x14\" Modern Top Oval\nCoffee Table With 15\" Tall Stand\nChristmas Gift D\u00e9cor",
+                "quantity": 4.0,
+                "price": 1.0,
+                "total_price": 5280.0
+            },
+            {
+                "description": "15\"x15\" White Marble Coffee\nTable Top With 15\" Tall Stand\nDeco",
+                "quantity": 4.0,
+                "price": 575.99,
+                "total_price": 2534.36
+            },
+            {
+                "description": "13 Inch Marble Coffee Table\nStone Game Table Mother of\nPearl with Check Pattern",
+                "quantity": 3.0,
+                "price": 301.75,
+                "total_price": 995.78
+            }
+        ],
+        "subtotal": 16913.21,
+        "tax": 1691.32,
+        "tip": null,
+        "total": 18604.53
+    }
+]

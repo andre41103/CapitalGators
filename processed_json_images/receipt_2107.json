@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CUBS BAR & GRILL",
+        "transaction_date": "2016-11-04",
+        "items": [
+            {
+                "description": "J DANIELS 1",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.59
+            },
+            {
+                "description": "BURG BBQ BAC",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "J DANIELS 1",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.59
+            }
+        ],
+        "subtotal": 32.18,
+        "tax": 3.71,
+        "tip": null,
+        "total": 35.89
+    }
+]

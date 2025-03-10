@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Levy and Arnold\nJenkins-Lewis",
+        "transaction_date": "2019-12-23",
+        "items": [
+            {
+                "description": "Sperry Top-Sider Boys Toddlers\nLace Tie Boat Shoes Brown 13M\nNew",
+                "quantity": 1.0,
+                "price": 37.69,
+                "total_price": 41.46
+            },
+            {
+                "description": "Adult Girl Version Hermione\nGranger Cosplay Costume",
+                "quantity": 5.0,
+                "price": 64.16,
+                "total_price": 352.88
+            }
+        ],
+        "subtotal": 358.49,
+        "tax": 35.85,
+        "tip": null,
+        "total": 394.34
+    }
+]

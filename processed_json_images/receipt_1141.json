@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Conservatory Restaurant",
+        "transaction_date": "2017-12-30",
+        "items": [
+            {
+                "description": "Stella Artois",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "Sat Lch $89",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 89.0
+            },
+            {
+                "description": "Grey Gse Lmtd Ed",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.0
+            },
+            {
+                "description": "Kiwi Kiss",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 137.0
+    }
+]

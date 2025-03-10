@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Roberts Group",
+        "transaction_date": "2020-12-24",
+        "items": [
+            {
+                "description": "10-Core Gaming Computer\nDesktop PC Tower HDMI 8GB\nDDR4 R7 Graphic CUSTOM\nBUILT",
+                "quantity": 4.0,
+                "price": 1.0,
+                "total_price": 1535.07
+            }
+        ],
+        "subtotal": 1395.52,
+        "tax": 139.55,
+        "tip": null,
+        "total": 1535.07
+    }
+]

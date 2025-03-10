@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "EL\nCHAMPI\u00d1ON",
+        "transaction_date": "2016-11-07",
+        "items": [
+            {
+                "description": "BOTELLA CERVEZA 1/3",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.8
+            },
+            {
+                "description": "CHAMPI\u00d1ON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.2
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.82,
+        "tip": null,
+        "total": 9.0
+    }
+]

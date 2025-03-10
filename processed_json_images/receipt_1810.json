@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Peanut Shop of Savannah",
+        "transaction_date": "2014-02-27",
+        "items": [
+            {
+                "description": "PSN Hndckd",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.29
+            },
+            {
+                "description": "RSW Brittle",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "PSW Dark Br",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "PSW Dark Br",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "Masabi Pean",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.99
+            },
+            {
+                "description": "Fig & Waln",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.99
+            },
+            {
+                "description": "Spiiced Rum",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.99
+            },
+            {
+                "description": "Peanut Cru",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.29
+            },
+            {
+                "description": "Peanut Cra",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.29
+            },
+            {
+                "description": "Peanut Cr#",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.29
+            }
+        ],
+        "subtotal": 49.82,
+        "tax": 3.49,
+        "tip": null,
+        "total": 53.31
+    }
+]

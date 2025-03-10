@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2018-10-26",
+        "items": [],
+        "subtotal": 55.97,
+        "tax": 3.71,
+        "tip": null,
+        "total": 59.68
+    }
+]

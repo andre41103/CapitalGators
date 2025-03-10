@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "SHELL KINGSWAY",
+        "transaction_date": "2018-01-11",
+        "items": [
+            {
+                "description": "FUELSAVE D",
+                "quantity": null,
+                "price": 17.09,
+                "total_price": 22.2
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 22.2
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "PS4 GAME",
+                "quantity": null,
+                "price": null,
+                "total_price": -39.99
+            },
+            {
+                "description": "PS4 GAME",
+                "quantity": null,
+                "price": null,
+                "total_price": 39.99
+            },
+            {
+                "description": "PS4 GAME",
+                "quantity": null,
+                "price": null,
+                "total_price": -40.0
+            },
+            {
+                "description": "PS4 GAME",
+                "quantity": null,
+                "price": null,
+                "total_price": 59.99
+            },
+            {
+                "description": "PS4 GAME",
+                "quantity": null,
+                "price": null,
+                "total_price": 59.99
+            },
+            {
+                "description": "PS4 GAME",
+                "quantity": null,
+                "price": null,
+                "total_price": 59.99
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 89.03
+    }
+]

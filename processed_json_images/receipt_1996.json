@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "LION CITY STORE",
+        "transaction_date": "2016-03-27",
+        "items": [
+            {
+                "description": "BUY HONKONG DOLLAR",
+                "quantity": null,
+                "price": 7000.0,
+                "total_price": 1050.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 1050.0
+    }
+]

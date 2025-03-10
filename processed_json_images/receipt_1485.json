@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Blankenship Inc",
+        "transaction_date": "2013-11-20",
+        "items": [
+            {
+                "description": "Yellow Stone Royal Art Marble\nDinning Table Top Round",
+                "quantity": 4.0,
+                "price": 6.0,
+                "total_price": 29726.4
+            },
+            {
+                "description": "2 Industrial Live edge Legs 16\"\nTall Cast Aluminum Cast Iron\nCoffee Table Bench",
+                "quantity": 2.0,
+                "price": 159.28,
+                "total_price": 350.42
+            },
+            {
+                "description": "40 Inches Marble Utility Table\nTop Inlay with Royal Pattern",
+                "quantity": 2.0,
+                "price": 1.0,
+                "total_price": 3770.25
+            }
+        ],
+        "subtotal": 30770.06,
+        "tax": 3077.01,
+        "tip": null,
+        "total": 33847.07
+    }
+]

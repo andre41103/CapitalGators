@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MOUR XXI, S.L.",
+        "transaction_date": "2016-08-11",
+        "items": [
+            {
+                "description": "CACERES",
+                "quantity": 1.0,
+                "price": 14.0,
+                "total_price": 14.0
+            },
+            {
+                "description": "AGUA LITRO",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "RACION DE PAN",
+                "quantity": 3.0,
+                "price": 1.4,
+                "total_price": 4.2
+            },
+            {
+                "description": "ALMEJAS MARINERA",
+                "quantity": 1.0,
+                "price": 21.6,
+                "total_price": 21.6
+            },
+            {
+                "description": "ANCHOAS EN ACEITE CON PIM",
+                "quantity": 1.0,
+                "price": 17.3,
+                "total_price": 17.3
+            },
+            {
+                "description": "PAELLA DE MARISCO Y PESCA",
+                "quantity": 3.0,
+                "price": 21.6,
+                "total_price": 64.8
+            }
+        ],
+        "subtotal": null,
+        "tax": 11.35,
+        "tip": null,
+        "total": 124.9
+    }
+]

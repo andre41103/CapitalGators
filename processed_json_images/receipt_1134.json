@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Nando's IOI Mall,",
+        "transaction_date": "2015-05-16",
+        "items": [
+            {
+                "description": "1/4 Chick+2sd-E\nChips(R)-EC\nGarlicBread(R)-EC",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.9
+            },
+            {
+                "description": "IceLmnTea Gls-E",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.9
+            },
+            {
+                "description": "Enquiry",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Restaurant McDonald's Versailles Manege",
+        "transaction_date": "2014-07-05",
+        "items": [
+            {
+                "description": "Coke Best Of",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "Double Latte",
+                "quantity": 2.0,
+                "price": 1.7,
+                "total_price": 3.4
+            },
+            {
+                "description": "Bacon",
+                "quantity": 1.0,
+                "price": 4.1,
+                "total_price": 4.1
+            },
+            {
+                "description": "McChicken",
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 2.5
+            },
+            {
+                "description": "BO Nuggets 6 Mx",
+                "quantity": 1.0,
+                "price": 6.3,
+                "total_price": 6.3
+            },
+            {
+                "description": "Frite Best Of",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.48,
+        "tip": null,
+        "total": 16.3
+    }
+]

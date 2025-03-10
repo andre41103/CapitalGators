@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MAGASIN CHIN LEE",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "ASSIETTE PLASTIQUE X3 REF:99",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 385.0
+            },
+            {
+                "description": "FRITO LAY ROLD GOLD PRETZEL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 540.0
+            },
+            {
+                "description": "HINANO PACK 12 X 33CL",
+                "quantity": 2.0,
+                "price": 2760.0,
+                "total_price": 5520.0
+            },
+            {
+                "description": "LA BAUME CHARDONNAY MD OR 20",
+                "quantity": 2.0,
+                "price": 2295.0,
+                "total_price": 4590.0
+            },
+            {
+                "description": "PATE COMPAGNE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 231.0
+            },
+            {
+                "description": "CHARCUTERIE JAMBON 1ER CHOIX",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 416.0
+            },
+            {
+                "description": "DIET COKE *6",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 630.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 12312.0
+    }
+]

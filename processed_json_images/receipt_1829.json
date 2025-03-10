@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TESCO",
+        "transaction_date": "2011-08-23",
+        "items": [
+            {
+                "description": "NESTLE BLI",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.79
+            },
+            {
+                "description": "NESTLE BLI",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.79
+            },
+            {
+                "description": "SENSOR NIG",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.09
+            },
+            {
+                "description": "SENBOR NIG",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.09
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 17.76
+    }
+]

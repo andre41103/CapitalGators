@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Fritz,\nand",
+        "transaction_date": "2014-07-07",
+        "items": [
+            {
+                "description": "Desktop Computer AMD\nSempron LE1250 No HDD No OS",
+                "quantity": 1.0,
+                "price": 9.99,
+                "total_price": 10.99
+            },
+            {
+                "description": "FAST Dell Windows 10 Desktop\nComputer Core 2 Duo 4GB Ram\n250GB DVD WiFi 22\" LCD",
+                "quantity": 5.0,
+                "price": 169.95,
+                "total_price": 934.73
+            },
+            {
+                "description": "Fast Dell Optiplex Windows 10\nDesktop Computer Tower PC\nCore i3 3.1GHz 4GB 320GB",
+                "quantity": 1.0,
+                "price": 89.95,
+                "total_price": 98.95
+            },
+            {
+                "description": "Dell 7010 Desktop Computer\nIntel Core i5 3.10 Windows 10\npro 64 500gb HD 4gb Ram",
+                "quantity": 2.0,
+                "price": 241.6,
+                "total_price": 531.52
+            }
+        ],
+        "subtotal": 1432.89,
+        "tax": 143.29,
+        "tip": null,
+        "total": 1576.18
+    }
+]

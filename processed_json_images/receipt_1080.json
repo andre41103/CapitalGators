@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "VERONA ITALICA",
+        "transaction_date": "2017-03-08",
+        "items": [
+            {
+                "description": "UNLIMITED DINNER",
+                "quantity": 2.0,
+                "price": 219.0,
+                "total_price": 438.0
+            }
+        ],
+        "subtotal": 438.0,
+        "tax": 26.28,
+        "tip": null,
+        "total": 464.0
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2021-05-26",
+        "items": [
+            {
+                "description": "Nintendo Gameboy Pocket\nConsole Green with Box",
+                "quantity": 2.0,
+                "price": 70.0,
+                "total_price": 154.0
+            }
+        ],
+        "subtotal": 140.0,
+        "tax": 14.0,
+        "tip": null,
+        "total": 154.0
+    }
+]

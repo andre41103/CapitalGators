@@ -1,0 +1,104 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TUSCANY RISTORANTE",
+        "transaction_date": "2012-07-15",
+        "items": [
+            {
+                "description": "L-STILL WATER",
+                "quantity": 2.0,
+                "price": 8.5,
+                "total_price": 17.0
+            },
+            {
+                "description": "L'ANTIPASTO MISTO",
+                "quantity": 2.0,
+                "price": 17.5,
+                "total_price": 35.0
+            },
+            {
+                "description": "CALAMARI PACIFICO",
+                "quantity": 2.0,
+                "price": 19.9,
+                "total_price": 39.8
+            },
+            {
+                "description": "OLIVE",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "FREYIN",
+                "quantity": 4.0,
+                "price": 130.0,
+                "total_price": 520.0
+            },
+            {
+                "description": "BABY GOAT",
+                "quantity": 3.0,
+                "price": 31.5,
+                "total_price": 94.5
+            },
+            {
+                "description": "SPATCHCOCK",
+                "quantity": null,
+                "price": null,
+                "total_price": 29.9
+            },
+            {
+                "description": "INSALATA RUGIIETTA",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "INSALATA POMODORI",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "FLAT WHITE",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "SHORT BLACK",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "CAMOMILE",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "LIQUEUR COFFEE",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.9
+            },
+            {
+                "description": "Galliano",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "GL .- SCRPT\\nCAB/S",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 65.19,
+        "tip": null,
+        "total": 811.6
+    }
+]

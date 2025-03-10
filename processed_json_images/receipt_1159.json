@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BON TON",
+        "transaction_date": "2018-05-24",
+        "items": [
+            {
+                "description": "CAPPUCCINO\\LATTE MACCHIATO",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.2
+            },
+            {
+                "description": "CAPPUCCINO SOIA",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "LIEVITO",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.9
+            },
+            {
+                "description": "LIEVITO",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.9
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 4.5
+    }
+]

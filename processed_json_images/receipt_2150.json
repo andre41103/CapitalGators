@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Chick-fil-a",
+        "transaction_date": "2017-10-10",
+        "items": [
+            {
+                "description": "Meal-SpySand",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.25
+            }
+        ],
+        "subtotal": 5.55,
+        "tax": 0.61,
+        "tip": null,
+        "total": 7.16
+    }
+]

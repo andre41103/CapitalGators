@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "A L\nANA\nCERVESERIA",
+        "transaction_date": "2016-09-06",
+        "items": [
+            {
+                "description": "CHIPIRON ANDALUZA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.95
+            },
+            {
+                "description": "M BRCHT BACALAO",
+                "quantity": 2.0,
+                "price": 4.1,
+                "total_price": 8.2
+            },
+            {
+                "description": "M BRCHT LANGSTINOS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.1
+            },
+            {
+                "description": "PLATO PAN TOMATE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.95
+            },
+            {
+                "description": "AGUA",
+                "quantity": 2.0,
+                "price": 1.85,
+                "total_price": 3.7
+            },
+            {
+                "description": "PLT.CHORIZO IBERICO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.35
+            },
+            {
+                "description": "CREMA CATALANA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.95
+            },
+            {
+                "description": "HUEVOS CABREAOS",
+                "quantity": 1.0,
+                "price": 2.95,
+                "total_price": 6.15
+            },
+            {
+                "description": "M CAMEMBERT CRUJ",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 5.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 4.48,
+        "tip": null,
+        "total": 49.25
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Turtle Wax Wash",
+        "transaction_date": "2015-08-07",
+        "items": [
+            {
+                "description": "ULTIMATE",
+                "quantity": null,
+                "price": null,
+                "total_price": 22.99
+            },
+            {
+                "description": "Mats\nOption",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Groupon",
+                "quantity": null,
+                "price": null,
+                "total_price": -22.99
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 0.0
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Dalton, Chambers and Howard",
+        "transaction_date": "2011-05-31",
+        "items": [
+            {
+                "description": "AMD Custom Ryzen 5 Quad\nCore Gaming PC 4.2GHZ\nComputer 8GB 1TB AM4 DDR4\nVega 11",
+                "quantity": 4.0,
+                "price": 574.99,
+                "total_price": 2529.96
+            },
+            {
+                "description": "W5 Pro Mini Pocket PC Windows\n10 Computer Stick Intel Z8350\nQuad Core",
+                "quantity": 2.0,
+                "price": 119.0,
+                "total_price": 261.8
+            },
+            {
+                "description": "Dell Desktop Computer[16GB\n2TB HD OR 512GB SSD Quad\nCore i5[Windows 10 22\" LCD",
+                "quantity": 1.0,
+                "price": 129.95,
+                "total_price": 142.94
+            }
+        ],
+        "subtotal": 2667.91,
+        "tax": 266.79,
+        "tip": null,
+        "total": 2934.7
+    }
+]

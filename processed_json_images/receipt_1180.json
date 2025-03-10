@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Restaurant\nMundart",
+        "transaction_date": "2015-06-27",
+        "items": [
+            {
+                "description": "Nudeltascherl",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.6
+            },
+            {
+                "description": "Bergk\u00e4segnocchi",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "Coca Cola 0,331",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "Saftschorle 0,41",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 24.87,
+        "tax": 4.73,
+        "tip": null,
+        "total": 29.6
+    }
+]

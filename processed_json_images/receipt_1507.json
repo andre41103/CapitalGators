@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Blair Ltd",
+        "transaction_date": "2017-04-26",
+        "items": [
+            {
+                "description": "Banana Republic Maroon\nAbstract ruffled wrap Dress\nWith slip xs 0",
+                "quantity": 4.0,
+                "price": 5.0,
+                "total_price": 22.0
+            },
+            {
+                "description": "StellaLuxe One Shoulder Lace\nDress",
+                "quantity": 3.0,
+                "price": 25.0,
+                "total_price": 82.5
+            },
+            {
+                "description": "Women Sexy Lingerie Lace\nDress Underwear Babydoll\nSleepwear G-string Bikini Lot",
+                "quantity": 4.0,
+                "price": 0.99,
+                "total_price": 4.36
+            },
+            {
+                "description": "R&M; RICHARDS WOMAN'S\nBLUE DRESS With Rhinestone\nAccent Short Sleeves Sz 16W\nNWT",
+                "quantity": 5.0,
+                "price": 29.99,
+                "total_price": 164.94
+            },
+            {
+                "description": "Women Spaghetti Strap\nBodycon Mini Dress Sexy Party\nClub Wear Summer Short Dress",
+                "quantity": 2.0,
+                "price": 4.47,
+                "total_price": 9.83
+            },
+            {
+                "description": "New ERIN Erin Fertherston\nStraight Dress White Sequence\nLining Sleeveless SZ 10",
+                "quantity": 2.0,
+                "price": 59.99,
+                "total_price": 131.98
+            }
+        ],
+        "subtotal": 377.83,
+        "tax": 37.78,
+        "tip": null,
+        "total": 415.61
+    }
+]

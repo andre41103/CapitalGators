@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Rhodes, Young and Yoder",
+        "transaction_date": "2018-06-16",
+        "items": [
+            {
+                "description": "Unicorn Series Small Large Long\nFloor Carpet Area Rugs Various\nSize Soft Rug",
+                "quantity": 3.0,
+                "price": 46.5,
+                "total_price": 153.45
+            },
+            {
+                "description": "2Pack Soft Fluffy Faux Fur Plain\nChair Cover Washable Shaggy\nArea Rugs Carpet",
+                "quantity": 2.0,
+                "price": 13.59,
+                "total_price": 29.9
+            },
+            {
+                "description": "3D Starry sky Carpet Child Play\nArea Rug Kids Room Carpets\nMat for Living Room",
+                "quantity": 2.0,
+                "price": 11.69,
+                "total_price": 25.72
+            },
+            {
+                "description": "3pcs Faux Fur Seat Pads 30cm\nRound Cushions Fleece Floor\nCarpets Decorative",
+                "quantity": 1.0,
+                "price": 14.66,
+                "total_price": 16.13
+            }
+        ],
+        "subtotal": 204.72,
+        "tax": 20.47,
+        "tip": null,
+        "total": 225.19
+    }
+]

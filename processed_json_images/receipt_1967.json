@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Panda Express",
+        "transaction_date": "2014-06-25",
+        "items": [
+            {
+                "description": "3-ENTREE PLATE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.99
+            },
+            {
+                "description": "2-ENTREE PLATE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.89
+            },
+            {
+                "description": "3 ENTREE PLATE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.99
+            },
+            {
+                "description": "LARGE SODA",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 8.58
+            },
+            {
+                "description": "2 Waters",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 50.45,
+        "tax": 4.28,
+        "tip": null,
+        "total": 54.73
+    }
+]

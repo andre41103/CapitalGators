@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2017-06-28",
+        "items": [
+            {
+                "description": "TAGLI.mari e mon",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "TAGLIAT. ALFREDO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "CALAMARI FRITTI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "ACQUA NAT/0.50",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "BIRRA MEDIA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.5
+            },
+            {
+                "description": "SAUVIGNON BOTT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "PROSECCO CALICE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "MAGGERASION",
+                "quantity": 12.0,
+                "price": null,
+                "total_price": 8.7
+            }
+        ],
+        "subtotal": 81.2,
+        "tax": null,
+        "tip": null,
+        "total": 81.2
+    }
+]

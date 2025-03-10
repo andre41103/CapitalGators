@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HAPPY TIMES LTD",
+        "transaction_date": "2015-02-08",
+        "items": [
+            {
+                "description": "Tusker Lager",
+                "quantity": 2.0,
+                "price": 180.0,
+                "total_price": 360.0
+            },
+            {
+                "description": "Cellar Cask",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 250.0
+            },
+            {
+                "description": "Half Chicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 600.0
+            },
+            {
+                "description": "Blowjob",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 150.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 1360.0
+    }
+]

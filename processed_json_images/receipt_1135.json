@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THE BUFFALO",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "BOYLANS Root Beer",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.15
+            },
+            {
+                "description": "Buffalo Burger",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.5
+            },
+            {
+                "description": "Lamb Burger",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.6
+            },
+            {
+                "description": "GLS Piu Grigio Pinot Grigio",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.3
+            }
+        ],
+        "subtotal": 35.55,
+        "tax": 2.81,
+        "tip": null,
+        "total": 38.36
+    }
+]

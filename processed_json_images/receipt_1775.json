@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Saxon Hotel",
+        "transaction_date": "2015-09-20",
+        "items": [
+            {
+                "description": "San Pelleg 750",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 150.0
+            },
+            {
+                "description": "GLS Oak Vall CHA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 95.0
+            },
+            {
+                "description": "Earl Grey",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.0
+            },
+            {
+                "description": "Cappucino Foam",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 84.0
+            },
+            {
+                "description": "GLS Jordan CAB",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 115.0
+            },
+            {
+                "description": "GLS Fox Rose",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 165.0
+            },
+            {
+                "description": "Brunch Buffet",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 900.0
+            },
+            {
+                "description": "Salmon Trout",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Carving Trolley",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 188.02,
+        "tip": 150.0,
+        "total": null
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Silva-Horn\nGonzalez-Brown",
+        "transaction_date": "2013-06-10",
+        "items": [
+            {
+                "description": "Adult Girl Version Hermione\nGranger Cosplay Costume",
+                "quantity": 2.0,
+                "price": 64.16,
+                "total_price": 141.15
+            },
+            {
+                "description": "Nike Air Max 90 All Black\nLeather Running Shoes",
+                "quantity": 4.0,
+                "price": 74.99,
+                "total_price": 329.96
+            },
+            {
+                "description": "INC International Concepts\nChildren Shoes\nBlack,\nSize Little Kid 2.5",
+                "quantity": 3.0,
+                "price": 88.91,
+                "total_price": 293.4
+            },
+            {
+                "description": "Florsheim kid's boys Lace Up",
+                "quantity": 5.0,
+                "price": 29.99,
+                "total_price": 164.94
+            },
+            {
+                "description": "Minecraft Creative Stuffed Plush\nKids Childrens Gift Cute Toy",
+                "quantity": 4.0,
+                "price": 7.25,
+                "total_price": 31.9
+            }
+        ],
+        "subtotal": 873.96,
+        "tax": 87.4,
+        "tip": null,
+        "total": 961.36
+    }
+]

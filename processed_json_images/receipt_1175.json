@@ -1,0 +1,218 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ALDI",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Ch Bottom Round",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.94
+            },
+            {
+                "description": "24 Pk Spring Water",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.79
+            },
+            {
+                "description": "Red Grape Bags",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "Gala Apples",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "HAM STEAK",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.25
+            },
+            {
+                "description": "Chicken Tenderloin",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.68
+            },
+            {
+                "description": "Bf Smoked Sausage",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.19
+            },
+            {
+                "description": "Thick Sliced Bacon",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.49
+            },
+            {
+                "description": "String Cheese",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.79
+            },
+            {
+                "description": "Italian Cheese",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.79
+            },
+            {
+                "description": "Butter Quarters",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.89
+            },
+            {
+                "description": "Butter Quarters",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.89
+            },
+            {
+                "description": "Butter Quarters",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.89
+            },
+            {
+                "description": "Banana WE",
+                "quantity": 3.73,
+                "price": 0.44,
+                "total_price": 1.64
+            },
+            {
+                "description": "Petite Yellow Pota",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "Sweet Onions 21b",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.89
+            },
+            {
+                "description": "Sharp Shredded",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.69
+            },
+            {
+                "description": "White Bread",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.69
+            },
+            {
+                "description": "Blueberries",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "72 ct. Baby Wipes",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.29
+            },
+            {
+                "description": "Yogurt Raisins",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.89
+            },
+            {
+                "description": "Yogurt Raisins",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.89
+            },
+            {
+                "description": "Yogurt Raisins",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.89
+            },
+            {
+                "description": "Pep Farm Goldfish",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.89
+            },
+            {
+                "description": "Pep Farm Goldfish",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.89
+            },
+            {
+                "description": "Pep Farm Goldfish",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.89
+            },
+            {
+                "description": "2% Milk",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.65
+            },
+            {
+                "description": "All Purpose Flour",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.29
+            },
+            {
+                "description": "OJ From Concen",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.69
+            },
+            {
+                "description": "Pure Olive Oil",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.19
+            },
+            {
+                "description": "Appl Ban Rasp Yog",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.79
+            },
+            {
+                "description": "Honey Nut Cheerios",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.49
+            },
+            {
+                "description": "Large Eggs",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.69
+            },
+            {
+                "description": "Baby Bella",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.69
+            }
+        ],
+        "subtotal": 88.57,
+        "tax": null,
+        "tip": null,
+        "total": 89.35
+    }
+]

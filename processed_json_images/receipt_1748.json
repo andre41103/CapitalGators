@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Haveli Restaurant",
+        "transaction_date": "2016-07-09",
+        "items": [
+            {
+                "description": "Lassi",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "Soda",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "Tandoori Paratha",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "Butter Tandoori Naan",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Chicken Tikka Masala",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 19.98
+            },
+            {
+                "description": "Chicken Karahi",
+                "quantity": null,
+                "price": null,
+                "total_price": 18.99
+            },
+            {
+                "description": "Haveli Mix Grill Plater (family Style)",
+                "quantity": null,
+                "price": null,
+                "total_price": 39.99
+            },
+            {
+                "description": "Chicken Samosa",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.99
+            },
+            {
+                "description": "Soda Refill",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.99
+            },
+            {
+                "description": "Paan",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 4.0
+            }
+        ],
+        "subtotal": 99.91,
+        "tax": 8.49,
+        "tip": null,
+        "total": 108.4
+    }
+]

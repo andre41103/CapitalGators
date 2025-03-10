@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CIRCLE K VIETNAM",
+        "transaction_date": "2018-02-20",
+        "items": [
+            {
+                "description": "DC//KELLOGG S Cereal Frosties 3",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10000.0
+            },
+            {
+                "description": "DC//STRONGBOW Cider Gold 275ml*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 19000.0
+            },
+            {
+                "description": "DC//TH UHT Milk Less Sugar 220ml",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9000.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 38000.0
+    }
+]

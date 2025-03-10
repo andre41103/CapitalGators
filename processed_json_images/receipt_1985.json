@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TWISTED ROOT BURGER CO. - RICHARDSON",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Turkey",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.99
+            },
+            {
+                "description": "Nicest Person",
+                "quantity": 6.0,
+                "price": null,
+                "total_price": -0.06
+            },
+            {
+                "description": "Best Looking",
+                "quantity": 16.0,
+                "price": null,
+                "total_price": -0.16
+            },
+            {
+                "description": "Best Butt",
+                "quantity": 32.0,
+                "price": null,
+                "total_price": -0.32
+            },
+            {
+                "description": "Great Smile",
+                "quantity": 11.0,
+                "price": null,
+                "total_price": -0.11
+            }
+        ],
+        "subtotal": 6.09,
+        "tax": 0.56,
+        "tip": null,
+        "total": 6.65
+    }
+]

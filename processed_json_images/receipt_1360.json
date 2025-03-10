@@ -1,0 +1,104 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "85 C BAKERY",
+        "transaction_date": "2013-11-22",
+        "items": [
+            {
+                "description": "French Cheese",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.65
+            },
+            {
+                "description": "Mini Apple Pie",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "Berrytale",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.45
+            },
+            {
+                "description": "Choco Chip Bowl",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.85
+            },
+            {
+                "description": "Snowf lake",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.45
+            },
+            {
+                "description": "Coffee Rasin",
+                "quantity": 2.0,
+                "price": 1.85,
+                "total_price": 3.7
+            },
+            {
+                "description": "Berry Nultigrain",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.65
+            },
+            {
+                "description": "M Free Salt Coff",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Pork Sung Bun",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.45
+            },
+            {
+                "description": "*Pumpkin Tart",
+                "quantity": 2.0,
+                "price": 2.8,
+                "total_price": 5.6
+            },
+            {
+                "description": "*Chocolate Spong",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.75
+            },
+            {
+                "description": "*Mochi Egg Tart",
+                "quantity": 4.0,
+                "price": 1.65,
+                "total_price": 6.6
+            },
+            {
+                "description": "*Coconut Custard",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.75
+            },
+            {
+                "description": "*Choc Crm Cheese",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.45
+            },
+            {
+                "description": "*Cream Puff",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.65
+            }
+        ],
+        "subtotal": 39.0,
+        "tax": 0.13,
+        "tip": null,
+        "total": 39.13
+    }
+]

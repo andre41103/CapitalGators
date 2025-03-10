@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Copeland-Hudson",
+        "transaction_date": "2020-12-06",
+        "items": [
+            {
+                "description": "Chef Wine Bottle Holder",
+                "quantity": 4.0,
+                "price": 65.95,
+                "total_price": 290.18
+            },
+            {
+                "description": "Leidenfcost Vineyards\nStemware Wine Glass",
+                "quantity": 5.0,
+                "price": 3.99,
+                "total_price": 21.95
+            },
+            {
+                "description": "Hammered Brass Over Stainless\nsteel Stemless Wine Glasses/\nCandle Holders",
+                "quantity": 1.0,
+                "price": 9.99,
+                "total_price": 10.99
+            }
+        ],
+        "subtotal": 293.74,
+        "tax": 29.37,
+        "tip": null,
+        "total": 323.11
+    }
+]

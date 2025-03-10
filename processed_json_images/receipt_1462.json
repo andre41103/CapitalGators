@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "West-Hodges",
+        "transaction_date": "2019-08-24",
+        "items": [
+            {
+                "description": "Matilda Jane Womans Lets Go\nTogether Black Knit Dress",
+                "quantity": 1.0,
+                "price": 19.6,
+                "total_price": 21.56
+            }
+        ],
+        "subtotal": 19.6,
+        "tax": 1.96,
+        "tip": null,
+        "total": 21.56
+    }
+]

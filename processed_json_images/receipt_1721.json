@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Popeyes",
+        "transaction_date": "2016-11-14",
+        "items": [
+            {
+                "description": "16PC SPICY MEAL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 35.99
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.97,
+        "tip": null,
+        "total": 38.96
+    }
+]

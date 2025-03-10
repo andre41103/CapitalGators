@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Corner Bakery Cafe",
+        "transaction_date": "2017-08-13",
+        "items": [
+            {
+                "description": "Chicken Berry Pecan Salad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.99
+            },
+            {
+                "description": "Classic Caesar, Entree",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.99
+            }
+        ],
+        "subtotal": 14.98,
+        "tax": 1.18,
+        "tip": null,
+        "total": 16.16
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Wright-Lucas",
+        "transaction_date": "2012-10-24",
+        "items": [
+            {
+                "description": "How to Get an Asian Girlfriend",
+                "quantity": 3.0,
+                "price": 15.44,
+                "total_price": 50.95
+            },
+            {
+                "description": "A boy who grew up eating\nnightmare It's Okay to Not Be",
+                "quantity": 2.0,
+                "price": 19.5,
+                "total_price": 42.9
+            },
+            {
+                "description": "The Graphic Design Reference",
+                "quantity": 2.0,
+                "price": 20.18,
+                "total_price": 44.4
+            },
+            {
+                "description": "Language and Woman's Place",
+                "quantity": 4.0,
+                "price": 4.09,
+                "total_price": 18.0
+            },
+            {
+                "description": "American Zoos",
+                "quantity": 4.0,
+                "price": 4.89,
+                "total_price": 21.52
+            }
+        ],
+        "subtotal": 161.6,
+        "tax": 16.16,
+        "tip": null,
+        "total": 177.76
+    }
+]

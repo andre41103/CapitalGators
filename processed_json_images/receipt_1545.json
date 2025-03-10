@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Crawford, Acosta and Solomon",
+        "transaction_date": "2012-08-22",
+        "items": [
+            {
+                "description": "Nike 747998-401 Team Hustle\nD7 Kids Blue Mid Top Basketball\nShoes Size 4Y US",
+                "quantity": 5.0,
+                "price": 10.99,
+                "total_price": 60.45
+            }
+        ],
+        "subtotal": 54.95,
+        "tax": 5.5,
+        "tip": null,
+        "total": 60.45
+    }
+]

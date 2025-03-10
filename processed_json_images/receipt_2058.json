@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Willy McCoy's",
+        "transaction_date": "2016-06-17",
+        "items": [
+            {
+                "description": "Iced Tea",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "Diet Coke",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "McCoys BLT Salad",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.99
+            },
+            {
+                "description": "Cuban",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.99
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.03,
+        "tip": null,
+        "total": 30.01
+    }
+]

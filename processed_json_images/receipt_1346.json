@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Angelis",
+        "transaction_date": "2011-02-08",
+        "items": [
+            {
+                "description": "*DIET MT DEW 24 PACK",
+                "quantity": 5.0,
+                "price": 6.79,
+                "total_price": 33.95
+            },
+            {
+                "description": "COLD WATER LOBSTER T",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.99
+            },
+            {
+                "description": "COLD WATER LOBSTER T",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.99
+            },
+            {
+                "description": "COLD WATER LOBSTER T",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.99
+            },
+            {
+                "description": "COLD WATER LOBSTER T",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.98
+            },
+            {
+                "description": "COLD WATER LOBSTER T",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.98
+            },
+            {
+                "description": "COLD WATER LOBSTER T",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.99
+            },
+            {
+                "description": "PORTERHOUSE STEAK",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.64
+            },
+            {
+                "description": "PORTERHOUSE STEAK",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.27
+            }
+        ],
+        "subtotal": 141.78,
+        "tax": 0.0,
+        "tip": null,
+        "total": 141.78
+    }
+]

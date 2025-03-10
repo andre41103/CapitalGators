@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Arnold, Holder and Armstrong",
+        "transaction_date": "2017-03-25",
+        "items": [
+            {
+                "description": "Moonshine Still Alcohol Whisky\nWine Oil Alembic Still Brewing\nHome Distiller Kit",
+                "quantity": 2.0,
+                "price": 225.99,
+                "total_price": 497.18
+            },
+            {
+                "description": "Unicorn Wine Bottle Holder",
+                "quantity": 4.0,
+                "price": 27.95,
+                "total_price": 122.98
+            },
+            {
+                "description": "CYLINDER GLASS PAROT for\n100ml WHISKEY WINE BEER\nFORCES OF ALCOHOL HOOCH",
+                "quantity": 4.0,
+                "price": 35.0,
+                "total_price": 154.0
+            },
+            {
+                "description": "PERSONALIZED WINE CELLAR\nBOTTLE OPENER / CORKSCREW",
+                "quantity": 1.0,
+                "price": 7.99,
+                "total_price": 8.79
+            },
+            {
+                "description": "PERSONALIZED WINE CELLAR\nBOTTLE OPENER / CORKSCREW",
+                "quantity": 1.0,
+                "price": 7.99,
+                "total_price": 8.79
+            },
+            {
+                "description": "Leed's Wine Companion Bottle\nCorkscrew Opener Gift Box Set\nwith Foil Cutter",
+                "quantity": 3.0,
+                "price": 7.5,
+                "total_price": 24.75
+            }
+        ],
+        "subtotal": 742.26,
+        "tax": 74.23,
+        "tip": null,
+        "total": 816.49
+    }
+]

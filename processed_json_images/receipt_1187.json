@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Secret Recipe",
+        "transaction_date": "2013-02-16",
+        "items": [
+            {
+                "description": "CHOC BANANA (S)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "ICED MOCHA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.9
+            }
+        ],
+        "subtotal": 10.26,
+        "tax": 0.79,
+        "tip": 1.03,
+        "total": 12.0
+    }
+]

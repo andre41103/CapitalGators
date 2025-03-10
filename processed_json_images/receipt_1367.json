@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Smith-Petersen",
+        "transaction_date": "2014-01-03",
+        "items": [
+            {
+                "description": "YILONG 4'x6' All over",
+                "quantity": 2.0,
+                "price": 3.0,
+                "total_price": 7920.0
+            }
+        ],
+        "subtotal": 7200.0,
+        "tax": 720.0,
+        "tip": null,
+        "total": 7920.0
+    }
+]

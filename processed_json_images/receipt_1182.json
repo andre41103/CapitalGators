@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Morgan, Moss and Bush\nRobinson-Martin",
+        "transaction_date": "2014-09-03",
+        "items": [
+            {
+                "description": "Joma Youth Boy Supercopa 201\nSoccer Cleats 4.5 Negro Verde",
+                "quantity": 3.0,
+                "price": 19.99,
+                "total_price": 65.97
+            },
+            {
+                "description": "Heelys Propel 2.0 Skate Shoe\n(Little Kid/Big Kid) Color\nBLACK/PINK",
+                "quantity": 3.0,
+                "price": 71.49,
+                "total_price": 235.92
+            },
+            {
+                "description": "Little Boys Size 2 Son Of Mars\nJordan",
+                "quantity": 3.0,
+                "price": 19.0,
+                "total_price": 62.7
+            },
+            {
+                "description": "Joma Boys Youth Super Copa\n102 Soccer Cleats 1.5 White\nYellow Blue Futbol NEW",
+                "quantity": 4.0,
+                "price": 19.99,
+                "total_price": 87.96
+            },
+            {
+                "description": "Timberland Women's/Junior's\nPremium 6\" Navy Waterproof\nBoots 3793A",
+                "quantity": 3.0,
+                "price": 79.99,
+                "total_price": 263.97
+            },
+            {
+                "description": "Joma Boys Youth Gol-102\nSoccer Cleats Shoes Size 5.5\nWhite\nFutbol NEW",
+                "quantity": 2.0,
+                "price": 19.99,
+                "total_price": 43.98
+            }
+        ],
+        "subtotal": 691.35,
+        "tax": 69.13,
+        "tip": null,
+        "total": 760.48
+    }
+]

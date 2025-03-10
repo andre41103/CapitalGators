@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Giles Inc",
+        "transaction_date": "2013-05-05",
+        "items": [
+            {
+                "description": "Die with Zero by Bill Perkins\n2020)",
+                "quantity": 4.0,
+                "price": 3.49,
+                "total_price": 15.36
+            }
+        ],
+        "subtotal": 13.96,
+        "tax": 1.4,
+        "tip": null,
+        "total": 15.36
+    }
+]

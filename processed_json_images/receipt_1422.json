@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Mckenzie PLC",
+        "transaction_date": "2015-07-20",
+        "items": [
+            {
+                "description": "The Fountainhead: 50th\nAnniversary Edition",
+                "quantity": 4.0,
+                "price": 4.49,
+                "total_price": 19.76
+            },
+            {
+                "description": "A Million Little Bricks The\nUnofficial Illustrated History of\nthe LE",
+                "quantity": 3.0,
+                "price": 4.49,
+                "total_price": 14.82
+            },
+            {
+                "description": "In the Footsteps of the Russian\nSnowman (Paperback or\nSoftback)",
+                "quantity": 4.0,
+                "price": 25.87,
+                "total_price": 113.83
+            },
+            {
+                "description": "The Epic of Gilgamesh",
+                "quantity": 5.0,
+                "price": 4.49,
+                "total_price": 24.7
+            },
+            {
+                "description": "Evolutionary Analysis",
+                "quantity": 5.0,
+                "price": 6.43,
+                "total_price": 35.36
+            },
+            {
+                "description": "300,000 PLR Articles, 2,000\nE-books + More",
+                "quantity": 3.0,
+                "price": 1.99,
+                "total_price": 6.57
+            }
+        ],
+        "subtotal": 195.48,
+        "tax": 19.55,
+        "tip": null,
+        "total": 215.03
+    }
+]

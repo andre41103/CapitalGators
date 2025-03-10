@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Harper-Flynn",
+        "transaction_date": "2013-05-04",
+        "items": [
+            {
+                "description": "YILONG 4'x6' Yellow Handmade\nCarpet Dining Room Hand\nKnotted Silk Rugs 083B",
+                "quantity": 100.0,
+                "price": 360000.0,
+                "total_price": 3960.0
+            },
+            {
+                "description": "Cartoon Rabbit Printed Round\nCarpet Area Rug Children Play\nTent Floor Mat Rug",
+                "quantity": 300.0,
+                "price": 17708.0,
+                "total_price": 584.36
+            },
+            {
+                "description": "Beige Color Hand Knotted 2'x4'\nAfghan Kilim Rug Carpet\nTraditional Ghazni Floral",
+                "quantity": 400.0,
+                "price": 17000.0,
+                "total_price": 748.0
+            },
+            {
+                "description": "Chef Pattern Kitchen Floor Rugs\nCarpet Blanket Area Mats Home\nSupply 40x60cm",
+                "quantity": 200.0,
+                "price": 1596.0,
+                "total_price": 35.11
+            },
+            {
+                "description": "YILONG 6'x9' Handmade Silk\nArea Rug Chinese Art Deco\nClassic Indoor Carpet",
+                "quantity": 200.0,
+                "price": 1200000.0,
+                "total_price": 26400.0
+            },
+            {
+                "description": "Home Christmas Santa Claus\nAnti-slip Room Floor Mat Decor\nCarpet Rug Xmas Decor",
+                "quantity": 200.0,
+                "price": 1309.0,
+                "total_price": 28.8
+            },
+            {
+                "description": "New Design Rectangular Hand\nWoven Chindi Rag Rug Floor\nHandmade Carpet Aztec Mat",
+                "quantity": 200.0,
+                "price": 2999.0,
+                "total_price": 65.98
+            }
+        ],
+        "subtotal": 28929.32,
+        "tax": 2892.93,
+        "tip": null,
+        "total": 31822.25
+    }
+]

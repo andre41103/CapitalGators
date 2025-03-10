@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HEMA RESTO",
+        "transaction_date": "2015-09-21",
+        "items": [
+            {
+                "description": "Huzaren SIa",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24000.0
+            },
+            {
+                "description": "Sop Buntut",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 69000.0
+            },
+            {
+                "description": "Zuppa Soup",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 68000.0
+            },
+            {
+                "description": "Apple Juice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15000.0
+            },
+            {
+                "description": "Hot Fresh Orange",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15000.0
+            },
+            {
+                "description": "Hot Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7000.0
+            },
+            {
+                "description": "Mineral Water",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6000.0
+            }
+        ],
+        "subtotal": 204000.0,
+        "tax": null,
+        "tip": null,
+        "total": 224400.0
+    }
+]

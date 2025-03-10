@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Deleon and Sons",
+        "transaction_date": "2016-08-20",
+        "items": [
+            {
+                "description": "27 Inches Carnelian Stone Inlay\nMarble Coffee Table Top White\nPatio Sofa",
+                "quantity": 2.0,
+                "price": 720.0,
+                "total_price": 1584.0
+            },
+            {
+                "description": "Semi precious Stone Work Inlaid\nDinning Table Top Marble\nKitchen Table 42 Inches",
+                "quantity": 3.0,
+                "price": 2496.0,
+                "total_price": 8236.8
+            },
+            {
+                "description": "-40dB Easy Install\nOmnidirectional Microphone\nTable Home Office Desktop\nComputer",
+                "quantity": 1.0,
+                "price": 21.55,
+                "total_price": 23.71
+            },
+            {
+                "description": "6'x3' Marble Dining Center\nTable With Black Top Floral",
+                "quantity": 4.0,
+                "price": 6040.4,
+                "total_price": 26577.76
+            },
+            {
+                "description": "18\" Handmade White Top Chess\nTable Inlaid Mosaic Gemstone\nArt Halloween Gift Art",
+                "quantity": 2.0,
+                "price": 525.0,
+                "total_price": 1155.0
+            },
+            {
+                "description": "36 Inches Marble Dinning Table\nTop Inlay Meeting Table with\nSemi Precious Stone",
+                "quantity": 1.0,
+                "price": 1874.25,
+                "total_price": 2061.68
+            },
+            {
+                "description": "October Mist - Deer Metal Side\nMillette",
+                "quantity": 3.0,
+                "price": 89.95,
+                "total_price": 296.84
+            }
+        ],
+        "subtotal": 36305.25,
+        "tax": 3630.52,
+        "tip": null,
+        "total": 39935.77
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Valdez, Young and Ingram",
+        "transaction_date": "2018-10-14",
+        "items": [
+            {
+                "description": "Boho Women Multi-layer Long\nChain Pendant Crystal Choker\nNecklace Jewelry Gift",
+                "quantity": 4.0,
+                "price": 0.99,
+                "total_price": 4.36
+            }
+        ],
+        "subtotal": 3.96,
+        "tax": 0.4,
+        "tip": null,
+        "total": 4.36
+    }
+]

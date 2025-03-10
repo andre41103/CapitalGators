@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Daniel LLC",
+        "transaction_date": "2017-06-21",
+        "items": [
+            {
+                "description": "Sexy Lingerie Lace Dress\nBabydoll Women's Underwear\nNightwear Sleepwear G-string",
+                "quantity": 4.0,
+                "price": 5.19,
+                "total_price": 22.84
+            },
+            {
+                "description": "MARC JACOBS IVORY COTTON\nSHORT SLEEVE BEIGE SILK\nOVERLAY DRESS SMALL",
+                "quantity": 2.0,
+                "price": 15.99,
+                "total_price": 35.18
+            },
+            {
+                "description": "J.Crew Collection Black & White\nsweater Dress sz S",
+                "quantity": 5.0,
+                "price": 30.0,
+                "total_price": 165.0
+            }
+        ],
+        "subtotal": 202.74,
+        "tax": 20.27,
+        "tip": null,
+        "total": 223.01
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "IHOP",
+        "transaction_date": "2016-02-29",
+        "items": [
+            {
+                "description": "Splashberry",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.79
+            },
+            {
+                "description": "Sierra Mist",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.39
+            },
+            {
+                "description": "Big Steak",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.99
+            },
+            {
+                "description": "Colorado",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.79
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

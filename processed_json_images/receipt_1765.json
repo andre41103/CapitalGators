@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Subway#2457-0",
+        "transaction_date": "2016-03-21",
+        "items": [
+            {
+                "description": "21oz Fountain Drink",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.75
+            },
+            {
+                "description": "Manager Meal 100% Off Menu",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "6\" -Turkey Sub",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "SOTD 6in Turkey",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "6\" -Turkey Sub",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 5.25,
+        "tax": 0.14,
+        "tip": null,
+        "total": 5.39
+    }
+]

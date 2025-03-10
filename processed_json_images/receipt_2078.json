@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PEGASUS ON THE FLY",
+        "transaction_date": "2017-01-31",
+        "items": [
+            {
+                "description": "Gyros Pita, Fries",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.99
+            },
+            {
+                "description": "Large Soft Drink",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.59
+            },
+            {
+                "description": "Greek Cookies 3pcs",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.29
+            }
+        ],
+        "subtotal": 13.87,
+        "tax": null,
+        "tip": null,
+        "total": 15.55
+    }
+]

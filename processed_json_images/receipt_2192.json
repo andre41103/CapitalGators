@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "NOODLES RESTAURANT",
+        "transaction_date": "2015-10-08",
+        "items": [
+            {
+                "description": "Seafood Linguini",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.95
+            },
+            {
+                "description": "Marinara With Sausage",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "Water",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Cheesey Garlic Bread",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.25
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": 2.0,
+        "total": 22.7
+    }
+]

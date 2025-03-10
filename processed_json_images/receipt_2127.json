@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SALTWATER GRILL",
+        "transaction_date": "2017-02-23",
+        "items": [
+            {
+                "description": "Seafood Stew",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 135.0
+            },
+            {
+                "description": "Grill Baby Calamari",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 69.0
+            },
+            {
+                "description": "Prawn sticks",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 69.0
+            },
+            {
+                "description": "5 Roses Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "Open Drink",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 30.0
+            }
+        ],
+        "subtotal": 318.0,
+        "tax": 39.05,
+        "tip": 32.08,
+        "total": 350.0
+    }
+]

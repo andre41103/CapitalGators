@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "-ELEVEN",
+        "transaction_date": "2016-09-10",
+        "items": [
+            {
+                "description": "FotosSpatGul8ot",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.398
+            },
+            {
+                "description": "Gasoline",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": 11.39,
+        "tax": 0.11,
+        "tip": null,
+        "total": 11.5
+    }
+]

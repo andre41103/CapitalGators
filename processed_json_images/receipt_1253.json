@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walmart",
+        "transaction_date": "2011-10-20",
+        "items": [
+            {
+                "description": "MINUTE MAID",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.98
+            },
+            {
+                "description": "MINUTE MAID",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.98
+            },
+            {
+                "description": "AXEDTSG1.7Z",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.97
+            },
+            {
+                "description": "COUPON 25000",
+                "quantity": null,
+                "price": null,
+                "total_price": -2.0
+            },
+            {
+                "description": "COUPON 11111",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.5
+            },
+            {
+                "description": "COUPON 25000",
+                "quantity": null,
+                "price": null,
+                "total_price": -2.0
+            }
+        ],
+        "subtotal": 1.43,
+        "tax": null,
+        "tip": null,
+        "total": 1.62
+    }
+]

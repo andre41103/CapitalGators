@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Maple Leaf Restaurant, Jumeirah",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Smoked Burger Choice of Side\nSalad : (Coleslaw) Add-Ons :\n(Jalapeno Pepper)",
+                "quantity": 1.0,
+                "price": 26.0,
+                "total_price": 26.0
+            },
+            {
+                "description": "Sticky Icky Choice of Size : (3\npcs)",
+                "quantity": 1.0,
+                "price": 13.0,
+                "total_price": 13.0
+            },
+            {
+                "description": "The Buffalo Choice of Size : (3\npcs)",
+                "quantity": 1.0,
+                "price": 13.0,
+                "total_price": 13.0
+            },
+            {
+                "description": "Bowl of chili",
+                "quantity": 1.0,
+                "price": 36.0,
+                "total_price": 36.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

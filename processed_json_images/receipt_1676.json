@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walgreens",
+        "transaction_date": "2014-01-24",
+        "items": [
+            {
+                "description": "RML STAY MATTE PRIMER\n10Z",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.99
+            },
+            {
+                "description": "RML S/M FOUNDATN LIGHT PORCLN 10Z",
+                "quantity": null,
+                "price": 5.49,
+                "total_price": 2.74
+            },
+            {
+                "description": "WEXFORD BUBBLE MAILER\n10.5\u00d715",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "MFG CPN",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "MFG CPN",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            }
+        ],
+        "subtotal": 9.72,
+        "tax": 0.79,
+        "tip": null,
+        "total": 10.51
+    }
+]

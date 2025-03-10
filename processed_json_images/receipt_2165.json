@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Lynnwood",
+        "transaction_date": "2017-04-13",
+        "items": [
+            {
+                "description": "DEPEND MEN S",
+                "quantity": null,
+                "price": null,
+                "total_price": 42.99
+            },
+            {
+                "description": "CPN/1099426",
+                "quantity": null,
+                "price": null,
+                "total_price": -8.5
+            },
+            {
+                "description": "MLTIERN CHIP",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.99
+            },
+            {
+                "description": "CPN/CHIPS",
+                "quantity": null,
+                "price": null,
+                "total_price": -2.0
+            },
+            {
+                "description": "WINDOW CURT",
+                "quantity": null,
+                "price": null,
+                "total_price": 21.99
+            },
+            {
+                "description": "NM FANTL 150",
+                "quantity": null,
+                "price": null,
+                "total_price": 19.49
+            },
+            {
+                "description": "STONSEATLRG",
+                "quantity": null,
+                "price": null,
+                "total_price": 19.99
+            }
+        ],
+        "subtotal": 99.95,
+        "tax": 10.86,
+        "tip": null,
+        "total": 110.81
+    }
+]

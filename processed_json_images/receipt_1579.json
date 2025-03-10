@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Reynolds PLC",
+        "transaction_date": "2012-07-28",
+        "items": [
+            {
+                "description": "Vina Wine bottle opener 5 pc\nset",
+                "quantity": 3.0,
+                "price": 19.99,
+                "total_price": 65.97
+            }
+        ],
+        "subtotal": 59.97,
+        "tax": 6.0,
+        "tip": null,
+        "total": 65.97
+    }
+]

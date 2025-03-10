@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Walter-Robbins",
+        "transaction_date": "2021-03-30",
+        "items": [
+            {
+                "description": "Nintendo Wii Console - 2 sets\ncontrollers Plus All Cables",
+                "quantity": 4.0,
+                "price": 99.99,
+                "total_price": 439.96
+            },
+            {
+                "description": "Xbox One S 1 TB Console",
+                "quantity": 5.0,
+                "price": 150.0,
+                "total_price": 825.0
+            },
+            {
+                "description": "Playstation 2 FINAL FANTASY XII\nSlim Console System",
+                "quantity": 5.0,
+                "price": 184.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "Nintendo Wii Console Complete\nBundle w/extras tested",
+                "quantity": 5.0,
+                "price": 104.99,
+                "total_price": 577.44
+            },
+            {
+                "description": "Nintendo WII Black Console\nBundle\nsensor+ 1",
+                "quantity": 4.0,
+                "price": 52.95,
+                "total_price": 232.98
+            },
+            {
+                "description": "Nintendo 2DS Super Mario\nMaker",
+                "quantity": 4.0,
+                "price": 129.99,
+                "total_price": 571.96
+            },
+            {
+                "description": "Nintendo 64 Console with Box,\nFoam and extra oem controller",
+                "quantity": 3.0,
+                "price": 120.0,
+                "total_price": 396.0
+            }
+        ],
+        "subtotal": 3686.67,
+        "tax": 368.67,
+        "tip": null,
+        "total": 4055.34
+    }
+]

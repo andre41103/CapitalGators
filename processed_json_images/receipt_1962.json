@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "meijer",
+        "transaction_date": "2012-09-08",
+        "items": [
+            {
+                "description": "CANDLE LIGHTER",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "CANDLES",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            },
+            {
+                "description": "ROSE BOUQUET",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.99
+            },
+            {
+                "description": "HANDTIED ROSES",
+                "quantity": null,
+                "price": null,
+                "total_price": 19.99
+            },
+            {
+                "description": "TROJAN CONDOMS",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.83
+            },
+            {
+                "description": "TROJAN MINI",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.89
+            },
+            {
+                "description": "ASTROGLIDE",
+                "quantity": null,
+                "price": 8.14,
+                "total_price": 7.14
+            },
+            {
+                "description": "FRUIT BOWL",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.97
+            },
+            {
+                "description": "WINE",
+                "quantity": 2.0,
+                "price": 5.99,
+                "total_price": 11.98
+            }
+        ],
+        "subtotal": null,
+        "tax": 4.93,
+        "tip": null,
+        "total": 96.7
+    }
+]

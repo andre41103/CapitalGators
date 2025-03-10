@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "R. de to karnigts por tw3",
+        "transaction_date": "2018-08-17",
+        "items": [
+            {
+                "description": "BUFF ADULTE",
+                "quantity": 2.0,
+                "price": 69.0,
+                "total_price": 138.0
+            },
+            {
+                "description": "E-BUFFET",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 39.0
+            },
+            {
+                "description": "50CL VITTEL VC",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "33CL COCA VC",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.7
+            },
+            {
+                "description": "R Magic plus",
+                "quantity": null,
+                "price": null,
+                "total_price": -18.97
+            }
+        ],
+        "subtotal": 155.19,
+        "tax": 15.54,
+        "tip": null,
+        "total": 170.73
+    }
+]

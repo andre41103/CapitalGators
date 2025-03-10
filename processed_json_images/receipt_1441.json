@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Sims-Olson",
+        "transaction_date": "2017-01-05",
+        "items": [
+            {
+                "description": "4'x2' Black Center Top Table",
+                "quantity": 2.0,
+                "price": 3.0,
+                "total_price": 8.0
+            },
+            {
+                "description": "12\" Marble Side Coffee Table",
+                "quantity": 4.0,
+                "price": 259.77,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 8415.08,
+        "tax": 841.51,
+        "tip": null,
+        "total": 9256.59
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2017-03-02",
+        "items": [
+            {
+                "description": "Fast Dell Optiplex Windows 10\nPro Desktop Computer Dual\nCore 6GB 160GB DVD WIFI",
+                "quantity": 2.0,
+                "price": 119.95,
+                "total_price": 263.89
+            },
+            {
+                "description": "Optiplex Desktop Computer PC -\nIntel Core 2 Duo - 4GB Memory -\n160GB Hard",
+                "quantity": 5.0,
+                "price": 157.3,
+                "total_price": 865.15
+            }
+        ],
+        "subtotal": 1026.4,
+        "tax": 102.64,
+        "tip": null,
+        "total": 1129.04
+    }
+]

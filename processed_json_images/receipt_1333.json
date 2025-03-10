@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Alamo Hand Car Wash",
+        "transaction_date": "2014-09-29",
+        "items": [
+            {
+                "description": "EXPRESS WASH",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.99
+            }
+        ],
+        "subtotal": 8.99,
+        "tax": 0.0,
+        "tip": null,
+        "total": 8.99
+    }
+]

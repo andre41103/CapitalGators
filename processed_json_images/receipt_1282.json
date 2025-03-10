@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Martin and Sons",
+        "transaction_date": "2018-03-24",
+        "items": [
+            {
+                "description": "Adult Kids Pokemon Pikachu\nKigurumi Pajama Cosplay\nChristmas Costume Sleepwear",
+                "quantity": 4.0,
+                "price": 9.95,
+                "total_price": 43.78
+            },
+            {
+                "description": "Cherry Halter Rockabilly Black\nSummer Dress Size 3/4",
+                "quantity": 2.0,
+                "price": 3.5,
+                "total_price": 7.7
+            },
+            {
+                "description": "Lumiere Large Multicolored\nOrange Short Dress NWT",
+                "quantity": 1.0,
+                "price": 4.99,
+                "total_price": 5.49
+            },
+            {
+                "description": "NWT Boohoo Sabra Emerald\nGreen Floral Ruffle Dress Sz 12",
+                "quantity": 1.0,
+                "price": 4.99,
+                "total_price": 5.49
+            }
+        ],
+        "subtotal": 56.78,
+        "tax": 5.68,
+        "tip": null,
+        "total": 62.46
+    }
+]

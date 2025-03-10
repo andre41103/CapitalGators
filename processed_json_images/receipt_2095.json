@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DRUGSTORE PUBLICIS",
+        "transaction_date": "2014-11-30",
+        "items": [
+            {
+                "description": "COCA COLA ZERO 33CL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "COCA COLA LIGHT 33CL",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "SUNNY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.0
+            },
+            {
+                "description": "PENNE GAMBAS TOMATE BASILI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "PIZZETTA LEGUMES GRILLES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 19.0
+            },
+            {
+                "description": "COCA PRESSION",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 83.0
+    }
+]

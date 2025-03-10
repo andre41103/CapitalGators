@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Watkins Inc",
+        "transaction_date": "2013-01-25",
+        "items": [
+            {
+                "description": "24\"x24\" Marble Black Top\nCoffee Table Inlaid Floral Art\nChristmas Gift Home Deco",
+                "quantity": 5.0,
+                "price": 1.0,
+                "total_price": 6325.0
+            },
+            {
+                "description": "6'x3' Elegant Marble Black Top\nDining Table Italian Inlay\nFurniture Decor E964B",
+                "quantity": 4.0,
+                "price": 5.0,
+                "total_price": 24065.27
+            },
+            {
+                "description": "54 Inches Marble Dinning Table\nTop Hand Crafted Reception\nTable Home Furniture",
+                "quantity": 2.0,
+                "price": 4.0,
+                "total_price": 9794.4
+            },
+            {
+                "description": "15\"x15\" White Marble Coffee\nTable Top With 15\" Tall Stand\nSemi Precious Art Deco",
+                "quantity": 4.0,
+                "price": 575.99,
+                "total_price": 2534.36
+            },
+            {
+                "description": "25 Inches Black Marble Center\nTable Top with Multi Stones\nCoffee Table for Home",
+                "quantity": 1.0,
+                "price": 731.25,
+                "total_price": 804.37
+            }
+        ],
+        "subtotal": 566.73,
+        "tax": 3956.67,
+        "tip": null,
+        "total": 43523.4
+    }
+]

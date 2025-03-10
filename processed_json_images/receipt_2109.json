@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CLOCKED!",
+        "transaction_date": "2013-04-29",
+        "items": [
+            {
+                "description": "Yawk Tofu",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Pint Two Hearts",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "Pint Pale",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.75
+            },
+            {
+                "description": "BLACK BEAN\nWHENI30VX\nSLAW",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "SM SPF",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.75
+            }
+        ],
+        "subtotal": 25.25,
+        "tax": 1.77,
+        "tip": null,
+        "total": 27.02
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Hensley LLC",
+        "transaction_date": "2014-07-30",
+        "items": [
+            {
+                "description": "Yilong 1'x1.5' 400Lines Area\nRug High Density Hand knotted\nSilk Carpet 221H",
+                "quantity": 1.0,
+                "price": 540.0,
+                "total_price": 594.0
+            },
+            {
+                "description": "YILONG 6'x9' Handmade Silk\nArea Rug Chinese Art Deco\nClassic Indoor Carpet",
+                "quantity": 5.0,
+                "price": 12.0,
+                "total_price": 66.0
+            },
+            {
+                "description": "Faux Fur Animal Print Hide Skin\nRug Cowhide Area Rug Floor\nMat Carpet 33.5\"X43\"",
+                "quantity": 4.0,
+                "price": 26.03,
+                "total_price": 114.53
+            },
+            {
+                "description": "Moroccan Amazigh Handmade\nCarpet 14'2\" x 7'5\"",
+                "quantity": 2.0,
+                "price": 342.0,
+                "total_price": 752.4
+            },
+            {
+                "description": "2Pack Soft Fluffy Faux Fur Plain\nChair Cover Washable Shaggy\nArea Rugs Carpet",
+                "quantity": 3.0,
+                "price": 13.59,
+                "total_price": 44.85
+            },
+            {
+                "description": "Happy Christmas Home\nDecoration Rug Mat Carpet\nBedroom Rugs Bedside Area\nRug New",
+                "quantity": 1.0,
+                "price": 60.32,
+                "total_price": 66.35
+            }
+        ],
+        "subtotal": 61429.21,
+        "tax": 6142.92,
+        "tip": null,
+        "total": 67572.13
+    }
+]

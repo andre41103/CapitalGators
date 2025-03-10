@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Pizza Hut Restaurant Sdn. Bhd.",
+        "transaction_date": "2016-11-23",
+        "items": [
+            {
+                "description": "CUSTOMER NAME T T",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "GES REDEEM T T",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "NEW GES GB+SOUP T",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 0.0,
+        "tax": null,
+        "tip": null,
+        "total": 0.0
+    }
+]

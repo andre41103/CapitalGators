@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2013-04-28",
+        "items": [
+            {
+                "description": "Nintendo Switch 32GB Neon\nRed/Neon Blue Console Slightly\nUsed",
+                "quantity": 1.0,
+                "price": 270.0,
+                "total_price": 297.0
+            },
+            {
+                "description": "Nintendo 64 console complete\nin box with extra controller",
+                "quantity": 2.0,
+                "price": 249.99,
+                "total_price": 549.98
+            },
+            {
+                "description": "Nintendo 2DS Super Mario\nMaker Edition Console Complete\nEXCELLENT CONDITION",
+                "quantity": 3.0,
+                "price": 129.99,
+                "total_price": 428.97
+            },
+            {
+                "description": "Sony PlayStation 4 500GB\nConsole - 8 Games BUNDLE\n(1)Controller GTAV, METAL\nGEAR",
+                "quantity": 5.0,
+                "price": 239.99,
+                "total_price": 1.0
+            },
+            {
+                "description": "Nintendo WII Black Console\nBundle 2 Remotes+ sensor+ 1\nNumchuk Tested & Works",
+                "quantity": 2.0,
+                "price": 52.95,
+                "total_price": 116.49
+            },
+            {
+                "description": "Super SNES SFC Mini Family TV\nVideo Game Console Retro AV\nOut Built-in 620 Games",
+                "quantity": 1.0,
+                "price": 24.69,
+                "total_price": 27.16
+            },
+            {
+                "description": "Nintendo 2DS Console Blue\nJapan model Combine Shipping\navailable 2",
+                "quantity": 1.0,
+                "price": 54.99,
+                "total_price": 60.49
+            }
+        ],
+        "subtotal": 2545.48,
+        "tax": 254.55,
+        "tip": null,
+        "total": 2800.03
+    }
+]

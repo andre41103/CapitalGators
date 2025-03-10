@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "HARVEST STATION",
+        "transaction_date": "2014-12-11",
+        "items": [
+            {
+                "description": "EL PASO, TX 79906\nZone - 5\nPriority Mail 2-Day\u2122\ninsurance",
+                "quantity": null,
+                "price": 50.0,
+                "total_price": 5.75
+            },
+            {
+                "description": "FOUNTAIN VALLEY,\nCA 92708-5429\nZone- 1\nPriority Mail 1-Day\u2122\ninsurance",
+                "quantity": null,
+                "price": 50.0,
+                "total_price": 5.75
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 11.5
+    }
+]

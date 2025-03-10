@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SURDYK'S",
+        "transaction_date": "2013-04-25",
+        "items": [
+            {
+                "description": "Klinker Brick",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.99
+            },
+            {
+                "description": "Five Cheeses",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.92,
+        "tip": null,
+        "total": 36.91
+    }
+]

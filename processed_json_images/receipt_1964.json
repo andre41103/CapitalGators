@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "meijer",
+        "transaction_date": "2012-07-11",
+        "items": [
+            {
+                "description": "CHECKLANE CANDY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.5
+            },
+            {
+                "description": "CHECKLANE CANDY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 50.0
+            },
+            {
+                "description": "FRUIT SNACKS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "FRUIT SNACKS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "Vendor Coupon",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.75
+            },
+            {
+                "description": "EXTRA COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.25
+            },
+            {
+                "description": "Vendor Coupon",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 3.0
+    }
+]

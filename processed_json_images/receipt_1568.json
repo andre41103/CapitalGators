@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Perez Ltd",
+        "transaction_date": "2017-07-27",
+        "items": [
+            {
+                "description": "Jams World Hawaiian\nDress\nRayon sz.L",
+                "quantity": 1.0,
+                "price": 65.0,
+                "total_price": 71.5
+            },
+            {
+                "description": "Liza Byrd Dress Sz L- Coral\nGreen Medallion Print Short\nSleeve 100% Cotton Line",
+                "quantity": 2.0,
+                "price": 17.99,
+                "total_price": 39.58
+            },
+            {
+                "description": "SCOTT McCINTOCK SIZE 12\nBLACK PARTY DRESS WITH\nSPARKLIND TOP",
+                "quantity": 5.0,
+                "price": 25.0,
+                "total_price": 137.5
+            },
+            {
+                "description": "Jams World Hawaiian\nDress\nRayon sz.L",
+                "quantity": 5.0,
+                "price": 65.0,
+                "total_price": 357.5
+            },
+            {
+                "description": "J crew Mercantile Women's Maxi\nDress Size 2 Floral Tiered Lined\nPink",
+                "quantity": 3.0,
+                "price": 20.0,
+                "total_price": 66.0
+            }
+        ],
+        "subtotal": 610.98,
+        "tax": 61.1,
+        "tip": null,
+        "total": 672.08
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Mitchells Restaurant",
+        "transaction_date": "2016-07-15",
+        "items": [
+            {
+                "description": "1/2 SANCERRE W",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 21.5
+            },
+            {
+                "description": "ESPRESSO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.2
+            },
+            {
+                "description": "DOZ OYSTERS E",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 23.95
+            },
+            {
+                "description": "PAN SEABASS E",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 24.5
+            },
+            {
+                "description": "VALUE MENU",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 28.95
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 101.1
+    }
+]

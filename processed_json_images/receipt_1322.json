@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "George's Restaurant",
+        "transaction_date": "2013-01-19",
+        "items": [
+            {
+                "description": "Ferrari Carano",
+                "quantity": null,
+                "price": null,
+                "total_price": 47.0
+            },
+            {
+                "description": "Insalate Cesare",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "Caprese with prosciutto",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.5
+            },
+            {
+                "description": "FISH SPEC",
+                "quantity": null,
+                "price": null,
+                "total_price": 25.95
+            },
+            {
+                "description": "Spinach Ricotta Ravioli",
+                "quantity": null,
+                "price": null,
+                "total_price": 15.95
+            },
+            {
+                "description": "Seafood Pasta",
+                "quantity": null,
+                "price": null,
+                "total_price": 19.95
+            },
+            {
+                "description": "Ossobucco",
+                "quantity": null,
+                "price": null,
+                "total_price": 29.95
+            }
+        ],
+        "subtotal": 155.8,
+        "tax": 14.02,
+        "tip": null,
+        "total": 169.82
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MANOHRA THAI RESTAURANT",
+        "transaction_date": "2018-01-27",
+        "items": [
+            {
+                "description": "MENU FESTIVO",
+                "quantity": 1.0,
+                "price": 17.25,
+                "total_price": 17.25
+            },
+            {
+                "description": "LANGOSTINOS MENU",
+                "quantity": 1.0,
+                "price": 1.5,
+                "total_price": 1.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.7,
+        "tip": null,
+        "total": 18.75
+    }
+]

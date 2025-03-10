@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Costa Coffee",
+        "transaction_date": "2013-10-31",
+        "items": [
+            {
+                "description": "Primo Hot Choc Mint",
+                "quantity": 1.0,
+                "price": 6.5,
+                "total_price": 6.5
+            },
+            {
+                "description": "Chicken Caesar Wrap B",
+                "quantity": 1.0,
+                "price": 6.9,
+                "total_price": 6.9
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 0.0
+    }
+]

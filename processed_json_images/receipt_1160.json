@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Clay PLC",
+        "transaction_date": "2015-03-23",
+        "items": [
+            {
+                "description": "Microsoft Xbox Original Black\nGaming Console Bundle With\nController, Many Games",
+                "quantity": 4.0,
+                "price": 130.0,
+                "total_price": 572.0
+            }
+        ],
+        "subtotal": 520.0,
+        "tax": 52.0,
+        "tip": null,
+        "total": 572.0
+    }
+]

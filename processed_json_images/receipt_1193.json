@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Grant PLC",
+        "transaction_date": "2014-09-28",
+        "items": [
+            {
+                "description": "Sony PlayStation 3 PS3\nCECH-2501A Slim 150GB Black\nConsole TESTED",
+                "quantity": 5.0,
+                "price": 119.99,
+                "total_price": 659.94
+            },
+            {
+                "description": "Sony PlayStation 5 Console\n- \"DIGITAL EDITION\" Presale",
+                "quantity": 5.0,
+                "price": 949.99,
+                "total_price": 5224.95
+            },
+            {
+                "description": "Sony PlayStation 4 Slim 1TB\n(Upgraded to SSD) Black Game\nConsole",
+                "quantity": 2.0,
+                "price": 150.0,
+                "total_price": 330.0
+            }
+        ],
+        "subtotal": 5649.9,
+        "tax": 564.99,
+        "tip": null,
+        "total": 6214.89
+    }
+]

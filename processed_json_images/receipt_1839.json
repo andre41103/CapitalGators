@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CHEMNE PLAZA",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "2% MILK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "RS Rib Eye",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 32.95
+            },
+            {
+                "description": "RS Meatbal",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "RS Kid Burger",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.95
+            },
+            {
+                "description": "D COKE",
+                "quantity": 36.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "OPEN FOOD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "OPEN FOOD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "DELIVERY CHARGE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 6.01,
+        "tip": 13.65,
+        "total": 95.51
+    }
+]

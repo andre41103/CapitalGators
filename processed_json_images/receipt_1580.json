@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Hernandez Ltd",
+        "transaction_date": "2020-09-26",
+        "items": [
+            {
+                "description": "YILONG 5'x7.5' Handknotted\nSilk Carpet Whirlwind Home\nDecor Classic Rug 0807",
+                "quantity": 3.0,
+                "price": 2.0,
+                "total_price": 9240.0
+            },
+            {
+                "description": "Yilong 8x10ft Hand knotted\nWool Carpets Home Decor\nModern Villa Area Rug P39",
+                "quantity": 2.0,
+                "price": 5.0,
+                "total_price": 11088.0
+            },
+            {
+                "description": "Yilong 5'x7' Handknotted Silk\nCarpet Home Interior Classic\nLuxury Area Rug 1047",
+                "quantity": 4.0,
+                "price": 8.0,
+                "total_price": 36960.0
+            },
+            {
+                "description": "Leopard Printed Rug Skin Mat\nLeather Faux Fur Animals Area\nRugs Home Carpets",
+                "quantity": 4.0,
+                "price": 19.49,
+                "total_price": 85.76
+            },
+            {
+                "description": "Black+White Rectangle Shape\nArea Rug Carpet Floor Pad\nDoormat Mats Non-slip Z4F9",
+                "quantity": 3.0,
+                "price": 21.1,
+                "total_price": 69.63
+            },
+            {
+                "description": "Philadelphia Eagles Anti-Skid\nArea Rug Soft Floor Mat Carpet\nLiving Room Bedroom",
+                "quantity": 2.0,
+                "price": 18.04,
+                "total_price": 39.69
+            }
+        ],
+        "subtotal": 52257.34,
+        "tax": 5225.73,
+        "tip": null,
+        "total": 57483.07
+    }
+]

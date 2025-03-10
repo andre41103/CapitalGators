@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Mcdowell PLC",
+        "transaction_date": "2012-06-02",
+        "items": [
+            {
+                "description": "Joma Youth Boys Gol 205 Piso\nMultitaco Soccer Cleats 5.5\nWhite",
+                "quantity": 2.0,
+                "price": 19.99,
+                "total_price": 43.98
+            }
+        ],
+        "subtotal": 39.98,
+        "tax": 4.0,
+        "tip": null,
+        "total": 43.98
+    }
+]

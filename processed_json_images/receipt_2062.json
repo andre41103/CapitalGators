@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "H20 HAND CARWASH & DETAIL",
+        "transaction_date": "2018-04-23",
+        "items": [
+            {
+                "description": "Executive Wash",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Cars and Small Trucks\nBasic Dress",
+                "quantity": null,
+                "price": null,
+                "total_price": 30.0
+            },
+            {
+                "description": "Hand Wash & Wax",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 45.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 85.0
+    }
+]

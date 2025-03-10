@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "James PLC",
+        "transaction_date": "2019-05-16",
+        "items": [
+            {
+                "description": "Microsoft Xbox 360 Console 49\nGame Bundle 250GB Black",
+                "quantity": 3.0,
+                "price": 25.0,
+                "total_price": 82.5
+            },
+            {
+                "description": "N64 Nintendo System Console\nLot Bundle W/ 2 Games 1\nController Tested",
+                "quantity": 4.0,
+                "price": 95.99,
+                "total_price": 422.36
+            },
+            {
+                "description": "Nintendo Switch Lite Turquoise\nBlue CONSOLE ONLY - No\nCharger [B4-1]",
+                "quantity": 2.0,
+                "price": 130.0,
+                "total_price": 286.0
+            },
+            {
+                "description": "SEGA Dreamcast White Console\n[Japan Import] HKT-3000",
+                "quantity": 4.0,
+                "price": 93.0,
+                "total_price": 409.2
+            },
+            {
+                "description": "B451 Nintendo DSi console Pink\nJapan NDS x",
+                "quantity": 5.0,
+                "price": 9.99,
+                "total_price": 54.95
+            }
+        ],
+        "subtotal": 1140.91,
+        "tax": 114.09,
+        "tip": null,
+        "total": 1255.0
+    }
+]

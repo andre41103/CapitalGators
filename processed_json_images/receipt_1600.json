@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Wong and Sons",
+        "transaction_date": "2020-11-29",
+        "items": [
+            {
+                "description": "Super Nintendo Entertainment\nSystem SNES Console Bundle\nW/ 2 Controllers & Games",
+                "quantity": 1.0,
+                "price": 129.99,
+                "total_price": 142.99
+            },
+            {
+                "description": "Original Nintendo Gaming\nConsole with Robot, 9 games &\nextras",
+                "quantity": 2.0,
+                "price": 475.0,
+                "total_price": 1045.0
+            },
+            {
+                "description": "Pre Order New Sony PlayStation\n5 Console Disk Version Ships\nFast 11/12 Confirmed",
+                "quantity": 4.0,
+                "price": 850.0,
+                "total_price": 3740.0
+            },
+            {
+                "description": "Sega Genesis System Console\nController Games Bundle",
+                "quantity": 3.0,
+                "price": 89.99,
+                "total_price": 296.97
+            },
+            {
+                "description": "Magnavox Odyssey 2\nMicroprocessor Console System\nw Joy Sticks & 15 Games - 1978",
+                "quantity": 4.0,
+                "price": 155.0,
+                "total_price": 682.0
+            },
+            {
+                "description": "B408 Nintendo Gameboy Color\nconsole Ice Blue Toysrus\nLimited Japan GBC REAR x",
+                "quantity": 4.0,
+                "price": 74.99,
+                "total_price": 329.96
+            }
+        ],
+        "subtotal": 5669.92,
+        "tax": 566.99,
+        "tip": null,
+        "total": 6236.91
+    }
+]

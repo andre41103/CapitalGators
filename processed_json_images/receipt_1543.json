@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Jones Inc",
+        "transaction_date": "2015-01-18",
+        "items": [
+            {
+                "description": "Rug Beni Ourain, Moroccan",
+                "quantity": 4.0,
+                "price": 450.0,
+                "total_price": 1980.0
+            },
+            {
+                "description": "Nordic Style Round Carpet Blue\nGreen Stitching Pattern Decor\nRug Room Area Rugs",
+                "quantity": 4.0,
+                "price": 25.3,
+                "total_price": 111.32
+            },
+            {
+                "description": "YILONG 4'x6' Vintage\nHandmade\nMedallion",
+                "quantity": 3.0,
+                "price": 3.0,
+                "total_price": 11880.0
+            },
+            {
+                "description": "Nordic Cartoon Phoenix Carpets\nKids Bedroom Area Rugs Parlor\nAnti-slip Mat Decor",
+                "quantity": 1.0,
+                "price": 13.66,
+                "total_price": 15.03
+            }
+        ],
+        "subtotal": 12714.86,
+        "tax": 1271.49,
+        "tip": null,
+        "total": 13986.35
+    }
+]

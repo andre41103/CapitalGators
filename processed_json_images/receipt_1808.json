@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "Circle K/Marathon",
+        "transaction_date": "2017-02-05",
+        "items": [
+            {
+                "description": "Prepay Pump # 10",
+                "quantity": null,
+                "price": null,
+                "total_price": 25.0
+            },
+            {
+                "description": "Easy Rewards RB",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Easy Rewards Member",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 25.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 25.0
+    }
+]

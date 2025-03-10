@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Lao ShangHai Restaurant",
+        "transaction_date": "2014-10-20",
+        "items": [
+            {
+                "description": "Xiao Long Bao",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 11.9
+            },
+            {
+                "description": "Pot Stickers (6)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "Shanghai Dumpling(6)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "Scallion Pan Cake",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            }
+        ],
+        "subtotal": 28.4,
+        "tax": 3.15,
+        "tip": null,
+        "total": 31.55
+    }
+]

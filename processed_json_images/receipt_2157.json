@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KOHL'S",
+        "transaction_date": "2017-11-13",
+        "items": [
+            {
+                "description": "GIRLS7-16 DRESS",
+                "quantity": null,
+                "price": null,
+                "total_price": -33.99
+            },
+            {
+                "description": "GIRLS7-16 DRESS",
+                "quantity": null,
+                "price": null,
+                "total_price": -33.99
+            },
+            {
+                "description": "GIRLS7-16 DRESS",
+                "quantity": null,
+                "price": null,
+                "total_price": -33.99
+            }
+        ],
+        "subtotal": -101.97,
+        "tax": 6.88,
+        "tip": null,
+        "total": -108.85
+    }
+]

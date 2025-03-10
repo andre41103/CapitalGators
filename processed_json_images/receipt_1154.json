@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Hoododdy Burger Bar",
+        "transaction_date": "2016-06-12",
+        "items": [
+            {
+                "description": "Primetime Burger",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Hail Caesar Salad",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.25
+            },
+            {
+                "description": "Reg Kennebec Fries",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.75
+            },
+            {
+                "description": "Oreo Milkshake",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.0
+            }
+        ],
+        "subtotal": 28.0,
+        "tax": 2.31,
+        "tip": null,
+        "total": 30.31
+    }
+]

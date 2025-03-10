@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Middelhavet burger",
+                "quantity": null,
+                "price": null,
+                "total_price": 99.0
+            },
+            {
+                "description": "Thor",
+                "quantity": null,
+                "price": null,
+                "total_price": 99.0
+            },
+            {
+                "description": "Juice, glas",
+                "quantity": null,
+                "price": null,
+                "total_price": 29.0
+            },
+            {
+                "description": "Pepsi 50 cl",
+                "quantity": null,
+                "price": null,
+                "total_price": 39.0
+            }
+        ],
+        "subtotal": 266.0,
+        "tax": 53.2,
+        "tip": null,
+        "total": null
+    }
+]

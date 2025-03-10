@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DOLLAR TREE STORES, INC.",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "SALTED PEANUTS",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "GROUND COFFEE",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "SUNFLOWER SEEDS",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "PRETZELS",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "SWEET POTATO CHIPS",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "GREEN TEA 8OCT",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "CHUNK CHICKEN",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "CANNED TURKEY",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "CHUNK LIGHT TUNA",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 9.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 9.0
+    }
+]

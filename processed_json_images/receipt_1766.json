@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2013-02-07",
+        "items": [
+            {
+                "description": "$7 Wash",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.8
+            }
+        ],
+        "subtotal": 7.08,
+        "tax": 8.08,
+        "tip": null,
+        "total": 7.0
+    }
+]

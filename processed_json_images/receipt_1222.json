@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "POPEYES EUCLID\\GREEN",
+        "transaction_date": "2016-07-02",
+        "items": [
+            {
+                "description": "BONELESSWING",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "SML RICE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.99
+            },
+            {
+                "description": "CPN# 37",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -1.99
+            },
+            {
+                "description": "ADD ON DRINK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 8.0,
+        "tip": null,
+        "total": 6.08
+    }
+]

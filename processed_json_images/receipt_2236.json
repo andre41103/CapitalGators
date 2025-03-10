@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ROSS",
+        "transaction_date": "2000-01-05",
+        "items": [
+            {
+                "description": "PE CHARCOAL SMALL",
+                "quantity": null,
+                "price": null,
+                "total_price": 24.99
+            },
+            {
+                "description": "X CK OPP GREY SOLI",
+                "quantity": null,
+                "price": null,
+                "total_price": 29.99
+            },
+            {
+                "description": "DK BL 508 TWILL -",
+                "quantity": null,
+                "price": null,
+                "total_price": 22.99
+            }
+        ],
+        "subtotal": 77.97,
+        "tax": null,
+        "tip": null,
+        "total": 77.97
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2010-11-17",
+        "items": [
+            {
+                "description": "STIR FRIED EGGPLANT WITH CHEF'S SPECIAL",
+                "quantity": 1.0,
+                "price": 15.8,
+                "total_price": 15.8
+            },
+            {
+                "description": "SWEET & SOUR SAUCE\nVermicelli with spicy minced pork",
+                "quantity": 1.0,
+                "price": 13.8,
+                "total_price": 13.8
+            },
+            {
+                "description": "FRIED SNOW PEA LEAVES /#*",
+                "quantity": 1.0,
+                "price": 15.8,
+                "total_price": 15.8
+            },
+            {
+                "description": "tasty duck in pot",
+                "quantity": 1.0,
+                "price": 18.8,
+                "total_price": 18.8
+            },
+            {
+                "description": "Braised Beef",
+                "quantity": 1.0,
+                "price": 13.8,
+                "total_price": 13.8
+            },
+            {
+                "description": "RICE / \u5802\u5403",
+                "quantity": 4.0,
+                "price": 1.5,
+                "total_price": 6.0
+            },
+            {
+                "description": "TEA / CHRYSTHEMU",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 5.0
+            },
+            {
+                "description": "WONG LO KATE",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "WONG LO KATE",
+                "quantity": -1.0,
+                "price": 3.0,
+                "total_price": -3.0
+            }
+        ],
+        "subtotal": 89.0,
+        "tax": null,
+        "tip": null,
+        "total": 81.2
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Ramen Keisuke Tori King",
+        "transaction_date": "2013-05-21",
+        "items": [
+            {
+                "description": "Ramen Special",
+                "quantity": null,
+                "price": null,
+                "total_price": 15.9
+            },
+            {
+                "description": "Ramen / Egg",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.9
+            },
+            {
+                "description": "Ramen /Seaweed",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.9
+            }
+        ],
+        "subtotal": 42.69,
+        "tax": 3.29,
+        "tip": 4.27,
+        "total": 50.25
+    }
+]

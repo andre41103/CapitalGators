@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2017-10-03",
+        "items": [
+            {
+                "description": "Nautica Kids Boys Navy & Red",
+                "quantity": 4.0,
+                "price": 500.0,
+                "total_price": 2.0
+            },
+            {
+                "description": "Nike Kids KD Trey 5 / Nike Black",
+                "quantity": 1.0,
+                "price": 22.0,
+                "total_price": 24.2
+            },
+            {
+                "description": "Timberland brown slip on shoes",
+                "quantity": 5.0,
+                "price": 2.0,
+                "total_price": 11.0
+            }
+        ],
+        "subtotal": 2032.0,
+        "tax": 203.2,
+        "tip": null,
+        "total": 2235.2
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "WENDY'S REG",
+        "transaction_date": "2014-07-22",
+        "items": [
+            {
+                "description": "DOUBLE COMBO",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.69
+            },
+            {
+                "description": "*LARGE COMBO*",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.09
+            },
+            {
+                "description": "BACDLX SGL-CMB",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.79
+            },
+            {
+                "description": "*MEDIUM COMBO*",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.69
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.24,
+        "tip": null,
+        "total": 19.5
+    }
+]

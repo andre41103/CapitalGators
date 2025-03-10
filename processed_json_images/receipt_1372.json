@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Kaufman-Hopkins",
+        "transaction_date": "2014-02-08",
+        "items": [
+            {
+                "description": "Custom Build HP EliteDesk 800\nG1 Tower i5-4570 3.20GHz\nDesktop Computer PC",
+                "quantity": 2.0,
+                "price": 124.99,
+                "total_price": 274.98
+            },
+            {
+                "description": "GAMING PC Desktop Computer\nRGB BUNDLE\nCORE i7",
+                "quantity": 1.0,
+                "price": 569.99,
+                "total_price": 626.99
+            },
+            {
+                "description": "Dell Desktop Computer Optiplex\n790 Tower PC Core i5 8GB\n500GB\n10 Pro",
+                "quantity": 5.0,
+                "price": 149.95,
+                "total_price": 824.73
+            },
+            {
+                "description": "HP ProDesk 400 G5 Mini\nDesktop Computer i5-9500T",
+                "quantity": 1.0,
+                "price": 200.5,
+                "total_price": 220.55
+            },
+            {
+                "description": "Ryzen Gaming Computer",
+                "quantity": 4.0,
+                "price": 752.0,
+                "total_price": 3308.8
+            }
+        ],
+        "subtotal": 4778.22,
+        "tax": 477.82,
+        "tip": null,
+        "total": 5256.04
+    }
+]

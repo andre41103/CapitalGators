@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Walmart",
+        "transaction_date": "2012-05-07",
+        "items": [
+            {
+                "description": "GV A/P FLOUR",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.98
+            },
+            {
+                "description": "ENG BRKFST",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.98
+            },
+            {
+                "description": "BAKING SODA",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.5
+            },
+            {
+                "description": "GV LENTILS",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.98
+            },
+            {
+                "description": "CANOLA OIL",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.28
+            },
+            {
+                "description": "LG 1DZ",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.18
+            }
+        ],
+        "subtotal": 6.9,
+        "tax": null,
+        "tip": null,
+        "total": 6.9
+    }
+]

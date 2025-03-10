@@ -1,0 +1,98 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BAR\nXAMPANYET",
+        "transaction_date": "2018-02-09",
+        "items": [
+            {
+                "description": "Pop",
+                "quantity": 1.0,
+                "price": 9.0,
+                "total_price": 9.0
+            },
+            {
+                "description": "Llagostins del Delta",
+                "quantity": 1.0,
+                "price": 15.0,
+                "total_price": 15.0
+            },
+            {
+                "description": "Barquetes",
+                "quantity": 3.0,
+                "price": 1.6,
+                "total_price": 4.8
+            },
+            {
+                "description": "Anxoves",
+                "quantity": 1.0,
+                "price": 5.6,
+                "total_price": 5.6
+            },
+            {
+                "description": "Pa amb Tomaquet 6 p.",
+                "quantity": 1.0,
+                "price": 2.1,
+                "total_price": 2.1
+            },
+            {
+                "description": "Canya Urquell",
+                "quantity": 2.0,
+                "price": 2.3,
+                "total_price": 4.6
+            },
+            {
+                "description": "Copa Xampanyet",
+                "quantity": 2.0,
+                "price": 1.8,
+                "total_price": 3.6
+            },
+            {
+                "description": "Pa amb Tomaquet 4 p.",
+                "quantity": 1.0,
+                "price": 1.4,
+                "total_price": 1.4
+            },
+            {
+                "description": "Tomaquets Secs",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "Daus Filet de Vedell",
+                "quantity": 1.0,
+                "price": 16.0,
+                "total_price": 16.0
+            },
+            {
+                "description": "Calamars Sanfaina",
+                "quantity": 1.0,
+                "price": 8.5,
+                "total_price": 8.5
+            },
+            {
+                "description": "Patates Escalibada",
+                "quantity": 1.0,
+                "price": 1.6,
+                "total_price": 1.6
+            },
+            {
+                "description": "Truita patates amb x",
+                "quantity": 1.0,
+                "price": 5.5,
+                "total_price": 5.5
+            },
+            {
+                "description": "Pasta Crema",
+                "quantity": 1.0,
+                "price": 1.5,
+                "total_price": 1.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 7.47,
+        "tip": null,
+        "total": 82.2
+    }
+]

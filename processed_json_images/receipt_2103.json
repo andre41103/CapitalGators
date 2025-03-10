@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "WAWAWA",
+        "transaction_date": "2017-06-14",
+        "items": [
+            {
+                "description": "Carbonara",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.8
+            },
+            {
+                "description": "Warm Water",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 16.8,
+        "tax": 1.29,
+        "tip": 1.68,
+        "total": 19.77
+    }
+]

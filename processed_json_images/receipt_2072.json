@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LE SWANN",
+        "transaction_date": "2018-02-14",
+        "items": [
+            {
+                "description": "MENU TOUT COMPRIS",
+                "quantity": 2.0,
+                "price": 41.9,
+                "total_price": 83.8
+            },
+            {
+                "description": "MENU SPECIAL",
+                "quantity": 2.0,
+                "price": 100.002,
+                "total_price": null
+            },
+            {
+                "description": "DIVERS 20%",
+                "quantity": 1.0,
+                "price": 30.0,
+                "total_price": 30.0
+            }
+        ],
+        "subtotal": 230.0,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

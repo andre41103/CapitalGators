@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "NOODLE HOUSE",
+        "transaction_date": "2016-10-23",
+        "items": [
+            {
+                "description": "Lrg Wasabi",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 68.0
+            },
+            {
+                "description": "Sm Tom Yam Soup",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 70.0
+            },
+            {
+                "description": "Seabass",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 180.0
+            },
+            {
+                "description": "Veg Spring Rolls",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 32.0
+            },
+            {
+                "description": "San Pelle S",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "Coke Diet Can",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            }
+        ],
+        "subtotal": 383.0,
+        "tax": null,
+        "tip": null,
+        "total": 383.0
+    }
+]

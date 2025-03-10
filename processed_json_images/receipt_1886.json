@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ATLANTIS\nNOBU",
+        "transaction_date": "2014-06-13",
+        "items": [
+            {
+                "description": "Ceviche",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.0
+            },
+            {
+                "description": "Black Cod",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 38.0
+            },
+            {
+                "description": "Bahamian Roll",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.0
+            },
+            {
+                "description": "House Cut",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "Smk Salmon",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 24.0
+            },
+            {
+                "description": "Nobu Cheesecake",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.0
+            },
+            {
+                "description": "Miso Cappucin",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": 23.25,
+        "total": 178.25
+    }
+]

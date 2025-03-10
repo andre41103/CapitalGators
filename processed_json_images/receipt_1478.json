@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Armstrong Inc",
+        "transaction_date": "2017-05-03",
+        "items": [
+            {
+                "description": "Lotto Youth Boys Fuerzapura\nL500 Jr Soccer Cleats Size 2.5",
+                "quantity": 3.0,
+                "price": 19.99,
+                "total_price": 65.97
+            },
+            {
+                "description": "Skechers Kids' Snap Sprints\nSneaker",
+                "quantity": 5.0,
+                "price": 29.99,
+                "total_price": 164.94
+            },
+            {
+                "description": "Joma Boys Youth Super Copa\n102 Soccer Cleats 5.5 White",
+                "quantity": 5.0,
+                "price": 19.99,
+                "total_price": 109.94
+            },
+            {
+                "description": "Joma Youth Boys Gol 205 Piso\nMultitaco Soccer Cleats",
+                "quantity": 2.0,
+                "price": 19.99,
+                "total_price": 43.98
+            },
+            {
+                "description": "100Pcs Wall Stickers Home\nDecor Glow In The\nStar",
+                "quantity": 5.0,
+                "price": 1.7,
+                "total_price": 9.35
+            }
+        ],
+        "subtotal": 358.35,
+        "tax": 35.84,
+        "tip": null,
+        "total": 394.19
+    }
+]

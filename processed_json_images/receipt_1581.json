@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Jackson-Oliver",
+        "transaction_date": "2018-04-03",
+        "items": [
+            {
+                "description": "Keen Waterproof Hiking Shoes",
+                "quantity": 2.0,
+                "price": 35.97,
+                "total_price": 79.13
+            }
+        ],
+        "subtotal": 71.94,
+        "tax": 7.19,
+        "tip": null,
+        "total": 79.13
+    }
+]

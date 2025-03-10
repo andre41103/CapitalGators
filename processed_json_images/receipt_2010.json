@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Cactus Ashley Phosphate",
+        "transaction_date": "2014-02-17",
+        "items": [
+            {
+                "description": "Deluxe Wash Pkg",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 19.95
+            }
+        ],
+        "subtotal": 19.95,
+        "tax": 0.0,
+        "tip": null,
+        "total": 19.95
+    }
+]

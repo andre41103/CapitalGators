@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Nixon-Delacruz",
+        "transaction_date": "2016-04-05",
+        "items": [
+            {
+                "description": "R&M; RICHARDS WOMAN'S\nBLUE PRINT LONG DRESS WITH\nSHRUG JACKET SIZE 18W NWT",
+                "quantity": 2.0,
+                "price": 29.99,
+                "total_price": 65.98
+            }
+        ],
+        "subtotal": 59.98,
+        "tax": 6.0,
+        "tip": null,
+        "total": 65.98
+    }
+]

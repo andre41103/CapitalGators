@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MIMMOS - GALLERIA",
+        "transaction_date": "2017-02-05",
+        "items": [
+            {
+                "description": "KOLA + LEMONADE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 26.9
+            },
+            {
+                "description": "Cocktail Juice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20.9
+            },
+            {
+                "description": "AL Forno Option",
+                "quantity": 2.0,
+                "price": 19.9,
+                "total_price": 39.8
+            },
+            {
+                "description": "Alfredo Deluxe",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 96.9
+            },
+            {
+                "description": "EX HAM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Chicken Alfredo",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 89.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 35.42,
+        "tip": null,
+        "total": 288.4
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "FOODTOWN\nSUPERMARKETS LIMITED",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "NEWSPAPER",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.4
+            },
+            {
+                "description": "CANNELLONI",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.62
+            },
+            {
+                "description": "OLE JUICE",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.6
+            },
+            {
+                "description": "SWT/SOUR SCE",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.03
+            },
+            {
+                "description": "BISCUITS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.81
+            },
+            {
+                "description": "CHOCOLATE",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.05
+            },
+            {
+                "description": "CHOCOLATE",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.05
+            },
+            {
+                "description": "ICE CREAM",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "ORANGES AUST",
+                "quantity": 1.385,
+                "price": 2.98,
+                "total_price": 4.13
+            },
+            {
+                "description": "BANANAS",
+                "quantity": 1.15,
+                "price": 2.65,
+                "total_price": 3.05
+            },
+            {
+                "description": "POTATO CHIPS",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.89
+            },
+            {
+                "description": "SUGAR",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.39
+            }
+        ],
+        "subtotal": 37.01,
+        "tax": null,
+        "tip": null,
+        "total": 37.0
+    }
+]

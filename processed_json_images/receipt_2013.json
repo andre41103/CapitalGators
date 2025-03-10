@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "JAWED HABIB",
+        "transaction_date": "2018-01-02",
+        "items": [
+            {
+                "description": "Gents Styling",
+                "quantity": 1.0,
+                "price": 300.0,
+                "total_price": 300.0
+            }
+        ],
+        "subtotal": 300.0,
+        "tax": null,
+        "tip": null,
+        "total": 354.0
+    }
+]

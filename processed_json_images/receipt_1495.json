@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Gibson, Wells and Taylor",
+        "transaction_date": "2018-12-16",
+        "items": [
+            {
+                "description": "B311 Nintendo 3DS console\nCosmo Black Japan x",
+                "quantity": 3.0,
+                "price": 11.99,
+                "total_price": 39.57
+            },
+            {
+                "description": "Nintendo Game Boy Micro\nConsole - Black (OXYSFBB)",
+                "quantity": 3.0,
+                "price": 130.0,
+                "total_price": 429.0
+            },
+            {
+                "description": "PS4 PlayStation 4 500 GB\nConsole CUH-1115A Bundle, 1\nController, 8 Games",
+                "quantity": 1.0,
+                "price": 349.99,
+                "total_price": 384.99
+            }
+        ],
+        "subtotal": 775.96,
+        "tax": 77.6,
+        "tip": null,
+        "total": 853.56
+    }
+]

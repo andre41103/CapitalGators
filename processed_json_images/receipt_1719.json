@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2017-02-11",
+        "items": [
+            {
+                "description": "Pelmeni Soup Small",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "Lentil Small",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "Goulash Rice",
+                "quantity": 7.0,
+                "price": null,
+                "total_price": 11.0
+            },
+            {
+                "description": "Lagman Reg.",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            }
+        ],
+        "subtotal": 32.0,
+        "tax": 3.6,
+        "tip": null,
+        "total": 35.6
+    }
+]

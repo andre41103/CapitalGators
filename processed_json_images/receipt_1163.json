@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AROMA SOP",
+        "transaction_date": "2014-05-27",
+        "items": [
+            {
+                "description": "KRAPU",
+                "quantity": 38.0,
+                "price": null,
+                "total_price": 45600.0
+            },
+            {
+                "description": "CUMI TLR ASN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -38000.0
+            },
+            {
+                "description": "KANGKUNG T",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20000.0
+            },
+            {
+                "description": "TEH",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 4000.0
+            },
+            {
+                "description": "NASI",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 12000.0
+            }
+        ],
+        "subtotal": 119600.0,
+        "tax": null,
+        "tip": null,
+        "total": 125600.0
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BRUCES HOME CENTER",
+        "transaction_date": "1999-02-05",
+        "items": [
+            {
+                "description": "50 HARDWARE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.29
+            }
+        ],
+        "subtotal": 1.29,
+        "tax": 0.09,
+        "tip": null,
+        "total": 1.38
+    }
+]

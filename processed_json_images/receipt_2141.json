@@ -1,0 +1,86 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RITE\nAID",
+        "transaction_date": "2010-02-01",
+        "items": [
+            {
+                "description": "CON INST HT CRL IRN 3/4IN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.99
+            },
+            {
+                "description": "SKINTIMATE SHV STRAWTG 7Z",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.29
+            },
+            {
+                "description": "TOTAL ADVNCD WHT PST 5.82",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.59
+            },
+            {
+                "description": "SKINTIMATE SHV STRAWTG 72",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -3.29
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": -5.0
+            },
+            {
+                "description": "$5 OFF $25 NON RX PURCHAS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "RETAIL",
+                "quantity": null,
+                "price": null,
+                "total_price": -10.0
+            },
+            {
+                "description": "$10 OFF ANY PURCHASE\nRETAIL COUPON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -1.0
+            },
+            {
+                "description": "MERCHANDISE\nMANUF COUPON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": -2.0
+            },
+            {
+                "description": "MERCHANDISE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "NANUF COUPON",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.99
+            },
+            {
+                "description": "BLINK TEARS 10ML GEL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 8.57,
+        "tax": 78.0,
+        "tip": null,
+        "total": 9.35
+    }
+]

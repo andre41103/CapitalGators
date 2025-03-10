@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Cox and Sons",
+        "transaction_date": "2018-11-07",
+        "items": [
+            {
+                "description": "War Horse Series Small Large\nLong Floor Carpet Area Rugs\nVarious Size Soft Rug",
+                "quantity": 4.0,
+                "price": 36.3,
+                "total_price": 159.72
+            },
+            {
+                "description": "Fluffy Rugs Anti-slip Area Rug\nDining Room Carpet Floor Mat\nHome Bedroom Decor !",
+                "quantity": 3.0,
+                "price": 4.99,
+                "total_price": 16.47
+            },
+            {
+                "description": "Black Shaggy Rug\nContemporary Living&Bedroom;\nShaggy Area Rug,Carpet\n120x80cm",
+                "quantity": 5.0,
+                "price": 24.8,
+                "total_price": 136.4
+            },
+            {
+                "description": "Red Traditional Oriental\nMedallion 8x10 Area Rug Carpet\n2x3 Mat 5\u00d77 Rugs",
+                "quantity": 5.0,
+                "price": 39.98,
+                "total_price": 219.89
+            },
+            {
+                "description": "YILONG 4'x6' Yellow Handmade\nCarpet Dining Room Hand\nKnotted Silk Rugs 083B",
+                "quantity": 3.0,
+                "price": 3.0,
+                "total_price": 11.0
+            }
+        ],
+        "subtotal": 11284.07,
+        "tax": 1128.41,
+        "tip": null,
+        "total": 12412.48
+    }
+]

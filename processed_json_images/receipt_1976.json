@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "AUSTRALIA\nPOST",
+        "transaction_date": "2010-08-30",
+        "items": [
+            {
+                "description": "Parcel (AIR MAIL)",
+                "quantity": 10.83,
+                "price": null,
+                "total_price": 137.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 137.0
+    }
+]

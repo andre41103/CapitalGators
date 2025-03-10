@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "EDGEMEAD SUPERSPAR",
+        "transaction_date": "2018-10-06",
+        "items": [
+            {
+                "description": "DELUXE CHEESE ROLLS",
+                "quantity": 4.0,
+                "price": 4.3,
+                "total_price": 17.2
+            },
+            {
+                "description": "FORRELLE PEARS",
+                "quantity": 0.887,
+                "price": 22.99,
+                "total_price": 20.4
+            },
+            {
+                "description": "SPAR CARR VT1",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.59
+            },
+            {
+                "description": "COCA COLA NRB",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.99
+            },
+            {
+                "description": "SPAR YOG F/CRM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 29.99
+            },
+            {
+                "description": "F/L BANANAS",
+                "quantity": 1.5,
+                "price": null,
+                "total_price": 17.99
+            },
+            {
+                "description": "FLAMINKVLEI F/R EGGS LAR 6'S",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.99
+            },
+            {
+                "description": "GN STRAWBERRIES\n400G",
+                "quantity": null,
+                "price": null,
+                "total_price": 29.99
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 146.14
+    }
+]

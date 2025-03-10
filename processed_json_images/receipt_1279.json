@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LIMONI's",
+        "transaction_date": "2016-07-26",
+        "items": [
+            {
+                "description": "Smoothie mittel",
+                "quantity": 2.0,
+                "price": 4.5,
+                "total_price": 9.0
+            },
+            {
+                "description": "Antipasti",
+                "quantity": 1.0,
+                "price": 4.2,
+                "total_price": 4.2
+            },
+            {
+                "description": "Roastbeef",
+                "quantity": 1.0,
+                "price": 4.9,
+                "total_price": 4.9
+            },
+            {
+                "description": "Cappuccino Restaurant\n0,4",
+                "quantity": 1.0,
+                "price": 3.2,
+                "total_price": 3.2
+            },
+            {
+                "description": "Alfred Restaurant",
+                "quantity": 1.0,
+                "price": 4.5,
+                "total_price": 4.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 25.8
+    }
+]

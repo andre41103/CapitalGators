@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Uch1 Dallas",
+        "transaction_date": "2015-09-05",
+        "items": [
+            {
+                "description": "Kirin Ichiban Draft",
+                "quantity": 2.0,
+                "price": 6.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "Signature Testing",
+                "quantity": null,
+                "price": null,
+                "total_price": 92.5
+            },
+            {
+                "description": "Mach1 Cure",
+                "quantity": null,
+                "price": null,
+                "total_price": 18.0
+            }
+        ],
+        "subtotal": 122.5,
+        "tax": 10.11,
+        "tip": null,
+        "total": 132.61
+    }
+]

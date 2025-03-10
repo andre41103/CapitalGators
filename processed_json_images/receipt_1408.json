@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Meyer Inc\nWhite-Daniel",
+        "transaction_date": "2012-10-22",
+        "items": [
+            {
+                "description": "Timberland brown slip on shoes\nsize 4.5 juniors",
+                "quantity": 2.0,
+                "price": 2.0,
+                "total_price": 4.4
+            },
+            {
+                "description": "DC Kids Turbo Skate Shoe (Little\nKid/Big Kid) Color WHITE/ROYAL",
+                "quantity": 1.0,
+                "price": 55.0,
+                "total_price": 60.5
+            },
+            {
+                "description": "Jordan Hydro 2 (TD)-Child Size\n10c",
+                "quantity": 4.0,
+                "price": 5.75,
+                "total_price": 25.3
+            },
+            {
+                "description": "kid shoes",
+                "quantity": 5.0,
+                "price": 50.0,
+                "total_price": 275.0
+            }
+        ],
+        "subtotal": 332.0,
+        "tax": 33.2,
+        "tip": null,
+        "total": 365.2
+    }
+]

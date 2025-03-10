@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2019-06-01",
+        "items": [
+            {
+                "description": "52\"x26\" White Marble Top\nCenter Table Carnelian",
+                "quantity": 3.0,
+                "price": 7.0,
+                "total_price": 25.0
+            },
+            {
+                "description": "13\"x13\" White Marble Chess\nInlay Top Table With 15\" Tall\nStand Christmas Gift",
+                "quantity": 2.0,
+                "price": 600.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "18\" Marble Coffee Table Top\nLapis Collectible Floral Inlay",
+                "quantity": 5.0,
+                "price": 355.68,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 26309.4,
+        "tax": 2630.94,
+        "tip": null,
+        "total": 28940.34
+    }
+]

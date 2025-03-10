@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Moore Group",
+        "transaction_date": "2019-05-15",
+        "items": [
+            {
+                "description": "NEW TOMMY HILFIGER RED\nWHITE BLUE #5 COLOR BLOCK\nBEACH SANDALS BOYS KIDS 8/9",
+                "quantity": 5.0,
+                "price": 34.5,
+                "total_price": 189.75
+            },
+            {
+                "description": "10\" Cuphead Game Soft Plush\nDoll Cuphead Mugman Mecup\nBrocup kids Gift US Stock",
+                "quantity": 1.0,
+                "price": 26.99,
+                "total_price": 29.69
+            },
+            {
+                "description": "2 Pair-Wonder Nation Childrens\nTucker Boots NEW Size 10 Black\nEasy on/off",
+                "quantity": 4.0,
+                "price": 12.99,
+                "total_price": 57.16
+            }
+        ],
+        "subtotal": 251.45,
+        "tax": 25.15,
+        "tip": null,
+        "total": 276.6
+    }
+]

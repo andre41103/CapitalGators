@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Pizza Hut Restaurants San Bh",
+        "transaction_date": "2003-07-27",
+        "items": [
+            {
+                "description": "REG PAN CHICKEN SUPREME",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "MEDITERRANEAN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 39.0,
+        "tax": 1.95,
+        "tip": null,
+        "total": 42.95
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Rodriguez and Sons\nLucero-Brown",
+        "transaction_date": "2018-12-04",
+        "items": [
+            {
+                "description": "Gaming PC Computer RX 580\n8GB Ryzen 5 2x8GB Ram",
+                "quantity": 3.0,
+                "price": 400.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "GAMING PC Desktop Computer\nRGB BUNDLE Intel CORE i7\n16GB RAM Nvidia GTX 1650 1TB",
+                "quantity": 5.0,
+                "price": 549.99,
+                "total_price": 3.0
+            },
+            {
+                "description": "computer",
+                "quantity": 4.0,
+                "price": 299.99,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 5149.91,
+        "tax": 514.99,
+        "tip": null,
+        "total": 5664.9
+    }
+]

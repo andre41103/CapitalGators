@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Harris LLC",
+        "transaction_date": "2018-09-18",
+        "items": [
+            {
+                "description": "Blue Shiny Stone Floral Art\nDinning Table Top Marble",
+                "quantity": 4.0,
+                "price": 3.0,
+                "total_price": 17.0
+            },
+            {
+                "description": "12\" Marble Side Coffee Table\nTop Multi Stone Floral Inlay",
+                "quantity": 3.0,
+                "price": 259.77,
+                "total_price": 857.24
+            }
+        ],
+        "subtotal": 16619.31,
+        "tax": 1661.93,
+        "tip": null,
+        "total": 18281.24
+    }
+]

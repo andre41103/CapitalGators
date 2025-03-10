@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Dunn PLC",
+        "transaction_date": "2019-01-23",
+        "items": [
+            {
+                "description": "Lenovo C20-00 ... all in one\ndesktop computer ... with\nWireless Mouse",
+                "quantity": 5.0,
+                "price": 277.64,
+                "total_price": 1527.02
+            },
+            {
+                "description": "10-Core Gaming Computer\nDesktop PC Tower HDMI 8GB\nDDR4 R7 Graphic CUSTOM\nBUILT",
+                "quantity": 1.0,
+                "price": 348.88,
+                "total_price": 383.77
+            },
+            {
+                "description": "Gaming PC Computer RX 580\n8GB Ryzen 5 2x8GB Ram",
+                "quantity": 1.0,
+                "price": 400.0,
+                "total_price": 440.0
+            },
+            {
+                "description": "HP Desktop Computer 400 G1\nCore i3 3.4GHz 8GB 256GB SSD\n19\" LCD Windows 10 PC",
+                "quantity": 5.0,
+                "price": 139.95,
+                "total_price": 769.73
+            }
+        ],
+        "subtotal": 2836.83,
+        "tax": 283.68,
+        "tip": null,
+        "total": 3120.51
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Panera Bread",
+        "transaction_date": "2013-01-14",
+        "items": [
+            {
+                "description": "You Pick Two",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.59
+            },
+            {
+                "description": "Md Iced Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.69
+            }
+        ],
+        "subtotal": 10.28,
+        "tax": 0.6,
+        "tip": null,
+        "total": null
+    }
+]

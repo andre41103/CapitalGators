@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BUA THAI CUISINE BISTRO",
+        "transaction_date": "2014-03-07",
+        "items": [
+            {
+                "description": "D1 Khoo Neeo Mamuang",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "M2 Green Curry\u9752\u5496\u55b1\u9e21",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "M24 Jasmine Rice\u9999\u7c73\u996d",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "M4 Tom Yum\u51ac\u708e\u529f\u6c64",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "N24 Belacan Kangkung*",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "N6 Thai Omelet \u6cf0\u5f0f\u714e\u86cb",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            }
+        ],
+        "subtotal": 69.5,
+        "tax": null,
+        "tip": 6.95,
+        "total": 76.45
+    }
+]

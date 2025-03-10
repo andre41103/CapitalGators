@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "IN-N-OUT BURGER CARSON CITY",
+        "transaction_date": "2016-10-09",
+        "items": [
+            {
+                "description": "Db1Dbl",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.6
+            },
+            {
+                "description": "FF Animal XChz chilies X S",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "XLg Coke",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.95
+            }
+        ],
+        "subtotal": 9.55,
+        "tax": 0.68,
+        "tip": null,
+        "total": 10.23
+    }
+]

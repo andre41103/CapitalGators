@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Panera Bread",
+        "transaction_date": "2017-04-08",
+        "items": [
+            {
+                "description": "You Pick 2",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 15.36,
+        "tax": 1.27,
+        "tip": null,
+        "total": 16.63
+    }
+]

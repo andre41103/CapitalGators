@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Scott LLC",
+        "transaction_date": "2015-01-10",
+        "items": [
+            {
+                "description": "VTG 1970s MCM Brown Steel\nTube Wall or Desk Mounted\n12-Wine Rack Bottle Holder",
+                "quantity": 1.0,
+                "price": 34.0,
+                "total_price": 37.4
+            },
+            {
+                "description": "Stemless wine glass Etched\ncoordinates of Myakka River\nState Park, Very Good",
+                "quantity": 4.0,
+                "price": 2.99,
+                "total_price": 13.16
+            },
+            {
+                "description": "Hazlitt 1852 Vineyard home of\nthe red cat wine glass",
+                "quantity": 4.0,
+                "price": 3.0,
+                "total_price": 13.2
+            },
+            {
+                "description": "Vintage Metal Art Sculpture\nCarving Chef Wine Bottle Holder\nand Display Tin Chef",
+                "quantity": 3.0,
+                "price": 25.98,
+                "total_price": 85.73
+            },
+            {
+                "description": "Brand new Cuisinart CWO-25\nElectric Wine Opener, Stainless\nSteel",
+                "quantity": 1.0,
+                "price": 20.0,
+                "total_price": 22.0
+            },
+            {
+                "description": "Elegant Wine Glasses w/Hand\nSplatter Painted Accents (3pcs)",
+                "quantity": 3.0,
+                "price": 20.0,
+                "total_price": 66.0
+            }
+        ],
+        "subtotal": 215.9,
+        "tax": 21.59,
+        "tip": null,
+        "total": 237.49
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Davis PLC",
+        "transaction_date": "2014-07-06",
+        "items": [
+            {
+                "description": "Chindi Rugs Carpet New Design\nBohemian Garden Yoga Mat",
+                "quantity": 2.0,
+                "price": 29.99,
+                "total_price": 65.98
+            },
+            {
+                "description": "Xmas Christmas Rug Carpet\nCartoon Bedroom Kids Play Mat\nSoft Flannel Area Rugs @",
+                "quantity": 3.0,
+                "price": 37.31,
+                "total_price": 123.12
+            },
+            {
+                "description": "Bohemian Rag Rug- Woven\nChindi Dari Living Room Rug /\nHand-Woven Carpet Rug-Mats",
+                "quantity": 2.0,
+                "price": 23.39,
+                "total_price": 51.46
+            },
+            {
+                "description": "Rug Beni Ourain, Moroccan\nHandmade 100% Wool Area\nRug Berber Beni Ouarain Carpet",
+                "quantity": 3.0,
+                "price": 450.0,
+                "total_price": 1485.0
+            },
+            {
+                "description": "40x120CM Christmas Door Mat\nKitchen Floor Area Rug\nBedroom Living Room Carpet",
+                "quantity": 2.0,
+                "price": 18.99,
+                "total_price": 41.78
+            }
+        ],
+        "subtotal": 1606.67,
+        "tax": 160.67,
+        "tip": null,
+        "total": 1767.34
+    }
+]

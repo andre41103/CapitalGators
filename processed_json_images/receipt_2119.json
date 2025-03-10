@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "KAY JEWELERS",
+        "transaction_date": "2007-03-18",
+        "items": [
+            {
+                "description": "14YG ANNIVERSARY BAND",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2199.99
+            }
+        ],
+        "subtotal": null,
+        "tax": 110.0,
+        "tip": null,
+        "total": 2309.99
+    }
+]

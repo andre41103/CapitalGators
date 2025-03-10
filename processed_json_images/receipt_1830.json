@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Curious Palette",
+        "transaction_date": "2016-01-16",
+        "items": [
+            {
+                "description": "Flat White",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.9
+            },
+            {
+                "description": "Pina Colada Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "Sangria Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "iced Mocha",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.9
+            },
+            {
+                "description": "Ricotta Hotcake",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.9
+            },
+            {
+                "description": "Lavender Manjari",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Matcha Azuki",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "Spam Fries",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.9
+            },
+            {
+                "description": "Iced Mocha",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.9
+            },
+            {
+                "description": "Cafe Mocha",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "Nachos Con Carne",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.9
+            }
+        ],
+        "subtotal": 95.4,
+        "tax": 7.35,
+        "tip": 9.54,
+        "total": 112.29
+    }
+]

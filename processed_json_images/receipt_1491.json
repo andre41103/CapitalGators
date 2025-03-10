@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2020-08-19",
+        "items": [
+            {
+                "description": "The Great One: The Complete\nWayne Gretzky Collection",
+                "quantity": 4.0,
+                "price": 4.89,
+                "total_price": 21.52
+            },
+            {
+                "description": "return to virgin river by robyn\ncarr",
+                "quantity": 4.0,
+                "price": 2.99,
+                "total_price": 13.16
+            },
+            {
+                "description": "Michael Jackson: A Life in Music\n(Paperback or Softback)",
+                "quantity": 2.0,
+                "price": 12.33,
+                "total_price": 27.13
+            },
+            {
+                "description": "Luke s Fate Star Wars",
+                "quantity": 3.0,
+                "price": 4.49,
+                "total_price": 14.82
+            },
+            {
+                "description": "Little Women by Louisa May\nAlcott Illustrated Brand New\nCollectible Hardcover",
+                "quantity": 5.0,
+                "price": 14.77,
+                "total_price": 81.23
+            },
+            {
+                "description": "The Blooding by Joseph\nWambaugh",
+                "quantity": 1.0,
+                "price": 4.49,
+                "total_price": 4.94
+            }
+        ],
+        "subtotal": 147.99,
+        "tax": 14.8,
+        "tip": null,
+        "total": 162.79
+    }
+]

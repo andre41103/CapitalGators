@@ -1,0 +1,110 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Pasta Divina",
+        "transaction_date": "2016-09-04",
+        "items": [
+            {
+                "description": "Caprese",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "Lunga",
+                "quantity": 2.0,
+                "price": 13.9,
+                "total_price": 27.8
+            },
+            {
+                "description": "Tagliatelle Verdi",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.9
+            },
+            {
+                "description": "Ripiena",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.9
+            },
+            {
+                "description": "Hoegaarden Ros\u00e9e 25cl",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "Coca",
+                "quantity": 2.0,
+                "price": 3.0,
+                "total_price": 6.0
+            },
+            {
+                "description": "Duvel",
+                "quantity": 2.0,
+                "price": 4.5,
+                "total_price": 9.0
+            },
+            {
+                "description": "Supp. Pain",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Supp. Parmiggiano",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Supp. Pain",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Duvel",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            },
+            {
+                "description": "Jupiler 25cl",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Tiramisu Maison",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "Tiramisu Maison",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "Espresso Macchiato",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "Espresso Macchiato",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            }
+        ],
+        "subtotal": 106.82,
+        "tax": 15.28,
+        "tip": null,
+        "total": 122.1
+    }
+]

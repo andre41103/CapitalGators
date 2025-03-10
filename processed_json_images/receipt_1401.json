@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Martin and Sons",
+        "transaction_date": "2015-09-06",
+        "items": [
+            {
+                "description": "Sony PlayStation 4 Slim 1TB\n(Upgraded to SSD) Black Game\nConsole",
+                "quantity": 2.0,
+                "price": 150.0,
+                "total_price": 330.0
+            },
+            {
+                "description": "PlayStation 5 Console Disc\nVersion",
+                "quantity": 4.0,
+                "price": 899.99,
+                "total_price": 3959.96
+            },
+            {
+                "description": "Cables 500gb,Sony PlayStation\n4 PS4 CUH 1215A Jet Black\nConsole w/ Controller",
+                "quantity": 4.0,
+                "price": 100.0,
+                "total_price": 440.0
+            }
+        ],
+        "subtotal": 4299.96,
+        "tax": 430.0,
+        "tip": null,
+        "total": 4729.96
+    }
+]

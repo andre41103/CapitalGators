@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": null,
+        "transaction_date": "2014-06-28",
+        "items": [
+            {
+                "description": "New KID CUDI \"WZRD\" Rap Hip\nHop Soul Music Men's Black\nT-Shirt Size S to 3XL",
+                "quantity": 1.0,
+                "price": 22.49,
+                "total_price": 24.74
+            },
+            {
+                "description": "Deer Stag Kids Landry Boys\nLace Up Sneakers Gray/Blue\nSize 6",
+                "quantity": 4.0,
+                "price": 28.99,
+                "total_price": 127.56
+            },
+            {
+                "description": "Minecraft Creative Stuffed Plush\nKids Childrens Gift Cute Toy\nBirthday Christmas",
+                "quantity": 1.0,
+                "price": 7.25,
+                "total_price": 7.98
+            },
+            {
+                "description": "LL Bean HIGH TOP Black Canvas\nSNEAKER Shoes Kid's Boy's 6 M\nEXCL CND",
+                "quantity": 1.0,
+                "price": 16.99,
+                "total_price": 18.69
+            },
+            {
+                "description": "boys shoes size 5",
+                "quantity": 5.0,
+                "price": 5.8,
+                "total_price": 31.9
+            }
+        ],
+        "subtotal": 191.69,
+        "tax": 19.17,
+        "tip": null,
+        "total": 210.86
+    }
+]

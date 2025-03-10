@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "STAPLES",
+        "transaction_date": "2002-07-24",
+        "items": [
+            {
+                "description": "100 PACK SPINDLE C",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 29.94
+            },
+            {
+                "description": "100 PACK SPINDLE C",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 29.94
+            },
+            {
+                "description": "100 PACK SPINDLE C",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 29.94
+            }
+        ],
+        "subtotal": 89.82,
+        "tax": 7.41,
+        "tip": null,
+        "total": 97.23
+    }
+]

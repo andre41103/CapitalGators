@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GANESH\nINDIAN",
+        "transaction_date": "2016-07-01",
+        "items": [
+            {
+                "description": "Garlic Naan",
+                "quantity": 1.0,
+                "price": 49000.0,
+                "total_price": 49000.0
+            },
+            {
+                "description": "Lentil Soup",
+                "quantity": 1.0,
+                "price": 40000.0,
+                "total_price": 40000.0
+            },
+            {
+                "description": "Veg Samosa",
+                "quantity": 1.0,
+                "price": 48000.0,
+                "total_price": 48000.0
+            },
+            {
+                "description": "Diet Coke",
+                "quantity": 1.0,
+                "price": 34000.0,
+                "total_price": 34000.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": 8550.0,
+        "total": 179.55
+    }
+]

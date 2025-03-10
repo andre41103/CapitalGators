@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Casa\nLisboa",
+        "transaction_date": "2016-02-20",
+        "items": [
+            {
+                "description": "(Gls) Muros Antigos",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 170.0
+            },
+            {
+                "description": "Codfish Cakes",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 100.0
+            },
+            {
+                "description": "Piri-Piri Chicken half",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 230.0
+            },
+            {
+                "description": "Pear in Porto",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 90.0
+            },
+            {
+                "description": "Double Expresso",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 40.0
+            }
+        ],
+        "subtotal": 630.0,
+        "tax": null,
+        "tip": 63.0,
+        "total": 693.0
+    }
+]

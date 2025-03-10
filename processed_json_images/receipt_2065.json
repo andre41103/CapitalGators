@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BEST BUY",
+        "transaction_date": "2016-08-20",
+        "items": [
+            {
+                "description": "NEST CAM",
+                "quantity": null,
+                "price": null,
+                "total_price": 249.99
+            },
+            {
+                "description": "BC EHF HOME A/V",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            }
+        ],
+        "subtotal": 252.49,
+        "tax": null,
+        "tip": null,
+        "total": 282.78
+    }
+]

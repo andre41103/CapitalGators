@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Barnes Ltd",
+        "transaction_date": "2012-05-20",
+        "items": [
+            {
+                "description": "Nintendo 64 N64 Game Console\nSystem + Controller Cords\nWORKING",
+                "quantity": 4.0,
+                "price": 100.0,
+                "total_price": 440.0
+            },
+            {
+                "description": "Vg PlayStation PS Vita console\nPCH-1100AB01 PCH-1100\nCrystal Black 4GB 271214",
+                "quantity": 1.0,
+                "price": 114.98,
+                "total_price": 126.48
+            },
+            {
+                "description": "Nintendo 64 N64 Console Black\nJapan Tested Working NUSHA",
+                "quantity": 3.0,
+                "price": 49.99,
+                "total_price": 164.97
+            },
+            {
+                "description": "Sega V Saturn Victor Console\nRG-JX1 Gray Tested Working\nJapan",
+                "quantity": 3.0,
+                "price": 109.99,
+                "total_price": 362.97
+            },
+            {
+                "description": "Nintendo Switch Lite Turquoise\nBlue CONSOLE ONLY - No\nCharger [B1-3]",
+                "quantity": 3.0,
+                "price": 135.0,
+                "total_price": 445.5
+            },
+            {
+                "description": "Nintendo Wii Console Complete\nBundle w/extras tested",
+                "quantity": 1.0,
+                "price": 104.99,
+                "total_price": 115.49
+            },
+            {
+                "description": "B284 Nintendo DSi console\nWhite Japan NDS x",
+                "quantity": 2.0,
+                "price": 0.99,
+                "total_price": 2.18
+            }
+        ],
+        "subtotal": 1506.89,
+        "tax": 150.69,
+        "tip": null,
+        "total": 1657.58
+    }
+]

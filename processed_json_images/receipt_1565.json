@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Cunningham-Richmond",
+        "transaction_date": "2016-09-27",
+        "items": [
+            {
+                "description": "Caslon Blue White Sleeveless\nBelted Ruffle Rayon Dress Sz L",
+                "quantity": 5.0,
+                "price": 4.99,
+                "total_price": 27.45
+            },
+            {
+                "description": "Talbots Petite 8 Navy & White\nDandelion Puffs Sleeveless\nDress",
+                "quantity": 3.0,
+                "price": 14.99,
+                "total_price": 49.47
+            }
+        ],
+        "subtotal": 69.92,
+        "tax": 6.99,
+        "tip": null,
+        "total": 76.91
+    }
+]

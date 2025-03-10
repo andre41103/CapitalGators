@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Mccormick and Sons",
+        "transaction_date": "2013-11-22",
+        "items": [
+            {
+                "description": "Adult Kids Pokemon Pikachu\nKigurumi Pajama Cosplay\nChristmas Costume Sleepwear",
+                "quantity": 5.0,
+                "price": 9.95,
+                "total_price": 54.73
+            },
+            {
+                "description": "Vintage 90s Sostanza Plus Size\nDress 22W Floral Cottagecore",
+                "quantity": 3.0,
+                "price": 49.96,
+                "total_price": 164.87
+            },
+            {
+                "description": "balmain dress 36",
+                "quantity": 3.0,
+                "price": 1.0,
+                "total_price": 5115.0
+            },
+            {
+                "description": "Lilly Pulitzer 8 Sunkissed with\nGlow Janice Shift Dress",
+                "quantity": 2.0,
+                "price": 56.89,
+                "total_price": 125.16
+            }
+        ],
+        "subtotal": 4963.41,
+        "tax": 496.34,
+        "tip": null,
+        "total": 5459.75
+    }
+]

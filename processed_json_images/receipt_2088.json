@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Easton Market",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "SP MODERN :W CLASSIC SHORT",
+                "quantity": null,
+                "price": 154.95,
+                "total_price": 66.0
+            }
+        ],
+        "subtotal": 66.0,
+        "tax": 4.62,
+        "tip": null,
+        "total": 70.62
+    }
+]

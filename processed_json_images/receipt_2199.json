@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ZNK Foods & Beverages Pvt. Ltd.",
+        "transaction_date": "2015-04-17",
+        "items": [
+            {
+                "description": "Tabakh Maaz (Only Me)",
+                "quantity": 1.0,
+                "price": 200.0,
+                "total_price": 200.0
+            },
+            {
+                "description": "Haakh (Hungry)",
+                "quantity": 1.0,
+                "price": 300.0,
+                "total_price": 300.0
+            },
+            {
+                "description": "Al-Yakhni (Only Me)",
+                "quantity": 1.0,
+                "price": 225.0,
+                "total_price": 225.0
+            },
+            {
+                "description": "Batta (Hungry)",
+                "quantity": 1.0,
+                "price": 200.0,
+                "total_price": 200.0
+            },
+            {
+                "description": "Saffron Kehwa",
+                "quantity": 1.0,
+                "price": 100.0,
+                "total_price": 100.0
+            },
+            {
+                "description": "Lahabdaar Kebab (Only",
+                "quantity": 1.0,
+                "price": 250.0,
+                "total_price": 250.0
+            },
+            {
+                "description": "Mineral Water",
+                "quantity": 1.0,
+                "price": 50.0,
+                "total_price": 50.0
+            },
+            {
+                "description": "Rogan Josh Mutton (On",
+                "quantity": 1.0,
+                "price": 250.0,
+                "total_price": 250.0
+            },
+            {
+                "description": "Doon Chutney",
+                "quantity": 1.0,
+                "price": 100.0,
+                "total_price": 100.0
+            }
+        ],
+        "subtotal": 1675.0,
+        "tax": null,
+        "tip": null,
+        "total": 1971.0
+    }
+]

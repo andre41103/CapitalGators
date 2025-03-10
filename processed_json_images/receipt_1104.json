@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GREY GOOSE BAR",
+        "transaction_date": "2017-11-29",
+        "items": [
+            {
+                "description": "Ace Gold",
+                "quantity": 4.0,
+                "price": 11200.0,
+                "total_price": 44800.0
+            },
+            {
+                "description": "Dom P Blanc",
+                "quantity": 7.0,
+                "price": 5700.0,
+                "total_price": 39900.0
+            },
+            {
+                "description": "Moet Nectar M",
+                "quantity": 5.0,
+                "price": 3800.0,
+                "total_price": 19000.0
+            },
+            {
+                "description": "Cristal Blan",
+                "quantity": 2.0,
+                "price": 11200.0,
+                "total_price": 22400.0
+            },
+            {
+                "description": "BTL Ciroc",
+                "quantity": 7.0,
+                "price": 1650.0,
+                "total_price": 11550.0
+            },
+            {
+                "description": "Luc Belaire R",
+                "quantity": 10.0,
+                "price": 1500.0,
+                "total_price": 15000.0
+            },
+            {
+                "description": "BTL Johnnie B",
+                "quantity": 4.0,
+                "price": 9000.0,
+                "total_price": 36000.0
+            },
+            {
+                "description": "Veuve Rich",
+                "quantity": 5.0,
+                "price": 2500.0,
+                "total_price": 12500.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 201150.0
+    }
+]

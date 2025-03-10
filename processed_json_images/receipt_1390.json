@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Vincent Ltd",
+        "transaction_date": "2021-05-30",
+        "items": [
+            {
+                "description": "YILONG 9'x12' Oversize",
+                "quantity": 5.0,
+                "price": 7.0,
+                "total_price": 42.0
+            }
+        ],
+        "subtotal": 39000.0,
+        "tax": 3900.0,
+        "tip": null,
+        "total": 42900.0
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": null,
+        "transaction_date": "2013-05-01",
+        "items": [
+            {
+                "description": "Black Nintendo Wii Console\nBundle RVL-101 with 2\nControllers & Cords",
+                "quantity": 3.0,
+                "price": 89.99,
+                "total_price": 296.97
+            },
+            {
+                "description": "SONY Playstation2 Console\nSCPH-39000 \" Aqua Color \" /\nTESTED 11180",
+                "quantity": 3.0,
+                "price": 60.0,
+                "total_price": 198.0
+            },
+            {
+                "description": "Sony PlayStation 5 Console -\nWhite - Digital Version -\nCONFIRMED PRE ORDER PS5",
+                "quantity": 5.0,
+                "price": 630.0,
+                "total_price": 3465.0
+            },
+            {
+                "description": "Nintendo Wii Console Mario Kart\nController Wii Fit 2 Board\nRemotes Game BUNDLE",
+                "quantity": 1.0,
+                "price": 199.97,
+                "total_price": 219.97
+            },
+            {
+                "description": "Sega V Saturn Victor Console\nRG-JX1 Gray Tested Working\nJapan",
+                "quantity": 2.0,
+                "price": 109.99,
+                "total_price": 241.98
+            },
+            {
+                "description": "Super Nintendo SNES System\nConsole SNS-001 with 2\nControllers Cleaned And Tested",
+                "quantity": 1.0,
+                "price": 149.99,
+                "total_price": 164.99
+            },
+            {
+                "description": "Retro Arcade Game Console All\nIn One 128G Raspberry PI 4\nModel B 4GB Plug Play",
+                "quantity": 2.0,
+                "price": 149.99,
+                "total_price": 329.98
+            }
+        ],
+        "subtotal": 4469.89,
+        "tax": 446.99,
+        "tip": null,
+        "total": 4916.88
+    }
+]
