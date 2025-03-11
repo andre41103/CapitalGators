@@ -10,7 +10,7 @@ const Profile = () => {
   const navigate = useNavigate();
 
   const [isEditing, setIsEditing] = useState(false); // for the edit information button
-  const [userData, setUserData] = useState({ username: '', email: '' });
+  const [userData, setUserData] = useState({ username: '', email: '', monthlyIncome: '', spendingGoal: '' });
 
 
   useEffect(() => {
