@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HAI-O RAYA BHD (169199-V)",
+        "transaction_date": "2016-12-15",
+        "items": [
+            {
+                "description": "HERBY PIPA GAO CONCENTRATE-TCM",
+                "quantity": 2.0,
+                "price": 26.5,
+                "total_price": 47.7
+            }
+        ],
+        "subtotal": 47.7,
+        "tax": 2.7,
+        "tip": null,
+        "total": 47.7
+    }
+]

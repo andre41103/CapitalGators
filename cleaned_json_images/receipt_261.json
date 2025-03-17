@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "ICHIBAN SUSHI",
+        "receipt_type": "receipt.retailMeal",
+        "total": 197285.0,
+        "date": "2017-09-01",
+        "notes": "",
+        "recurring": false
+    }
+]

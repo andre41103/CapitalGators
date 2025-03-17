@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B",
+        "transaction_date": "2018-05-03",
+        "items": [
+            {
+                "description": "CARLSBERG SMOOTH DRAUG",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.3
+            },
+            {
+                "description": "CARLSBERG CAN 320ML (IC",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.6
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.13,
+        "tip": null,
+        "total": 19.9
+    }
+]

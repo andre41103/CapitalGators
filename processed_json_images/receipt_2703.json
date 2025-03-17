@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I. . (M) SDN BHD",
+        "transaction_date": "2018-03-02",
+        "items": [
+            {
+                "description": "PILLAR SINK TAP",
+                "quantity": 2.0,
+                "price": 23.9,
+                "total_price": 47.8
+            },
+            {
+                "description": "SHIELDTOX FIK 600 1L MP",
+                "quantity": 1.0,
+                "price": 8.9,
+                "total_price": 8.9
+            },
+            {
+                "description": "SPONGE KOREA-2S",
+                "quantity": 4.0,
+                "price": 3.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "PLASTIC BAGS",
+                "quantity": 1.0,
+                "price": 0.2,
+                "total_price": 0.2
+            },
+            {
+                "description": "VANCE LIGHTER -1s VT02",
+                "quantity": 5.0,
+                "price": 0.6,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 4.07,
+        "tip": null,
+        "total": 71.9
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+        "transaction_date": "2018-03-15",
+        "items": [
+            {
+                "description": "MAGNETIC WHITEBOARD LD001# 90*60CM",
+                "quantity": 1.0,
+                "price": 35.0,
+                "total_price": 35.0
+            },
+            {
+                "description": "JAPE DISPENSER SETJE600 -CITRUS\n12",
+                "quantity": 2.0,
+                "price": 19.9,
+                "total_price": 39.8
+            },
+            {
+                "description": "CANDLE E8001050#",
+                "quantity": 1.0,
+                "price": 9.5,
+                "total_price": 9.5
+            },
+            {
+                "description": "BALL PEN 6BK 0.5MM KC1069#",
+                "quantity": 1.0,
+                "price": 2.9,
+                "total_price": 2.9
+            },
+            {
+                "description": "WHITE BOARD MARKER SET 8858\nSB17",
+                "quantity": 1.0,
+                "price": 3.3,
+                "total_price": 3.3
+            },
+            {
+                "description": "FIRST AID KIT",
+                "quantity": 1.0,
+                "price": 26.9,
+                "total_price": 26.9
+            },
+            {
+                "description": "PLANNING MAGNET 30MM#",
+                "quantity": 1.0,
+                "price": 2.3,
+                "total_price": 2.3
+            }
+        ],
+        "subtotal": null,
+        "tax": 6.78,
+        "tip": null,
+        "total": 119.7
+    }
+]

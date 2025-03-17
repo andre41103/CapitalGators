@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KAISON FURNISHING SDN BHD",
+        "transaction_date": "2018-01-29",
+        "items": [
+            {
+                "description": "FLOWER BUNCH - ROSE",
+                "quantity": 122.0,
+                "price": 18.9,
+                "total_price": 2305.8
+            },
+            {
+                "description": "FLOWER BUNCH - CRYST",
+                "quantity": 240.0,
+                "price": 13.9,
+                "total_price": 3336.0
+            },
+            {
+                "description": "FLOWER BUNCH - 7HD P",
+                "quantity": 130.0,
+                "price": 16.9,
+                "total_price": 2197.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 443.71,
+        "tip": null,
+        "total": 7838.8
+    }
+]

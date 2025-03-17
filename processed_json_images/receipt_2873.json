@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KING'S CONFECTIONERY S/B 273500-U (KJ1)",
+        "transaction_date": "2017-05-21",
+        "items": [
+            {
+                "description": "S/R Coffe",
+                "quantity": 1.0,
+                "price": 5.5,
+                "total_price": 5.5
+            },
+            {
+                "description": "S/R Choco",
+                "quantity": 2.0,
+                "price": 5.5,
+                "total_price": 11.0
+            },
+            {
+                "description": "S/R Panda",
+                "quantity": 1.0,
+                "price": 5.5,
+                "total_price": 5.5
+            },
+            {
+                "description": "S/R Vanil",
+                "quantity": 1.0,
+                "price": 5.5,
+                "total_price": 5.5
+            }
+        ],
+        "subtotal": 27.5,
+        "tax": 1.55,
+        "tip": null,
+        "total": 57.5
+    }
+]

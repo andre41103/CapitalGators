@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Chili's",
+        "receipt_type": "receipt.retailMeal",
+        "total": 102.4,
+        "date": "2017-12-30",
+        "notes": "",
+        "recurring": false
+    }
+]

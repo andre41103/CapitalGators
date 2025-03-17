@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "rue 21",
+        "receipt_type": "receipt.retailMeal",
+        "total": 55.96,
+        "date": "2012-05-14",
+        "notes": "",
+        "recurring": false
+    }
+]

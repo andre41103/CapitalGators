@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THAI DELICIOUS RESTAURANT",
+        "transaction_date": "2017-02-02",
+        "items": [
+            {
+                "description": "BRAISED\nPORK LEG SMALL\n\u0e02\u0e32\u0e2b\u0e21\u0e39\u0e40\u0e25\u0e47\u0e01",
+                "quantity": 1.0,
+                "price": 20.0,
+                "total_price": 20.0
+            },
+            {
+                "description": "PHRANAKON\nSALTED EGG\nSQUID Hin Tr\u1ea7n",
+                "quantity": 1.0,
+                "price": 28.0,
+                "total_price": 28.0
+            },
+            {
+                "description": "GARLIC FRIED\nKAILAN \u0e04\u0e30\u0e19\u0e49\u0e32\u0e1c\u0e31\u0e14\n\u0e01\u0e23\u0e30\u0e40\u0e17\u0e35\u0e22\u0e21",
+                "quantity": 1.0,
+                "price": 13.0,
+                "total_price": 13.0
+            },
+            {
+                "description": "THAI STYLE\nKERABUTOFU In\nr\u00e1m",
+                "quantity": 1.0,
+                "price": 15.0,
+                "total_price": 15.0
+            },
+            {
+                "description": "PLAIN RICE",
+                "quantity": 4.0,
+                "price": 1.8,
+                "total_price": 7.2
+            },
+            {
+                "description": "COCONUT\nTHAI",
+                "quantity": 1.0,
+                "price": 6.5,
+                "total_price": 6.5
+            },
+            {
+                "description": "DISTILLED\nWATER",
+                "quantity": 1.0,
+                "price": 0.6,
+                "total_price": 0.6
+            },
+            {
+                "description": "COLD\nPANDAN GINGER\nTEA",
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 2.5
+            }
+        ],
+        "subtotal": 92.8,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

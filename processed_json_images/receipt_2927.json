@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AEON CO. (M) BHD",
+        "transaction_date": "2018-04-22",
+        "items": [
+            {
+                "description": "GREEN PEA CHEES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "BIG NUT BREAD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.9
+            },
+            {
+                "description": "ONION CHEESE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.3
+            }
+        ],
+        "subtotal": 10.2,
+        "tax": 0.58,
+        "tip": null,
+        "total": 10.2
+    }
+]

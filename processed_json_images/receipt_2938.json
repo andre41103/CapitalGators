@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "AEON CO. (M) BHD",
+        "transaction_date": "2018-04-12",
+        "items": [
+            {
+                "description": "ASSORTED PREMIU",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "INDIVIDUAL SUS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.4
+            }
+        ],
+        "subtotal": 4.4,
+        "tax": 0.25,
+        "tip": null,
+        "total": 4.4
+    }
+]

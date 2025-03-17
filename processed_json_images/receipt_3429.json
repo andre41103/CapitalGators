@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KT WONG TRADING",
+        "transaction_date": "2018-06-09",
+        "items": [
+            {
+                "description": "BERAS ASAS 10KG\n15*BAG",
+                "quantity": null,
+                "price": 24.9,
+                "total_price": 373.5
+            },
+            {
+                "description": "SUN SOS TIRAM 6KG\n4BOTOL",
+                "quantity": null,
+                "price": 15.95,
+                "total_price": 63.8
+            },
+            {
+                "description": "COKE 24 \u00d7 325ML\n2PETI",
+                "quantity": null,
+                "price": 26.0,
+                "total_price": 52.0
+            }
+        ],
+        "subtotal": 489.3,
+        "tax": 0.0,
+        "tip": null,
+        "total": null
+    }
+]

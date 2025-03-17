@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "POPULAR BOOK",
+        "transaction_date": "2018-03-06",
+        "items": [
+            {
+                "description": "No Plastic Bag Campai",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.2
+            },
+            {
+                "description": "70g P. Copy 450'S",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.69
+            },
+            {
+                "description": "Stat-Great Saving",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.2
+            },
+            {
+                "description": "PB 0/TAPE 48X40X45BX3",
+                "quantity": 2.0,
+                "price": 7.99,
+                "total_price": 15.98
+            },
+            {
+                "description": "Stat-Buy 20RM 12",
+                "quantity": null,
+                "price": null,
+                "total_price": -3.98
+            },
+            {
+                "description": "PB S/Tape 18x40 4IN1",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.99
+            }
+        ],
+        "subtotal": 30.88,
+        "tax": 1.74,
+        "tip": null,
+        "total": 30.7
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "YIN MA (M) SDN.BHD.",
+        "transaction_date": "2016-07-19",
+        "items": [
+            {
+                "description": "HOOK-3015",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.9
+            },
+            {
+                "description": "HOOK-3015",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.9
+            },
+            {
+                "description": "TOILET BRUSH-1",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.9
+            },
+            {
+                "description": "HOOK-3015",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.9
+            },
+            {
+                "description": "HOOK-3015",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.8,
+        "tip": null,
+        "total": 14.5
+    }
+]

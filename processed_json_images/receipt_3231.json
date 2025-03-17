@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SANYO STATIONERY SHOP",
+        "transaction_date": "2017-12-14",
+        "items": [
+            {
+                "description": "SONOFAX - EC THERMAL ROLL\n(BLUE) - (57MM\u00d760MM\u00d712MM)\n(10ROLL/PKT)",
+                "quantity": 1.0,
+                "price": 36.0,
+                "total_price": 36.0
+            }
+        ],
+        "subtotal": 36.0,
+        "tax": 2.04,
+        "tip": null,
+        "total": 36.0
+    }
+]

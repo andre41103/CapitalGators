@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KEDAI PAPAN YEW CHUAN",
+        "transaction_date": "2018-03-31",
+        "items": [
+            {
+                "description": "SIMEN",
+                "quantity": 10.0,
+                "price": 16.5,
+                "total_price": 174.9
+            }
+        ],
+        "subtotal": 165.0,
+        "tax": 9.9,
+        "tip": null,
+        "total": 174.9
+    }
+]

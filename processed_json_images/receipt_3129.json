@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B",
+        "transaction_date": "2017-08-14",
+        "items": [
+            {
+                "description": "LISTERINE COOL MINT MOU",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.99
+            },
+            {
+                "description": "SPRING FRESH MINERAL W",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.4
+            },
+            {
+                "description": "SUMMER GOAT MILK BODY",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.99
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.82,
+        "tip": null,
+        "total": 14.38
+    }
+]

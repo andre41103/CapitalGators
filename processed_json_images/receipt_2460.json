@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "EVERGREEN LIGHT SDN BHD",
+        "transaction_date": "2017-09-18",
+        "items": [
+            {
+                "description": "PROBMK 10W LED STICK",
+                "quantity": 2.0,
+                "price": 12.26,
+                "total_price": 24.525
+            }
+        ],
+        "subtotal": 25.99,
+        "tax": 1.47,
+        "tip": null,
+        "total": 26.0
+    }
+]

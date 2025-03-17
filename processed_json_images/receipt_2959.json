@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "McDonald's Silang(#005)",
+        "transaction_date": "2018-04-27",
+        "items": [
+            {
+                "description": "M Nasi Lemak Burger",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 75.8
+            },
+            {
+                "description": "M McC Deluxe",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 29.0
+            },
+            {
+                "description": "MDS Charge",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.25
+            }
+        ],
+        "subtotal": null,
+        "tax": 6.17,
+        "tip": null,
+        "total": 109.05
+    }
+]

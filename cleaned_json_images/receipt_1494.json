@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Schmidt and",
+        "receipt_type": "receipt",
+        "total": 280.32,
+        "date": "2019-03-29",
+        "notes": "",
+        "recurring": false
+    }
+]

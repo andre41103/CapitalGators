@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "POTTERS GARDEN SDN BHD",
+        "transaction_date": "2018-01-04",
+        "items": [
+            {
+                "description": "PLASTIC PLATE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "CHINA POT",
+                "quantity": 2.0,
+                "price": 7.9,
+                "total_price": 15.8
+            },
+            {
+                "description": "PLANT",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "PLANT",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.0
+            }
+        ],
+        "subtotal": 39.8,
+        "tax": 2.26,
+        "tip": null,
+        "total": 39.8
+    }
+]

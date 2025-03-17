@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "RESTORAN WAN SHENG",
+        "receipt_type": "receipt.retailMeal",
+        "total": 2.4,
+        "date": "2018-05-06",
+        "notes": "",
+        "recurring": false
+    }
+]

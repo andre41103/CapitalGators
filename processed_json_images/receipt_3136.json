@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MPH BOOKSTORES\nSDN BHD",
+        "transaction_date": "2017-12-11",
+        "items": [
+            {
+                "description": "STICKERS & OTHER GIFT",
+                "quantity": null,
+                "price": 10.49,
+                "total_price": 31.47
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 31.45
+    }
+]

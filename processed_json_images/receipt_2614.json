@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "McDonald's Shell Mahkota Cheras DT",
+        "transaction_date": "2018-03-21",
+        "items": [
+            {
+                "description": "M McChicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.5
+            },
+            {
+                "description": "McChicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            },
+            {
+                "description": "9Nuggets",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.44,
+        "tip": null,
+        "total": 25.4
+    }
+]

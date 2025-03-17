@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HON HWA HARDWARE TRADING",
+        "transaction_date": "2017-09-21",
+        "items": [
+            {
+                "description": "3/4\" ALUMINIUM ROD",
+                "quantity": 0.9,
+                "price": 6.0,
+                "total_price": 5.4
+            },
+            {
+                "description": "PVC WALLPLUG\n(50PCS)",
+                "quantity": 5.0,
+                "price": 1.0,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 9.81,
+        "tax": 0.59,
+        "tip": null,
+        "total": 10.4
+    }
+]

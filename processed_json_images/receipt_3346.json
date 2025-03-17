@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "IDEAL MENU GROUP SDN BHD",
+        "transaction_date": "2018-06-10",
+        "items": [
+            {
+                "description": "A1 LO BAK RICE - SET",
+                "quantity": 1.0,
+                "price": 12.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "BUBBLE GREEN TEA",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 12.0,
+        "tax": 0.0,
+        "tip": 0.0,
+        "total": 12.0
+    }
+]

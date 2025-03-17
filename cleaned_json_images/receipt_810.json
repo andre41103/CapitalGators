@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "7-ELEVEN",
+        "receipt_type": "receipt.retailMeal",
+        "total": 7.11,
+        "date": "2015-06-19",
+        "notes": "",
+        "recurring": false
+    }
+]

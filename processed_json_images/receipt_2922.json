@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Dommal Food Services Sdn Bhd",
+        "transaction_date": "2018-04-17",
+        "items": [
+            {
+                "description": "6\"HT\n(TE)\nFPP-FREI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.8
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 12.8
+            },
+            {
+                "description": "6\"HT\n(BP)\nWTUE1A-I",
+                "quantity": 1.0,
+                "price": 21.7,
+                "total_price": 25.6
+            }
+        ],
+        "subtotal": 25.6,
+        "tax": 0.22,
+        "tip": null,
+        "total": null
+    }
+]

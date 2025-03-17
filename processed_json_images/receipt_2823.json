@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Segi Cash & Carry Sdn.Bhd",
+        "transaction_date": "2017-01-04",
+        "items": [
+            {
+                "description": "UNICA PAIL 6GL 600",
+                "quantity": 1.0,
+                "price": 17.41,
+                "total_price": 17.41
+            },
+            {
+                "description": "MASSIMO FINE WHOLEMEAL 420G",
+                "quantity": 1.0,
+                "price": 2.64,
+                "total_price": 2.64
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 20.05
+    }
+]

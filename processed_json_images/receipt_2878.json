@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B",
+        "transaction_date": "2017-11-01",
+        "items": [
+            {
+                "description": "SNEK KU TAM TAM CRAB F",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.65
+            },
+            {
+                "description": "TIC TAC CANDY MINT (WH",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.1
+            },
+            {
+                "description": "MENTOS SOUR MIX CHEWY",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.45
+            },
+            {
+                "description": "MUNCHYS CRACKER SANDWI",
+                "quantity": 2.0,
+                "price": 4.19,
+                "total_price": 8.38
+            },
+            {
+                "description": "JULIES PEANUT BUTTER S",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.55
+            },
+            {
+                "description": "PIPIT BLEACH 2*1KG TP",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.2
+            },
+            {
+                "description": "TOP SUPER WHITE (RED) 2",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.65
+            },
+            {
+                "description": "CA3210 CAMEL SHORTHAND",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.9
+            },
+            {
+                "description": "CS 1002 AS H/COVER NOT",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.8
+            },
+            {
+                "description": "7CC UHU GLUE",
+                "quantity": 2.0,
+                "price": 2.2,
+                "total_price": 4.4
+            }
+        ],
+        "subtotal": 52.08,
+        "tax": 2.96,
+        "tip": null,
+        "total": null
+    }
+]

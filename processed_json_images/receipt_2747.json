@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PANA JAYA ENTERPRISE",
+        "transaction_date": "2018-01-25",
+        "items": [
+            {
+                "description": "CRYSTAL CATERING FOIL 1.15KG 450X18'",
+                "quantity": 1.0,
+                "price": 35.0,
+                "total_price": 35.0
+            },
+            {
+                "description": "EC 7 PP PLATE (50PCS)",
+                "quantity": 10.0,
+                "price": 6.25,
+                "total_price": 62.5
+            },
+            {
+                "description": "EC 9 PP PLATE(500PCS) CTN",
+                "quantity": 1.0,
+                "price": 108.0,
+                "total_price": 108.0
+            }
+        ],
+        "subtotal": 193.87,
+        "tax": null,
+        "tip": null,
+        "total": 205.5
+    }
+]

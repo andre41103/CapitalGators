@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ENW Hardware Centre (M) Sdn Bhd.",
+        "transaction_date": "2018-04-14",
+        "items": [
+            {
+                "description": "5L. T_'Nippon' Vinilex EasyWash.\nNP N 1882T",
+                "quantity": 1.0,
+                "price": 99.0,
+                "total_price": 99.0
+            },
+            {
+                "description": "Cristin 4\" Blue Stripe Roller Refill",
+                "quantity": 1.0,
+                "price": 30.0,
+                "total_price": 30.0
+            },
+            {
+                "description": "1\" Nylon Paint Brush.",
+                "quantity": 1.0,
+                "price": 3.5,
+                "total_price": 3.5
+            },
+            {
+                "description": "4\" x 24\" Roller Handle.",
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 2.5
+            },
+            {
+                "description": "'Clipsal' 4g 1w Switch",
+                "quantity": 1.0,
+                "price": 21.0,
+                "total_price": 21.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 8.83,
+        "tip": null,
+        "total": 156.0
+    }
+]

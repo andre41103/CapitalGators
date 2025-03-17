@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THREE STOOGES",
+        "transaction_date": "2018-03-12",
+        "items": [
+            {
+                "description": "HH GUINESS 12 GLASSES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 150.0
+            },
+            {
+                "description": "HH TIGER 12 GLASSES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 145.0
+            }
+        ],
+        "subtotal": 295.0,
+        "tax": null,
+        "tip": 21.5,
+        "total": 343.95
+    }
+]

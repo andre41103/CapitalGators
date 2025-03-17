@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Lilly O'Briens",
+        "receipt_type": "receipt.retailMeal",
+        "total": 23.0,
+        "date": "2016-03-15",
+        "notes": "",
+        "recurring": false
+    }
+]

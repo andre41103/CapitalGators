@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THE COFFEE BEAN\n& TEA LEAF (M) SDN. BHD.\nouting",
+        "transaction_date": "2017-12-15",
+        "items": [
+            {
+                "description": "ICED CAFE LATTE -R",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.08
+            },
+            {
+                "description": "ICED DOUBLE CHOC-S",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.14
+            },
+            {
+                "description": "BLACKFOREST CHZ",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.84
+            }
+        ],
+        "subtotal": 39.72,
+        "tax": null,
+        "tip": 3.41,
+        "total": 39.7
+    }
+]

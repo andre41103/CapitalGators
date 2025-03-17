@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B (519537-X)",
+        "transaction_date": "2018-05-02",
+        "items": [
+            {
+                "description": "MSM PRAI GULA PASIR 1K",
+                "quantity": 8.0,
+                "price": 2.95,
+                "total_price": 23.6
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 23.6
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "APPLEBEE'S",
+        "receipt_type": "receipt.retailMeal",
+        "total": 25.01,
+        "date": "2002-10-13",
+        "notes": "",
+        "recurring": false
+    }
+]

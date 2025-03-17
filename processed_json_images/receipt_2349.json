@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TED HENG STATIONERY & BOOKS",
+        "transaction_date": "2018-01-18",
+        "items": [
+            {
+                "description": "JIANYU STELL RULER 30CM THICK",
+                "quantity": 1.0,
+                "price": 3.5,
+                "total_price": 3.3
+            },
+            {
+                "description": "LAMINATE FILM",
+                "quantity": 1.0,
+                "price": 1.3,
+                "total_price": 1.3
+            }
+        ],
+        "subtotal": 4.6,
+        "tax": 0.28,
+        "tip": null,
+        "total": 4.9
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SWC ENTERPRISE SDN BHD",
+        "transaction_date": "2018-03-28",
+        "items": [
+            {
+                "description": "OPEN CODE-SR ITEM",
+                "quantity": null,
+                "price": 8.0,
+                "total_price": 24.0
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": 7.0,
+                "total_price": 7.0
+            },
+            {
+                "description": "PD 3.20",
+                "quantity": null,
+                "price": null,
+                "total_price": -3.8
+            },
+            {
+                "description": "STAR 12\u00d713 (1X180)",
+                "quantity": null,
+                "price": 1.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "STAR 15\u00d716 AA (1X120)",
+                "quantity": null,
+                "price": 1.8,
+                "total_price": 1.8
+            }
+        ],
+        "subtotal": 30.0,
+        "tax": 1.7,
+        "tip": null,
+        "total": 30.0
+    }
+]

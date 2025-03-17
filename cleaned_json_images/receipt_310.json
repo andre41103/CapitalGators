@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Hard Rock Cafe - Amsterdam",
+        "receipt_type": "receipt.retailMeal",
+        "total": 28.95,
+        "date": "2015-11-21",
+        "notes": "",
+        "recurring": false
+    }
+]

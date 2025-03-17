@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Martin and Sons",
+        "receipt_type": "receipt",
+        "total": 62.46,
+        "date": "2018-03-24",
+        "notes": "",
+        "recurring": false
+    }
+]

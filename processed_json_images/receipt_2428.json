@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PASARAYA\nBORONG PINTAR SDN BHD",
+        "transaction_date": "2018-03-09",
+        "items": [
+            {
+                "description": "A&M SARSAP 330ML",
+                "quantity": 1.0,
+                "price": 1.2,
+                "total_price": 1.2
+            },
+            {
+                "description": "100PLUS REGULAR 500ML",
+                "quantity": 1.0,
+                "price": 1.9,
+                "total_price": 1.9
+            },
+            {
+                "description": "Loacker wafer milk 45g",
+                "quantity": 1.0,
+                "price": 2.7,
+                "total_price": 2.7
+            },
+            {
+                "description": "fishermans.f s/free lemon 25g",
+                "quantity": 1.0,
+                "price": 4.6,
+                "total_price": 4.6
+            }
+        ],
+        "subtotal": 10.4,
+        "tax": 0.0,
+        "tip": null,
+        "total": 10.4
+    }
+]

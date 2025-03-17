@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "AA PHARMACY",
+        "transaction_date": "2017-08-11",
+        "items": [
+            {
+                "description": "WAYCARE WOUND DRESSING WATERPROOF",
+                "quantity": 1.0,
+                "price": 57.0,
+                "total_price": 57.0
+            },
+            {
+                "description": "AROS NON -WOWEN SWAB ALCOHOL P",
+                "quantity": 1.0,
+                "price": 5.3,
+                "total_price": 5.3
+            },
+            {
+                "description": "(EACH) PAN MATE COTTON BUDS 400TIPS",
+                "quantity": 1.0,
+                "price": 3.9,
+                "total_price": 3.9
+            },
+            {
+                "description": "UNIGLOVES STERILE GAUZE SWAB 10CM\nBOX) GENTAMICIN CREAM",
+                "quantity": 3.0,
+                "price": 6.8,
+                "total_price": 6.8
+            }
+        ],
+        "subtotal": 74.06,
+        "tax": 4.04,
+        "tip": null,
+        "total": 78.1
+    }
+]

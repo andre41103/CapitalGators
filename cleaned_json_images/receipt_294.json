@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Mr. Lucky's",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": "2013-06-18",
+        "notes": "",
+        "recurring": false
+    }
+]

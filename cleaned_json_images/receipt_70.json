@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "River Village Family Restaurant",
+        "receipt_type": "receipt.retailMeal",
+        "total": 10.9,
+        "date": "2008-12-19",
+        "notes": "",
+        "recurring": false
+    }
+]

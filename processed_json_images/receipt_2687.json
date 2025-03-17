@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BILLION SIX ENTERPRISE",
+        "transaction_date": "2018-02-22",
+        "items": [
+            {
+                "description": "TG7 7\" HIPS PLATE (50PCS) JP",
+                "quantity": 11.0,
+                "price": 5.8,
+                "total_price": 63.8
+            }
+        ],
+        "subtotal": 63.8,
+        "tax": 3.61,
+        "tip": null,
+        "total": 63.8
+    }
+]

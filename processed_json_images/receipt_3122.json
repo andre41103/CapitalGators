@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ANN GIAP TRADING SDN BHD",
+        "transaction_date": "2017-09-30",
+        "items": [
+            {
+                "description": "3.5 LITRE MAX COATING",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 48.0
+            },
+            {
+                "description": "THINNER 1 GALLON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            }
+        ],
+        "subtotal": 66.0,
+        "tax": 3.74,
+        "tip": null,
+        "total": 66.0
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SANYO STATIONERY SHOP",
+        "transaction_date": "2017-09-18",
+        "items": [
+            {
+                "description": "ARTLINE 500A W/BOARD\nMARKER - BLACK",
+                "quantity": 1.0,
+                "price": 3.7,
+                "total_price": 3.7
+            },
+            {
+                "description": "RESTAURANT ORDER CHIT NOR\n3.5\"x6\"",
+                "quantity": 3.0,
+                "price": 2.9,
+                "total_price": 8.7
+            }
+        ],
+        "subtotal": 12.4,
+        "tax": 0.7,
+        "tip": null,
+        "total": 12.4
+    }
+]

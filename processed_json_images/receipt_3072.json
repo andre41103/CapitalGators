@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "KEDAI UBAT & RUNCIT HONG\nNING SDN. BHD.",
+        "transaction_date": "2016-02-02",
+        "items": [
+            {
+                "description": "FOMEC'S LUCKY BLESSING& (0101.89",
+                "quantity": 5.0,
+                "price": 108.0,
+                "total_price": 340.0
+            },
+            {
+                "description": "FOMEC'S GIFT OF HAPPINESS",
+                "quantity": 2.0,
+                "price": 68.0,
+                "total_price": 136.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 38.27,
+        "tip": null,
+        "total": 676.0
+    }
+]

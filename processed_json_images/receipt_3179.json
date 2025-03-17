@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2018-04-26",
+        "items": [
+            {
+                "description": "BRUSH 1.5' 628\nKE51 - 12/720",
+                "quantity": 1.0,
+                "price": 2.1,
+                "total_price": 2.1
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.12,
+        "tip": null,
+        "total": 2.1
+    }
+]

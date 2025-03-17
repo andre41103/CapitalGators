@@ -1,0 +1,134 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GRANDMA HOMES RESTAURANT",
+        "transaction_date": "2018-06-13",
+        "items": [
+            {
+                "description": null,
+                "quantity": 4.0,
+                "price": 3.5,
+                "total_price": 14.0
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": 8.0,
+                "total_price": 8.0
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 2.5
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": 34.0,
+                "total_price": 34.0
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": 35.0,
+                "total_price": 35.0
+            },
+            {
+                "description": "(OFFER)",
+                "quantity": 1.0,
+                "price": 28.0,
+                "total_price": 28.0
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": 12.9,
+                "total_price": 12.9
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": 108.0,
+                "total_price": 108.0
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": 85.0,
+                "total_price": 85.0
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": 52.0,
+                "total_price": 52.0
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": 24.0,
+                "total_price": 24.0
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 2.5
+            },
+            {
+                "description": "(OFFER)",
+                "quantity": 1.0,
+                "price": 12.9,
+                "total_price": 12.9
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": 4.5,
+                "total_price": 4.5
+            },
+            {
+                "description": "T02",
+                "quantity": 2.0,
+                "price": 17.5,
+                "total_price": 35.0
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 473.3,
+        "tax": 0.0,
+        "tip": 0.0,
+        "total": 473.3
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR.D.I.Y(M)SDN BHD",
+        "transaction_date": "2017-09-19",
+        "items": [
+            {
+                "description": "TOILET BRUSH 47-2311",
+                "quantity": 1.0,
+                "price": 2.7,
+                "total_price": 2.7
+            },
+            {
+                "description": "CEMENT KN BLK-2",
+                "quantity": 1.0,
+                "price": 1.6,
+                "total_price": 1.6
+            },
+            {
+                "description": "HSS TWIST DRILL 5.5*",
+                "quantity": 1.0,
+                "price": 3.3,
+                "total_price": 3.3
+            },
+            {
+                "description": "HSS TWIST DRILL 6*1",
+                "quantity": 1.0,
+                "price": 3.3,
+                "total_price": 3.3
+            },
+            {
+                "description": "CURTAIN STRAPS",
+                "quantity": 2.0,
+                "price": 2.5,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.9,
+        "tip": null,
+        "total": 15.9
+    }
+]

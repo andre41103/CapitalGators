@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Aurora Village",
+        "receipt_type": "receipt.retailMeal",
+        "total": 66.79,
+        "date": "2017-01-31",
+        "notes": "",
+        "recurring": false
+    }
+]

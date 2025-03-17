@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+        "transaction_date": "2018-03-16",
+        "items": [
+            {
+                "description": "EPOXY PUTTY+ (2 \u00d7 50GM)",
+                "quantity": 1.0,
+                "price": 8.5,
+                "total_price": 8.5
+            },
+            {
+                "description": "CORD TIE 3PCS",
+                "quantity": 1.0,
+                "price": 2.7,
+                "total_price": 2.7
+            },
+            {
+                "description": "PAPER CLIP 8PCS NO4",
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 2.5
+            },
+            {
+                "description": "HOOK HY-0021",
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 2.5
+            },
+            {
+                "description": "DOOR GUARD EC008",
+                "quantity": 3.0,
+                "price": 4.5,
+                "total_price": 13.5
+            },
+            {
+                "description": "MULTI FAN BLADE 16' FB1688",
+                "quantity": 1.0,
+                "price": 6.3,
+                "total_price": 6.3
+            },
+            {
+                "description": "KEY HOLDER (GRID)#*VS",
+                "quantity": 1.0,
+                "price": 7.5,
+                "total_price": 7.5
+            },
+            {
+                "description": "DOOR GUARD FOOT AW-D48",
+                "quantity": 2.0,
+                "price": 4.9,
+                "total_price": 9.8
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.02,
+        "tip": null,
+        "total": 53.3
+    }
+]

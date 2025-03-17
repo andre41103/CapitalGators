@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Phillips-Bradford",
+        "receipt_type": "receipt.retailMeal",
+        "total": 566.78,
+        "date": "2020-08-10",
+        "notes": "",
+        "recurring": false
+    }
+]

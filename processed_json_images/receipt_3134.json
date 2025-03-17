@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AEON CO. (M) BHD",
+        "transaction_date": "2017-07-09",
+        "items": [
+            {
+                "description": "COLD WATER BOTT",
+                "quantity": 4.0,
+                "price": 5.9,
+                "total_price": 23.6
+            },
+            {
+                "description": "PLASTICS BAG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.2
+            }
+        ],
+        "subtotal": 23.8,
+        "tax": 1.33,
+        "tip": null,
+        "total": 23.8
+    }
+]

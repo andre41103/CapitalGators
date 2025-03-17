@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "BON TON",
+        "receipt_type": "receipt.retailMeal",
+        "total": 4.5,
+        "date": "2018-05-24",
+        "notes": "",
+        "recurring": false
+    }
+]

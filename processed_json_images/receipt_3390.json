@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+        "transaction_date": "2018-06-30",
+        "items": [
+            {
+                "description": "KNIFE 7240",
+                "quantity": 1.0,
+                "price": 15.57,
+                "total_price": 15.57
+            },
+            {
+                "description": "M/FUNCTION SCISSORS K56\nGA07 - 12/144",
+                "quantity": 1.0,
+                "price": 7.45,
+                "total_price": 7.45
+            },
+            {
+                "description": "KIWI S/S KNIFE NO.475 5'\n12/480",
+                "quantity": 1.0,
+                "price": 4.25,
+                "total_price": 4.25
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 27.27
+    }
+]

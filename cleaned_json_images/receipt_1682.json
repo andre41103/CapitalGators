@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Food Mark L.L.C.",
+        "receipt_type": "receipt.retailMeal",
+        "total": 330.0,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

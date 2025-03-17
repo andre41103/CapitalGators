@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "BREWERY TAP",
+        "receipt_type": "receipt.retailMeal",
+        "total": 189.75,
+        "date": "2018-03-30",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PREMIO STATIONERY SDN BHD",
+        "transaction_date": "2018-03-20",
+        "items": [
+            {
+                "description": "SR ENERGIZER\nBATTERY AA 4'S",
+                "quantity": 1.0,
+                "price": 13.4,
+                "total_price": 13.4
+            }
+        ],
+        "subtotal": 13.4,
+        "tax": 0.76,
+        "tip": null,
+        "total": 13.4
+    }
+]

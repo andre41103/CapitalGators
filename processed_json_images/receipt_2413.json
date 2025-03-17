@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CONTENTO",
+        "transaction_date": "2018-03-20",
+        "items": [
+            {
+                "description": "(0mnk)\nBubble M T",
+                "quantity": 2.0,
+                "price": 5.9,
+                "total_price": 11.8
+            },
+            {
+                "description": "Yam M T",
+                "quantity": 1.0,
+                "price": 4.9,
+                "total_price": 4.9
+            },
+            {
+                "description": "(Shack )\nADD ON",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "W. Cho",
+                "quantity": 1.0,
+                "price": 3.9,
+                "total_price": 3.9
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 21.6
+    }
+]

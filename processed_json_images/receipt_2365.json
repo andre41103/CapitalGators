@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART",
+        "transaction_date": "2018-01-24",
+        "items": [
+            {
+                "description": "GARBAGE BAG (BLUE) 74C",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.25
+            },
+            {
+                "description": "GARBAGE BAG (GREEN) 74",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.25
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.14,
+        "tip": null,
+        "total": 2.5
+    }
+]

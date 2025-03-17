@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PRINT EXPERT SDN BHD",
+        "transaction_date": "2018-03-25",
+        "items": [
+            {
+                "description": "FLYERS IVORY A5",
+                "quantity": 40.0,
+                "price": 0.82,
+                "total_price": 32.65
+            },
+            {
+                "description": "MIRRORKOTE DIECUT",
+                "quantity": 20.0,
+                "price": 4.35,
+                "total_price": 86.92
+            }
+        ],
+        "subtotal": 112.8,
+        "tax": 6.77,
+        "tip": 0.0,
+        "total": 119.55
+    }
+]

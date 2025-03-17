@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "POPULAR BOOK",
+        "transaction_date": "2018-03-05",
+        "items": [
+            {
+                "description": "Acr Frame S103M",
+                "quantity": 2.0,
+                "price": 5.5,
+                "total_price": 11.0
+            },
+            {
+                "description": "Member Discount",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.1
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.56,
+        "tip": null,
+        "total": 9.9
+    }
+]

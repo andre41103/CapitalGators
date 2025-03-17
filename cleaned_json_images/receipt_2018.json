@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "GOLOM\nRestaurant",
+        "receipt_type": "receipt.retailMeal",
+        "total": 20.4,
+        "date": "2013-11-20",
+        "notes": "",
+        "recurring": false
+    }
+]

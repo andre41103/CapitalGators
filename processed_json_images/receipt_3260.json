@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "SANYO STATIONERY SHOP",
+        "transaction_date": "2017-07-19",
+        "items": [
+            {
+                "description": "PHOTOCOPY SERVICES - A4\nSIZE",
+                "quantity": 50.0,
+                "price": 0.1,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 5.0,
+        "tax": 0.28,
+        "tip": null,
+        "total": 5.0
+    }
+]

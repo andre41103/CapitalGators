@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2018-06-17",
+        "items": [
+            {
+                "description": "WASH BALL-1S",
+                "quantity": 2.0,
+                "price": 1.13,
+                "total_price": 2.26
+            },
+            {
+                "description": "SPONGE KOREA-2S",
+                "quantity": 2.0,
+                "price": 2.83,
+                "total_price": 5.66
+            },
+            {
+                "description": "PLASTIC BAGS",
+                "quantity": 1.0,
+                "price": 0.19,
+                "total_price": 0.19
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 8.11
+    }
+]

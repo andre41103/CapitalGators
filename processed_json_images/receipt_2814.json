@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TANJONGMAS BOOKCENTRE (PJ) SDN BHD",
+        "transaction_date": "2017-03-17",
+        "items": [
+            {
+                "description": "CALCULATOR SCIENTIFIC",
+                "quantity": 1.0,
+                "price": 53.0,
+                "total_price": 53.0
+            },
+            {
+                "description": "M&G R3 GEL PEN 0.5MM 3'S",
+                "quantity": 1.0,
+                "price": 5.4,
+                "total_price": 5.4
+            },
+            {
+                "description": "FABER CASTEL SUPER TRUE",
+                "quantity": 1.0,
+                "price": 3.6,
+                "total_price": 3.605
+            }
+        ],
+        "subtotal": 62.0,
+        "tax": 3.51,
+        "tip": null,
+        "total": 62.0
+    }
+]

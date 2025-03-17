@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BHPetrol Subang Airport",
+        "transaction_date": "2018-01-18",
+        "items": [
+            {
+                "description": "infiniti 97 E4MP3",
+                "quantity": 2.57,
+                "price": 16.32,
+                "total_price": 41.95
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.37,
+        "tip": null,
+        "total": 41.95
+    }
+]

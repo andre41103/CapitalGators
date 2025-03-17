@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BEYOND BROTHERS HARDWARE",
+        "transaction_date": "2018-02-05",
+        "items": [
+            {
+                "description": "6 GAL WHITE CONTAINER (TO)",
+                "quantity": 2.0,
+                "price": 30.0,
+                "total_price": 63.6
+            }
+        ],
+        "subtotal": 60.0,
+        "tax": 3.6,
+        "tip": null,
+        "total": 63.6
+    }
+]

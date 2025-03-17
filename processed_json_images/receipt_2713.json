@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AEON CO. (M) BHD",
+        "transaction_date": "2018-03-12",
+        "items": [
+            {
+                "description": "PLASTICS BAG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.2
+            },
+            {
+                "description": "WC W/O H&F",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.947
+            },
+            {
+                "description": "WC W/O H&F",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.817
+            },
+            {
+                "description": "WC W/O H&F",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.532
+            }
+        ],
+        "subtotal": 42.48,
+        "tax": 0.01,
+        "tip": null,
+        "total": 42.5
+    }
+]

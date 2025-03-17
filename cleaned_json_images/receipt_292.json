@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Hannaford Food & Drug",
+        "receipt_type": "receipt.retailMeal",
+        "total": 34.8,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

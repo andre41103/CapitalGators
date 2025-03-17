@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Redondo Car Wash",
+        "receipt_type": "receipt",
+        "total": 200.0,
+        "date": "2017-02-15",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TSH POWER HARDWARE\nTRADING",
+        "transaction_date": "2017-10-10",
+        "items": [
+            {
+                "description": "MAJESTA HSS\nJOBBER DRILLS\n3.5MM",
+                "quantity": 2.0,
+                "price": 4.0,
+                "total_price": 8.0
+            }
+        ],
+        "subtotal": 8.0,
+        "tax": 0.45,
+        "tip": null,
+        "total": 8.0
+    }
+]

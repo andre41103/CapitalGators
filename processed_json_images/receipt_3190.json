@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "UNIPHARM PHARMACY",
+        "transaction_date": "2018-04-05",
+        "items": [
+            {
+                "description": "DRESSING SETS 3 FORCEP",
+                "quantity": 2.0,
+                "price": 2.36,
+                "total_price": 4.72
+            },
+            {
+                "description": "BURNSHIELD HYDROGEL 25ML",
+                "quantity": 1.0,
+                "price": 18.77,
+                "total_price": 18.77
+            }
+        ],
+        "subtotal": 23.49,
+        "tax": 1.41,
+        "tip": null,
+        "total": 24.9
+    }
+]

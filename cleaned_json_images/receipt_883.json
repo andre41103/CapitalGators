@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Sheetz",
+        "receipt_type": "receipt.retailMeal",
+        "total": 0.0,
+        "date": "2015-11-11",
+        "notes": "",
+        "recurring": false
+    }
+]

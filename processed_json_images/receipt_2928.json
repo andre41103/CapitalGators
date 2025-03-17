@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Triple Six Point Enterprise 666",
+        "transaction_date": "2018-04-23",
+        "items": [
+            {
+                "description": "Hey Song\nJapan green\nTea 580ml",
+                "quantity": null,
+                "price": 4.3,
+                "total_price": 96.0
+            },
+            {
+                "description": "Hwa Tai Luxury\ncoklat cream",
+                "quantity": 1.0,
+                "price": 3.9,
+                "total_price": 3.9
+            },
+            {
+                "description": "Hwa Tai Luxury\npeanuts\ncracker",
+                "quantity": 1.0,
+                "price": 3.9,
+                "total_price": 3.9
+            },
+            {
+                "description": "Hwa Tai Luxury\nlemon cream",
+                "quantity": 2.0,
+                "price": 3.9,
+                "total_price": 7.8
+            },
+            {
+                "description": "Bento Sweet\nSpicy",
+                "quantity": 1.0,
+                "price": 12.9,
+                "total_price": 12.9
+            },
+            {
+                "description": "Tango Almonds\n20Bars",
+                "quantity": 1.0,
+                "price": 30.9,
+                "total_price": 30.9
+            },
+            {
+                "description": "Yeos Soya 1L",
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 2.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 157.9
+    }
+]

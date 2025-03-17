@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "IKANO HANDEL SDN BHD",
+        "transaction_date": "2017-08-09",
+        "items": [
+            {
+                "description": "BAGIS COAT-HANGER CH",
+                "quantity": 2.0,
+                "price": 4.9,
+                "total_price": 9.8
+            },
+            {
+                "description": "TEODORES CH",
+                "quantity": null,
+                "price": null,
+                "total_price": 90.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 5.64,
+        "tip": null,
+        "total": 99.8
+    }
+]

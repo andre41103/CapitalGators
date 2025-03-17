@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "PINEAPPLE WILLY'S",
+        "receipt_type": "receipt.retailMeal",
+        "total": 98.96,
+        "date": "2015-05-14",
+        "notes": "",
+        "recurring": false
+    }
+]

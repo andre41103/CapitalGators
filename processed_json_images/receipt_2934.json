@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THE TOAST F&B SDN BHD",
+        "transaction_date": "2018-04-08",
+        "items": [
+            {
+                "description": "TEH (ICE)",
+                "quantity": 1.0,
+                "price": 3.5,
+                "total_price": 3.5
+            },
+            {
+                "description": "KAMPUNG",
+                "quantity": 1.0,
+                "price": 10.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "BUTTER KAYA",
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 2.5
+            },
+            {
+                "description": "SUGARCA: : (ICE)",
+                "quantity": 1.0,
+                "price": 2.9,
+                "total_price": 2.9
+            }
+        ],
+        "subtotal": 18.9,
+        "tax": 1.07,
+        "tip": null,
+        "total": 18.9
+    }
+]

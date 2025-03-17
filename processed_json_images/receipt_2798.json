@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Y\nSOON FATT S/B (81497-P)",
+        "transaction_date": "2017-02-09",
+        "items": [
+            {
+                "description": "A1 BIHUN ISTIMEWA 3KG",
+                "quantity": 10.0,
+                "price": 10.0,
+                "total_price": 100.0
+            },
+            {
+                "description": "YSF BUAH KERAS 3KG",
+                "quantity": 1.0,
+                "price": 36.8,
+                "total_price": 36.8
+            },
+            {
+                "description": "HOBE RED KIDNEY BEAN 425GM",
+                "quantity": 1.0,
+                "price": 58.0,
+                "total_price": 58.0
+            },
+            {
+                "description": "CAP LANG JAGUNG MANIS 425GM",
+                "quantity": 1.0,
+                "price": 53.8,
+                "total_price": 53.8
+            },
+            {
+                "description": "DAIRY CHAMP EVAP 390GM",
+                "quantity": 1.0,
+                "price": 113.9,
+                "total_price": 113.9
+            }
+        ],
+        "subtotal": 362.5,
+        "tax": null,
+        "tip": null,
+        "total": 362.5
+    }
+]

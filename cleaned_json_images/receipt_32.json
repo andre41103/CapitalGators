@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Laurel Tavern Hermosa Beach",
+        "receipt_type": "receipt.retailMeal",
+        "total": 44.35,
+        "date": "2019-01-12",
+        "notes": "",
+        "recurring": false
+    }
+]

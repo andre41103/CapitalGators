@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Super Terminal Sdn Bhd",
+        "transaction_date": "2018-01-20",
+        "items": [
+            {
+                "description": "LED 11 SIGNAL",
+                "quantity": 1.0,
+                "price": 55.0,
+                "total_price": 58.3
+            },
+            {
+                "description": "KZ SIGNAL CONDENSOR (KOZI) 12V",
+                "quantity": 1.0,
+                "price": 18.0,
+                "total_price": 19.08
+            },
+            {
+                "description": "YAMLUBE (SEMI) MOTOR OIL",
+                "quantity": 1.0,
+                "price": 30.0,
+                "total_price": 31.8
+            },
+            {
+                "description": "OIL FILTER LC135",
+                "quantity": 1.0,
+                "price": 13.0,
+                "total_price": 13.78
+            },
+            {
+                "description": "BULB SIGNAL 12V8 RXZ G18.5",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.18
+            },
+            {
+                "description": "NUMBER PLASTIC",
+                "quantity": 6.0,
+                "price": 1.0,
+                "total_price": 6.36
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 132.5
+    }
+]

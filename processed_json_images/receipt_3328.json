@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "118 MJ MOOKATA HOUSE",
+        "transaction_date": "2018-06-11",
+        "items": [
+            {
+                "description": "B - Soup",
+                "quantity": 1.0,
+                "price": 48.0,
+                "total_price": 48.0
+            },
+            {
+                "description": "Herbal\nChicken",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 5.0
+            },
+            {
+                "description": "Egg",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 5.0
+            },
+            {
+                "description": "Dumplings",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 5.0
+            },
+            {
+                "description": "Thai\nCoffee",
+                "quantity": 1.0,
+                "price": 4.9,
+                "total_price": 4.9
+            },
+            {
+                "description": "BEER (C)",
+                "quantity": 2.0,
+                "price": 16.0,
+                "total_price": 32.0
+            },
+            {
+                "description": "Luo\nHan Guo",
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 2.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 102.4
+    }
+]

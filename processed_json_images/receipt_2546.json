@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)",
+        "transaction_date": "2018-01-02",
+        "items": [
+            {
+                "description": "SPONGE SCRUB W-PLASTIC HANDLE",
+                "quantity": 1.0,
+                "price": 3.18,
+                "total_price": 3.18
+            },
+            {
+                "description": "4 1/2\" PLASTERING TROWEL",
+                "quantity": 1.0,
+                "price": 10.07,
+                "total_price": 10.07
+            }
+        ],
+        "subtotal": 12.5,
+        "tax": 0.75,
+        "tip": null,
+        "total": 13.25
+    }
+]

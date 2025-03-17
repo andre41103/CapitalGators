@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2018-04-22",
+        "items": [
+            {
+                "description": "COTTON MOP",
+                "quantity": 1.0,
+                "price": 8.9,
+                "total_price": 8.9
+            },
+            {
+                "description": "HARD BROOM 484P W/4FT",
+                "quantity": 1.0,
+                "price": 5.9,
+                "total_price": 5.9
+            },
+            {
+                "description": "NYLON BATH BROOM 718 4'",
+                "quantity": 2.0,
+                "price": 6.2,
+                "total_price": 12.4
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.54,
+        "tip": null,
+        "total": 27.2
+    }
+]

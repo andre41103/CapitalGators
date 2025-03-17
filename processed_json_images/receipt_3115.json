@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B",
+        "transaction_date": "2016-09-20",
+        "items": [
+            {
+                "description": "559 TIGER BEER BOTTLE 660ML",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.2
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.8,
+        "tip": null,
+        "total": 14.2
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "AROMA SOP",
+        "receipt_type": "receipt.retailMeal",
+        "total": 125600.0,
+        "date": "2014-05-27",
+        "notes": "",
+        "recurring": false
+    }
+]

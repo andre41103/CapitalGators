@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BEMED (SP) SDN. BHD.",
+        "transaction_date": "2017-05-14",
+        "items": [
+            {
+                "description": "PIL CHI-KIT TECK AUN (12'S)",
+                "quantity": 1.0,
+                "price": 15.8,
+                "total_price": 14.22
+            },
+            {
+                "description": "PANADOL ACTIFAST 20'S",
+                "quantity": 1.0,
+                "price": 12.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "ALPHA LIPID LIFE LINE",
+                "quantity": 1.0,
+                "price": 165.0,
+                "total_price": 165.0
+            }
+        ],
+        "subtotal": 191.22,
+        "tax": null,
+        "tip": null,
+        "total": 191.2
+    }
+]

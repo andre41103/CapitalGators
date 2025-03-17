@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Chal Midtown West",
+        "receipt_type": "receipt.retailMeal",
+        "total": 30.49,
+        "date": "2014-05-28",
+        "notes": "",
+        "recurring": false
+    }
+]

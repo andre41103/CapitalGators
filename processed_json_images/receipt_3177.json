@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2018-04-25",
+        "items": [
+            {
+                "description": "RUBBER BOOTS P/968BK-SIZE8 (BLACK)",
+                "quantity": 1.0,
+                "price": 9.9,
+                "total_price": 9.9
+            },
+            {
+                "description": "SEKOPLAS H/D GARBAGE 89cm*117cm 10s",
+                "quantity": 4.0,
+                "price": 9.5,
+                "total_price": 38.0
+            },
+            {
+                "description": "PLASTIC BAGS",
+                "quantity": 1.0,
+                "price": 0.2,
+                "total_price": 0.2
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.72,
+        "tip": null,
+        "total": 48.1
+    }
+]

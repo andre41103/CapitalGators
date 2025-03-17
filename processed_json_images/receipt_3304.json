@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MOONLIGHT CAKE HOUSE SDN BHD",
+        "transaction_date": "2018-06-04",
+        "items": [
+            {
+                "description": "Butter slice Cheese",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.15
+            },
+            {
+                "description": "Europe Bun",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.7
+            },
+            {
+                "description": "Green Tea Mochi",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.3
+            },
+            {
+                "description": "Toast (B) - Coffee Cream Ch",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.85
+            },
+            {
+                "description": "Walnut Multigrain",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.95
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 21.83
+    }
+]

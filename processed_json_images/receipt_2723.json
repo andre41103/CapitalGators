@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2018-03-21",
+        "items": [
+            {
+                "description": "CLOTH TAPE 46MM*5M (RED)",
+                "quantity": 1.0,
+                "price": 1.9,
+                "total_price": 1.9
+            },
+            {
+                "description": "BOPP TAPE 48MM*100M CLEAR",
+                "quantity": 1.0,
+                "price": 3.9,
+                "total_price": 3.9
+            },
+            {
+                "description": "CLOTH TAPE 46MM*5M (GREEN)",
+                "quantity": 1.0,
+                "price": 1.9,
+                "total_price": 1.9
+            },
+            {
+                "description": "DBL SIDE CLEAR ACRYLIC TAPE VST106C",
+                "quantity": 1.0,
+                "price": 11.9,
+                "total_price": 11.9
+            },
+            {
+                "description": "D/S TAPE 1.8*15M",
+                "quantity": 1.0,
+                "price": 1.7,
+                "total_price": 1.7
+            },
+            {
+                "description": "PLASTIC BAGS",
+                "quantity": 1.0,
+                "price": 0.2,
+                "total_price": 0.2
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.22,
+        "tip": null,
+        "total": 21.5
+    }
+]

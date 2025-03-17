@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Chef Mickey's",
+        "receipt_type": "receipt.retailMeal",
+        "total": 215.39,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

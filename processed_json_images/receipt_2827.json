@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The Cut Steakhouse &Burgers",
+        "transaction_date": "2017-01-01",
+        "items": [
+            {
+                "description": "Reet Steak Escalope",
+                "quantity": 2.0,
+                "price": 37.5,
+                "total_price": 75.0
+            },
+            {
+                "description": "Chicken Dome",
+                "quantity": 1.0,
+                "price": 27.5,
+                "total_price": 27.5
+            },
+            {
+                "description": "Tenderloin",
+                "quantity": 1.0,
+                "price": 43.5,
+                "total_price": 43.5
+            },
+            {
+                "description": "WARM WATER",
+                "quantity": 4.0,
+                "price": 1.5,
+                "total_price": 6.0
+            }
+        ],
+        "subtotal": 158.08,
+        "tax": 9.48,
+        "tip": null,
+        "total": 167.55
+    }
+]

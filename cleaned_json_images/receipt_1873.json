@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Carolina Ale House",
+        "receipt_type": "receipt.retailMeal",
+        "total": 16.78,
+        "date": "2017-01-24",
+        "notes": "",
+        "recurring": false
+    }
+]

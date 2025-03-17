@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SATU KAMPUNG ENTERPRISE SDN BHD",
+        "transaction_date": "2020-01-13",
+        "items": [
+            {
+                "description": "KITCHENWARE",
+                "quantity": 3.0,
+                "price": 19.81,
+                "total_price": 63.0
+            }
+        ],
+        "subtotal": 59.43,
+        "tax": 3.57,
+        "tip": null,
+        "total": 63.0
+    }
+]

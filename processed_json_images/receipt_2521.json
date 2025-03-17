@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LIM SENG THO HARDWARE TRADING",
+        "transaction_date": "2017-12-29",
+        "items": [
+            {
+                "description": "SIMEN(S)",
+                "quantity": 3.0,
+                "price": 2.0,
+                "total_price": 6.0
+            }
+        ],
+        "subtotal": 6.0,
+        "tax": 0.34,
+        "tip": null,
+        "total": 6.0
+    }
+]

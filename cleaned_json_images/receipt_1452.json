@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Walton PLC",
+        "receipt_type": "receipt.retailMeal",
+        "total": 243.71,
+        "date": "2017-04-18",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Vapiano Disney",
+        "receipt_type": "receipt.retailMeal",
+        "total": 15.2,
+        "date": "2016-12-25",
+        "notes": "",
+        "recurring": false
+    }
+]

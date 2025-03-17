@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "RAPID RAIL SDN BHD",
+        "transaction_date": "2018-06-18",
+        "items": [
+            {
+                "description": "Media nb",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "TNG Reload RM 30",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 29.5
+            },
+            {
+                "description": "Reload Fee",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 30.0
+    }
+]

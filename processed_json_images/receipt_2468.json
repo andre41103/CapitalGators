@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "IKANO HANDEL SDN BHD",
+        "transaction_date": "2017-07-27",
+        "items": [
+            {
+                "description": "BOSTRAK WRD 80X50X18",
+                "quantity": 2.0,
+                "price": 269.0,
+                "total_price": 538.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 30.45,
+        "tip": null,
+        "total": 538.0
+    }
+]

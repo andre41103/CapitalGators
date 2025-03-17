@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "BILTEMA",
+        "receipt_type": "receipt.retailMeal",
+        "total": 60.0,
+        "date": "2014-06-04",
+        "notes": "",
+        "recurring": false
+    }
+]

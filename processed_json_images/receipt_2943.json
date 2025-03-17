@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "HIGH FIVE ENTERPRISE",
+        "transaction_date": "2018-04-05",
+        "items": [
+            {
+                "description": "Fuel Save 95",
+                "quantity": 43.4,
+                "price": 1.0,
+                "total_price": 95.48
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 95.48
+    }
+]

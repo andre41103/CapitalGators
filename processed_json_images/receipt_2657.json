@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Yam Fresh",
+        "transaction_date": "2018-03-18",
+        "items": [
+            {
+                "description": "Oyster Mee",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.9
+            },
+            {
+                "description": "BlackSugar Ice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "Pudding Soybean",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.9
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 29.3
+    }
+]

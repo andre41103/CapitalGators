@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "B & BEST RESTAURANT",
+        "transaction_date": "2017-04-22",
+        "items": [
+            {
+                "description": "FISHBALL NOODLE",
+                "quantity": 3.0,
+                "price": 7.0,
+                "total_price": 21.0
+            }
+        ],
+        "subtotal": 21.0,
+        "tax": 1.26,
+        "tip": null,
+        "total": 22.25
+    }
+]

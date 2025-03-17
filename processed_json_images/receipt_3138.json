@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Becon Enterprise Sdn Bhd",
+        "transaction_date": "2017-09-13",
+        "items": [
+            {
+                "description": "Payment Voucher UEW 6\"x7\\\" (5's/pack)",
+                "quantity": 18.0,
+                "price": 7.3,
+                "total_price": 131.4
+            },
+            {
+                "description": "CD-R MAXELL (MX-CDR) 100's",
+                "quantity": 1.0,
+                "price": 92.8,
+                "total_price": 92.8
+            },
+            {
+                "description": "CD SLEEVE REFILL DAIBAO DB103 (VR100)/KAYE",
+                "quantity": 1.0,
+                "price": 8.5,
+                "total_price": 8.5
+            },
+            {
+                "description": "PUNCHER MAX DP-F2BN",
+                "quantity": 1.0,
+                "price": 14.85,
+                "total_price": 14.85
+            }
+        ],
+        "subtotal": 247.55,
+        "tax": null,
+        "tip": null,
+        "total": 247.55
+    }
+]

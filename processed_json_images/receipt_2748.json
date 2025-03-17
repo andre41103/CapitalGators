@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B",
+        "transaction_date": "2018-01-28",
+        "items": [
+            {
+                "description": "LEA & PERRINS SOS WORC",
+                "quantity": 11.0,
+                "price": 8.99,
+                "total_price": 98.89
+            }
+        ],
+        "subtotal": 98.89,
+        "tax": 5.61,
+        "tip": null,
+        "total": 98.9
+    }
+]

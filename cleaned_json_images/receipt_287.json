@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "KOBE SUSHI BISTRO",
+        "receipt_type": "receipt.retailMeal",
+        "total": 59.97,
+        "date": "2014-03-22",
+        "notes": "",
+        "recurring": false
+    }
+]

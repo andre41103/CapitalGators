@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2018-03-17",
+        "items": [
+            {
+                "description": "STUDENT SOCKS 3PCS BK",
+                "quantity": 1.0,
+                "price": 9.5,
+                "total_price": 9.5
+            },
+            {
+                "description": "BELT 5202-3#*VS\n12/480",
+                "quantity": 1.0,
+                "price": 22.9,
+                "total_price": 22.9
+            },
+            {
+                "description": "PVC MAN\nPPER 969\n(BK)",
+                "quantity": 1.0,
+                "price": 10.5,
+                "total_price": 10.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.43,
+        "tip": null,
+        "total": 42.9
+    }
+]

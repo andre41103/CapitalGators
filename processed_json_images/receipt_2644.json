@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "NADEJE PRESTIGE SDN BHD",
+        "transaction_date": "2018-02-22",
+        "items": [
+            {
+                "description": "Original Slice",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 26.0
+            },
+            {
+                "description": "DoubleChoc Slice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 39.0
+    }
+]

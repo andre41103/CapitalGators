@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B",
+        "transaction_date": "2016-06-08",
+        "items": [
+            {
+                "description": "WONG AH LEK KAYA (PAND",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.11
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.12,
+        "tip": null,
+        "total": 2.11
+    }
+]

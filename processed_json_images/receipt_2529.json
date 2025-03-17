@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)",
+        "transaction_date": "2018-01-25",
+        "items": [
+            {
+                "description": "12MM 4/8B PLYWOOD",
+                "quantity": 3.0,
+                "price": 63.6,
+                "total_price": 190.8
+            }
+        ],
+        "subtotal": 180.0,
+        "tax": 10.8,
+        "tip": null,
+        "total": 190.8
+    }
+]

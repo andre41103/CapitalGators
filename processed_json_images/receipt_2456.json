@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HON HWA HARDWARE TRADING",
+        "transaction_date": "2017-04-26",
+        "items": [
+            {
+                "description": "3/4\" ALUMINIUM ROD",
+                "quantity": 1.2,
+                "price": 6.0,
+                "total_price": 7.2
+            }
+        ],
+        "subtotal": 6.79,
+        "tax": 0.41,
+        "tip": null,
+        "total": 7.2
+    }
+]

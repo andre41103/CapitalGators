@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "#Noches De Colombia",
+        "receipt_type": "receipt.retailMeal",
+        "total": 10.81,
+        "date": "2019-07-09",
+        "notes": "",
+        "recurring": false
+    }
+]

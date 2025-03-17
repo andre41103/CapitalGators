@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SANYO STATIONERY SHOP",
+        "transaction_date": "2017-07-06",
+        "items": [
+            {
+                "description": "S-69 MULTI PURPOSE PAPER\n40'S A4 120GSM",
+                "quantity": 1.0,
+                "price": 4.5,
+                "total_price": 4.5
+            }
+        ],
+        "subtotal": 4.5,
+        "tax": 0.25,
+        "tip": null,
+        "total": 4.5
+    }
+]

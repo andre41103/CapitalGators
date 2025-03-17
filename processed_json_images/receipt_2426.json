@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RESTAURANT JIAWEI\nJIAWEI HOUSE",
+        "transaction_date": "2018-03-09",
+        "items": [
+            {
+                "description": "B. Bean Bitterground Fish Head (S)",
+                "quantity": 1.0,
+                "price": 3500.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "F. Hong Kong Sauteed (S)",
+                "quantity": 1.0,
+                "price": 1600.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "Steamed Egg (S)",
+                "quantity": 1.0,
+                "price": 1000.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "Chinese Tea",
+                "quantity": 2.0,
+                "price": 60.0,
+                "total_price": 1.2
+            },
+            {
+                "description": "COLD\nRice (B)",
+                "quantity": 2.0,
+                "price": 150.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 65.2,
+        "tax": null,
+        "tip": 0.0,
+        "total": 65.2
+    }
+]

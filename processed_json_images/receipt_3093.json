@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B",
+        "transaction_date": "2016-08-19",
+        "items": [
+            {
+                "description": "GARDENIA WHOLEMEAL 400",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.99
+            },
+            {
+                "description": "GARDENIA CREAM ROLL CH",
+                "quantity": 2.0,
+                "price": 0.85,
+                "total_price": 1.7
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 4.69
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KFA SUPPLY",
+        "transaction_date": "2018-05-27",
+        "items": [
+            {
+                "description": "STAR 74CM \u00d779CM 10KEPING",
+                "quantity": 1.0,
+                "price": 11.6,
+                "total_price": 11.6
+            }
+        ],
+        "subtotal": 10.94,
+        "tax": 0.66,
+        "tip": null,
+        "total": 11.6
+    }
+]

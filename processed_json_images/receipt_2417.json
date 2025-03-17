@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BENS INDEPENDENT GROCER SDN. BHD",
+        "transaction_date": "2018-03-12",
+        "items": [
+            {
+                "description": "Dole Pineapple Pcs",
+                "quantity": null,
+                "price": 7.9,
+                "total_price": 23.7
+            },
+            {
+                "description": "Evian Mineral Water 6x1.25L",
+                "quantity": null,
+                "price": 53.5,
+                "total_price": 53.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 77.2
+    }
+]

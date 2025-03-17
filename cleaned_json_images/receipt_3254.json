@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "SANYO STATIONERY SHOP",
+        "receipt_type": "receipt.retailMeal",
+        "total": 16.5,
+        "date": "2017-03-28",
+        "notes": "",
+        "recurring": false
+    }
+]

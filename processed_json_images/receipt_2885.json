@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Broadview Marketing Sdn Bhd (728364-M)",
+        "transaction_date": "2017-06-03",
+        "items": [
+            {
+                "description": "SR+ HM BAG 0110\n24 X35 (2kg)",
+                "quantity": 1.0,
+                "price": 18.0,
+                "total_price": 18.0
+            }
+        ],
+        "subtotal": 18.0,
+        "tax": null,
+        "tip": null,
+        "total": 18.0
+    }
+]

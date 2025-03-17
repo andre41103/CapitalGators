@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ANN GIAP TRADING SDN BHD",
+        "transaction_date": "2017-09-30",
+        "items": [
+            {
+                "description": "1 LITRE MAX COATING",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 34.0
+            },
+            {
+                "description": "THINNER BOTOL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "3. 18\" MINI HANDLE ROLLER",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "4\" REFILL ROL",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 4.0
+            }
+        ],
+        "subtotal": 47.0,
+        "tax": 2.66,
+        "tip": null,
+        "total": 47.0
+    }
+]

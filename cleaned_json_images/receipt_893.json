@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Perry and Sons",
+        "receipt_type": "receipt",
+        "total": 789.2,
+        "date": "2016-11-19",
+        "notes": "",
+        "recurring": false
+    }
+]

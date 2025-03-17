@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KEDAI UBAT & RUNCIT HONG\nNING SDN. BHD.",
+        "transaction_date": "2016-12-24",
+        "items": [
+            {
+                "description": "FTJIN FIAN\nGJ",
+                "quantity": 1.0,
+                "price": 332.83,
+                "total_price": 3.0
+            },
+            {
+                "description": "TIAN QI",
+                "quantity": 1.0,
+                "price": 18.87,
+                "total_price": 20.0
+            },
+            {
+                "description": "GARDENIA CR-CHOCLT @0.80",
+                "quantity": 1.0,
+                "price": 0.83,
+                "total_price": 0.83
+            },
+            {
+                "description": "MASSIMO DUE-COFFEE ()0.80",
+                "quantity": 1.0,
+                "price": 0.83,
+                "total_price": 0.83
+            },
+            {
+                "description": "MASSIMO DUE-COFFEE (0.80",
+                "quantity": 1.0,
+                "price": 0.83,
+                "total_price": 0.83
+            },
+            {
+                "description": "ham th\u1ecb Cit t//%",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 25.56,
+        "tax": 1.43,
+        "tip": null,
+        "total": null
+    }
+]

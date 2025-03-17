@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Pu Tien (M) SDN BHD",
+        "transaction_date": "2017-10-12",
+        "items": [
+            {
+                "description": "Stir Fried Yam,Xs",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.9
+            },
+            {
+                "description": "Lor Mee, XS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.9
+            },
+            {
+                "description": "Chrysanthemum Tea, Iced",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.9
+            }
+        ],
+        "subtotal": 31.7,
+        "tax": null,
+        "tip": 3.17,
+        "total": 36.96
+    }
+]

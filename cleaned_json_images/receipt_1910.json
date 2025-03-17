@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "The Rose Club",
+        "receipt_type": "receipt.retailMeal",
+        "total": 71000.6,
+        "date": "2011-12-08",
+        "notes": "",
+        "recurring": false
+    }
+]

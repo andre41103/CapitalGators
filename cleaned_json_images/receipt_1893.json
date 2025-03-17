@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Brandi Pizzeria CW",
+        "receipt_type": "receipt.retailMeal",
+        "total": 299.0,
+        "date": "2014-12-13",
+        "notes": "",
+        "recurring": false
+    }
+]

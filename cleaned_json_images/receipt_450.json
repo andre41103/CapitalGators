@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Richards Pizza West Side",
+        "receipt_type": "receipt.retailMeal",
+        "total": 25.0,
+        "date": "2014-07-04",
+        "notes": "",
+        "recurring": false
+    }
+]

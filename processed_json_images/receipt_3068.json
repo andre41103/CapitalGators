@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "GREEN LANE PHARMACY SDN BHD",
+        "transaction_date": "2016-12-13",
+        "items": [
+            {
+                "description": "IBUPROFEN 400MG 10",
+                "quantity": 3.0,
+                "price": 3.0,
+                "total_price": 9.0
+            },
+            {
+                "description": "AMOXICAP 500MG CAPSU",
+                "quantity": 2.0,
+                "price": 6.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "NOFLUX TAB 90MG 10",
+                "quantity": 5.0,
+                "price": 4.0,
+                "total_price": 19.98
+            },
+            {
+                "description": "FEBRICOL -RX 10",
+                "quantity": 2.0,
+                "price": 2.7,
+                "total_price": 5.4
+            },
+            {
+                "description": "VITAMORE EPO 1000MG",
+                "quantity": 2.0,
+                "price": 68.0,
+                "total_price": 108.0
+            },
+            {
+                "description": "NOVA ROSELLE &F VIT",
+                "quantity": 1.0,
+                "price": 28.6,
+                "total_price": 25.7
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 180.1
+    }
+]

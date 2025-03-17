@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CHA FOR TEA",
+        "transaction_date": "2018-04-19",
+        "items": [
+            {
+                "description": "MUSHROOM BR",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.9
+            },
+            {
+                "description": "SIZZLING PO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.9
+            },
+            {
+                "description": "BLACK SUGAR",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.9
+            },
+            {
+                "description": "BROWN SUGAR",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.95
+            }
+        ],
+        "subtotal": 43.6,
+        "tax": null,
+        "tip": null,
+        "total": 46.25
+    }
+]

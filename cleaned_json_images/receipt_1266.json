@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "The Colony",
+        "receipt_type": "receipt.retailMeal",
+        "total": 77.25,
+        "date": "2017-04-21",
+        "notes": "",
+        "recurring": false
+    }
+]

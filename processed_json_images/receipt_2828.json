@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MEI LET RESTAURANT",
+        "transaction_date": "2017-01-12",
+        "items": [
+            {
+                "description": "TALAPIA - JIU PAI STEAM (S)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.0
+            },
+            {
+                "description": "STEAMED GINGER CHICKEN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "BEAN CURD WITH FRIED EGG (S)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "WATER / TEA",
+                "quantity": 3.0,
+                "price": 0.5,
+                "total_price": 1.5
+            },
+            {
+                "description": "RICE (L)",
+                "quantity": 3.0,
+                "price": 1.5,
+                "total_price": 4.5
+            }
+        ],
+        "subtotal": 56.0,
+        "tax": null,
+        "tip": null,
+        "total": -35.0
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y: (M) SDN BHD",
+        "transaction_date": "2018-04-21",
+        "items": [
+            {
+                "description": "QUEEN BEDSHEET SET 190*152+25*VS\nJH51/3-63 - 10",
+                "quantity": 1.0,
+                "price": 43.0,
+                "total_price": 43.0
+            },
+            {
+                "description": "CYLINDER LOCK AGASS-587AB\nLG12 - 24",
+                "quantity": 1.0,
+                "price": 13.9,
+                "total_price": 13.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.77,
+        "tip": null,
+        "total": 48.9
+    }
+]

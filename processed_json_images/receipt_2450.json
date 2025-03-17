@@ -1,0 +1,92 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "POPULAR BOOK\nCO. (M) SDN BHD",
+        "transaction_date": "2017-12-23",
+        "items": [
+            {
+                "description": "Shoe White SW1101*2S",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.29
+            },
+            {
+                "description": "MR C. TAPE REF WH624R-",
+                "quantity": null,
+                "price": null,
+                "total_price": 31.99
+            },
+            {
+                "description": "KIT KAT 2F (PM) 17G",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.35
+            },
+            {
+                "description": "Oxford-Coin Box\nBTS RM10 Voucher Issu",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "FC GRIP BPO. 5 BLK PK",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.2
+            },
+            {
+                "description": "FC GRIP BPO. 5 BLU PK",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.2
+            },
+            {
+                "description": "3M GlueStick 7gm 4's",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.59
+            },
+            {
+                "description": "PU F/C B/L A4 450's",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.99
+            },
+            {
+                "description": "PLUS stapler set 010E",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.89
+            },
+            {
+                "description": "FC EXM. ERS 4S 187016",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.9
+            },
+            {
+                "description": "S4 SUPER S M AKT SPM [BK]",
+                "quantity": null,
+                "price": null,
+                "total_price": 9.9
+            },
+            {
+                "description": "SUCCESS SPM ADD MATHS [BK]",
+                "quantity": null,
+                "price": null,
+                "total_price": 37.0
+            },
+            {
+                "description": "SUCCESS SPM SCI\n[BK]",
+                "quantity": null,
+                "price": null,
+                "total_price": 35.7
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 140.65
+    }
+]

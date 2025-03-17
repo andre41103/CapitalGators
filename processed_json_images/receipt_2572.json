@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)",
+        "transaction_date": "2018-01-31",
+        "items": [
+            {
+                "description": "6/8 BATU (BAG)",
+                "quantity": 5.0,
+                "price": 6.36,
+                "total_price": 31.8
+            },
+            {
+                "description": "4.5KG RENDEROC PLUG",
+                "quantity": 1.0,
+                "price": 50.88,
+                "total_price": 50.88
+            }
+        ],
+        "subtotal": 78.0,
+        "tax": 4.68,
+        "tip": null,
+        "total": 82.68
+    }
+]

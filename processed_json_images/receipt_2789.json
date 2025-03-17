@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Anzel Advertising (M) Sdn bhd",
+        "transaction_date": "2018-03-21",
+        "items": [
+            {
+                "description": "A4 BW Simili 80gam",
+                "quantity": null,
+                "price": 7.0,
+                "total_price": 7.42
+            }
+        ],
+        "subtotal": 7.0,
+        "tax": 0.42,
+        "tip": null,
+        "total": 7.4
+    }
+]

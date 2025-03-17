@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LAVENDER CONFECTIONERY & BAKERY S/B",
+        "transaction_date": "2018-04-14",
+        "items": [
+            {
+                "description": "EUROPEAN WALNUT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.5
+            },
+            {
+                "description": "ORANGE PEEL CHOCOLATE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.8
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 12.3
+    }
+]

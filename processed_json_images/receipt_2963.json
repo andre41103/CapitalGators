@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KHIAM AIK CHAN SDN BHD",
+        "transaction_date": "2017-09-25",
+        "items": [
+            {
+                "description": "Max 10-1M etaples",
+                "quantity": 2.0,
+                "price": 14.2,
+                "total_price": 28.4
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.61,
+        "tip": null,
+        "total": 28.4
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GM Rack Enterprise",
+        "transaction_date": "2018-03-20",
+        "items": [
+            {
+                "description": "TQ(6X9-500PCS)H0019",
+                "quantity": 5.0,
+                "price": 16.0,
+                "total_price": 80.0
+            },
+            {
+                "description": "TQ(8X11-300PCS)H0018",
+                "quantity": 5.0,
+                "price": 16.0,
+                "total_price": 80.0
+            }
+        ],
+        "subtotal": 160.0,
+        "tax": 9.06,
+        "tip": null,
+        "total": 160.0
+    }
+]

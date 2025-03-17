@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.parking",
+        "merchant_name": "PERNIAGAAN ZHENG HUI",
+        "transaction_date": "2018-03-15",
+        "items": [
+            {
+                "description": "CAR PARKING COUPON",
+                "quantity": 1.0,
+                "price": 7.56,
+                "total_price": 7.5
+            }
+        ],
+        "subtotal": 7.55,
+        "tax": 0.45,
+        "tip": null,
+        "total": 8.0
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "VIVOPAC MARKETING SDN BHD",
+        "transaction_date": "2017-05-30",
+        "items": [
+            {
+                "description": "9 x 13 (10A)",
+                "quantity": 1.0,
+                "price": 0.75,
+                "total_price": 0.75
+            },
+            {
+                "description": "26 x 33 (85HT) Red",
+                "quantity": 1.0,
+                "price": 8.0,
+                "total_price": 8.0
+            },
+            {
+                "description": "24 x 28 (75HT) Red",
+                "quantity": 1.0,
+                "price": 6.0,
+                "total_price": 6.0
+            },
+            {
+                "description": "Price Label (PLAIN)",
+                "quantity": 2.0,
+                "price": 1.5,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 17.75,
+        "tax": null,
+        "tip": null,
+        "total": 18.8
+    }
+]

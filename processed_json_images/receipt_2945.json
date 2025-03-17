@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TF Value-Mart Sdn Bhd",
+        "transaction_date": "2018-05-19",
+        "items": [
+            {
+                "description": "KCA TOILET ROLL 3PLY 10R",
+                "quantity": null,
+                "price": 12.5,
+                "total_price": 25.0
+            },
+            {
+                "description": "SUPER CRWC 36G*15 HAZELNUT",
+                "quantity": null,
+                "price": 13.9,
+                "total_price": 13.9
+            },
+            {
+                "description": "SUPER CRWC 40G*15 CLASSIC",
+                "quantity": null,
+                "price": 13.9,
+                "total_price": 13.9
+            }
+        ],
+        "subtotal": 52.8,
+        "tax": null,
+        "tip": null,
+        "total": 52.8
+    }
+]

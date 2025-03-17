@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SAM SAM TRADING CO",
+        "transaction_date": "2017-12-29",
+        "items": [
+            {
+                "description": "HE EOG UNICORN TWIN SUPER GLUE USG-99-",
+                "quantity": 1.0,
+                "price": 5.2,
+                "total_price": 5.2
+            },
+            {
+                "description": "SS EZL A4 CYBER MIX COLOR PAPER 100'S8",
+                "quantity": 1.0,
+                "price": 8.9,
+                "total_price": 8.9
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 14.1
+    }
+]

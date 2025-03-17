@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Maxincome Resources Sdin Bhd",
+        "transaction_date": "2018-04-16",
+        "items": [
+            {
+                "description": "MarlboroMegaIceBlstBox",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.0
+            },
+            {
+                "description": "Alladdin Silk Logo 2.58",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.8
+            }
+        ],
+        "subtotal": 18.8,
+        "tax": 1.06,
+        "tip": null,
+        "total": 18.8
+    }
+]

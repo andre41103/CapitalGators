@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "AA PHARMACY",
+        "transaction_date": "2017-10-29",
+        "items": [
+            {
+                "description": "(BOX 100S) SUPER SAFE POWDER FREE NITRIL",
+                "quantity": 1.0,
+                "price": 14.9,
+                "total_price": 14.9
+            },
+            {
+                "description": "(S SIZE) SUPER SAFE LATEX GLOVE POWDER F",
+                "quantity": 1.0,
+                "price": 14.0,
+                "total_price": 14.0
+            }
+        ],
+        "subtotal": 27.27,
+        "tax": 1.64,
+        "tip": null,
+        "total": 28.9
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)",
+        "transaction_date": "2018-01-02",
+        "items": [
+            {
+                "description": "17MM COMB SPANNER",
+                "quantity": 1.0,
+                "price": 7.95,
+                "total_price": 7.95
+            },
+            {
+                "description": "6' X 35# CORRUGATED ROOFING SHEET",
+                "quantity": 2.0,
+                "price": 15.9,
+                "total_price": 31.8
+            }
+        ],
+        "subtotal": 37.5,
+        "tax": 2.25,
+        "tip": null,
+        "total": 39.75
+    }
+]

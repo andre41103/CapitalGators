@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+        "transaction_date": "2018-03-19",
+        "items": [
+            {
+                "description": "CUSHION 45*45CM PLAIN\nEZ09 - 5/60",
+                "quantity": 1.0,
+                "price": 11.9,
+                "total_price": 11.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.67,
+        "tip": null,
+        "total": 11.9
+    }
+]

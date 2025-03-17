@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KAISON FURNISHING SDN BHD",
+        "transaction_date": "2018-03-25",
+        "items": [
+            {
+                "description": "PLASTIC TRAY-GLOSS R pcs",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.9
+            },
+            {
+                "description": "KEYCHAIN - SCARF STA pcs",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.9
+            },
+            {
+                "description": "KEYCHAIN - KNIT SCAR pcs",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.06,
+        "tip": null,
+        "total": 18.7
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SANYU STATIONERY SHOP",
+        "transaction_date": "2017-04-05",
+        "items": [
+            {
+                "description": "JOURNAL BOOK 80PGS A4 70G\nCARD COVER",
+                "quantity": 1.0,
+                "price": 3.3,
+                "total_price": 3.3
+            }
+        ],
+        "subtotal": 3.3,
+        "tax": 0.19,
+        "tip": null,
+        "total": 3.3
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Picasso",
+        "receipt_type": "receipt.retailMeal",
+        "total": 8.2,
+        "date": "2016-07-28",
+        "notes": "",
+        "recurring": false
+    }
+]

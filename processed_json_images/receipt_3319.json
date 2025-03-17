@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CHEF HENRY RIBS HOUSE",
+        "transaction_date": "2018-06-05",
+        "items": [
+            {
+                "description": "CHICKEN Black Pepper\nSauce",
+                "quantity": 2.0,
+                "price": 18.8,
+                "total_price": 37.6
+            },
+            {
+                "description": "Chic PASTA w Tomato",
+                "quantity": null,
+                "price": 1014.8,
+                "total_price": 14.8
+            },
+            {
+                "description": "GREEN TEA",
+                "quantity": null,
+                "price": 104.8,
+                "total_price": 4.8
+            },
+            {
+                "description": "LEMON TEA",
+                "quantity": null,
+                "price": 105.8,
+                "total_price": 5.8
+            },
+            {
+                "description": "Mashed Potato",
+                "quantity": null,
+                "price": 105.0,
+                "total_price": 5.0
+            },
+            {
+                "description": "MIXED COMBO",
+                "quantity": 1.0,
+                "price": 36.8,
+                "total_price": 36.8
+            },
+            {
+                "description": "MOJITO",
+                "quantity": null,
+                "price": 100.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "Seafood PASTA w\n0/Oil-LESS",
+                "quantity": 1.0,
+                "price": 15.8,
+                "total_price": 15.8
+            }
+        ],
+        "subtotal": 120.6,
+        "tax": null,
+        "tip": null,
+        "total": 103.85
+    }
+]

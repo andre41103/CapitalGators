@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2016-02-21",
+        "items": [
+            {
+                "description": "TOILET PAPER HOLDER BWJ-2503#",
+                "quantity": 1.0,
+                "price": 17.5,
+                "total_price": 17.5
+            },
+            {
+                "description": "CABLE TIE 100PC 408019 BLACK 200MM(8",
+                "quantity": 1.0,
+                "price": 7.5,
+                "total_price": 7.5
+            },
+            {
+                "description": "CABLE TIE 100PC 408015 BLACK 150MM(6",
+                "quantity": 1.0,
+                "price": 5.9,
+                "total_price": 5.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.75,
+        "tip": null,
+        "total": 30.9
+    }
+]

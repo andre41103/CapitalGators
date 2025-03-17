@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2018-03-25",
+        "items": [
+            {
+                "description": "TRAC DRY IRON TR-231IR -1200W(SR)",
+                "quantity": 1.0,
+                "price": 26.9,
+                "total_price": 26.9
+            },
+            {
+                "description": "SINGLE BEDSHEET SET 90*188+20CM",
+                "quantity": 1.0,
+                "price": 23.9,
+                "total_price": 23.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.88,
+        "tip": null,
+        "total": 50.8
+    }
+]

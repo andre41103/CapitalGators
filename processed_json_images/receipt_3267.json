@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SANYO STATIONERY SHOP",
+        "transaction_date": "2017-11-23",
+        "items": [
+            {
+                "description": "PHOTOCOPY NRIC - A4 SIZE\nDOUBLE SIDE",
+                "quantity": 1.0,
+                "price": 0.3,
+                "total_price": 0.3
+            },
+            {
+                "description": "PHOTOCOPY SERVICES - A4\nSIZE",
+                "quantity": 101.0,
+                "price": 0.085,
+                "total_price": 8.59
+            },
+            {
+                "description": "CUTTING CHARGES",
+                "quantity": 1.0,
+                "price": 2.0,
+                "total_price": 2.0
+            }
+        ],
+        "subtotal": 10.89,
+        "tax": 0.62,
+        "tip": null,
+        "total": 10.89
+    }
+]

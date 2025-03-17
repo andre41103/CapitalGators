@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PASARAYA\nBORONG PINTAR SDN BHD",
+        "transaction_date": "2018-03-14",
+        "items": [
+            {
+                "description": "WALL'S TOPTEN CHOCOLATE 73ML",
+                "quantity": 1.0,
+                "price": 1.6,
+                "total_price": 1.6
+            },
+            {
+                "description": "WALL'S TOPTEN CHOCOLATE 73ML",
+                "quantity": 1.0,
+                "price": 1.6,
+                "total_price": 1.6
+            },
+            {
+                "description": "MAGNUM ALMOND 90ML",
+                "quantity": 1.0,
+                "price": 4.5,
+                "total_price": 4.5
+            },
+            {
+                "description": "Cloud 9 plus 22g",
+                "quantity": 1.0,
+                "price": 0.5,
+                "total_price": 0.5
+            }
+        ],
+        "subtotal": 8.2,
+        "tax": 0.0,
+        "tip": null,
+        "total": 8.2
+    }
+]

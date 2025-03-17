@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "The\nKroger\nCo.",
+        "receipt_type": "receipt.retailMeal",
+        "total": -3.7,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

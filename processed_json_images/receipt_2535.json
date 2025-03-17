@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)",
+        "transaction_date": "2018-01-03",
+        "items": [
+            {
+                "description": "5LT BIG TREE HIGH GLOSS PAINT\nTHINNER BOTTLE",
+                "quantity": 1.0,
+                "price": 4.24,
+                "total_price": 90.1
+            }
+        ],
+        "subtotal": 89.0,
+        "tax": 5.34,
+        "tip": null,
+        "total": 94.34
+    }
+]

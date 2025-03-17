@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Fowler-Griffin",
+        "receipt_type": "receipt.retailMeal",
+        "total": 3619.5,
+        "date": "2014-07-25",
+        "notes": "",
+        "recurring": false
+    }
+]

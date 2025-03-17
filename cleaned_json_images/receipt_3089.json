@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Golden Arches Restaurants Sdn Bhd",
+        "receipt_type": "receipt.retailMeal",
+        "total": 28.2,
+        "date": "2016-07-24",
+        "notes": "",
+        "recurring": false
+    }
+]

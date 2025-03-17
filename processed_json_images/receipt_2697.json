@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "YONG CEN ENTERPRISE",
+        "transaction_date": "2018-03-02",
+        "items": [
+            {
+                "description": "SR:FEI YAN BRAND YOUNG CORN 425G (2.333X",
+                "quantity": 2.33,
+                "price": null,
+                "total_price": 55.99
+            },
+            {
+                "description": "ZRL:ASAM BOI 65G",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 4.0
+            }
+        ],
+        "subtotal": 59.99,
+        "tax": 0.0,
+        "tip": null,
+        "total": 63.35
+    }
+]

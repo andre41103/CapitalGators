@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "(P.)",
+        "transaction_date": "2017-04-25",
+        "items": [
+            {
+                "description": "ZRL:IKAN BILIS KOPEK A++ 10G",
+                "quantity": 100.0,
+                "price": 0.25,
+                "total_price": 25.0
+            },
+            {
+                "description": "SR:TEPUNG JAGUNG CAP BINTANG 20X40",
+                "quantity": 1.0,
+                "price": 25.0,
+                "total_price": 25.0
+            },
+            {
+                "description": "ZRL:VITAMAS CARTON",
+                "quantity": 1.0,
+                "price": 42.5,
+                "total_price": 42.5
+            }
+        ],
+        "subtotal": 92.5,
+        "tax": 0.0,
+        "tip": null,
+        "total": 84.0
+    }
+]

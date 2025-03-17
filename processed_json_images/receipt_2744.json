@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "(W)\nbutton",
+        "transaction_date": "2018-01-06",
+        "items": [
+            {
+                "description": "SR:CHAMPIGNONS MUSHROOMS 425G(2.5833X",
+                "quantity": 24.0,
+                "price": 2.58,
+                "total_price": 61.99
+            }
+        ],
+        "subtotal": 61.99,
+        "tax": 0.0,
+        "tip": null,
+        "total": 65.7
+    }
+]

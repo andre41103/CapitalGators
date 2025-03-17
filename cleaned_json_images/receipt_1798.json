@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Shangri-La's",
+        "receipt_type": "receipt.retailMeal",
+        "total": 33.46,
+        "date": "2009-10-22",
+        "notes": "",
+        "recurring": false
+    }
+]

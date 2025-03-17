@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "JT's Diner",
+        "receipt_type": "receipt.retailMeal",
+        "total": 28.4,
+        "date": "2016-02-12",
+        "notes": "",
+        "recurring": false
+    }
+]

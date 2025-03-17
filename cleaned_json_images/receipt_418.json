@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "GANESH",
+        "receipt_type": "receipt.retailMeal",
+        "total": 309000.0,
+        "date": "2015-09-14",
+        "notes": "",
+        "recurring": false
+    }
+]

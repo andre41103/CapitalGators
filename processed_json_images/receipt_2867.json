@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PERNIAGAAN RIANG RIA",
+        "transaction_date": "2017-05-10",
+        "items": [
+            {
+                "description": "27\" T.S BASIN BESAR",
+                "quantity": 1.0,
+                "price": 21.32,
+                "total_price": 21.32
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 22.6
+    }
+]

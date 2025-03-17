@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SANYO STATIONERY SHOP",
+        "transaction_date": "2017-09-20",
+        "items": [
+            {
+                "description": "PHOTOCOPY SERVICES - A4\nSIZE",
+                "quantity": 100.0,
+                "price": 1000.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "CUTTING CHARGES",
+                "quantity": 1.0,
+                "price": 20000.0,
+                "total_price": 2.0
+            }
+        ],
+        "subtotal": 12.0,
+        "tax": 0.68,
+        "tip": null,
+        "total": 12.0
+    }
+]

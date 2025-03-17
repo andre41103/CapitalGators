@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "COSTCO WHOLESALE",
+        "receipt_type": "receipt.retailMeal",
+        "total": 120.04,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

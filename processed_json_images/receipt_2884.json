@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Aneka Intertrade Marketing Sdn Bhd",
+        "transaction_date": "2017-06-19",
+        "items": [
+            {
+                "description": "Milo Actigen-E 3in1 18'sx33g",
+                "quantity": null,
+                "price": 11.9,
+                "total_price": 23.8
+            }
+        ],
+        "subtotal": 23.8,
+        "tax": null,
+        "tip": null,
+        "total": 23.8
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)",
+        "transaction_date": "2018-02-02",
+        "items": [
+            {
+                "description": "2",
+                "quantity": 2.0,
+                "price": 12.72,
+                "total_price": 25.44
+            },
+            {
+                "description": "18' 2",
+                "quantity": 2.0,
+                "price": 34.34,
+                "total_price": 68.69
+            }
+        ],
+        "subtotal": 88.8,
+        "tax": 5.33,
+        "tip": null,
+        "total": 94.13
+    }
+]

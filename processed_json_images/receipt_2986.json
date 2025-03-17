@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MAKASSAR FRESH MARKET SDN BHD",
+        "transaction_date": "2017-08-03",
+        "items": [
+            {
+                "description": "KAYA-PANDN",
+                "quantity": -2.0,
+                "price": 2.4,
+                "total_price": -4.8
+            }
+        ],
+        "subtotal": -4.8,
+        "tax": -0.29,
+        "tip": null,
+        "total": -5.09
+    }
+]

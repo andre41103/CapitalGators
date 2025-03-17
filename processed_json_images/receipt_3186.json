@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "S&Y STATIONERY",
+        "transaction_date": "2017-01-05",
+        "items": [
+            {
+                "description": "LION FILE 6'S SPRING FILE",
+                "quantity": 1.6,
+                "price": 50.0,
+                "total_price": 80.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 4.08,
+        "tip": null,
+        "total": 72.0
+    }
+]

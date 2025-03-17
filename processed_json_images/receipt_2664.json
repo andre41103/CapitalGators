@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DOMINO'S PIZZA SEGAMBUT",
+        "transaction_date": "2018-03-26",
+        "items": [
+            {
+                "description": "9\"HT (BQ) 2: 2P2C-R-2",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 30.3
+            },
+            {
+                "description": "9\"NYC (CP) 2: 2P2C-R-2",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 60.6
+            }
+        ],
+        "subtotal": 60.6,
+        "tax": 1.87,
+        "tip": null,
+        "total": null
+    }
+]

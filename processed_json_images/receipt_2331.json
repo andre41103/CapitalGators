@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LIGHTROOM GALLERY SDN BHD",
+        "transaction_date": "2017-11-20",
+        "items": [
+            {
+                "description": "1059 18W SQ WW BK SUR LED LIGHT\nSQUARE BLACK FRAME",
+                "quantity": 2.0,
+                "price": 18.77,
+                "total_price": 37.55
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": 0.0,
+        "total": 39.8
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)",
+        "transaction_date": "2018-01-10",
+        "items": [
+            {
+                "description": "HOES SET",
+                "quantity": 1.0,
+                "price": 23.32,
+                "total_price": 23.32
+            }
+        ],
+        "subtotal": 22.0,
+        "tax": 1.32,
+        "tip": null,
+        "total": 23.32
+    }
+]

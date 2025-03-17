@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AEON CO. (M) BHD",
+        "transaction_date": "2018-05-11",
+        "items": [
+            {
+                "description": "PHILIPS I/COOKE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 369.0
+            },
+            {
+                "description": "C61796 - TEFAL",
+                "quantity": 1.0,
+                "price": 189.0,
+                "total_price": 269.0
+            }
+        ],
+        "subtotal": 458.55,
+        "tax": 25.95,
+        "tip": null,
+        "total": 458.55
+    }
+]

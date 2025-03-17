@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PRINT EXPERT SDN BHD",
+        "transaction_date": "2018-01-12",
+        "items": [
+            {
+                "description": "DESIGN",
+                "quantity": 1.0,
+                "price": 31.8,
+                "total_price": 31.8
+            },
+            {
+                "description": "FOAMBOARD 91\u00d746CM",
+                "quantity": 3.0,
+                "price": 63.6,
+                "total_price": 190.8
+            },
+            {
+                "description": "DESIGN",
+                "quantity": 2.0,
+                "price": 31.8,
+                "total_price": 63.6
+            },
+            {
+                "description": "ROLLUP BUNTING",
+                "quantity": 2.0,
+                "price": 178.08,
+                "total_price": 356.16
+            },
+            {
+                "description": "DESIGN",
+                "quantity": 1.0,
+                "price": 31.8,
+                "total_price": 31.8
+            },
+            {
+                "description": "FLYERS",
+                "quantity": 100.0,
+                "price": 0.73,
+                "total_price": 73.14
+            },
+            {
+                "description": "DEPOSIT (CS00489793)",
+                "quantity": 1.0,
+                "price": -647.3,
+                "total_price": -647.3
+            }
+        ],
+        "subtotal": 94.34,
+        "tax": 5.66,
+        "tip": null,
+        "total": 100.0
+    }
+]

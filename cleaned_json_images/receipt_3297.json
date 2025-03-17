@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "SOUP & PORRIDGE",
+        "receipt_type": "receipt.retailMeal",
+        "total": 20.7,
+        "date": "2018-06-05",
+        "notes": "",
+        "recurring": false
+    }
+]

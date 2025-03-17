@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DOMINO'S PIZZA PERMAS JAYA",
+        "transaction_date": "2018-04-11",
+        "items": [
+            {
+                "description": "MCWBQ",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.8
+            },
+            {
+                "description": "REV\n(CAN)\nLVD1P-P:",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "6\"HT\n(KC)\nLVDIP-PS",
+                "quantity": 1.0,
+                "price": 9.2,
+                "total_price": 14.3
+            }
+        ],
+        "subtotal": 21.6,
+        "tax": 0.7,
+        "tip": null,
+        "total": 21.6
+    }
+]

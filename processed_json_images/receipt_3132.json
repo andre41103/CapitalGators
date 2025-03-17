@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "K STATIONERY & OFFICE SUPPLIES",
+        "transaction_date": "2017-07-15",
+        "items": [
+            {
+                "description": "CARD",
+                "quantity": 1.0,
+                "price": 148.0,
+                "total_price": 148.0
+            }
+        ],
+        "subtotal": 148.0,
+        "tax": 8.38,
+        "tip": null,
+        "total": 148.0
+    }
+]

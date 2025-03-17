@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "THREE STOOGES",
+        "receipt_type": "receipt.retailMeal",
+        "total": 343.95,
+        "date": "2018-03-12",
+        "notes": "",
+        "recurring": false
+    }
+]

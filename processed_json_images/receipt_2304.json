@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "S.H.H. MOTOR ( SUNGAI RENGIT ) SDN. BHD.",
+        "transaction_date": "2019-01-23",
+        "items": [
+            {
+                "description": "CROCS 300\u00d717 TUBES",
+                "quantity": 1.0,
+                "price": 20.0,
+                "total_price": 20.0
+            }
+        ],
+        "subtotal": 20.0,
+        "tax": null,
+        "tip": null,
+        "total": 20.0
+    }
+]

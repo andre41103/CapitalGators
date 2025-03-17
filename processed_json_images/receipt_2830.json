@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BEMED (SP) SDN. BHD.",
+        "transaction_date": "2017-01-20",
+        "items": [
+            {
+                "description": "ALPHA LIPID LIFE LINE 450MG 450G",
+                "quantity": 1.0,
+                "price": 165.0,
+                "total_price": 165.3
+            },
+            {
+                "description": "DR FIT VEGE HIGH FIBER 15'SX12G",
+                "quantity": 1.0,
+                "price": 33.0,
+                "total_price": 388.0
+            }
+        ],
+        "subtotal": 203.0,
+        "tax": 11.48,
+        "tip": null,
+        "total": 203.0
+    }
+]

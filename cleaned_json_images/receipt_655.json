@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Brookwood House Hotel",
+        "receipt_type": "receipt.hotel",
+        "total": 32.31,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

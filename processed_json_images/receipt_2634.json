@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Derbang Alaf Restaurants Sdn Bhd",
+        "transaction_date": "2018-03-02",
+        "items": [
+            {
+                "description": "L McChicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.1
+            },
+            {
+                "description": "6Nuggets",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "AyamGoreng(TA)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.61,
+        "tip": null,
+        "total": 28.5
+    }
+]

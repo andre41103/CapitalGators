@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2016-05-06",
+        "items": [
+            {
+                "description": "WASH MITT 402\nJD62/3 - 6/240",
+                "quantity": 1.0,
+                "price": 4.3,
+                "total_price": 4.3
+            },
+            {
+                "description": "STICKER WS-SB\nPB21 - 20/800",
+                "quantity": 1.0,
+                "price": 5.5,
+                "total_price": 5.5
+            },
+            {
+                "description": "EMERGENCY LIGHT LE0716\nNE51/2/3 - 60",
+                "quantity": 1.0,
+                "price": 16.9,
+                "total_price": 16.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.51,
+        "tip": null,
+        "total": 26.7
+    }
+]

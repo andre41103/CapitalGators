@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "DAIKO",
+        "receipt_type": "receipt.retailMeal",
+        "total": 58.95,
+        "date": "2017-04-15",
+        "notes": "",
+        "recurring": false
+    }
+]

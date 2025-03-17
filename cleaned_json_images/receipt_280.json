@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "GUMBOSHOP",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": "2017-05-20",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B",
+        "transaction_date": "2017-11-22",
+        "items": [
+            {
+                "description": "HELANG MINYAK MASAK SKG",
+                "quantity": 2.0,
+                "price": 24.35,
+                "total_price": 48.7
+            },
+            {
+                "description": "JASMINE SUPER S SPECIA",
+                "quantity": null,
+                "price": null,
+                "total_price": 29.9
+            },
+            {
+                "description": "GREENLINK BIOTECH BRIKE",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.4
+            },
+            {
+                "description": "LIFEBUOY COOL FRESH SO",
+                "quantity": 2.0,
+                "price": 6.99,
+                "total_price": 13.98
+            },
+            {
+                "description": "PIPIT BLEACH 2$1KG TP",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.2
+            },
+            {
+                "description": "FAB PERFECT BAR (B) 130",
+                "quantity": 10.0,
+                "price": 0.9,
+                "total_price": 9.0
+            },
+            {
+                "description": "NESCAFE CLASSIC ARABICA",
+                "quantity": 3.0,
+                "price": 22.6,
+                "total_price": 67.8
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 181.98
+    }
+]

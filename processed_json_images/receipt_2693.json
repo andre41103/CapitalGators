@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "URBAN IDEA SDN BHD",
+        "transaction_date": "2018-02-14",
+        "items": [
+            {
+                "description": "(MY) EDV Meal",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.9
+            }
+        ],
+        "subtotal": 11.9,
+        "tax": 0.67,
+        "tip": null,
+        "total": 11.9
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ENW Hardware Centre (M) Sdn. 3hd.",
+        "transaction_date": "2018-04-13",
+        "items": [
+            {
+                "description": "S10 Starter.",
+                "quantity": 5.0,
+                "price": 1.0,
+                "total_price": 5.0
+            },
+            {
+                "description": "1L. 6627 Seamaster Super Glo.",
+                "quantity": 1.0,
+                "price": 22.0,
+                "total_price": 22.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.53,
+        "tip": null,
+        "total": 27.0
+    }
+]

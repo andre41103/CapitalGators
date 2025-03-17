@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)",
+        "transaction_date": "2018-01-15",
+        "items": [
+            {
+                "description": "HOES PIN",
+                "quantity": 3.0,
+                "price": 1.06,
+                "total_price": 3.18
+            },
+            {
+                "description": "4' HOES HANDLE",
+                "quantity": 1.0,
+                "price": 7.95,
+                "total_price": 7.95
+            }
+        ],
+        "subtotal": 10.5,
+        "tax": 0.63,
+        "tip": null,
+        "total": 11.13
+    }
+]

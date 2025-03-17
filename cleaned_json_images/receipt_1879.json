@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "GAYLORD LONDON",
+        "receipt_type": "receipt.retailMeal",
+        "total": 56.53,
+        "date": "2017-11-01",
+        "notes": "",
+        "recurring": false
+    }
+]

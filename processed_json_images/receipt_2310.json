@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SIN LIANHAP SDN BHD",
+        "transaction_date": "2018-02-05",
+        "items": [
+            {
+                "description": "PPD 4MM DENLIME",
+                "quantity": 1.0,
+                "price": 1.887,
+                "total_price": 2.0
+            },
+            {
+                "description": "6023# GARDEN",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 5.3
+            }
+        ],
+        "subtotal": 7.3,
+        "tax": 0.41,
+        "tip": null,
+        "total": 7.3
+    }
+]

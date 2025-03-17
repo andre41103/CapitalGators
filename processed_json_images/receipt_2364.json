@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2018-03-14",
+        "items": [
+            {
+                "description": "SOURING PAD 1018-4 48",
+                "quantity": 4.0,
+                "price": 2.8,
+                "total_price": 11.2
+            },
+            {
+                "description": "SCISSOR G/FISH",
+                "quantity": 2.0,
+                "price": 1.5,
+                "total_price": 3.0
+            },
+            {
+                "description": "TRAILING SKT 5GN+SP 3X1.25MM CABLE 2",
+                "quantity": 1.0,
+                "price": 22.9,
+                "total_price": 22.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.1,
+        "tip": null,
+        "total": 37.1
+    }
+]

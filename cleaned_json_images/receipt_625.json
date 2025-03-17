@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "LEDO PIZZA",
+        "receipt_type": "receipt.retailMeal",
+        "total": 16.94,
+        "date": "2014-09-20",
+        "notes": "",
+        "recurring": false
+    }
+]

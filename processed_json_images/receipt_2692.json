@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B",
+        "transaction_date": "2018-02-07",
+        "items": [
+            {
+                "description": "LYCHEES IN SYRUP 5",
+                "quantity": 3.0,
+                "price": 3.38,
+                "total_price": 10.14
+            },
+            {
+                "description": "CSR GULA 12*1KG^",
+                "quantity": null,
+                "price": null,
+                "total_price": 35.2
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 45.35
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Gerbang Alaf Restaurants Sdn Bhd",
+        "transaction_date": "2018-05-26",
+        "items": [
+            {
+                "description": "M SpicyDeluxe",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.95
+            },
+            {
+                "description": "McChicDeluxe",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "CheeseBurger",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 9.8
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.83,
+        "tip": null,
+        "total": 32.25
+    }
+]

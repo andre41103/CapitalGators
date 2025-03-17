@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "THE\nDEPOT",
+        "receipt_type": "receipt.retailMeal",
+        "total": 24.9,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

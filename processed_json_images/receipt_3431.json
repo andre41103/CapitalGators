@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "OCEAN LC PACKAGING ENTERPRISE",
+        "transaction_date": "2018-06-27",
+        "items": [
+            {
+                "description": "Others",
+                "quantity": 4.0,
+                "price": 38.0,
+                "total_price": 152.0
+            }
+        ],
+        "subtotal": 152.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 152.0
+    }
+]

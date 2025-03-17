@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B",
+        "transaction_date": "2017-11-20",
+        "items": [
+            {
+                "description": "PEDIASURE COMPLETE S3S",
+                "quantity": null,
+                "price": null,
+                "total_price": 117.9
+            },
+            {
+                "description": "MILO 2KG",
+                "quantity": null,
+                "price": null,
+                "total_price": 34.9
+            },
+            {
+                "description": "ZING HEING OAT & WHEAT",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.1
+            },
+            {
+                "description": "DISNEY DS112 WIDE NECK",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.89
+            },
+            {
+                "description": "JOHNSONS PRS.5 2IN1 BO",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.99
+            }
+        ],
+        "subtotal": null,
+        "tax": 9.61,
+        "tip": null,
+        "total": 169.78
+    }
+]

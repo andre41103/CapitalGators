@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "F W WOOLWORTH",
+        "receipt_type": "receipt.retailMeal",
+        "total": 19.34,
+        "date": "1997-09-20",
+        "notes": "",
+        "recurring": false
+    }
+]

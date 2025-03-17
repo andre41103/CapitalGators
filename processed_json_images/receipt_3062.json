@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KEDAI UEAT & RUNCIT HONG\nNING SDN. BHD.",
+        "transaction_date": "2016-12-21",
+        "items": [
+            {
+                "description": "BROWN CANDY 400G",
+                "quantity": 2.0,
+                "price": 2.3,
+                "total_price": 3.0
+            },
+            {
+                "description": "FORLUO HAN GUO (B)",
+                "quantity": 2.0,
+                "price": 1.42,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

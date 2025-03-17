@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Khansama Tandoori\nRestaurant",
+        "receipt_type": "receipt.retailMeal",
+        "total": 57.8,
+        "date": "2017-03-12",
+        "notes": "",
+        "recurring": false
+    }
+]

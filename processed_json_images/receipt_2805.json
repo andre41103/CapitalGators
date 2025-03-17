@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SEMBOYAN TEGAS SDN BHD",
+        "transaction_date": "2018-03-06",
+        "items": [
+            {
+                "description": "taucu kisar",
+                "quantity": 2.0,
+                "price": 6.5,
+                "total_price": 13.0
+            },
+            {
+                "description": "Teh wangi ros 180g",
+                "quantity": 2.0,
+                "price": 4.2,
+                "total_price": 8.4
+            },
+            {
+                "description": "ASAM JAWA 1KG",
+                "quantity": 1.0,
+                "price": 4.8,
+                "total_price": 4.8
+            }
+        ],
+        "subtotal": 26.2,
+        "tax": 0.78,
+        "tip": null,
+        "total": 27.0
+    }
+]

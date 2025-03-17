@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Reynolds PLC",
+        "receipt_type": "receipt.retailMeal",
+        "total": 362.42,
+        "date": "2015-12-13",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED WART S/B",
+        "transaction_date": "2017-05-10",
+        "items": [
+            {
+                "description": "CRISPI ROLL 12 GRAIN SE",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.85
+            },
+            {
+                "description": "CS 1002 A5 H/COVER NOT",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.65
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.65,
+        "tip": null,
+        "total": 11.5
+    }
+]

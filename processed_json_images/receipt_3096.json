@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "eCosway.com SDN BHD",
+        "transaction_date": "2016-07-29",
+        "items": [
+            {
+                "description": "(83F1)PM BATHROOM",
+                "quantity": 1.0,
+                "price": 26.7,
+                "total_price": 26.7
+            },
+            {
+                "description": "PM BATHROOM CLEANER",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "(A2F1)BG MASK",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 51.6
+            },
+            {
+                "description": "BIG HYDRATING SPA MASK",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "BG VISIBLY SOFT MILK",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 73.87,
+        "tax": 4.43,
+        "tip": null,
+        "total": 78.3
+    }
+]

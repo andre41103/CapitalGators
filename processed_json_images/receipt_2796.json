@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KING'S CONFECTIONERY S/B 273500-U (GK)",
+        "transaction_date": "2017-02-07",
+        "items": [
+            {
+                "description": "Portugues",
+                "quantity": 1.0,
+                "price": 9.9,
+                "total_price": 9.9
+            }
+        ],
+        "subtotal": 9.9,
+        "tax": 0.56,
+        "tip": null,
+        "total": 9.9
+    }
+]

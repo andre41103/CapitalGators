@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Cee Fine Thai",
+        "receipt_type": "receipt.retailMeal",
+        "total": 19.69,
+        "date": "2014-01-08",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)",
+        "transaction_date": "2018-01-02",
+        "items": [
+            {
+                "description": "8' 2 X 3",
+                "quantity": 1.0,
+                "price": 13.57,
+                "total_price": 13.57
+            },
+            {
+                "description": "7' X 35# CORRUGATED ROOFING SHEET",
+                "quantity": 4.0,
+                "price": 18.55,
+                "total_price": 74.2
+            },
+            {
+                "description": "NAIL (PER/PACK) - RM5",
+                "quantity": 1.0,
+                "price": 5.3,
+                "total_price": 5.3
+            }
+        ],
+        "subtotal": 87.8,
+        "tax": 5.27,
+        "tip": null,
+        "total": 93.07
+    }
+]

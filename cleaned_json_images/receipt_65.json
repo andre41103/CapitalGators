@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "IN-N-OUT BURGER ESCONDIDO",
+        "receipt_type": "receipt.retailMeal",
+        "total": 19.44,
+        "date": "2013-08-10",
+        "notes": "",
+        "recurring": false
+    }
+]

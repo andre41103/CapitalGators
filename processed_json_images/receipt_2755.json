@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ADVANCO COMPANY",
+        "transaction_date": "2018-02-28",
+        "items": [
+            {
+                "description": "UNICORN GLUE STICK USG-21G 2'S",
+                "quantity": 2.0,
+                "price": 5.8,
+                "total_price": 11.6
+            }
+        ],
+        "subtotal": 9.85,
+        "tax": 0.59,
+        "tip": null,
+        "total": 10.45
+    }
+]

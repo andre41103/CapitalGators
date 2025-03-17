@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SOUP & PORRIDGE",
+        "transaction_date": "2018-06-05",
+        "items": [
+            {
+                "description": "MEE GRG BERLAUK",
+                "quantity": 1.0,
+                "price": 7.0,
+                "total_price": 7.0
+            },
+            {
+                "description": "TEH O AIS",
+                "quantity": 1.0,
+                "price": 1.6,
+                "total_price": 1.6
+            },
+            {
+                "description": "TEH TARIK",
+                "quantity": 1.0,
+                "price": 1.5,
+                "total_price": 1.5
+            },
+            {
+                "description": "TEH O AIS",
+                "quantity": 1.0,
+                "price": 1.6,
+                "total_price": 1.6
+            },
+            {
+                "description": "MIHUN GRG BERLAUK",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 5.0
+            },
+            {
+                "description": "MIHUN GORENG",
+                "quantity": 1.0,
+                "price": 4.0,
+                "total_price": 4.0
+            }
+        ],
+        "subtotal": 20.7,
+        "tax": 0.0,
+        "tip": null,
+        "total": 20.7
+    }
+]

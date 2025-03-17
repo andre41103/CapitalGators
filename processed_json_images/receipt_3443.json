@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PASARAYA\nBORONG PINTAR SDN BHD",
+        "transaction_date": "2018-03-14",
+        "items": [
+            {
+                "description": "GB CR-CORN\nWALK",
+                "quantity": 1.0,
+                "price": 0.9,
+                "total_price": 0.9
+            }
+        ],
+        "subtotal": 0.9,
+        "tax": 0.9,
+        "tip": null,
+        "total": null
+    }
+]

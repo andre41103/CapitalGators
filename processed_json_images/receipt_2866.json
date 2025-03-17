@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Gerbang Alaf Restaurants Sdn Bhd",
+        "transaction_date": "2017-04-30",
+        "items": [
+            {
+                "description": "L DbleCheese",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.1
+            },
+            {
+                "description": "DoubleCheese",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.7
+            },
+            {
+                "description": "L AyamGoreng",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.25
+            },
+            {
+                "description": "L 9Nuggets",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.1
+            }
+        ],
+        "subtotal": 47.15,
+        "tax": 2.67,
+        "tip": null,
+        "total": -15.0
+    }
+]

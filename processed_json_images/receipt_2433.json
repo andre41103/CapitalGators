@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PASARAYA\nBORONG PINTAR SDN BHD",
+        "transaction_date": "2018-01-30",
+        "items": [
+            {
+                "description": "REVIVE 500ML",
+                "quantity": 1.0,
+                "price": 1.7,
+                "total_price": 1.7
+            }
+        ],
+        "subtotal": 1.7,
+        "tax": 0.0,
+        "tip": null,
+        "total": 1.7
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "ZOCA RESTAURANT",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": "2019-07-30",
+        "notes": "",
+        "recurring": false
+    }
+]

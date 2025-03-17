@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2018-04-19",
+        "items": [
+            {
+                "description": "DOUBLE EXT BOX 10Y 40/016 CBD4110\nWA29 - 20",
+                "quantity": 1.0,
+                "price": 25.9,
+                "total_price": 25.9
+            },
+            {
+                "description": "SPONGE S/MAGIC 4S\nGB06 - 24/288",
+                "quantity": 1.0,
+                "price": 0.9,
+                "total_price": 0.9
+            },
+            {
+                "description": "SPONGE MESH F004-4S\nBD52 - 10/100",
+                "quantity": 1.0,
+                "price": 2.3,
+                "total_price": 2.3
+            },
+            {
+                "description": "COLANDER RM20202#\nBQ21-31/2 - 12/144",
+                "quantity": 1.0,
+                "price": 5.5,
+                "total_price": 5.5
+            },
+            {
+                "description": "PLASTIC BAGS",
+                "quantity": 1.0,
+                "price": 0.2,
+                "total_price": 0.2
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 34.8
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Restaurant at Elderberry Pond",
+        "receipt_type": "receipt.retailMeal",
+        "total": 43.74,
+        "date": "2017-04-13",
+        "notes": "",
+        "recurring": false
+    }
+]

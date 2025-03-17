@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Morganfield's\u00ae",
+        "transaction_date": "2018-03-23",
+        "items": [
+            {
+                "description": "Ribs Platter",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 259.9
+            },
+            {
+                "description": "Naughty Spare Rib - Full\nSlab",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 106.9
+            },
+            {
+                "description": "Apple - 350ml",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.9
+            },
+            {
+                "description": "Sour Apple Mojito",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.9
+            },
+            {
+                "description": "Berry Easy",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.9
+            },
+            {
+                "description": "Aust Rib-eye Steak",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 74.9
+            },
+            {
+                "description": "Fruity Garden Salad",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 21.9
+            },
+            {
+                "description": "HH Asahi 1+1/2",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 77.8
+            }
+        ],
+        "subtotal": 593.1,
+        "tax": 33.57,
+        "tip": null,
+        "total": 593.1
+    }
+]

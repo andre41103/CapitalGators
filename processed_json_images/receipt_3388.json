@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MIZU MENTAI SDN. BHD.",
+        "transaction_date": "2018-06-04",
+        "items": [
+            {
+                "description": "Green Tea",
+                "quantity": 3.0,
+                "price": 1.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "Unagi Temaki",
+                "quantity": 1.0,
+                "price": 5.8,
+                "total_price": 5.8
+            },
+            {
+                "description": "Tori Teriyaki Don",
+                "quantity": 1.0,
+                "price": 12.8,
+                "total_price": 12.8
+            },
+            {
+                "description": "Shiro Ramen",
+                "quantity": 2.0,
+                "price": 12.8,
+                "total_price": 25.6
+            },
+            {
+                "description": "Sushi Yellow",
+                "quantity": 5.0,
+                "price": 1.8,
+                "total_price": 9.0
+            },
+            {
+                "description": "Sushi Red",
+                "quantity": 2.0,
+                "price": 2.8,
+                "total_price": 5.6
+            }
+        ],
+        "subtotal": 61.8,
+        "tax": 0.0,
+        "tip": 6.18,
+        "total": 68.0
+    }
+]

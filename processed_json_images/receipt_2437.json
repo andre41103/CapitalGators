@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AEON CO. (M) BHD",
+        "transaction_date": "2018-02-19",
+        "items": [
+            {
+                "description": "SAKUMASHIKIDROP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.9
+            },
+            {
+                "description": "BINDER CLIP -BL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.9
+            },
+            {
+                "description": "150YEN CAR NECK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.9
+            }
+        ],
+        "subtotal": 17.7,
+        "tax": 0.99,
+        "tip": null,
+        "total": 17.7
+    }
+]

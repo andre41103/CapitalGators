@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "C W KHOO HARDWARE SDN BHD",
+        "transaction_date": "2018-05-04",
+        "items": [
+            {
+                "description": "2032 'ENERGIZER' BATTERY (PC)",
+                "quantity": 1.0,
+                "price": 6.4,
+                "total_price": 6.4
+            },
+            {
+                "description": "9V 'ENERGIZER' BATTERY(522BP1G)",
+                "quantity": 1.0,
+                "price": 11.53,
+                "total_price": 11.53
+            }
+        ],
+        "subtotal": 17.93,
+        "tax": null,
+        "tip": null,
+        "total": 19.01
+    }
+]

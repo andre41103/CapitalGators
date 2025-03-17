@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "UNIHAKKA INTERNATIONAL SDN BHD",
+        "transaction_date": "2018-05-27",
+        "items": [
+            {
+                "description": "Herbal Tea (Iced)",
+                "quantity": 1.0,
+                "price": 2.0,
+                "total_price": 2.0
+            },
+            {
+                "description": "1 Meat + 3 Vege",
+                "quantity": 1.0,
+                "price": 7.1,
+                "total_price": 7.1
+            },
+            {
+                "description": "Imported Veggies",
+                "quantity": 1.0,
+                "price": 1.6,
+                "total_price": 1.6
+            }
+        ],
+        "subtotal": 10.7,
+        "tax": null,
+        "tip": null,
+        "total": 10.7
+    }
+]

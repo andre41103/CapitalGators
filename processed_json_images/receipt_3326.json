@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "OLD TOWN WHITE COFFE",
+        "transaction_date": "2018-06-03",
+        "items": [
+            {
+                "description": "SN2 Soup Pan Mee",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.9
+            },
+            {
+                "description": "ST8",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.97
+            },
+            {
+                "description": "SNB Sp Nod Special",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "WCI (C) WC",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "VAS French Fries Bkt",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.15
+            }
+        ],
+        "subtotal": 25.47,
+        "tax": null,
+        "tip": 2.55,
+        "total": 28.0
+    }
+]

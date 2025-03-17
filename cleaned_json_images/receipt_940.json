@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "UNO",
+        "receipt_type": "receipt.retailMeal",
+        "total": 34.02,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

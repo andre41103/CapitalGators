@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PINGHWAI TRADING SDN BHD",
+        "transaction_date": "2017-09-30",
+        "items": [
+            {
+                "description": "UDANG KERING",
+                "quantity": null,
+                "price": 39.0,
+                "total_price": 616.59
+            }
+        ],
+        "subtotal": 616.59,
+        "tax": 0.0,
+        "tip": null,
+        "total": 616.6
+    }
+]

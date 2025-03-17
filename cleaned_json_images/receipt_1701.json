@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Misken Levant Kitchen",
+        "receipt_type": "receipt.retailMeal",
+        "total": 251.0,
+        "date": "2014-12-13",
+        "notes": "",
+        "recurring": false
+    }
+]

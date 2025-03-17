@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "POPULAR BOOK\nCO. (M) SDN BHD",
+        "transaction_date": "2018-03-11",
+        "items": [
+            {
+                "description": "DOCUMENT HOL A4 9101A-Tra",
+                "quantity": 5.0,
+                "price": 1.15,
+                "total_price": 5.7
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.33,
+        "tip": null,
+        "total": 5.75
+    }
+]

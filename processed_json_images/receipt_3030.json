@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GARDENIA BAKERIES (KL) SDN BHD",
+        "transaction_date": "2017-10-29",
+        "items": [
+            {
+                "description": "O.C. WHITE",
+                "quantity": 9.0,
+                "price": 2.13,
+                "total_price": 19.17
+            },
+            {
+                "description": "WHOLEMEAL",
+                "quantity": 6.0,
+                "price": 2.78,
+                "total_price": 16.68
+            },
+            {
+                "description": "O.C JUMBO",
+                "quantity": 3.0,
+                "price": 2.97,
+                "total_price": 8.91
+            },
+            {
+                "description": "TWIG-CHOC",
+                "quantity": 10.0,
+                "price": 1.33,
+                "total_price": 13.3
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 58.86
+    }
+]

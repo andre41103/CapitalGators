@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Segi Cash & Carry Sdn. Bhd.",
+        "transaction_date": "2017-04-06",
+        "items": [
+            {
+                "description": "MIGHTY MARK DISHWASH . 11L",
+                "quantity": 2.0,
+                "price": 11.5,
+                "total_price": 23.0
+            },
+            {
+                "description": "MIGHTY MARK BLEACH 10L",
+                "quantity": 2.0,
+                "price": 11.5,
+                "total_price": 23.0
+            },
+            {
+                "description": "GARDENIA SOMMERSET COTTAGE 300G",
+                "quantity": 1.0,
+                "price": 4.45,
+                "total_price": 4.45
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.85,
+        "tip": null,
+        "total": 50.45
+    }
+]

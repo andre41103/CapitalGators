@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KEDAI PAPAN YEW CHUAN",
+        "transaction_date": "2018-05-26",
+        "items": [
+            {
+                "description": "SILING PRIMP 1X9 (B)",
+                "quantity": 5.0,
+                "price": 23.0,
+                "total_price": 121.9
+            }
+        ],
+        "subtotal": 115.0,
+        "tax": 6.9,
+        "tip": null,
+        "total": 121.9
+    }
+]

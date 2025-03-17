@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Segi Cash & Carry Sdn.Bhd",
+        "transaction_date": "2017-02-06",
+        "items": [
+            {
+                "description": "KJ ESSENCE MERAH CERAH 25G",
+                "quantity": 5.0,
+                "price": 2.44,
+                "total_price": 12.19
+            },
+            {
+                "description": "STAR ORANGE FLAVOUR 25ML",
+                "quantity": 3.0,
+                "price": 2.49,
+                "total_price": 7.47
+            },
+            {
+                "description": "KJ ESSENCE HIJAU EPAL 25G",
+                "quantity": 3.0,
+                "price": 2.44,
+                "total_price": 7.32
+            }
+        ],
+        "subtotal": 26.98,
+        "tax": 1.53,
+        "tip": null,
+        "total": 27.0
+    }
+]

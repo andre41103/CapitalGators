@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TED HENG STATIONERY & BOOKS",
+        "transaction_date": "2018-01-29",
+        "items": [
+            {
+                "description": "CARBON PAPER",
+                "quantity": 2.0,
+                "price": 0.5,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 1.0,
+        "tax": 0.06,
+        "tip": null,
+        "total": 1.05
+    }
+]

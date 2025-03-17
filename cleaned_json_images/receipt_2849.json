@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "First City Parking Sdn Bhd",
+        "receipt_type": "receipt.parking",
+        "total": 7.0,
+        "date": "2018-04-16",
+        "notes": "",
+        "recurring": false
+    }
+]

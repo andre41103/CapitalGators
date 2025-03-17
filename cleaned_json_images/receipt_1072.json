@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "WAL-MART\u00ae",
+        "receipt_type": "receipt.retailMeal",
+        "total": 26.12,
+        "date": "2003-02-14",
+        "notes": "",
+        "recurring": false
+    }
+]

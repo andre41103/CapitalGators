@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+        "transaction_date": "2018-06-15",
+        "items": [
+            {
+                "description": "STEEL WOOL SH-2#\nEZ03 - 12/144",
+                "quantity": 5.0,
+                "price": 1.79,
+                "total_price": 8.95
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 8.95
+    }
+]

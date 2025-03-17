@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MAKASSAR FRESH MARKET SDN BHD",
+        "transaction_date": "2017-08-18",
+        "items": [
+            {
+                "description": "O.C. WHITE",
+                "quantity": 2.0,
+                "price": 2.13,
+                "total_price": 4.26
+            },
+            {
+                "description": "WHOLEMEAL",
+                "quantity": -1.0,
+                "price": 2.78,
+                "total_price": -2.78
+            },
+            {
+                "description": "O.C JUMBO",
+                "quantity": null,
+                "price": 2.97,
+                "total_price": 0.0
+            },
+            {
+                "description": "BONZ SAVER",
+                "quantity": -6.0,
+                "price": 2.97,
+                "total_price": -17.82
+            },
+            {
+                "description": "CR-CHOCLT",
+                "quantity": 13.0,
+                "price": 0.72,
+                "total_price": 9.36
+            }
+        ],
+        "subtotal": 9.36,
+        "tax": 0.56,
+        "tip": null,
+        "total": -6.42
+    }
+]

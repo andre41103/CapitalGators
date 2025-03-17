@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B (519537-X)",
+        "transaction_date": "2017-05-21",
+        "items": [
+            {
+                "description": "AJINOMOTO 1KG",
+                "quantity": 2.0,
+                "price": 10.4,
+                "total_price": 20.8
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.18,
+        "tip": null,
+        "total": 20.8
+    }
+]

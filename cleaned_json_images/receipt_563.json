@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Bubba Gump Shrimp Co",
+        "receipt_type": "receipt.retailMeal",
+        "total": 71.15,
+        "date": "2018-06-28",
+        "notes": "",
+        "recurring": false
+    }
+]

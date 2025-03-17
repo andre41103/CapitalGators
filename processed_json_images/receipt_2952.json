@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "WESTERN EASTERN\n- STATIONERY SDN. BHD",
+        "transaction_date": "2018-04-26",
+        "items": [
+            {
+                "description": "CLR P.S A4/A3",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "B/W P.S A4/A3",
+                "quantity": null,
+                "price": null,
+                "total_price": 35.88
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.43,
+        "tip": null,
+        "total": 42.88
+    }
+]

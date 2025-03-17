@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Aneka Intertrade Marketing Sdn Bhd",
+        "transaction_date": "2016-05-19",
+        "items": [
+            {
+                "description": "Samudra Bun 180g Blueberry",
+                "quantity": null,
+                "price": 3.05,
+                "total_price": 3.05
+            },
+            {
+                "description": "SIEW PAK CHOY +/- ikat",
+                "quantity": null,
+                "price": 2.0,
+                "total_price": 3.78
+            }
+        ],
+        "subtotal": 6.83,
+        "tax": null,
+        "tip": null,
+        "total": 6.85
+    }
+]

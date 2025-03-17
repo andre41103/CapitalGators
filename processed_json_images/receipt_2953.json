@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Roti\nman\nbakery",
+        "transaction_date": "2013-05-04",
+        "items": [
+            {
+                "description": "Bacon",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.9
+            },
+            {
+                "description": "Walnut Raisin",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.6
+            },
+            {
+                "description": "Dark Rye Bun",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.9
+            }
+        ],
+        "subtotal": 20.4,
+        "tax": null,
+        "tip": null,
+        "total": 20.4
+    }
+]

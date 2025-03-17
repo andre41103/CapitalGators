@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RESTORAN WAN SHENG",
+        "transaction_date": "2018-03-14",
+        "items": [
+            {
+                "description": "Kopi 0 (B)",
+                "quantity": 1.0,
+                "price": 2.1,
+                "total_price": 2.1
+            },
+            {
+                "description": "Take Away",
+                "quantity": 1.0,
+                "price": 0.2,
+                "total_price": 0.2
+            }
+        ],
+        "subtotal": 2.17,
+        "tax": null,
+        "tip": null,
+        "total": 2.3
+    }
+]

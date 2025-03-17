@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "FTOF NOODLE HOUSE",
+        "transaction_date": "2018-05-21",
+        "items": [
+            {
+                "description": "711-Omega Half Boiled Egg",
+                "quantity": 1.0,
+                "price": 3.2,
+                "total_price": 3.2
+            },
+            {
+                "description": "706-Toasted Bread (Homemade Kaya)",
+                "quantity": 1.0,
+                "price": 4.3,
+                "total_price": 4.3
+            },
+            {
+                "description": "837-Honey Lemon (Hot)",
+                "quantity": 1.0,
+                "price": 3.9,
+                "total_price": 3.9
+            },
+            {
+                "description": "838-Honey Lemon (Cold)\n2022-House Specialty Hot & Spicy",
+                "quantity": 1.0,
+                "price": 4.2,
+                "total_price": 4.2
+            },
+            {
+                "description": "Pan Mee (Dry) (b)\n2021-House Specialty Hot & Spicy",
+                "quantity": 1.0,
+                "price": 8.0,
+                "total_price": 8.0
+            },
+            {
+                "description": "Pan Mee (Dry) (a)",
+                "quantity": 1.0,
+                "price": 8.0,
+                "total_price": 8.0
+            }
+        ],
+        "subtotal": 31.6,
+        "tax": 1.79,
+        "tip": null,
+        "total": 31.6
+    }
+]

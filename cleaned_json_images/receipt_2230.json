@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "SUPREME",
+        "receipt_type": "receipt.retailMeal",
+        "total": 621.0,
+        "date": "2017-03-09",
+        "notes": "",
+        "recurring": false
+    }
+]

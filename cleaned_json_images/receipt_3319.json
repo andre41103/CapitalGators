@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "CHEF HENRY RIBS HOUSE",
+        "receipt_type": "receipt.retailMeal",
+        "total": 103.85,
+        "date": "2018-06-05",
+        "notes": "",
+        "recurring": false
+    }
+]

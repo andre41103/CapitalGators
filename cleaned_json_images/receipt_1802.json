@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Cooley Ltd",
+        "receipt_type": "receipt.retailMeal",
+        "total": 749.99,
+        "date": "2016-01-28",
+        "notes": "",
+        "recurring": false
+    }
+]

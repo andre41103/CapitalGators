@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THONG RECIPE",
+        "transaction_date": "2018-06-27",
+        "items": [
+            {
+                "description": "SET C RM49.90",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 49.9
+            },
+            {
+                "description": "HERBAL TEA / BARLI MADU",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 6.0
+            }
+        ],
+        "subtotal": 55.9,
+        "tax": null,
+        "tip": null,
+        "total": 58.7
+    }
+]

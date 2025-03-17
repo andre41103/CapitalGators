@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AEON CO. (M) BHD",
+        "transaction_date": "2018-04-20",
+        "items": [
+            {
+                "description": "CISSY CRACKER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.74
+            },
+            {
+                "description": "NIVEA SUN LOTI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 38.8
+            }
+        ],
+        "subtotal": 46.54,
+        "tax": 2.64,
+        "tip": null,
+        "total": 46.54
+    }
+]

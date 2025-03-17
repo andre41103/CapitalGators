@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DOMINO'S PIZZA PERMAS JAYA",
+        "transaction_date": "2018-04-27",
+        "items": [
+            {
+                "description": "6\"HT\n(KB)\nP50C-PSI",
+                "quantity": 1.0,
+                "price": 15.6,
+                "total_price": null
+            }
+        ],
+        "subtotal": 15.6,
+        "tax": 0.41,
+        "tip": null,
+        "total": 15.6
+    }
+]

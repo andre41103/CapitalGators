@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "\u0e23\u0e35\u0e48\u0e2d\u0e39\u0e20\u0e32\u0e13\u0e38\u0e43\u0e14 \u0e01\u0e32\u0e23\u0e22\u0e39 \u0e23\u0e34\u0e19 \u0e2a\u0e4d",
+        "receipt_type": "receipt.retailMeal",
+        "total": 40000.0,
+        "date": "2017-01-28",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "NAM SAN SEOUL KOREAN BBQ",
+        "transaction_date": "2018-06-19",
+        "items": [
+            {
+                "description": "M(Budae Jjigae)",
+                "quantity": 1.0,
+                "price": 70.0,
+                "total_price": 70.0
+            },
+            {
+                "description": "(Kimbab)",
+                "quantity": 1.0,
+                "price": 16.0,
+                "total_price": 16.0
+            },
+            {
+                "description": "(Seafood Pancake)",
+                "quantity": 1.0,
+                "price": 25.0,
+                "total_price": 25.0
+            },
+            {
+                "description": "(PorkCutlet)",
+                "quantity": 1.0,
+                "price": 20.0,
+                "total_price": 20.0
+            },
+            {
+                "description": "(SteamedRice)",
+                "quantity": 2.0,
+                "price": 4.0,
+                "total_price": 8.0
+            }
+        ],
+        "subtotal": 139.0,
+        "tax": null,
+        "tip": 13.9,
+        "total": 152.9
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2018-05-03",
+        "items": [
+            {
+                "description": "ARTLINE WHITEBOARD MAKER PEN 500A (R",
+                "quantity": 1.0,
+                "price": 3.1,
+                "total_price": 3.1
+            },
+            {
+                "description": "ARTLINE WHITEBOARD MAKER PEN 500A (B",
+                "quantity": 1.0,
+                "price": 3.1,
+                "total_price": 3.1
+            },
+            {
+                "description": "MAGNETIC WHITEBOARD LD001# 120*90CM",
+                "quantity": 1.0,
+                "price": 63.0,
+                "total_price": 63.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.92,
+        "tip": null,
+        "total": 69.2
+    }
+]

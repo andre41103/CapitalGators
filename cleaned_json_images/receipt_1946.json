@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "alVicolo",
+        "receipt_type": "receipt.retailMeal",
+        "total": 95.35,
+        "date": "2018-02-17",
+        "notes": "",
+        "recurring": false
+    }
+]

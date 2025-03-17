@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DOMINO'S PIZZA TAMAN UNIVERSITI",
+        "transaction_date": "2018-04-28",
+        "items": [
+            {
+                "description": "PLSB-R",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.2
+            },
+            {
+                "description": "RCD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.5
+            },
+            {
+                "description": "PEP\n(CAN)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "PEP\n(CAN)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "T/B",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "9\"HT\n(AC)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 27.8
+            }
+        ],
+        "subtotal": 57.0,
+        "tax": 17.4,
+        "tip": null,
+        "total": 57.0
+    }
+]

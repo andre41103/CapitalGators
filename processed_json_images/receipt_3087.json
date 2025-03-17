@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2016-01-08",
+        "items": [
+            {
+                "description": "CUSHION 43*43CM",
+                "quantity": 1.0,
+                "price": 14.9,
+                "total_price": 14.9
+            },
+            {
+                "description": "COLANDER 12610#*VS",
+                "quantity": 1.0,
+                "price": 5.9,
+                "total_price": 5.9
+            },
+            {
+                "description": "S/S SQUARE STAND SSB0775-A#",
+                "quantity": 1.0,
+                "price": 6.5,
+                "total_price": 6.5
+            },
+            {
+                "description": "POT HOLDER (SQUARE)",
+                "quantity": 5.0,
+                "price": 2.5,
+                "total_price": 12.5
+            },
+            {
+                "description": "MOSQUITO RACKET 108#",
+                "quantity": 1.0,
+                "price": 13.5,
+                "total_price": 13.5
+            },
+            {
+                "description": "STEMGLASS STO1-9AW/6WGB-CG 8ST 9oz",
+                "quantity": 1.0,
+                "price": 24.9,
+                "total_price": 24.9
+            },
+            {
+                "description": "MOSQUITO RACKET 108#",
+                "quantity": -1.0,
+                "price": 13.5,
+                "total_price": -13.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.66,
+        "tip": null,
+        "total": 64.7
+    }
+]

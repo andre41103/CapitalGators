@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Sonic America's Drive-In",
+        "receipt_type": "receipt.retailMeal",
+        "total": 13.07,
+        "date": "2018-06-22",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Jogaya",
+        "transaction_date": "2017-08-05",
+        "items": [
+            {
+                "description": "FRUITS",
+                "quantity": 1.0,
+                "price": 24.0,
+                "total_price": 24.0
+            },
+            {
+                "description": "FRUITS",
+                "quantity": 1.0,
+                "price": 16.0,
+                "total_price": 16.0
+            }
+        ],
+        "subtotal": 40.0,
+        "tax": null,
+        "tip": null,
+        "total": 40.0
+    }
+]

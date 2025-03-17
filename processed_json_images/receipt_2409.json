@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CARREFOUR RESTAURANT",
+        "transaction_date": "2018-03-20",
+        "items": [
+            {
+                "description": "\u5e72\u7092\u6d77\u9bae\u6cb3\u7c89",
+                "quantity": 1.0,
+                "price": 10.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "\u8c46\u5976\u4ed9\u8349",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 13.0,
+        "tax": 0.78,
+        "tip": 0.0,
+        "total": 13.8
+    }
+]

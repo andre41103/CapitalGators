@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KEDAI PAPAN YEW CHUAN",
+        "transaction_date": "2018-04-02",
+        "items": [
+            {
+                "description": "PYE 921 PLASTER",
+                "quantity": 13.0,
+                "price": 18.0,
+                "total_price": 248.04
+            },
+            {
+                "description": "KAPUR AIR (A1)",
+                "quantity": 5.0,
+                "price": 3.0,
+                "total_price": 15.9
+            },
+            {
+                "description": "SPAN HANDLE",
+                "quantity": 3.0,
+                "price": 2.0,
+                "total_price": 6.36
+            }
+        ],
+        "subtotal": 255.0,
+        "tax": 15.3,
+        "tip": null,
+        "total": 270.3
+    }
+]

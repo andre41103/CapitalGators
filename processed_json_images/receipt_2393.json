@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PASAR MINI JIN SENG",
+        "transaction_date": "2018-03-18",
+        "items": [
+            {
+                "description": "VEGETABLES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.2
+            },
+            {
+                "description": "LTK OMEGA\nPLUS 105",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.7
+            },
+            {
+                "description": "VEGETABLES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "VEGETABLES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "VEGETABLES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "SEAFOOD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.5
+            },
+            {
+                "description": "FISH BALL / CAKE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.2
+            }
+        ],
+        "subtotal": 28.6,
+        "tax": null,
+        "tip": null,
+        "total": 28.6
+    }
+]

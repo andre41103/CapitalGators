@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Montgomery Ward",
+        "receipt_type": "receipt.retailMeal",
+        "total": 27.39,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

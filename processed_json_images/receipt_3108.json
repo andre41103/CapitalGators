@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2016-04-22",
+        "items": [
+            {
+                "description": "BISCUIT CONTAINER 1087S",
+                "quantity": 4.0,
+                "price": 8.9,
+                "total_price": 35.6
+            },
+            {
+                "description": "12 COLORS GOLD DUST",
+                "quantity": 1.0,
+                "price": 5.9,
+                "total_price": 5.9
+            },
+            {
+                "description": "HANGER CL45-Y5S\nBE32-51-71",
+                "quantity": 2.0,
+                "price": 7.5,
+                "total_price": 15.0
+            },
+            {
+                "description": "DENTAL FLOSS 2PCS FH01-2Y#*VS\nMG22",
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 2.5
+            },
+            {
+                "description": "SEAL PLASTIC 18PCS B7 13.8CM*9.8CM*V",
+                "quantity": 1.0,
+                "price": 2.9,
+                "total_price": 2.9
+            },
+            {
+                "description": "CURTAIN BAR-70CM",
+                "quantity": 2.0,
+                "price": 3.1,
+                "total_price": 6.2
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.85,
+        "tip": null,
+        "total": 68.1
+    }
+]

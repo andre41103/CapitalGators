@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TED HENG STATIONERY & BOOKS",
+        "transaction_date": "2018-01-15",
+        "items": [
+            {
+                "description": "CBE BADGE CLIP 100PCS",
+                "quantity": 1.0,
+                "price": 26.42,
+                "total_price": 24.0
+            },
+            {
+                "description": "NISO A4 LAMINATING FILM",
+                "quantity": 1.0,
+                "price": 28.0,
+                "total_price": 28.0
+            }
+        ],
+        "subtotal": 52.0,
+        "tax": 3.12,
+        "tip": null,
+        "total": 55.1
+    }
+]

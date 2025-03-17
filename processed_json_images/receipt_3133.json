@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SKL DAMANSARA ENTERPRISE",
+        "transaction_date": "2017-07-28",
+        "items": [
+            {
+                "description": "PTFE THREAD SEAL TAPE",
+                "quantity": 3.0,
+                "price": 1.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "VANCE GAS REFILL 50ML",
+                "quantity": 2.0,
+                "price": 12.9,
+                "total_price": 25.8
+            }
+        ],
+        "subtotal": 27.17,
+        "tax": null,
+        "tip": null,
+        "total": 28.8
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "PETRODELI ENTERPRISE",
+        "transaction_date": "2018-02-26",
+        "items": [
+            {
+                "description": "FuelSave 95",
+                "quantity": 39.42,
+                "price": 2.17,
+                "total_price": 85.54
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 85.54
+    }
+]

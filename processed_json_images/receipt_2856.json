@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TIMES BOOKSTORES",
+        "transaction_date": "2017-04-23",
+        "items": [
+            {
+                "description": "PILOT BP-IRT BALLPOINT PE",
+                "quantity": 1.0,
+                "price": 1.41,
+                "total_price": 1.49
+            },
+            {
+                "description": "PILOT FUDE MAKASE BRUSH P",
+                "quantity": 1.0,
+                "price": 5.56,
+                "total_price": 5.89
+            },
+            {
+                "description": "PILOT M.PENCIL S. GRIP 05#",
+                "quantity": 1.0,
+                "price": 4.71,
+                "total_price": 4.99
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 12.37
+    }
+]

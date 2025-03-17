@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "THE HOME DEPOT",
+        "receipt_type": "receipt.retailMeal",
+        "total": 52.0,
+        "date": "2013-03-30",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Mccormick and Sons",
+        "receipt_type": "receipt.retailMeal",
+        "total": 5459.75,
+        "date": "2013-11-22",
+        "notes": "",
+        "recurring": false
+    }
+]

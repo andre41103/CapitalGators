@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MEI LET RESTAURANT",
+        "transaction_date": "2017-02-03",
+        "items": [
+            {
+                "description": "PORK LEG VINEGAR(S)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20.0
+            },
+            {
+                "description": "TALAFIA - JIU PAJ STEAM (M)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "WATER / TEA",
+                "quantity": 4.0,
+                "price": 0.5,
+                "total_price": 2.0
+            }
+        ],
+        "subtotal": 65.0,
+        "tax": null,
+        "tip": null,
+        "total": 68.9
+    }
+]

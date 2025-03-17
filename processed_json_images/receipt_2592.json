@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MYDIN MART SRI MUDA",
+        "transaction_date": "2017-08-01",
+        "items": [
+            {
+                "description": "ABBA FILE HD CVR SILVER F4 404/A EA",
+                "quantity": 10.0,
+                "price": 5.7,
+                "total_price": 57.0
+            },
+            {
+                "description": "PAPER ONE COPIER PAPER A4 70GM 5 CAR",
+                "quantity": 1.0,
+                "price": 47.5,
+                "total_price": 47.5
+            },
+            {
+                "description": "PLASTIC BAG RMO.20",
+                "quantity": 2.0,
+                "price": 0.2,
+                "total_price": 0.4
+            },
+            {
+                "description": "QUALITY BRWN FILE, ASSRT\nEA",
+                "quantity": 2.0,
+                "price": 2.5,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 109.9
+    }
+]

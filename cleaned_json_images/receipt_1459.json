@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Baker Inc",
+        "receipt_type": "receipt.retailMeal",
+        "total": 309.1,
+        "date": "2018-05-26",
+        "notes": "",
+        "recurring": false
+    }
+]

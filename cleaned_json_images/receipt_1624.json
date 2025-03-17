@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Applewoods",
+        "receipt_type": "receipt.retailMeal",
+        "total": 93.33,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

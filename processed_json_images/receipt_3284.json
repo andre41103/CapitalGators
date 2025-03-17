@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AIK HUAT HARDWARE\nENTERPRISE (SETIA\nALAM) SDN BHD",
+        "transaction_date": "2017-09-12",
+        "items": [
+            {
+                "description": "7001 CZ LEVER (SINK TYPE SINK TAP",
+                "quantity": 1.0,
+                "price": 30.0,
+                "total_price": 30.0
+            }
+        ],
+        "subtotal": 30.0,
+        "tax": 1.7,
+        "tip": null,
+        "total": 30.0
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Lewis and Sons",
+        "receipt_type": "receipt.retailMeal",
+        "total": 13615.89,
+        "date": "2013-12-21",
+        "notes": "",
+        "recurring": false
+    }
+]

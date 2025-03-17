@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "UNIHAKKA INTERNATIONAL SDN BHD",
+        "transaction_date": "2018-06-13",
+        "items": [
+            {
+                "description": "2 Vege",
+                "quantity": 1.0,
+                "price": 3.11,
+                "total_price": 3.11
+            },
+            {
+                "description": "Chicken",
+                "quantity": 1.0,
+                "price": 3.49,
+                "total_price": 3.49
+            },
+            {
+                "description": "Imported Veggies",
+                "quantity": 1.0,
+                "price": 1.5,
+                "total_price": 1.5
+            },
+            {
+                "description": "Add Vegetable.(X)",
+                "quantity": 1.0,
+                "price": 0.75,
+                "total_price": 0.75
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 8.85
+    }
+]

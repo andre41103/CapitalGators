@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)",
+        "transaction_date": "2018-01-11",
+        "items": [
+            {
+                "description": "COTTON GLOVE (DOZEN)",
+                "quantity": 2.0,
+                "price": 10.6,
+                "total_price": 21.2
+            }
+        ],
+        "subtotal": 20.0,
+        "tax": 1.2,
+        "tip": null,
+        "total": 21.2
+    }
+]

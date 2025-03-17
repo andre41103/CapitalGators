@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "LEMON TREE RESTAURANT",
+        "receipt_type": "receipt.retailMeal",
+        "total": 10.3,
+        "date": "2018-01-06",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Fields and Sons",
+        "receipt_type": "receipt.retailMeal",
+        "total": 303.29,
+        "date": "2016-07-06",
+        "notes": "",
+        "recurring": false
+    }
+]

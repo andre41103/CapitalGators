@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Saizeriya",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": "2014-03-14",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Gerbang Alaf Restaurants Sdn Bhd",
+        "transaction_date": "2018-05-25",
+        "items": [
+            {
+                "description": "L FiletOFish",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.1
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.63,
+        "tip": null,
+        "total": 11.1
+    }
+]

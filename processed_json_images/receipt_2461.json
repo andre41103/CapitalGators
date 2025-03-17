@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "VIVOPAC MARKETING SDN BHD",
+        "transaction_date": "2017-01-17",
+        "items": [
+            {
+                "description": "PP - 14\u00d720 0.04mm",
+                "quantity": 1.0,
+                "price": 14.6,
+                "total_price": 14.6
+            },
+            {
+                "description": "PP - 16x26 0.04mm",
+                "quantity": 1.0,
+                "price": 14.6,
+                "total_price": 14.6
+            },
+            {
+                "description": "24 \u00d7 28 (75HT) Red",
+                "quantity": 1.0,
+                "price": 6.0,
+                "total_price": 6.0
+            },
+            {
+                "description": "26 x 33 (85HT) Red",
+                "quantity": 1.0,
+                "price": 8.0,
+                "total_price": 8.0
+            },
+            {
+                "description": "OPP Tapes",
+                "quantity": 1.0,
+                "price": 0.8,
+                "total_price": 0.8
+            }
+        ],
+        "subtotal": 44.0,
+        "tax": null,
+        "tip": null,
+        "total": 46.65
+    }
+]

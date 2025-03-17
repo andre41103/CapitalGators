@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BEMED (SP) SDN. BHD.",
+        "transaction_date": "2017-04-15",
+        "items": [
+            {
+                "description": "PRISTIN OMEGA-3 FISH OIL 2X150'S(V/P)",
+                "quantity": 1.0,
+                "price": 300.0,
+                "total_price": 300.0
+            },
+            {
+                "description": "ALPHA LIPID LIFE LINE 450MG 450G",
+                "quantity": 2.0,
+                "price": 105.0,
+                "total_price": 330.0
+            },
+            {
+                "description": "80-(DERMAPRO OINT) 15G",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 35.0,
+        "tax": 35.66,
+        "tip": null,
+        "total": 635.0
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "ROSS",
+        "receipt_type": "receipt",
+        "total": 100.0,
+        "date": "2016-07-25",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SUCI ALAM JAYA TRANSPORT",
+        "transaction_date": "2018-03-07",
+        "items": [
+            {
+                "description": "PASIR HALUS (D)",
+                "quantity": 1.0,
+                "price": 65.0,
+                "total_price": 68.9
+            },
+            {
+                "description": "KAPUR AIR (A1)",
+                "quantity": 7.0,
+                "price": 3.0,
+                "total_price": 22.26
+            }
+        ],
+        "subtotal": 86.0,
+        "tax": 5.16,
+        "tip": null,
+        "total": 91.16
+    }
+]

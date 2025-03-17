@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B",
+        "transaction_date": "2016-02-03",
+        "items": [
+            {
+                "description": "YONGCHUN LOKAM MANDARI",
+                "quantity": 6.0,
+                "price": 13.8,
+                "total_price": 82.8
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 82.8
+    }
+]

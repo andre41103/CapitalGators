@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PASARAYA CINWA SDN BHD",
+        "transaction_date": "2018-06-15",
+        "items": [
+            {
+                "description": "YELLOW ROCK SUGAR 250G",
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 2.5
+            },
+            {
+                "description": "GREEN BEAN\n280G",
+                "quantity": 1.0,
+                "price": 2.8,
+                "total_price": 2.8
+            },
+            {
+                "description": "ROYAL UMBRELLA BERAS WANGI 1KG",
+                "quantity": 1.0,
+                "price": 8.9,
+                "total_price": 8.9
+            }
+        ],
+        "subtotal": 14.2,
+        "tax": 0.0,
+        "tip": null,
+        "total": 14.2
+    }
+]

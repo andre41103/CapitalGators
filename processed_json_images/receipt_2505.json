@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SYARIKAT PERNIAGAAN GIN KEE",
+        "transaction_date": "2017-12-02",
+        "items": [
+            {
+                "description": "(W33) 105MM/4' CUTTING DISC",
+                "quantity": 1.0,
+                "price": 29.68,
+                "total_price": 29.68
+            }
+        ],
+        "subtotal": 28.0,
+        "tax": 1.68,
+        "tip": null,
+        "total": 29.68
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "EXXON",
+        "receipt_type": "receipt.retailMeal",
+        "total": 9.16,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

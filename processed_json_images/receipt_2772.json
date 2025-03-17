@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "POPULAR BOOK",
+        "transaction_date": "2018-02-27",
+        "items": [
+            {
+                "description": "DOCUMENT HOL A4 1486A-Tra",
+                "quantity": 2.0,
+                "price": 1.15,
+                "total_price": 2.3
+            },
+            {
+                "description": "PB PVC A4 L-FLD PBA41.25",
+                "quantity": 2.0,
+                "price": 3.9,
+                "total_price": 7.8
+            },
+            {
+                "description": "Canon Cal AS120V Grey",
+                "quantity": null,
+                "price": null,
+                "total_price": 29.9
+            },
+            {
+                "description": "Nasi'APR16/Seashore [BK]",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 40.99,
+        "tax": null,
+        "tip": null,
+        "total": 41.0
+    }
+]

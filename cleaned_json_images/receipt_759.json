@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Parker, Graham and Swanson",
+        "receipt_type": "receipt.retailMeal",
+        "total": 65.29,
+        "date": "2017-04-08",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AEON CO. (M) BHD",
+        "transaction_date": "2018-04-22",
+        "items": [
+            {
+                "description": "KIT KAT SHARE B",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.99
+            },
+            {
+                "description": "BERYLS TTOW",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 21.1
+            },
+            {
+                "description": "VH BOX 180G SE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.29
+            },
+            {
+                "description": "VH BOX 180G RA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.29
+            },
+            {
+                "description": "LINDT DT125",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 31.6
+            },
+            {
+                "description": "MILO NUGGETS FU",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.9
+            }
+        ],
+        "subtotal": 98.37,
+        "tax": 5.57,
+        "tip": null,
+        "total": 98.35
+    }
+]

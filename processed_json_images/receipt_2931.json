@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DOMINO'S PIZZA TAMAN UNIVERSITI",
+        "transaction_date": "2018-04-28",
+        "items": [
+            {
+                "description": "6\"HT\n(KB)\nLSF1-PSI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.6
+            },
+            {
+                "description": "6\"HT\n(KB)\nLSF1-PSI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.6
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 14.5
+            },
+            {
+                "description": "CWAH",
+                "quantity": 1.0,
+                "price": 14.8,
+                "total_price": 45.7
+            }
+        ],
+        "subtotal": 45.7,
+        "tax": 1.75,
+        "tip": null,
+        "total": null
+    }
+]

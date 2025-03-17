@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TONYMOLY VIVA CITY",
+        "transaction_date": "2018-03-29",
+        "items": [
+            {
+                "description": "WONDER CHEESE FIRMING CREAM\nEAC [SR]",
+                "quantity": 1.0,
+                "price": 69.9,
+                "total_price": 69.9
+            },
+            {
+                "description": "DISCOUNT 30%",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 48.93,
+        "tax": null,
+        "tip": null,
+        "total": 48.95
+    }
+]

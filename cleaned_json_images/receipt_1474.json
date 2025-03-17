@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Medina Inc",
+        "receipt_type": "receipt.retailMeal",
+        "total": 154.1,
+        "date": "2019-06-08",
+        "notes": "",
+        "recurring": false
+    }
+]

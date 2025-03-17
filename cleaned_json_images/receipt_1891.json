@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Taylor Ltd",
+        "receipt_type": "receipt.retailMeal",
+        "total": 68.16,
+        "date": "2016-02-02",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AIK HUAT HARDWARE\nENTERPRISE (SETIA\nALAM) SDN BHD",
+        "transaction_date": "2017-09-15",
+        "items": [
+            {
+                "description": "40MM 2K/BELLE PADLOCK ??",
+                "quantity": 3.0,
+                "price": 8.0,
+                "total_price": 24.0
+            }
+        ],
+        "subtotal": 24.0,
+        "tax": 1.36,
+        "tip": null,
+        "total": 24.0
+    }
+]

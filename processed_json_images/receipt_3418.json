@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B",
+        "transaction_date": "2018-01-28",
+        "items": [
+            {
+                "description": "COKE LIGHT 500ML",
+                "quantity": 2.0,
+                "price": 2.2,
+                "total_price": 4.4
+            },
+            {
+                "description": "SPRITZER MINERAL WATER",
+                "quantity": null,
+                "price": null,
+                "total_price": 23.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.57,
+        "tip": null,
+        "total": 27.9
+    }
+]

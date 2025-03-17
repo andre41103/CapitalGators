@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "FOOD OPERA\nPADANG PADANG",
+        "receipt_type": "receipt.retailMeal",
+        "total": 20.0,
+        "date": "2018-03-16",
+        "notes": "",
+        "recurring": false
+    }
+]

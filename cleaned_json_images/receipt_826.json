@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Barber Inc",
+        "receipt_type": "receipt",
+        "total": 2858.84,
+        "date": "2020-04-13",
+        "notes": "",
+        "recurring": false
+    }
+]

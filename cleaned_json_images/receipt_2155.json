@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "KOHL'S",
+        "receipt_type": "receipt.retailMeal",
+        "total": 49.7,
+        "date": "2011-07-24",
+        "notes": "",
+        "recurring": false
+    }
+]

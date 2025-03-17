@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Guardian Health And Beauty Sdn Bhd",
+        "transaction_date": "2017-08-16",
+        "items": [
+            {
+                "description": "\"MOPTICARE 500X3",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.78
+            },
+            {
+                "description": "\"\"OPTICARE 500X3",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.78
+            },
+            {
+                "description": "\"\"OPTICARE 500X3",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.78
+            },
+            {
+                "description": "\"OPTICARE 500X3",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.78
+            },
+            {
+                "description": "GDN PLASTIC BAG",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.2
+            },
+            {
+                "description": "HASK COND335 CHA",
+                "quantity": null,
+                "price": null,
+                "total_price": 39.01
+            },
+            {
+                "description": "COUNTERPAIN 30G",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.88
+            },
+            {
+                "description": "SALONPAS 1*10S",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 108.21,
+        "tax": 6.13,
+        "tip": null,
+        "total": 108.21
+    }
+]

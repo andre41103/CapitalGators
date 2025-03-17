@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "TACO SHOP",
+        "receipt_type": "receipt.retailMeal",
+        "total": 8.1,
+        "date": "2015-02-16",
+        "notes": "",
+        "recurring": false
+    }
+]

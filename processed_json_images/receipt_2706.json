@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2018-03-28",
+        "items": [
+            {
+                "description": "COPPER BASIN PILLAR TAP B",
+                "quantity": 1.0,
+                "price": 29.9,
+                "total_price": 29.9
+            },
+            {
+                "description": "PADLOCK ST-P6140 40MM",
+                "quantity": 1.0,
+                "price": 8.9,
+                "total_price": 8.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.2,
+        "tip": null,
+        "total": 38.8
+    }
+]

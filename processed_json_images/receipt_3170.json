@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2018-04-11",
+        "items": [
+            {
+                "description": "OPENER SS MT-005\nAI31 - 12/108",
+                "quantity": 1.0,
+                "price": 8.8,
+                "total_price": 8.8
+            },
+            {
+                "description": "PLASTIC BAGS",
+                "quantity": 1.0,
+                "price": 0.2,
+                "total_price": 0.2
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.51,
+        "tip": null,
+        "total": 9.0
+    }
+]

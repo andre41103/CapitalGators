@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "POPULAR BOOK",
+        "transaction_date": "2018-01-12",
+        "items": [
+            {
+                "description": "70g P. Copy 450'S",
+                "quantity": 2.0,
+                "price": 13.69,
+                "total_price": 27.38
+            }
+        ],
+        "subtotal": 20.98,
+        "tax": 1.19,
+        "tip": null,
+        "total": 21.0
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "WEIGELS",
+        "receipt_type": "receipt.retailMeal",
+        "total": 8.28,
+        "date": "2015-02-12",
+        "notes": "",
+        "recurring": false
+    }
+]

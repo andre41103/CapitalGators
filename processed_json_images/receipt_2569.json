@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)",
+        "transaction_date": "2018-01-31",
+        "items": [
+            {
+                "description": "(W33) 105MM/4' CUTTING DISC",
+                "quantity": 2.0,
+                "price": 29.68,
+                "total_price": 59.36
+            },
+            {
+                "description": "4\" MAGIC SAND PAPER",
+                "quantity": 10.0,
+                "price": 3.18,
+                "total_price": 31.8
+            },
+            {
+                "description": "104 COTTON GLOVE (DOZEN)",
+                "quantity": 1.0,
+                "price": 10.6,
+                "total_price": 10.6
+            }
+        ],
+        "subtotal": 96.0,
+        "tax": 5.76,
+        "tip": null,
+        "total": 101.76
+    }
+]

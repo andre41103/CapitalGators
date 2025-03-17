@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "CAFE S",
+        "receipt_type": "receipt.retailMeal",
+        "total": 5.7,
+        "date": "2011-12-19",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Jones and",
+        "receipt_type": "receipt",
+        "total": 142.02,
+        "date": "2019-03-12",
+        "notes": "",
+        "recurring": false
+    }
+]

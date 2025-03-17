@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TOKYO KITCHEN (CITTA MALL)",
+        "transaction_date": "2017-04-23",
+        "items": [
+            {
+                "description": "Salmon Teriyaki Wazen",
+                "quantity": 1.0,
+                "price": 25.9,
+                "total_price": 25.9
+            },
+            {
+                "description": "Chicken Salad & Sashimi Gozen",
+                "quantity": 1.0,
+                "price": 25.9,
+                "total_price": 25.9
+            },
+            {
+                "description": "Chicken Katsu Curry Wazen",
+                "quantity": 1.0,
+                "price": 19.9,
+                "total_price": 19.9
+            },
+            {
+                "description": "Saba Teriyaki Wazen",
+                "quantity": 1.0,
+                "price": 25.9,
+                "total_price": 25.9
+            }
+        ],
+        "subtotal": 97.6,
+        "tax": null,
+        "tip": 9.76,
+        "total": 113.8
+    }
+]

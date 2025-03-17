@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Easton Market",
+        "receipt_type": "receipt.retailMeal",
+        "total": 70.62,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

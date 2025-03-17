@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Haveli Restaurant",
+        "receipt_type": "receipt.retailMeal",
+        "total": 108.4,
+        "date": "2016-07-09",
+        "notes": "",
+        "recurring": false
+    }
+]

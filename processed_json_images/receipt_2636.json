@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "AA PHARMACY",
+        "transaction_date": "2018-01-29",
+        "items": [
+            {
+                "description": "IBUPROFEN FILM COATED TAB",
+                "quantity": 4.0,
+                "price": 3.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "FEBRICOL - RX 10X10'S",
+                "quantity": 4.0,
+                "price": 3.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "NOFLUX TABLET",
+                "quantity": 6.0,
+                "price": 3.49,
+                "total_price": 20.94
+            }
+        ],
+        "subtotal": 44.94,
+        "tax": 1.26,
+        "tip": null,
+        "total": 46.2
+    }
+]

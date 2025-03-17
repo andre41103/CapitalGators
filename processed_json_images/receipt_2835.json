@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CALTEX",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "Sweetie Ban Kacang Merah",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.2
+            },
+            {
+                "description": "Sweetie Potato Bun",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.2
+            }
+        ],
+        "subtotal": 6.04,
+        "tax": 0.36,
+        "tip": null,
+        "total": 6.4
+    }
+]

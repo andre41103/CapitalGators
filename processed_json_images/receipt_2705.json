@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ENW Hardware Centre (M) Sdn. Bhd.",
+        "transaction_date": "2018-03-10",
+        "items": [
+            {
+                "description": "2kgs. Wood Lacquer Thinner",
+                "quantity": 1.0,
+                "price": 19.0,
+                "total_price": 19.0
+            },
+            {
+                "description": "1.5kg. Ufixx Putty Filler.",
+                "quantity": 1.0,
+                "price": 10.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "100# x 8\" x 45m Sand Paper Roll.",
+                "quantity": 2.0,
+                "price": 2.5,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.93,
+        "tip": null,
+        "total": 34.0
+    }
+]

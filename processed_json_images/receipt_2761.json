@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HU'\nTRADING SDN BHD",
+        "transaction_date": "2018-01-13",
+        "items": [
+            {
+                "description": "HD 32 X40 1kg",
+                "quantity": 2.0,
+                "price": 10.38,
+                "total_price": 22.0
+            },
+            {
+                "description": "GB3648-GARBAGE BAG 36\u00d748 1X15",
+                "quantity": 2.0,
+                "price": 8.87,
+                "total_price": 18.8
+            }
+        ],
+        "subtotal": 40.8,
+        "tax": 2.31,
+        "tip": null,
+        "total": 40.8
+    }
+]

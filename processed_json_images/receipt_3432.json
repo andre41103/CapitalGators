@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2018-07-15",
+        "items": [
+            {
+                "description": "SPRAYER SX-260# 550ML\nHA06HD01-3 - 70",
+                "quantity": 4.0,
+                "price": 1.79,
+                "total_price": 7.16
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 7.16
+    }
+]

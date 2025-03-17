@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "SURATI FARSAN MART",
+        "receipt_type": "receipt.retailMeal",
+        "total": 6.56,
+        "date": "2019-08-08",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SKCA HARDWARE & TIMBER SDN. BHD.",
+        "transaction_date": "2017-11-01",
+        "items": [
+            {
+                "description": "ZZ-207 COLEX BLACK BASIC",
+                "quantity": null,
+                "price": null,
+                "total_price": 43.0
+            },
+            {
+                "description": "ZZ-206 COLEX BLACK BASIC",
+                "quantity": 2.0,
+                "price": 43.0,
+                "total_price": 86.0
+            },
+            {
+                "description": "BLACK RAIN SHOE 41*(08) RAIN S",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.0
+            }
+        ],
+        "subtotal": 142.0,
+        "tax": 8.04,
+        "tip": null,
+        "total": 142.0
+    }
+]

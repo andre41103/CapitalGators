@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. SDN BHD",
+        "transaction_date": "2017-11-24",
+        "items": [
+            {
+                "description": "BATTERY LR03-4B AAA 4 PCS",
+                "quantity": 1.0,
+                "price": 3.9,
+                "total_price": 3.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.22,
+        "tip": null,
+        "total": 3.9
+    }
+]

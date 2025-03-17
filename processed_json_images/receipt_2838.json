@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MEI LET RESTAURANT",
+        "transaction_date": "2017-01-22",
+        "items": [
+            {
+                "description": "TALAPIA - DEEP FRIED WITH SWEET &\nC14",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 40.0
+            },
+            {
+                "description": "BRAISED PORK BELLY WITH BITTER GO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "WATER / TEA",
+                "quantity": 3.0,
+                "price": 40.5,
+                "total_price": 1.5
+            },
+            {
+                "description": "RICE (1 )",
+                "quantity": 3.0,
+                "price": 1.5,
+                "total_price": 4.5
+            }
+        ],
+        "subtotal": 64.0,
+        "tax": null,
+        "tip": null,
+        "total": 67.85
+    }
+]

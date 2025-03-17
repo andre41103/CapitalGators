@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "alamy",
+        "receipt_type": "receipt.retailMeal",
+        "total": 64.0,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

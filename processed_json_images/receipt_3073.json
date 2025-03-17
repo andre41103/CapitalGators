@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+        "transaction_date": "2016-02-01",
+        "items": [
+            {
+                "description": "POT HOLDER (SQUARE)",
+                "quantity": 3.0,
+                "price": 2.5,
+                "total_price": 7.5
+            },
+            {
+                "description": "CNY RIBBON 2.0CM\n10/600",
+                "quantity": 3.0,
+                "price": 6.3,
+                "total_price": 18.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.49,
+        "tip": null,
+        "total": 26.4
+    }
+]

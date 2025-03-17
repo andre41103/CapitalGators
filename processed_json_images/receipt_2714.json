@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+        "transaction_date": "2018-03-12",
+        "items": [
+            {
+                "description": "PYEDRAIN CLOG FREE CLDR02 - 1000ML\n- 12",
+                "quantity": 3.0,
+                "price": 15.0,
+                "total_price": 45.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.55,
+        "tip": null,
+        "total": 45.0
+    }
+]

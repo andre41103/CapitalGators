@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "tan woon yann",
+        "receipt_type": "receipt.retailMeal",
+        "total": 60.3,
+        "date": "2018-10-19",
+        "notes": "",
+        "recurring": false
+    }
+]

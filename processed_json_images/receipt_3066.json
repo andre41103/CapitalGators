@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "COSWAY (M) SDN BHD",
+        "transaction_date": "2016-12-06",
+        "items": [
+            {
+                "description": "(B3F1)PM BATHROOM CLEANER",
+                "quantity": 2.0,
+                "price": 26.7,
+                "total_price": 53.4
+            },
+            {
+                "description": null,
+                "quantity": 8.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "PM BATHROOM CLEANER\n(A3F1)PMFLR CLEANER",
+                "quantity": 1.0,
+                "price": 32.7,
+                "total_price": 32.7
+            },
+            {
+                "description": "PM CON FLOOR CLEANER-PINE",
+                "quantity": 4.0,
+                "price": 0.0,
+                "total_price": 0.009
+            },
+            {
+                "description": "(A2F1)BG MASK 74169/157/147",
+                "quantity": 1.0,
+                "price": 25.8,
+                "total_price": 25.8
+            },
+            {
+                "description": "BG HYDRATING SPA MASK",
+                "quantity": 2.0,
+                "price": 0.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "BG VISIBLY SOFT MILK MASK",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 105.57,
+        "tax": 6.33,
+        "tip": null,
+        "total": null
+    }
+]

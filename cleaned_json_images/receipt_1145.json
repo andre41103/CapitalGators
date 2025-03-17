@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Sam's\nCLUB",
+        "receipt_type": "receipt.retailMeal",
+        "total": 109.55,
+        "date": "2013-10-07",
+        "notes": "",
+        "recurring": false
+    }
+]

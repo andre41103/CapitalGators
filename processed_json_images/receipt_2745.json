@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "(N)",
+        "transaction_date": "2018-01-06",
+        "items": [
+            {
+                "description": "MIGHTY MARK DISHWASH 11L",
+                "quantity": 2.0,
+                "price": 9.9,
+                "total_price": 19.8
+            },
+            {
+                "description": "CROWN'S POWER PWD DETERGENT 5KG",
+                "quantity": 1.0,
+                "price": 11.5,
+                "total_price": 9.9
+            },
+            {
+                "description": "UDANG XL",
+                "quantity": 3.18,
+                "price": 39.9,
+                "total_price": 126.88
+            },
+            {
+                "description": "UDANG XL",
+                "quantity": 3.15,
+                "price": 39.9,
+                "total_price": 125.69
+            },
+            {
+                "description": "WIN CENDOL (GROSS 1.5KG, NET 1KG)",
+                "quantity": 2.0,
+                "price": 4.51,
+                "total_price": 9.02
+            },
+            {
+                "description": "IKAN BILIS C TIMBANG",
+                "quantity": 1.36,
+                "price": 55.0,
+                "total_price": 74.8
+            },
+            {
+                "description": "AJINOMOTO 20X1KG",
+                "quantity": 1.0,
+                "price": 210.0,
+                "total_price": 210.0
+            },
+            {
+                "description": "SEGI/LEMBU EMAS OIL 17KG+-",
+                "quantity": 1.0,
+                "price": 69.9,
+                "total_price": 69.9
+            },
+            {
+                "description": "ABC TEPUNG UBI 10x1KG",
+                "quantity": 1.0,
+                "price": 28.0,
+                "total_price": 28.0
+            }
+        ],
+        "subtotal": 673.99,
+        "tax": null,
+        "tip": null,
+        "total": 674.0
+    }
+]

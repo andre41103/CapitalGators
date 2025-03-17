@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "Esjay Fuel Enterprise",
+        "transaction_date": "2018-06-30",
+        "items": [
+            {
+                "description": "Inf RON95",
+                "quantity": 2.2,
+                "price": 22.73,
+                "total_price": 50.0
+            }
+        ],
+        "subtotal": 50.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 50.0
+    }
+]

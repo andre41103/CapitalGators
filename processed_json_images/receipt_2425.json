@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "SUN WONG KUT SDN BHD",
+        "transaction_date": "2018-02-21",
+        "items": [
+            {
+                "description": "FuelSave 95",
+                "quantity": 39.54,
+                "price": 2.23,
+                "total_price": 88.17
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 88.17
+    }
+]

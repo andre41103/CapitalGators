@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BIZ LINK",
+        "transaction_date": "2016-06-07",
+        "items": [
+            {
+                "description": "TIMI EC-110 CHEQUE\nWRUTER (2",
+                "quantity": 1.0,
+                "price": 399.0,
+                "total_price": 399.0
+            }
+        ],
+        "subtotal": 376.42,
+        "tax": 22.58,
+        "tip": null,
+        "total": 399.0
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BEMED (SP) SDN. BHD.",
+        "transaction_date": "2017-02-25",
+        "items": [
+            {
+                "description": "NH DELICADERMA PROTECTIVE CR 50M",
+                "quantity": 1.0,
+                "price": 76.0,
+                "total_price": 76.0
+            },
+            {
+                "description": "11-(BEPROGENT CR LS) 30G",
+                "quantity": 1.0,
+                "price": 10.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "ALPHA LIPID LIFE LINE 450MG 450G",
+                "quantity": 1.0,
+                "price": 165.0,
+                "total_price": 185.0
+            }
+        ],
+        "subtotal": 251.0,
+        "tax": null,
+        "tip": null,
+        "total": 217.0
+    }
+]

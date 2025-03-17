@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B",
+        "transaction_date": "2016-11-21",
+        "items": [
+            {
+                "description": "STAR BRAND GARBAGE BAG",
+                "quantity": 6.0,
+                "price": 5.3,
+                "total_price": 31.8
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.8,
+        "tip": null,
+        "total": 31.8
+    }
+]

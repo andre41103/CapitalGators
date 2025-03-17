@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Guera\nPuchong\nTSH POWER HARDWARE",
+        "transaction_date": "2017-09-12",
+        "items": [
+            {
+                "description": "308# DRAWER\n.OCK C 2 - HL500 /\nIL502",
+                "quantity": 1.0,
+                "price": 6.0,
+                "total_price": 6.0
+            },
+            {
+                "description": "FAXON GARDEN\nTAP 1/2 X 3/4 FX-\n'105B",
+                "quantity": 1.0,
+                "price": 18.0,
+                "total_price": 18.0
+            },
+            {
+                "description": ".OCAL SEAL WHITE\nTAPE",
+                "quantity": 1.0,
+                "price": 0.5,
+                "total_price": 0.5
+            }
+        ],
+        "subtotal": 0.5,
+        "tax": 1.39,
+        "tip": null,
+        "total": 24.5
+    }
+]

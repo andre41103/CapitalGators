@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "FLORISM DE ART (940075-X)",
+        "transaction_date": "2018-01-14",
+        "items": [
+            {
+                "description": "OPEN",
+                "quantity": 1.0,
+                "price": 750.0,
+                "total_price": 750.0
+            }
+        ],
+        "subtotal": 707.55,
+        "tax": null,
+        "tip": null,
+        "total": 750.0
+    }
+]

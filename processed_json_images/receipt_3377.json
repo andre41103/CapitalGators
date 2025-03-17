@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "PROSPER NIAGA",
+        "transaction_date": "2018-06-26",
+        "items": [
+            {
+                "description": "V-Power 97",
+                "quantity": 38.61,
+                "price": 2.59,
+                "total_price": 100.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 100.0
+    }
+]

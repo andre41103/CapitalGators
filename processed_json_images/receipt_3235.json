@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SANYO STATIONERY SHOP",
+        "transaction_date": "2017-11-01",
+        "items": [
+            {
+                "description": "DEFLECT-O 120 x 55MM L\nSHAPE TAG HOLDER\n(LANDSCAPE) (DDKRL-120X55)",
+                "quantity": 5.0,
+                "price": 2.2,
+                "total_price": 11.0
+            },
+            {
+                "description": "7\" POP MOBILE STAND (M-\n1755)",
+                "quantity": 5.0,
+                "price": 4.5,
+                "total_price": 22.5
+            }
+        ],
+        "subtotal": 33.5,
+        "tax": 1.9,
+        "tip": null,
+        "total": 33.5
+    }
+]

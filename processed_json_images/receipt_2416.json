@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Triple Six Point Enterprise 666",
+        "transaction_date": "2018-03-25",
+        "items": [
+            {
+                "description": "Hey Song\nCamellia green\ntea 580ml",
+                "quantity": 2.0,
+                "price": 4.3,
+                "total_price": 7.6
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 7.6
+    }
+]

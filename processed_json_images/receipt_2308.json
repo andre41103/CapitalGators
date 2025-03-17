@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "McDonald's",
+        "transaction_date": "2018-01-18",
+        "items": [
+            {
+                "description": "M SpicyDeluxe",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 25.4
+            },
+            {
+                "description": "M GrilChicBgr",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "Small Cone",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.2,
+        "tip": null,
+        "total": 38.9
+    }
+]

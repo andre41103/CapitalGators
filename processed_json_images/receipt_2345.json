@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SYL ROASTED DELIGHTS SDN. BHD.",
+        "transaction_date": "2018-03-06",
+        "items": [
+            {
+                "description": "BRAISED PORK\nRICE WITH PEANUT",
+                "quantity": 2.0,
+                "price": 7.0,
+                "total_price": 14.0
+            },
+            {
+                "description": "ROAST PORK -\nSMALL",
+                "quantity": 1.0,
+                "price": 12.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "SOUR & SPICY\nMUSTARD",
+                "quantity": 1.0,
+                "price": 12.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "JASMINE GREEN\nTEA(HOT)",
+                "quantity": 2.0,
+                "price": 2.3,
+                "total_price": 4.6
+            },
+            {
+                "description": "ROAST PORK\nROAST CHICKEN RICE",
+                "quantity": 1.0,
+                "price": 11.9,
+                "total_price": 11.9
+            }
+        ],
+        "subtotal": 51.42,
+        "tax": 3.08,
+        "tip": null,
+        "total": 54.5
+    }
+]

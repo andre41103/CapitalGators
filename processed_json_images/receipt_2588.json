@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ASO ELECTRICAL TRADING SDN BHD",
+        "transaction_date": "2017-09-27",
+        "items": [
+            {
+                "description": "HAGER TIMER, 24HRS POWER RESERVE",
+                "quantity": 3.0,
+                "price": 78.0,
+                "total_price": 248.04
+            }
+        ],
+        "subtotal": 234.0,
+        "tax": 14.04,
+        "tip": null,
+        "total": 248.05
+    }
+]

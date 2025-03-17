@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Go Mongo BBQ",
+        "receipt_type": "receipt.retailMeal",
+        "total": 52.06,
+        "date": "2018-01-28",
+        "notes": "",
+        "recurring": false
+    }
+]

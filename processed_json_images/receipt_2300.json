@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "tan chay yee",
+        "transaction_date": "2019-01-09",
+        "items": [
+            {
+                "description": "Plastic",
+                "quantity": 2.0,
+                "price": 15.5,
+                "total_price": 31.0
+            }
+        ],
+        "subtotal": 31.0,
+        "tax": null,
+        "tip": null,
+        "total": 31.0
+    }
+]

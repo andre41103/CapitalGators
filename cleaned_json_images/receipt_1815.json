@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "la\naie",
+        "receipt_type": "receipt.retailMeal",
+        "total": 7.85,
+        "date": "2010-02-15",
+        "notes": "",
+        "recurring": false
+    }
+]

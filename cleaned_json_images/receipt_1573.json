@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Bishop-Taylor",
+        "receipt_type": "receipt",
+        "total": 123.09,
+        "date": "2011-11-09",
+        "notes": "",
+        "recurring": false
+    }
+]

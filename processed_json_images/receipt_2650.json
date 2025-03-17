@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Mr.Dakgalbi Solaris",
+        "transaction_date": "2018-01-05",
+        "items": [
+            {
+                "description": "Fried Rice 3 Pax",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 71.0
+            }
+        ],
+        "subtotal": 71.0,
+        "tax": null,
+        "tip": null,
+        "total": 71.0
+    }
+]

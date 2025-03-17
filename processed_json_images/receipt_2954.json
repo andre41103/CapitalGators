@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Maxincome Resources Sdn Bhd",
+        "transaction_date": "2018-04-20",
+        "items": [
+            {
+                "description": "Spritzer M/Water",
+                "quantity": null,
+                "price": 1.51,
+                "total_price": 3.7
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.21,
+        "tip": null,
+        "total": 3.7
+    }
+]

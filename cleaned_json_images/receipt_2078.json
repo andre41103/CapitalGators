@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "PEGASUS ON THE FLY",
+        "receipt_type": "receipt.retailMeal",
+        "total": 15.55,
+        "date": "2017-01-31",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)",
+        "transaction_date": "2018-02-12",
+        "items": [
+            {
+                "description": "110MM \u00d7 5.8M UNDERGROUND PIPE",
+                "quantity": 3.0,
+                "price": 90.1,
+                "total_price": 270.3
+            }
+        ],
+        "subtotal": 255.0,
+        "tax": 15.3,
+        "tip": null,
+        "total": 270.3
+    }
+]

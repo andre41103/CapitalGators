@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Taylor Group",
+        "receipt_type": "receipt.retailMeal",
+        "total": 175.94,
+        "date": "2017-11-14",
+        "notes": "",
+        "recurring": false
+    }
+]

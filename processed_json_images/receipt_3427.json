@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GH DISTRIBUTOR & MARKETING SDN BHD",
+        "transaction_date": "2018-06-20",
+        "items": [
+            {
+                "description": "TAU SAR PNEAH (S) 16PCS",
+                "quantity": 4.0,
+                "price": 9.0,
+                "total_price": 36.0
+            },
+            {
+                "description": "DB TAU SAR PNEAH (S) 12PCS",
+                "quantity": 2.0,
+                "price": 7.6,
+                "total_price": 15.2
+            },
+            {
+                "description": "BEH TEH SAW 8PCS",
+                "quantity": 2.0,
+                "price": 8.0,
+                "total_price": 16.0
+            },
+            {
+                "description": "PHONG PNEAH 6PCS",
+                "quantity": 2.0,
+                "price": 9.0,
+                "total_price": 18.0
+            }
+        ],
+        "subtotal": 85.2,
+        "tax": 0.0,
+        "tip": null,
+        "total": 85.2
+    }
+]

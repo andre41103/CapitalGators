@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PASARAYA\nBORONG PINTAR SDN BHD",
+        "transaction_date": "2018-03-04",
+        "items": [
+            {
+                "description": "POKKA COFFEE VANILLA MILK COFFEE",
+                "quantity": 1.0,
+                "price": 3.2,
+                "total_price": 3.2
+            }
+        ],
+        "subtotal": 3.2,
+        "tax": 0.0,
+        "tip": null,
+        "total": 3.2
+    }
+]

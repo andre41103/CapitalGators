@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Triple Six Point Enterprise 666",
+        "transaction_date": "2018-03-22",
+        "items": [
+            {
+                "description": "VS FUJI500ml",
+                "quantity": 1.0,
+                "price": 10.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "Apollo cake\noriginal 30s",
+                "quantity": 1.0,
+                "price": 6.8,
+                "total_price": 6.5
+            },
+            {
+                "description": "TG Cashew\nnuts mixwd\nAlmond smoke",
+                "quantity": 1.0,
+                "price": 4.2,
+                "total_price": 4.2
+            },
+            {
+                "description": "TG Coated\ncoconut\npeanuts",
+                "quantity": 1.0,
+                "price": 1.9,
+                "total_price": 1.9
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 22.6
+    }
+]

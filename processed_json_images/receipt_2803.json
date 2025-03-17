@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "LIVE9 PHARMACY SDN BHD",
+        "transaction_date": "2017-03-31",
+        "items": [
+            {
+                "description": "(S\nHURIRS",
+                "quantity": 1.0,
+                "price": 4.9,
+                "total_price": 4.9
+            },
+            {
+                "description": "HU\nHURIIS",
+                "quantity": 1.0,
+                "price": 5.6,
+                "total_price": 6.6
+            }
+        ],
+        "subtotal": 12.19,
+        "tax": 0.69,
+        "tip": 0.0,
+        "total": 12.15
+    }
+]

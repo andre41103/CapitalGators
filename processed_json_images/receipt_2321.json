@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.parking",
+        "merchant_name": "SECURE PARKING\nCORPORATION S/B",
+        "transaction_date": "2018-03-23",
+        "items": [],
+        "subtotal": 0.94,
+        "tax": 0.06,
+        "tip": null,
+        "total": null
+    }
+]

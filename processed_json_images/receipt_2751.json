@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ADVANCO COMPANY",
+        "transaction_date": "2018-01-17",
+        "items": [
+            {
+                "description": "CANON PG-47BK E400 BLACK FINE (",
+                "quantity": 1.0,
+                "price": 29.0,
+                "total_price": 29.0
+            }
+        ],
+        "subtotal": 27.36,
+        "tax": 1.64,
+        "tip": null,
+        "total": 29.0
+    }
+]

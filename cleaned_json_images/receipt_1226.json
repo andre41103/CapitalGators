@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "CiCi's Pizza",
+        "receipt_type": "receipt.retailMeal",
+        "total": 9.07,
+        "date": "2015-04-10",
+        "notes": "",
+        "recurring": false
+    }
+]

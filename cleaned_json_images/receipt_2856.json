@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "TIMES BOOKSTORES",
+        "receipt_type": "receipt.retailMeal",
+        "total": 12.37,
+        "date": "2017-04-23",
+        "notes": "",
+        "recurring": false
+    }
+]

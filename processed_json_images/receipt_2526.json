@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.parking",
+        "merchant_name": "SUN VICTORY SON BHD",
+        "transaction_date": "2018-01-14",
+        "items": [],
+        "subtotal": null,
+        "tax": 0.23,
+        "tip": null,
+        "total": 4.0
+    }
+]

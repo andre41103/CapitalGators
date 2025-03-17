@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AEON CO. (M) BHD (126926-H)",
+        "transaction_date": "2018-05-27",
+        "items": [
+            {
+                "description": "NATUREL PREMIU",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.25
+            },
+            {
+                "description": "JOY DISHWASHIN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.5
+            },
+            {
+                "description": "303027 COOK KN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 45.9
+            },
+            {
+                "description": "CED NATURAL HIM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.592
+            },
+            {
+                "description": "BL 5004C 4 GALL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.9
+            },
+            {
+                "description": "KLEENEX FT SOF",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.15
+            },
+            {
+                "description": "ONWARDS TOM &",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.65
+            }
+        ],
+        "subtotal": 99.9,
+        "tax": 5.39,
+        "tip": null,
+        "total": 99.9
+    }
+]

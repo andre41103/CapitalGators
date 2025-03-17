@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Juwita\nWeddings Sdn Bhd.",
+        "transaction_date": "2018-02-28",
+        "items": [
+            {
+                "description": "1PCS\nMEASUREMENTTAPE",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 4.1
+            }
+        ],
+        "subtotal": 4.1,
+        "tax": null,
+        "tip": null,
+        "total": 4.1
+    }
+]

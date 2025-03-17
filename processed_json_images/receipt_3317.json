@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "UNIHAKKA INTERNATIONAL SDN BHD",
+        "transaction_date": "2018-06-11",
+        "items": [
+            {
+                "description": "Vegetable",
+                "quantity": 4.0,
+                "price": 1.03,
+                "total_price": 4.12
+            },
+            {
+                "description": "Noodle (S)",
+                "quantity": 1.0,
+                "price": 1.88,
+                "total_price": 1.88
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 6.0
+    }
+]

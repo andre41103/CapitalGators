@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "CASA CHAN RESTAURANT",
+        "receipt_type": "receipt.retailMeal",
+        "total": 25.94,
+        "date": "2014-12-21",
+        "notes": "",
+        "recurring": false
+    }
+]

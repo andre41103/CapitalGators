@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "TED HENG STATIONERY, & BOOKS",
+        "transaction_date": "2018-03-15",
+        "items": [
+            {
+                "description": "- ARTLINE 70",
+                "quantity": 48.0,
+                "price": 2.7,
+                "total_price": 120.0
+            }
+        ],
+        "subtotal": 120.0,
+        "tax": 7.2,
+        "tip": null,
+        "total": 127.2
+    }
+]

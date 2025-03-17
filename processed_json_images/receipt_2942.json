@@ -1,0 +1,110 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AEON CO. (M) BHD",
+        "transaction_date": "2018-04-01",
+        "items": [
+            {
+                "description": "SA MIX PLUM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "R.GALA APPLE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "FOUR SEAS SEAW",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.85
+            },
+            {
+                "description": "CHEK HUP 2IN1",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.5
+            },
+            {
+                "description": "TOMATO AMOROS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "FRANCE GREEN KI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.5
+            },
+            {
+                "description": "T. CHERRY HONEY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.8
+            },
+            {
+                "description": "SUSHI SET-PTC",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.9
+            },
+            {
+                "description": "JAMBU AIR MADU",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.332
+            },
+            {
+                "description": "CUT FRUITS 1.99",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "ZA M/N BEAUTY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "CAVANDISH BANAN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.612
+            },
+            {
+                "description": "BLUEBERRY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.9
+            },
+            {
+                "description": "EGG KANI MAYO S",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.9
+            },
+            {
+                "description": "COLESLAW SANDWI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "WANFA DRIED FIS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            }
+        ],
+        "subtotal": 122.78,
+        "tax": 3.01,
+        "tip": null,
+        "total": 122.78
+    }
+]

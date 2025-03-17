@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Bar Rua",
+        "receipt_type": "receipt.retailMeal",
+        "total": 65.1,
+        "date": "2018-08-17",
+        "notes": "",
+        "recurring": false
+    }
+]

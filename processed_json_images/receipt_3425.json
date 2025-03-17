@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KEDAI PAPAN YEW CHUAN",
+        "transaction_date": "2018-05-23",
+        "items": [
+            {
+                "description": "PASIR HALUS (D)",
+                "quantity": 1.0,
+                "price": 65.0,
+                "total_price": 68.9
+            },
+            {
+                "description": "SIMEN",
+                "quantity": 5.0,
+                "price": 16.5,
+                "total_price": 87.45
+            },
+            {
+                "description": "KAPUR AIR (A1)",
+                "quantity": 2.0,
+                "price": 3.0,
+                "total_price": 6.36
+            }
+        ],
+        "subtotal": 162.71,
+        "tax": 9.21,
+        "tip": null,
+        "total": 162.71
+    }
+]

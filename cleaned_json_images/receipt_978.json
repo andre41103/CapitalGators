@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Marche Moevenpick",
+        "receipt_type": "receipt.retailMeal",
+        "total": 35.0,
+        "date": "2016-11-10",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SOON HUAT MACHINERY ENTERPRISE",
+        "transaction_date": "2019-01-11",
+        "items": [
+            {
+                "description": "REPAIR ENGINE POWER SPRAYER (1UNIT)",
+                "quantity": 1.0,
+                "price": 80.0,
+                "total_price": 80.0
+            },
+            {
+                "description": "workmanship & service\nGIANT",
+                "quantity": 1.0,
+                "price": 160.0,
+                "total_price": 160.0
+            },
+            {
+                "description": "606 OVERFLOW ASSY\nENGINE OIL",
+                "quantity": 1.0,
+                "price": 17.0,
+                "total_price": 17.0
+            },
+            {
+                "description": "GREASE FOR TOOLS 40ML (AKODA)",
+                "quantity": 1.0,
+                "price": 10.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "EY20 PLUG CHAMPION",
+                "quantity": 1.0,
+                "price": 6.0,
+                "total_price": 6.0
+            },
+            {
+                "description": "STARTER TALI",
+                "quantity": 1.0,
+                "price": 8.0,
+                "total_price": 8.0
+            },
+            {
+                "description": "EY20 STARTER HANDLE",
+                "quantity": 1.0,
+                "price": 10.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "HD40 1L COTIN",
+                "quantity": 2.0,
+                "price": 18.0,
+                "total_price": 36.0
+            }
+        ],
+        "subtotal": 327.0,
+        "tax": null,
+        "tip": null,
+        "total": 327.0
+    }
+]

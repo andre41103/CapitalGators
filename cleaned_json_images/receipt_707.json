@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "LION CITY\nRESTAURANT",
+        "receipt_type": "receipt.retailMeal",
+        "total": 54.24,
+        "date": "2015-04-24",
+        "notes": "",
+        "recurring": false
+    }
+]

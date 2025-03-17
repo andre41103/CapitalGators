@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+        "transaction_date": "2018-05-22",
+        "items": [
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 32.0
+            },
+            {
+                "description": "Chicken Item",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "White Rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "Vege Item (M)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "Rice w Seafood /Meat Item Single",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 67.0,
+        "tax": null,
+        "tip": null,
+        "total": 71.0
+    }
+]

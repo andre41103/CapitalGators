@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SUPER SEVEN CASH & CARRY SDN BHD",
+        "transaction_date": "2018-01-27",
+        "items": [
+            {
+                "description": "KK KACANGGORENG 300G",
+                "quantity": 10.0,
+                "price": 5.9,
+                "total_price": 59.0
+            }
+        ],
+        "subtotal": 59.0,
+        "tax": null,
+        "tip": null,
+        "total": 59.0
+    }
+]

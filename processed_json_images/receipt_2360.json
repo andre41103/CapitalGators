@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TED HENG STATIONERY & BOOKS",
+        "transaction_date": "2018-02-12",
+        "items": [
+            {
+                "description": "IK YELLOW 70GRAMS",
+                "quantity": 10.0,
+                "price": 10.57,
+                "total_price": 105.66
+            },
+            {
+                "description": "PAPYRUS DARK COLOUR PAPER",
+                "quantity": 1.0,
+                "price": 17.45,
+                "total_price": 17.45
+            },
+            {
+                "description": "ARTLINE 70",
+                "quantity": 1.0,
+                "price": 2.7,
+                "total_price": 2.7
+            },
+            {
+                "description": "FASTER CX5N BALL PEN",
+                "quantity": 1.0,
+                "price": 0.85,
+                "total_price": 0.85
+            },
+            {
+                "description": "CBE HANDYCUTTER",
+                "quantity": 2.0,
+                "price": 0.85,
+                "total_price": 1.7
+            },
+            {
+                "description": "CBE A4 SIZE 20 POCKETS REFILLABLE NEW\nCLEAR HOLDER",
+                "quantity": 1.0,
+                "price": 8.4,
+                "total_price": 8.4
+            },
+            {
+                "description": "EAGLE F4 120 NUMBERING FOOLSCAP\nBOOK",
+                "quantity": 2.0,
+                "price": 3.96,
+                "total_price": 7.92
+            }
+        ],
+        "subtotal": 144.68,
+        "tax": 8.68,
+        "tip": null,
+        "total": 53.35
+    }
+]

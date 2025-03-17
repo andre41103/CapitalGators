@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PETRON BKT LANJAN SB",
+        "transaction_date": "2018-02-01",
+        "items": [
+            {
+                "description": "double ,mint te",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "sandwich vanill",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.28,
+        "tip": null,
+        "total": 4.9
+    }
+]

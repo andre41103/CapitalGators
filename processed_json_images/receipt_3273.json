@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SANYO STATIONERY SHOP",
+        "transaction_date": "2017-12-11",
+        "items": [
+            {
+                "description": "CAMIS NCR BILL BOOK\n5\"x8\" (BB-5882)",
+                "quantity": 2.0,
+                "price": 3.5,
+                "total_price": 7.0
+            }
+        ],
+        "subtotal": 7.0,
+        "tax": 0.4,
+        "tip": null,
+        "total": 7.0
+    }
+]

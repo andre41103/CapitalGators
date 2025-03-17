@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "FUN N CHEER (MALURI)",
+        "transaction_date": "2018-01-05",
+        "items": [
+            {
+                "description": "KAIN BEBOLA(S)SHA BU",
+                "quantity": 2.0,
+                "price": 14.9,
+                "total_price": 29.8
+            }
+        ],
+        "subtotal": 28.11,
+        "tax": null,
+        "tip": null,
+        "total": 29.8
+    }
+]

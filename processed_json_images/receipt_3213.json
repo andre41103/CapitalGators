@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Gerbang Alaf Restaurants Sdn Bhd",
+        "transaction_date": "2018-05-21",
+        "items": [
+            {
+                "description": "Nasi McD AGSpi &Telur Set",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.95
+            },
+            {
+                "description": "L Nasi Lemak Burger",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.55
+            },
+            {
+                "description": "Nasi McD AGSpi Set",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 25.9
+            },
+            {
+                "description": "AyamGrgSpicy(TA)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.9
+            },
+            {
+                "description": "4Nuggets",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.98,
+        "tip": null,
+        "total": 70.3
+    }
+]

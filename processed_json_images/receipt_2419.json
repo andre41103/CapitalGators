@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BENS INDEPENDENT GROCER SDN. BHD",
+        "transaction_date": "2018-03-09",
+        "items": [
+            {
+                "description": "Evian Mineral Water 6x1.25L",
+                "quantity": null,
+                "price": 53.5,
+                "total_price": 107.0
+            },
+            {
+                "description": "Fresh Cut Honey Jackfruit Peeled 400g",
+                "quantity": null,
+                "price": 8.9,
+                "total_price": 26.7
+            }
+        ],
+        "subtotal": 133.7,
+        "tax": null,
+        "tip": null,
+        "total": 133.7
+    }
+]

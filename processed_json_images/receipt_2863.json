@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.parking",
+        "merchant_name": "CILIA",
+        "transaction_date": "2017-04-30",
+        "items": [],
+        "subtotal": null,
+        "tax": 0.17,
+        "tip": null,
+        "total": 3.0
+    }
+]

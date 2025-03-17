@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "DIGI TELECOMMUNICATIONS SDN BHD",
+        "transaction_date": "2017-10-13",
+        "items": [],
+        "subtotal": 234.4,
+        "tax": null,
+        "tip": 110.3,
+        "total": 234.4
+    }
+]

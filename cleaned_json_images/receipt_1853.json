@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "KESAR DA DHABA",
+        "receipt_type": "receipt.retailMeal",
+        "total": 800.0,
+        "date": "2016-12-27",
+        "notes": "",
+        "recurring": false
+    }
+]

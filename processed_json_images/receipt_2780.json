@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RELAIS TOTAL OULMES",
+        "transaction_date": "2018-03-30",
+        "items": [
+            {
+                "description": "CAFE CREME",
+                "quantity": 2.0,
+                "price": 12.0,
+                "total_price": 24.0
+            },
+            {
+                "description": "CAFE EXPRESSO",
+                "quantity": 2.0,
+                "price": 10.0,
+                "total_price": 20.0
+            },
+            {
+                "description": "CHOCOLAT CHAUD",
+                "quantity": 1.0,
+                "price": 12.0,
+                "total_price": 12.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 56.0
+    }
+]

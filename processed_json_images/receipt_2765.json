@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Sarang Hae Yo",
+        "transaction_date": "2018-01-15",
+        "items": [
+            {
+                "description": "LOYALTY\nPACKAGE",
+                "quantity": 1.0,
+                "price": 15.0,
+                "total_price": 15.0
+            },
+            {
+                "description": "IRON BASKET\nROUND 27 * 25",
+                "quantity": 10.0,
+                "price": 28.9,
+                "total_price": 260.1
+            },
+            {
+                "description": "50MM PULL\nFLOWER\nRIBBON",
+                "quantity": 12.0,
+                "price": 5.0,
+                "total_price": 54.0
+            },
+            {
+                "description": "HORSE\nCALENDAR\n2018",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 310.47,
+        "tax": 18.63,
+        "tip": null,
+        "total": 329.1
+    }
+]

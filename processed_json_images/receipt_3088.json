@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2016-01-10",
+        "items": [
+            {
+                "description": "PLACEMAT 30*45CM",
+                "quantity": 4.0,
+                "price": 3.5,
+                "total_price": 14.0
+            },
+            {
+                "description": "COLANDER 12610#*VS\n6/96",
+                "quantity": 2.0,
+                "price": 5.9,
+                "total_price": 11.8
+            },
+            {
+                "description": "PLACEMAT 145#\nIF31\n20/300",
+                "quantity": 3.0,
+                "price": 1.9,
+                "total_price": 5.7
+            },
+            {
+                "description": "MOUSE PAD T1%VS\n12/480",
+                "quantity": 1.0,
+                "price": 3.3,
+                "total_price": 3.3
+            },
+            {
+                "description": "ANTI SLIP MAT 820# 30*50CM*VS",
+                "quantity": 3.0,
+                "price": 2.7,
+                "total_price": 8.1
+            },
+            {
+                "description": "ANTI SLIP MAT 820# 45*100CM\nMF22/3-42\n6/72",
+                "quantity": 1.0,
+                "price": 7.5,
+                "total_price": 7.5
+            },
+            {
+                "description": "SHOWER CAP SET*VS\nPB42 - 24/360",
+                "quantity": 1.0,
+                "price": 6.5,
+                "total_price": 6.5
+            },
+            {
+                "description": "PLACEMAT 30*45CM *VS",
+                "quantity": 1.0,
+                "price": 2.3,
+                "total_price": 2.3
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.35,
+        "tip": null,
+        "total": 59.2
+    }
+]

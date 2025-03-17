@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "YONG CEN ENTERPRISE",
+        "transaction_date": "2017-05-21",
+        "items": [
+            {
+                "description": "ZRL:IKAN BILIS PEK BOOT PUTIH 100G",
+                "quantity": 100.0,
+                "price": 0.55,
+                "total_price": 55.0
+            },
+            {
+                "description": "SR:FEI YAN BRAND YOUNG CORN 425G (E",
+                "quantity": 1.0,
+                "price": 50.0,
+                "total_price": 50.0
+            }
+        ],
+        "subtotal": 105.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 103.0
+    }
+]

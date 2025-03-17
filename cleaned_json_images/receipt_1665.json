@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "UN Street",
+        "receipt_type": "receipt.retailMeal",
+        "total": 57.38,
+        "date": "2018-01-07",
+        "notes": "",
+        "recurring": false
+    }
+]

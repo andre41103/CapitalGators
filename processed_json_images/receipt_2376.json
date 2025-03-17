@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GOGIANT ENGINEERING (M) SDN BHD",
+        "transaction_date": "2018-03-09",
+        "items": [
+            {
+                "description": "14\" TRU-CUT CUTTING DISC (1 PC)",
+                "quantity": 1.0,
+                "price": 170.0,
+                "total_price": 170.0
+            },
+            {
+                "description": "KOBELCO G-12#(2.6MM) WELDING",
+                "quantity": 1.0,
+                "price": 35.0,
+                "total_price": 35.0
+            },
+            {
+                "description": "CS 3\" (750) PAINT BRUSH",
+                "quantity": 2.0,
+                "price": 7.5,
+                "total_price": 15.0
+            },
+            {
+                "description": "CS 2\" (750) PAINT BRUSH",
+                "quantity": 2.0,
+                "price": 5.5,
+                "total_price": 11.0
+            },
+            {
+                "description": "CS 1-1/2\" (750) PAINT BRUSH",
+                "quantity": null,
+                "price": 3.6,
+                "total_price": 3.5
+            },
+            {
+                "description": "2\" LAMBWOOL YANDA ROLLER REFIL - 20 PCS",
+                "quantity": 1.0,
+                "price": 25.0,
+                "total_price": 26.0
+            },
+            {
+                "description": "DIAMOND COTTON GLOVE B104",
+                "quantity": 1.0,
+                "price": 6.0,
+                "total_price": 6.0
+            },
+            {
+                "description": "10# WELDING GLASS (BLACK) 1PCS",
+                "quantity": 5.0,
+                "price": 1.0,
+                "total_price": 5.0
+            },
+            {
+                "description": "WELDING GLASS (CLEAR) 1 PC",
+                "quantity": 10.0,
+                "price": 0.3,
+                "total_price": 3.0
+            },
+            {
+                "description": "AEC BROOM NO.5110# C/W IRON HANDLE",
+                "quantity": 2.0,
+                "price": 8.0,
+                "total_price": 16.0
+            },
+            {
+                "description": "S/STEEL DUST PAN L C/W HANDLE 23 X 28 X",
+                "quantity": 2.0,
+                "price": 12.0,
+                "total_price": 24.0
+            }
+        ],
+        "subtotal": 313.5,
+        "tax": 18.81,
+        "tip": null,
+        "total": 332.3
+    }
+]

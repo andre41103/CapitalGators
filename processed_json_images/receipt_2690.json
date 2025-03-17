@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SUPER SEVEN CASH & CARRY SDN BHD",
+        "transaction_date": "2018-02-12",
+        "items": [
+            {
+                "description": "CORY FITTLET 300UP(3)6KG",
+                "quantity": 4.0,
+                "price": 63.0,
+                "total_price": 252.0
+            },
+            {
+                "description": "BERAS BIRI-BIRI 10KG 5% ISTIMEWA",
+                "quantity": 1.0,
+                "price": 53.5,
+                "total_price": 53.5
+            },
+            {
+                "description": "BAWANG BESAR INDIA/CINA GUNI",
+                "quantity": 2.0,
+                "price": 8.5,
+                "total_price": 17.0
+            },
+            {
+                "description": "BABAS CILI 1KG",
+                "quantity": null,
+                "price": 19.5,
+                "total_price": 19.5
+            },
+            {
+                "description": "BABAS KARI DAGING 1KG",
+                "quantity": 1.0,
+                "price": 17.2,
+                "total_price": 17.2
+            },
+            {
+                "description": "CILT 80H 3KG KCK",
+                "quantity": 1.0,
+                "price": 7.9,
+                "total_price": 7.9
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 367.1
+    }
+]

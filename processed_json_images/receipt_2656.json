@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Gerbang Alaf Restaurants Sdn Bhd",
+        "transaction_date": "2018-03-11",
+        "items": [
+            {
+                "description": "ChocTop",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "McFlurryOreos",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.48,
+        "tip": null,
+        "total": 8.5
+    }
+]

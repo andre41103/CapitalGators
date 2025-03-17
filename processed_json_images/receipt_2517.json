@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LA STATIONERY SDN BHD (640899-P)",
+        "transaction_date": "2018-02-09",
+        "items": [
+            {
+                "description": "GELPEN REFILL PILOT G2 0.5 BLACK",
+                "quantity": 5.0,
+                "price": 2.86,
+                "total_price": 14.3
+            },
+            {
+                "description": "GELPEN REFILL PILOT G2 0.5 BLUE",
+                "quantity": 5.0,
+                "price": 2.86,
+                "total_price": 14.3
+            },
+            {
+                "description": "GELPEN REFILL PILOT G2 0.5 RED",
+                "quantity": 2.0,
+                "price": 2.86,
+                "total_price": 5.72
+            },
+            {
+                "description": "GLUE - CLEAR GLUE 1000ML",
+                "quantity": 1.0,
+                "price": 7.42,
+                "total_price": 7.42
+            },
+            {
+                "description": "LIQUID PAPER - PAPERMATE NP10 7ml.",
+                "quantity": 2.0,
+                "price": 3.71,
+                "total_price": 7.42
+            },
+            {
+                "description": "PERMANENT MARKER SHARPIE FINE BLACK 30051",
+                "quantity": 1.0,
+                "price": 2.33,
+                "total_price": 2.33
+            },
+            {
+                "description": "BALLPEN PILOT FRIXION 0.5 BLACK",
+                "quantity": 1.0,
+                "price": 5.3,
+                "total_price": 5.3
+            }
+        ],
+        "subtotal": 56.8,
+        "tax": 3.21,
+        "tip": null,
+        "total": 56.8
+    }
+]

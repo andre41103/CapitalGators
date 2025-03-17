@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "KFC Cape Hill DT",
+        "receipt_type": "receipt.retailMeal",
+        "total": 15.99,
+        "date": "2017-12-05",
+        "notes": "",
+        "recurring": false
+    }
+]

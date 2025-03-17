@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "FISH FARM THAI RESTAURANT",
+        "transaction_date": "2018-05-01",
+        "items": [
+            {
+                "description": null,
+                "quantity": null,
+                "price": 80.0,
+                "total_price": 80.0
+            },
+            {
+                "description": "FRIED KAMPUNG CHICKEN (1 EKOR)",
+                "quantity": 1.0,
+                "price": 40.0,
+                "total_price": 40.0
+            },
+            {
+                "description": "TOMYAM SEAFOOD (MERAH)\nWATERMELON JUICE (BIG)",
+                "quantity": 1.0,
+                "price": 20.0,
+                "total_price": 20.0
+            },
+            {
+                "description": "ORANGE JUICE (BIG)",
+                "quantity": 1.0,
+                "price": 20.0,
+                "total_price": 20.0
+            },
+            {
+                "description": "LALA CHILI PASTE (B)\nNASI PUTIH",
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 15.0
+            },
+            {
+                "description": "BBQ TALAPIA",
+                "quantity": 1.0,
+                "price": 36.0,
+                "total_price": 84.0
+            },
+            {
+                "description": "SOTONG STEAM LIME SAUCE",
+                "quantity": 1.0,
+                "price": 15.0,
+                "total_price": 15.0
+            },
+            {
+                "description": "KACANG BOTOL B.PUTIH (B)",
+                "quantity": 1.0,
+                "price": 12.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "TELUR GORENG BAWANG (B)",
+                "quantity": 1.0,
+                "price": 28.0,
+                "total_price": 28.0
+            },
+            {
+                "description": "BUTTER PRAWN (S)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 371.0,
+        "tax": null,
+        "tip": 18.55,
+        "total": 412.92
+    }
+]

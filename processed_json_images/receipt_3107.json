@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Win Soon Cafe",
+        "transaction_date": "2016-05-08",
+        "items": [
+            {
+                "description": "LING FISH HEAD MEEHOON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.9
+            },
+            {
+                "description": "COMBO SET",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.9
+            },
+            {
+                "description": "T.YAM FISH PASTE M/HOON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.9
+            },
+            {
+                "description": "WHITE COFFEE-COLD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.9
+            },
+            {
+                "description": "F.PRAWN&LING F.HEAD MHOON",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 25.9
+            }
+        ],
+        "subtotal": 70.5,
+        "tax": null,
+        "tip": 3.55,
+        "total": 78.5
+    }
+]

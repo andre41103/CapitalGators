@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PINGHWAI TRADING SDN BHD",
+        "transaction_date": "2017-08-22",
+        "items": [
+            {
+                "description": "UDANG KERING",
+                "quantity": 20.0,
+                "price": 16.0,
+                "total_price": 320.0
+            },
+            {
+                "description": "FISH MAW (SWIMMING BLADDER)",
+                "quantity": 1.0,
+                "price": 73.0,
+                "total_price": 73.0
+            }
+        ],
+        "subtotal": 393.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 393.0
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "ROSS",
+        "receipt_type": "receipt.retailMeal",
+        "total": 95.63,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

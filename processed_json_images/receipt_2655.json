@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KING'S CONFECTIONERY\n(KSB)",
+        "transaction_date": "2018-03-11",
+        "items": [
+            {
+                "description": "KAYA PUFF",
+                "quantity": 4.0,
+                "price": 1.6,
+                "total_price": 6.4
+            },
+            {
+                "description": "Slice Cak",
+                "quantity": 1.0,
+                "price": 8.7,
+                "total_price": 8.7
+            },
+            {
+                "description": "Cheese Le",
+                "quantity": 1.0,
+                "price": 3.5,
+                "total_price": 2.45
+            },
+            {
+                "description": "Cheese Ta",
+                "quantity": 1.0,
+                "price": 3.4,
+                "total_price": 3.4
+            },
+            {
+                "description": "D/R BUTTE",
+                "quantity": 1.0,
+                "price": 4.2,
+                "total_price": 4.2
+            }
+        ],
+        "subtotal": 25.15,
+        "tax": 1.42,
+        "tip": null,
+        "total": 25.15
+    }
+]

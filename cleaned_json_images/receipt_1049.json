@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Walton and Sons",
+        "receipt_type": "receipt",
+        "total": 330.0,
+        "date": "2017-04-07",
+        "notes": "",
+        "recurring": false
+    }
+]

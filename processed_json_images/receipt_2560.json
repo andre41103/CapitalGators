@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)",
+        "transaction_date": "2018-02-12",
+        "items": [
+            {
+                "description": "NAIL (PER/PACK) - RM5",
+                "quantity": 1.0,
+                "price": 5.3,
+                "total_price": 5.3
+            }
+        ],
+        "subtotal": 5.0,
+        "tax": 0.3,
+        "tip": null,
+        "total": 5.3
+    }
+]

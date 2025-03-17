@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "OLD TOWN WHITE COFFE",
+        "transaction_date": "2018-05-05",
+        "items": [
+            {
+                "description": "ST15",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.28
+            },
+            {
+                "description": "DN3 Dry Curry EN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "TF16 (H) Soya Milk",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "LB2 Spring Roll Bkt",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.19
+            },
+            {
+                "description": "FS2 Org Yog Smot",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.96
+            }
+        ],
+        "subtotal": 24.43,
+        "tax": null,
+        "tip": null,
+        "total": 28.5
+    }
+]

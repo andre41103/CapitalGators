@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Anzel Advertising (M) Sdn bhd",
+        "transaction_date": "2010-03-27",
+        "items": [
+            {
+                "description": "Plastic Lamination A4",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 4.24
+            },
+            {
+                "description": "A4 COL Simili 80gsm",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 4.24
+            }
+        ],
+        "subtotal": 8.48,
+        "tax": null,
+        "tip": null,
+        "total": 8.5
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MEGAH RETAIL SDN BHD\nPUTRA DENGKIL",
+        "transaction_date": "2018-05-09",
+        "items": [
+            {
+                "description": "350ML CALPIS ORIGINAL",
+                "quantity": 1.0,
+                "price": 2.49,
+                "total_price": 2.49
+            },
+            {
+                "description": "500ML COKE",
+                "quantity": 1.0,
+                "price": 2.2,
+                "total_price": 2.2
+            }
+        ],
+        "subtotal": 4.69,
+        "tax": null,
+        "tip": null,
+        "total": 4.7
+    }
+]

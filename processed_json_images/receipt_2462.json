@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "VIVOPAC MARKETING SDN BHD (1070687-M)",
+        "transaction_date": "2017-09-13",
+        "items": [
+            {
+                "description": "Stretch Film (100mmx120m)",
+                "quantity": 1.0,
+                "price": 4.5,
+                "total_price": 4.5
+            },
+            {
+                "description": "PP - 16\u00d726 0.04mm",
+                "quantity": 1.0,
+                "price": 15.0,
+                "total_price": 15.0
+            },
+            {
+                "description": "PP - 14\u00d720 0.04mm",
+                "quantity": 2.0,
+                "price": 15.0,
+                "total_price": 30.0
+            }
+        ],
+        "subtotal": 49.5,
+        "tax": null,
+        "tip": null,
+        "total": 52.45
+    }
+]

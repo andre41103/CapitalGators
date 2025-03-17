@@ -1,0 +1,86 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BEYOND BROTHERS HARDWARE",
+        "transaction_date": "2018-03-14",
+        "items": [
+            {
+                "description": "BATU CEMENT (A) 600PCS",
+                "quantity": 2.0,
+                "price": 150.0,
+                "total_price": 169.6
+            },
+            {
+                "description": "PASIR HALUS",
+                "quantity": 6.0,
+                "price": 16.0,
+                "total_price": 101.76
+            },
+            {
+                "description": "YTL CEMENT 50KG (NEW PRICE)",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.18
+            },
+            {
+                "description": "KAPUR A1",
+                "quantity": 2.0,
+                "price": 3.0,
+                "total_price": 6.36
+            },
+            {
+                "description": "SALUNG TANGAN GETAH (1PAIR)",
+                "quantity": 1.0,
+                "price": 2.0,
+                "total_price": 2.12
+            },
+            {
+                "description": "BENANG NYLON #18",
+                "quantity": 1.0,
+                "price": 16.0,
+                "total_price": 16.96
+            },
+            {
+                "description": "GERMANY SUDU PLASTER",
+                "quantity": 1.0,
+                "price": 6.9,
+                "total_price": 7.31
+            },
+            {
+                "description": "SUDU PLASTER KAYU (NORMAL)",
+                "quantity": 1.0,
+                "price": 4.5,
+                "total_price": 4.77
+            },
+            {
+                "description": "PAPAN SIMEN (HITAM)",
+                "quantity": 1.0,
+                "price": 19.9,
+                "total_price": 21.09
+            },
+            {
+                "description": "M'MAN RULE TIMBANG 18\"",
+                "quantity": 1.0,
+                "price": 100.0,
+                "total_price": 106.0
+            },
+            {
+                "description": "KERETA TOLAK H/D (OREN)",
+                "quantity": 1.0,
+                "price": 1.2,
+                "total_price": 1.27
+            },
+            {
+                "description": "PAKU KAYU 1\" (KECIL)",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 599.43,
+        "tax": 33.93,
+        "tip": null,
+        "total": 599.45
+    }
+]

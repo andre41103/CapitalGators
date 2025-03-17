@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "UNIHAKKA INTERNATIONAL SDN BHD",
+        "transaction_date": "2018-05-02",
+        "items": [
+            {
+                "description": "Pork",
+                "quantity": 1.0,
+                "price": 2.7,
+                "total_price": 2.7
+            },
+            {
+                "description": "Vege",
+                "quantity": 1.0,
+                "price": 5.5,
+                "total_price": 5.5
+            }
+        ],
+        "subtotal": 8.2,
+        "tax": null,
+        "tip": null,
+        "total": 8.2
+    }
+]

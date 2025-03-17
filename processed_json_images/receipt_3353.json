@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RESTORAN WAN SHENG",
+        "transaction_date": "2018-04-09",
+        "items": [
+            {
+                "description": "Teh (B)",
+                "quantity": 1.0,
+                "price": 2.2,
+                "total_price": 2.2
+            },
+            {
+                "description": "Ch\u1ea1m (B)",
+                "quantity": 1.0,
+                "price": 2.2,
+                "total_price": 2.2
+            },
+            {
+                "description": "Herbal Tea",
+                "quantity": 2.0,
+                "price": 1.7,
+                "total_price": 3.4
+            },
+            {
+                "description": "Take Away",
+                "quantity": 4.0,
+                "price": 0.2,
+                "total_price": 0.8
+            }
+        ],
+        "subtotal": 8.11,
+        "tax": null,
+        "tip": null,
+        "total": 8.6
+    }
+]

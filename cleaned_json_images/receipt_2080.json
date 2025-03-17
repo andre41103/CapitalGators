@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "McDonald's Schiphol",
+        "receipt_type": "receipt.retailMeal",
+        "total": 21.95,
+        "date": "2011-09-05",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MAKASSAR FRESH MARKET SDN BHD",
+        "transaction_date": "2017-10-07",
+        "items": [
+            {
+                "description": "O.C. WHITE",
+                "quantity": 4.0,
+                "price": 2.13,
+                "total_price": 8.52
+            },
+            {
+                "description": "WHOLEMEAL",
+                "quantity": 3.0,
+                "price": 2.78,
+                "total_price": 8.34
+            },
+            {
+                "description": "CR-B'SCOTCH",
+                "quantity": 20.0,
+                "price": 0.72,
+                "total_price": 14.4
+            }
+        ],
+        "subtotal": 14.4,
+        "tax": 0.86,
+        "tip": null,
+        "total": 32.12
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AEON CO. (M) BHD",
+        "transaction_date": "2018-06-12",
+        "items": [
+            {
+                "description": "PREMIER 4\u00d7200S",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.85
+            },
+            {
+                "description": "APACHE BLACK &",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.86
+            },
+            {
+                "description": "SUPER ESSENSO M",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            }
+        ],
+        "subtotal": 38.6,
+        "tax": 0.0,
+        "tip": null,
+        "total": 38.8
+    }
+]

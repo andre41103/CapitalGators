@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "POPULAR BOOK\nCO. (M) SDN BHD",
+        "transaction_date": "2018-02-06",
+        "items": [
+            {
+                "description": "CORR. PEN ZLI-W",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.65
+            },
+            {
+                "description": "PB F/ RING FILE W/CLI",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.99
+            }
+        ],
+        "subtotal": 14.64,
+        "tax": 0.83,
+        "tip": null,
+        "total": 14.65
+    }
+]

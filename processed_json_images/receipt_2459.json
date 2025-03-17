@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HON HWA HARDWARE TRADING",
+        "transaction_date": "2017-02-08",
+        "items": [
+            {
+                "description": "1\" TOWEL ROD\nBRACKET(END)",
+                "quantity": 2.0,
+                "price": 6.0,
+                "total_price": 12.0
+            },
+            {
+                "description": "3/4\" TOWEL ROD\nBRACKET",
+                "quantity": 2.0,
+                "price": 4.0,
+                "total_price": 8.0
+            },
+            {
+                "description": "3/4\"TOWEL ROD\nBRACKET(END)",
+                "quantity": 5.0,
+                "price": 4.0,
+                "total_price": 20.0
+            },
+            {
+                "description": "3/4\"TOWEL ROD\nBRACKET(ROUND)",
+                "quantity": 4.0,
+                "price": 5.5,
+                "total_price": 22.0
+            },
+            {
+                "description": "25MM X 10 WALL PLUG",
+                "quantity": 1.0,
+                "price": 3.5,
+                "total_price": 3.5
+            },
+            {
+                "description": "SANDFLEX SAW\nBLADE 18T",
+                "quantity": 1.0,
+                "price": 4.5,
+                "total_price": 4.5
+            },
+            {
+                "description": "SCREW",
+                "quantity": 1.0,
+                "price": 7.0,
+                "total_price": 7.0
+            },
+            {
+                "description": "3/4\" V BRACKET",
+                "quantity": 5.0,
+                "price": 1.5,
+                "total_price": 7.5
+            },
+            {
+                "description": "1\" S/STEEL ROD",
+                "quantity": 6.0,
+                "price": 15.8,
+                "total_price": 94.8
+            },
+            {
+                "description": "3/4\" ALUMINIUM ROD",
+                "quantity": 17.0,
+                "price": 5.8,
+                "total_price": 98.6
+            }
+        ],
+        "subtotal": 277.9,
+        "tax": 15.68,
+        "tip": null,
+        "total": 277.0
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "32 PUB & BISTRO own by CNU TRADING",
+        "transaction_date": "2018-03-11",
+        "items": [
+            {
+                "description": "HEINEKEN (5 BTL)",
+                "quantity": 2.0,
+                "price": 95.0,
+                "total_price": 190.0
+            }
+        ],
+        "subtotal": 179.25,
+        "tax": null,
+        "tip": null,
+        "total": 190.0
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR D.I.Y. (JOHOR) SDN BHD",
+        "transaction_date": "2019-01-12",
+        "items": [
+            {
+                "description": "CHOPPING BOARD 35.5x25.5CM 803M#",
+                "quantity": 1.0,
+                "price": 19.0,
+                "total_price": 19.0
+            },
+            {
+                "description": "AIR PRESSURE SPRAYER SX-575-1 1.5L\nHC03-7",
+                "quantity": 1.0,
+                "price": 8.02,
+                "total_price": 8.02
+            },
+            {
+                "description": "WAXCO WINDSHILED CLEANER 120ML\nWA14-3A\n48",
+                "quantity": 1.0,
+                "price": 3.02,
+                "total_price": 3.02
+            },
+            {
+                "description": "BOPP TAPE 48MM*100M CLEAR\nFZ-04",
+                "quantity": 1.0,
+                "price": 3.88,
+                "total_price": 3.88
+            }
+        ],
+        "subtotal": 33.92,
+        "tax": null,
+        "tip": null,
+        "total": 33.9
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "POPULAR BOOK\nCO. (M) SDN BHD",
+        "transaction_date": "2018-03-01",
+        "items": [
+            {
+                "description": "#/ENV4.5*9.5",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.9
+            },
+            {
+                "description": "Uni P&S Env 4.5X9. 75",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.1
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.23,
+        "tip": null,
+        "total": 4.0
+    }
+]

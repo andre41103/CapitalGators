@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "CHRISTOPHER'S\nCAKE SHOP",
+        "receipt_type": "receipt.retailMeal",
+        "total": 5.4,
+        "date": "2017-10-11",
+        "notes": "",
+        "recurring": false
+    }
+]

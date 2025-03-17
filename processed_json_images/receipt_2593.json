@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MYDIN MART SRI MUDA",
+        "transaction_date": "2017-08-10",
+        "items": [
+            {
+                "description": "PARTNER E/LOPE 4.5INX9.5IN W4292 EA",
+                "quantity": 2.0,
+                "price": 2.6,
+                "total_price": 5.2
+            },
+            {
+                "description": "PLASTIC BAG RMO.20",
+                "quantity": 1.0,
+                "price": 0.2,
+                "total_price": 0.2
+            },
+            {
+                "description": "TEN Q E/LOPE 15INX10IN TQ-S1015 EA",
+                "quantity": 2.0,
+                "price": 2.5,
+                "total_price": 5.0
+            },
+            {
+                "description": "UMOE S/NT 100MX75M, N/GRN\nEA",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "UMOE S/NT 100MX75M, N/YLW\nEA",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "UMOE S/NT 50MX38M, N/YLW\nEA",
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 2.5
+            },
+            {
+                "description": "UMOE S/NT=75MX50M, N/PINK",
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 2.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 21.4
+    }
+]

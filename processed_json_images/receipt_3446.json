@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LIAN HING STATIONERY SDN BHD",
+        "transaction_date": "2018-03-27",
+        "items": [
+            {
+                "description": "F/Castell\nTack-It\n75g- White (new)",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 12.0
+            }
+        ],
+        "subtotal": 11.32,
+        "tax": 0.68,
+        "tip": null,
+        "total": 12.0
+    }
+]

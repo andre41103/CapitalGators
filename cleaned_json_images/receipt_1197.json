@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Woolworths Cafe",
+        "receipt_type": "receipt.retailMeal",
+        "total": 255.0,
+        "date": "2016-10-26",
+        "notes": "",
+        "recurring": false
+    }
+]

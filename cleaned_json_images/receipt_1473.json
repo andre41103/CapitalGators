@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Baker-Dixon",
+        "receipt_type": "receipt",
+        "total": 500.24,
+        "date": "2013-12-22",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SINNATHAMBY HOLDINGS SDN. BHD.",
+        "transaction_date": "2018-02-06",
+        "items": [
+            {
+                "description": "POLY CHOPPING BOARD - 013",
+                "quantity": 3.0,
+                "price": 4.8,
+                "total_price": 14.4
+            },
+            {
+                "description": "PLASTIC BOWL - 2.80",
+                "quantity": 8.0,
+                "price": 2.8,
+                "total_price": 22.4
+            },
+            {
+                "description": "PLASTIC CONTAINER W COVER MS-SQ-1",
+                "quantity": 6.0,
+                "price": 1.5,
+                "total_price": 9.0
+            },
+            {
+                "description": "BENXON PP HYGIENIC CUP-AO-700 22 OZ-50PCS",
+                "quantity": 1.0,
+                "price": 10.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "STAEDTLER LUNA COLOUR PENCIL",
+                "quantity": 11.0,
+                "price": 4.9,
+                "total_price": 53.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 6.21,
+        "tip": null,
+        "total": 109.7
+    }
+]

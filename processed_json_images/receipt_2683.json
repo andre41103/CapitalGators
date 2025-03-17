@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "MY MYDIN SDN BHD",
+        "transaction_date": "2018-01-15",
+        "items": [
+            {
+                "description": "EVEREADY BAT S/H/D 1212BP4 AAAFA",
+                "quantity": 1.0,
+                "price": 5.5,
+                "total_price": 5.5
+            }
+        ],
+        "subtotal": 5.5,
+        "tax": 0.31,
+        "tip": null,
+        "total": null
+    }
+]

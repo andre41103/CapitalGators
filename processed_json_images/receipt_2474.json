@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "FY EAGLE ENTERPRISE",
+        "transaction_date": "2017-12-04",
+        "items": [
+            {
+                "description": "SR:TAPE OPP 48MMX80Y CLEAR(B.PY)-ECS",
+                "quantity": 2.0,
+                "price": 3.5,
+                "total_price": 7.0
+            }
+        ],
+        "subtotal": 6.6,
+        "tax": 0.4,
+        "tip": null,
+        "total": 7.0
+    }
+]

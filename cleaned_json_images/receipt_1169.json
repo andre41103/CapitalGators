@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Manila",
+        "receipt_type": "receipt.retailMeal",
+        "total": 23.7,
+        "date": "2018-01-26",
+        "notes": "",
+        "recurring": false
+    }
+]

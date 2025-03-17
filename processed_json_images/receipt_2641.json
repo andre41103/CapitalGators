@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SEN LEE HEONG RESTAURANT",
+        "transaction_date": "2018-01-12",
+        "items": [
+            {
+                "description": "FOOD SR",
+                "quantity": 1.0,
+                "price": 67.0,
+                "total_price": 67.0
+            },
+            {
+                "description": "BIG RICE AND SR",
+                "quantity": 2.0,
+                "price": 1.5,
+                "total_price": 3.0
+            },
+            {
+                "description": "TEA POT\nSR",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 73.0,
+        "tax": 4.38,
+        "tip": null,
+        "total": 77.4
+    }
+]

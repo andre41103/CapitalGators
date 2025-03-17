@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "SSAMBAP",
+        "receipt_type": "receipt.retailMeal",
+        "total": 42.0,
+        "date": "2015-08-12",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KEDAI PAPAN YEW CHUAN",
+        "transaction_date": "2018-03-16",
+        "items": [
+            {
+                "description": "BESI Y 12 (CQ)",
+                "quantity": 4.0,
+                "price": 24.0,
+                "total_price": 101.76
+            },
+            {
+                "description": "BESI R 5.5 (CQ)",
+                "quantity": 4.0,
+                "price": 8.0,
+                "total_price": 33.92
+            }
+        ],
+        "subtotal": 128.0,
+        "tax": 7.68,
+        "tip": null,
+        "total": 135.68
+    }
+]

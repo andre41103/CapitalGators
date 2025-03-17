@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "BAR\nXAMPANYET",
+        "receipt_type": "receipt.retailMeal",
+        "total": 82.2,
+        "date": "2018-02-09",
+        "notes": "",
+        "recurring": false
+    }
+]

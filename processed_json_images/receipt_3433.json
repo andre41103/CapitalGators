@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PASAR RAYA MEGA MAJU\n(SEMENYIH) SDN BHD",
+        "transaction_date": "2018-07-03",
+        "items": [
+            {
+                "description": "PRO BALANCE 400GM - BEFF",
+                "quantity": 4.0,
+                "price": 4.35,
+                "total_price": 17.4
+            },
+            {
+                "description": "PRO BALANCE LAMB 400GM",
+                "quantity": 3.0,
+                "price": 4.35,
+                "total_price": 13.05
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 30.45
+    }
+]

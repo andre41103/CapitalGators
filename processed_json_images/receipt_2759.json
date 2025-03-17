@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ADVANCO COMPANY",
+        "transaction_date": "2018-01-17",
+        "items": [
+            {
+                "description": "UNICORN-20CM HALF WHITE RULEF",
+                "quantity": 1.0,
+                "price": 0.8,
+                "total_price": 0.8
+            },
+            {
+                "description": "CBE-S217 CBE 7\" SCISSORS (2.0MM",
+                "quantity": 1.0,
+                "price": 20.0,
+                "total_price": 6.2
+            },
+            {
+                "description": "Rounding Adj",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 6.6,
+        "tax": 0.4,
+        "tip": null,
+        "total": 7.0
+    }
+]

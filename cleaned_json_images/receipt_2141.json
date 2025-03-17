@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "RITE\nAID",
+        "receipt_type": "receipt.retailMeal",
+        "total": 9.35,
+        "date": "2010-02-01",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Le and Sons",
+        "receipt_type": "receipt.retailMeal",
+        "total": 169.37,
+        "date": "2015-11-28",
+        "notes": "",
+        "recurring": false
+    }
+]

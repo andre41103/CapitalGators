@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GL HANDICRAFT & TAILORING",
+        "transaction_date": "2018-04-09",
+        "items": [
+            {
+                "description": "NONA M ACRYIC YARN",
+                "quantity": 6.0,
+                "price": 13.0,
+                "total_price": 104.0
+            }
+        ],
+        "subtotal": 104.0,
+        "tax": 5.89,
+        "tip": null,
+        "total": 104.0
+    }
+]

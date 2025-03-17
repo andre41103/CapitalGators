@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "YIN MA (M) SDN.BHD.",
+        "transaction_date": "2016-01-31",
+        "items": [
+            {
+                "description": "30CM-(FOOK) CNY",
+                "quantity": 1.0,
+                "price": 4.9,
+                "total_price": 2.45
+            },
+            {
+                "description": "40CM-(FOOK)CNY",
+                "quantity": 1.0,
+                "price": 5.9,
+                "total_price": 2.95
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.31,
+        "tip": null,
+        "total": 5.4
+    }
+]

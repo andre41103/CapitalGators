@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "The Cut Steakhouse &Burgers",
+        "receipt_type": "receipt.retailMeal",
+        "total": 167.55,
+        "date": "2017-01-01",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "IKANO HANDEL SDN BHD",
+        "transaction_date": "2017-12-23",
+        "items": [
+            {
+                "description": "Almond Cak",
+                "quantity": null,
+                "price": null,
+                "total_price": 22.5
+            },
+            {
+                "description": "IKEA Retai",
+                "quantity": null,
+                "price": null,
+                "total_price": 36.0
+            },
+            {
+                "description": "KEA Drink",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Dark Chocolate 70% U",
+                "quantity": 2.0,
+                "price": 6.9,
+                "total_price": 13.8
+            }
+        ],
+        "subtotal": 69.15,
+        "tax": 4.15,
+        "tip": null,
+        "total": 73.3
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BAIFU (M) Sdn Bhd",
+        "transaction_date": "2018-03-20",
+        "items": [
+            {
+                "description": "Plastic spoons 8pcs",
+                "quantity": 3.0,
+                "price": 5.9,
+                "total_price": 17.7
+            },
+            {
+                "description": "Plastic forks 8pcs",
+                "quantity": 3.0,
+                "price": 5.9,
+                "total_price": 17.7
+            }
+        ],
+        "subtotal": 35.4,
+        "tax": 2.0,
+        "tip": null,
+        "total": 35.4
+    }
+]

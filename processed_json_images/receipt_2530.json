@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BEYOND BROTHERS HARDWARE",
+        "transaction_date": "2017-11-10",
+        "items": [
+            {
+                "description": "PENTENS PUTTY FILLER 500G",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 5.3
+            },
+            {
+                "description": "PAPAN CAT\nTUPAI ROLLER 7\" \u00b7 SET)",
+                "quantity": 1.0,
+                "price": 2.0,
+                "total_price": 2.12
+            },
+            {
+                "description": "MAXILITE 7L 14139",
+                "quantity": 1.0,
+                "price": 37.0,
+                "total_price": 39.22
+            },
+            {
+                "description": "ARROW TALI TAPE: 7 5M (OFFER !)",
+                "quantity": 1.0,
+                "price": 8.0,
+                "total_price": 8.48
+            },
+            {
+                "description": "SCAPPER BIASA 3'",
+                "quantity": 1.0,
+                "price": 4.0,
+                "total_price": 4.24
+            }
+        ],
+        "subtotal": 67.84,
+        "tax": 3.84,
+        "tip": null,
+        "total": 67.85
+    }
+]

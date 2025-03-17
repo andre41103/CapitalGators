@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "S\u00e9gi Cash & Carry Sdn. Bhd.",
+        "transaction_date": "2017-05-25",
+        "items": [
+            {
+                "description": "MFM ROSES ALL PURPOSE FLOUR 12X850G",
+                "quantity": 1.0,
+                "price": 18.6,
+                "total_price": 18.6
+            },
+            {
+                "description": "TLC SOTONG SAUCE 725G",
+                "quantity": 1.0,
+                "price": 2.69,
+                "total_price": 2.69
+            },
+            {
+                "description": "TLC FISH SAUCE 725G",
+                "quantity": 1.0,
+                "price": 2.7,
+                "total_price": 2.7
+            },
+            {
+                "description": "ROYAL BAKING POWDER 450G",
+                "quantity": 2.0,
+                "price": 11.69,
+                "total_price": 23.38
+            },
+            {
+                "description": "KUAT HARIMAU BLEACH LEMON TP 2\u00d7900ML",
+                "quantity": 2.0,
+                "price": 5.51,
+                "total_price": 7.96
+            },
+            {
+                "description": "INDOCAFE COFFEEMIX 3IN1 - 100\u00d720G",
+                "quantity": 1.0,
+                "price": 33.9,
+                "total_price": 33.9
+            },
+            {
+                "description": "UDANG XL",
+                "quantity": 0.434,
+                "price": 39.9,
+                "total_price": 17.32
+            },
+            {
+                "description": "BURUNG PUYUH PC",
+                "quantity": 4.0,
+                "price": 2.95,
+                "total_price": 11.8
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 118.35
+    }
+]

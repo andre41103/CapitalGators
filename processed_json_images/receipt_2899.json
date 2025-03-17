@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RESTORAN SIAM VILLAGE",
+        "transaction_date": "2018-04-27",
+        "items": [
+            {
+                "description": "BC001 CLAYPOT F/TOFU",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.9
+            },
+            {
+                "description": "C004 STIR RED CURRY",
+                "quantity": 2.0,
+                "price": 18.9,
+                "total_price": 37.8
+            },
+            {
+                "description": "DR001C THAI ICE TEA",
+                "quantity": 2.0,
+                "price": 6.9,
+                "total_price": 13.8
+            },
+            {
+                "description": "DR002C THAI ICE GREEN",
+                "quantity": 2.0,
+                "price": 6.9,
+                "total_price": 13.8
+            },
+            {
+                "description": "SD002 THAI STYLE\n/ACACIA LEAF",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "SQ003L STEAMED SQUIDS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 32.0
+            },
+            {
+                "description": "T002S SPICY THAI TOM\nAFOOD (S)",
+                "quantity": 2.0,
+                "price": 25.0,
+                "total_price": 50.0
+            },
+            {
+                "description": "V001 FRIED KANGKUNG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.9
+            },
+            {
+                "description": "V002 S/FRIED KAILAN\nD FISH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 18.9
+            },
+            {
+                "description": "W003 THAI STYLE\nPRAWN",
+                "quantity": 2.0,
+                "price": 15.9,
+                "total_price": 31.8
+            },
+            {
+                "description": "W006 WHITE RICE (PER\nFILL)",
+                "quantity": 13.0,
+                "price": 2.0,
+                "total_price": 26.0
+            }
+        ],
+        "subtotal": 275.9,
+        "tax": null,
+        "tip": null,
+        "total": 275.9
+    }
+]

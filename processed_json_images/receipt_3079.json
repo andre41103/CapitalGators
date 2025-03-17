@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+        "transaction_date": "2016-01-10",
+        "items": [
+            {
+                "description": "ANTI SLIP MAT 820# 30*50CM*VS\nMH22/3 - 6/120",
+                "quantity": 3.0,
+                "price": 2.7,
+                "total_price": 8.1
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.46,
+        "tip": null,
+        "total": 8.1
+    }
+]

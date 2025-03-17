@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Guardian Health And Beauty Sdn Bhd",
+        "transaction_date": "2018-01-01",
+        "items": [
+            {
+                "description": "FREEMAN BK/CH 60Z",
+                "quantity": null,
+                "price": null,
+                "total_price": 22.44
+            }
+        ],
+        "subtotal": 22.44,
+        "tax": 1.27,
+        "tip": null,
+        "total": 22.45
+    }
+]

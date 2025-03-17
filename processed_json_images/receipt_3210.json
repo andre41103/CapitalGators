@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THE MARCO POLO KITCH\nBUKIT INDAH",
+        "transaction_date": "2018-05-06",
+        "items": [
+            {
+                "description": "ICE MOCHA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.99
+            }
+        ],
+        "subtotal": 12.99,
+        "tax": 0.86,
+        "tip": null,
+        "total": 15.15
+    }
+]

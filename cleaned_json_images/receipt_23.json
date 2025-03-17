@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Moonstar Restaurant",
+        "receipt_type": "receipt.retailMeal",
+        "total": 37.37,
+        "date": "2018-10-29",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "YONG TAT HARDWARE TRADING",
+        "transaction_date": "2018-03-13",
+        "items": [
+            {
+                "description": "0.0MM X 50\" X 50\" AR RED GASKET\nGAIFOI",
+                "quantity": 1.0,
+                "price": 67.82,
+                "total_price": 72.0
+            }
+        ],
+        "subtotal": 67.92,
+        "tax": 4.08,
+        "tip": null,
+        "total": 72.0
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RESTORAN WAN SHENG",
+        "transaction_date": "2018-06-26",
+        "items": [
+            {
+                "description": "Teh (B)",
+                "quantity": 1.0,
+                "price": 2.1,
+                "total_price": 2.1
+            },
+            {
+                "description": "Cham (B)",
+                "quantity": 1.0,
+                "price": 2.1,
+                "total_price": 2.1
+            },
+            {
+                "description": "Take Away",
+                "quantity": 2.0,
+                "price": 0.2,
+                "total_price": 0.4
+            }
+        ],
+        "subtotal": 4.6,
+        "tax": 0.0,
+        "tip": null,
+        "total": 4.6
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "tan woon yann",
+        "transaction_date": "2018-10-19",
+        "items": [
+            {
+                "description": "ST-PRIVILEGE CARD/GD INDAH",
+                "quantity": 1.0,
+                "price": 10.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "GF-TABLE LAMP/STITCH <i>",
+                "quantity": 1.0,
+                "price": 55.9,
+                "total_price": 55.9
+            }
+        ],
+        "subtotal": 60.31,
+        "tax": null,
+        "tip": null,
+        "total": 60.3
+    }
+]

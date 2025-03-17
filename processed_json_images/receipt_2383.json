@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "YHM Aeon Tebrau City",
+        "transaction_date": "2018-03-11",
+        "items": [
+            {
+                "description": "Green Tea",
+                "quantity": 1.0,
+                "price": 1.5,
+                "total_price": 1.5
+            },
+            {
+                "description": "Yakiniku Bowl R",
+                "quantity": 1.0,
+                "price": 12.8,
+                "total_price": 12.8
+            },
+            {
+                "description": "Negi Tama Beef Bowl R",
+                "quantity": 2.0,
+                "price": 15.8,
+                "total_price": 31.6
+            },
+            {
+                "description": "Miso/Wakame+Green Tea",
+                "quantity": 1.0,
+                "price": 3.8,
+                "total_price": 3.8
+            },
+            {
+                "description": "Miso Soup",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 49.7,
+        "tax": 2.8,
+        "tip": null,
+        "total": 49.7
+    }
+]

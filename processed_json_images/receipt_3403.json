@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "C W KHOO HARDWARE SDN BHD",
+        "transaction_date": "2018-06-11",
+        "items": [
+            {
+                "description": "100# X 4L COMPRESSOR OIL @ TIN",
+                "quantity": 1.0,
+                "price": 48.0,
+                "total_price": 48.0
+            }
+        ],
+        "subtotal": 48.0,
+        "tax": null,
+        "tip": null,
+        "total": 48.0
+    }
+]

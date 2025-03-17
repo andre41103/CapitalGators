@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "IN-SPARKLE TRADING SDN BHD",
+        "transaction_date": "2017-10-21",
+        "items": [
+            {
+                "description": "ALARM G.COB(333)L-A66/L-A71 (LC) 1",
+                "quantity": 1.0,
+                "price": 250.0,
+                "total_price": 250.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 250.0
+    }
+]

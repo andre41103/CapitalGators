@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CHECKERS HYPERMARKET SDN BHD",
+        "transaction_date": null,
+        "items": [
+            {
+                "description": "SAJI MINYAK MASAK - 5KG(Z) (BTL)",
+                "quantity": 1.0,
+                "price": 22.9,
+                "total_price": 19.99
+            }
+        ],
+        "subtotal": 19.99,
+        "tax": 0.0,
+        "tip": null,
+        "total": null
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B",
+        "transaction_date": "2017-05-10",
+        "items": [
+            {
+                "description": "A&W SARSAPARILLA 1.5L",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.85
+            },
+            {
+                "description": "COKE ZERO 1.25L STOP",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "HELANG MINYAK MASAK 5KG",
+                "quantity": null,
+                "price": null,
+                "total_price": 24.4
+            },
+            {
+                "description": "CINTAN MI PERISA ASLI S",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.65
+            },
+            {
+                "description": "MAMEE EXPRESS MI CAWAN",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.29
+            },
+            {
+                "description": "MAGOI HOT CUP MEE TOM",
+                "quantity": 2.0,
+                "price": 1.75,
+                "total_price": 3.5
+            },
+            {
+                "description": "MILO FUZE JIN\u00cd ORIGINAL",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.65
+            },
+            {
+                "description": "JULIES SUGAR CRACKERS",
+                "quantity": 2.0,
+                "price": 3.35,
+                "total_price": 6.7
+            },
+            {
+                "description": "588 TWISTIES COOKIES 1",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.3
+            },
+            {
+                "description": "BIN BIN RICE CRACKER 15",
+                "quantity": 2.0,
+                "price": 5.95,
+                "total_price": 11.9
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 72.74
+    }
+]

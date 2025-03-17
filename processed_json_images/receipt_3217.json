@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SANYO STATIONERY SHOP",
+        "transaction_date": "2017-09-05",
+        "items": [
+            {
+                "description": "PUNCH CARD WITH HOLE",
+                "quantity": 1.0,
+                "price": 11.9,
+                "total_price": 11.9
+            },
+            {
+                "description": "WORKER'S CARD (1-15) 100'S\n(WOC-115)",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 14.9,
+        "tax": 0.84,
+        "tip": null,
+        "total": 14.9
+    }
+]

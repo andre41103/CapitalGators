@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RESTORAN WAN SHENG",
+        "transaction_date": "2018-05-11",
+        "items": [
+            {
+                "description": "Bunga Kekwa",
+                "quantity": 1.0,
+                "price": 1.7,
+                "total_price": 1.7
+            },
+            {
+                "description": "Take Away",
+                "quantity": 1.0,
+                "price": 0.2,
+                "total_price": 0.2
+            }
+        ],
+        "subtotal": 1.9,
+        "tax": null,
+        "tip": null,
+        "total": 1.9
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Chili's",
+        "transaction_date": "2017-12-30",
+        "items": [
+            {
+                "description": "PINEAPPLE JUICE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.95
+            },
+            {
+                "description": "TOSTADA CHIPS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.95
+            },
+            {
+                "description": "CHP_BWL CK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 29.95
+            },
+            {
+                "description": "MARG CK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 27.95
+            }
+        ],
+        "subtotal": 87.8,
+        "tax": 0.01,
+        "tip": 8.78,
+        "total": 102.4
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": null,
+        "receipt_type": "receipt.retailMeal",
+        "total": 302.58,
+        "date": "2020-07-20",
+        "notes": "",
+        "recurring": false
+    }
+]

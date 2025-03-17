@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B",
+        "transaction_date": "2018-03-31",
+        "items": [
+            {
+                "description": "100 PLUS CAN 325ML (ICE",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.49
+            },
+            {
+                "description": "MALTA CAN 320ML (ICE)",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.22,
+        "tip": null,
+        "total": 3.99
+    }
+]

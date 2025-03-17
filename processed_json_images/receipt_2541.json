@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)",
+        "transaction_date": "2018-01-11",
+        "items": [
+            {
+                "description": "WALL SCRAPER 3\"",
+                "quantity": 1.0,
+                "price": 4.45,
+                "total_price": 4.45
+            },
+            {
+                "description": "4.5KG RENDEROC PLUG",
+                "quantity": 2.0,
+                "price": 50.88,
+                "total_price": 101.76
+            },
+            {
+                "description": "5\" SCRAPER (ADAMARK)",
+                "quantity": 1.0,
+                "price": 10.07,
+                "total_price": 10.07
+            }
+        ],
+        "subtotal": 109.7,
+        "tax": 6.58,
+        "tip": null,
+        "total": 116.28
+    }
+]

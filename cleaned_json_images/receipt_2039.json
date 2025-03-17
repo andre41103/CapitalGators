@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "RISTORANTE CIAO BELLA",
+        "receipt_type": "receipt.retailMeal",
+        "total": 495.0,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KING'S CONFECTIONERY S/B 273500-U (JJ)",
+        "transaction_date": "2017-10-10",
+        "items": [
+            {
+                "description": "ICE-CREAM",
+                "quantity": 1.0,
+                "price": 58.0,
+                "total_price": 58.0
+            },
+            {
+                "description": "Portugues",
+                "quantity": 6.0,
+                "price": 2.0,
+                "total_price": 12.0
+            }
+        ],
+        "subtotal": 70.0,
+        "tax": 3.96,
+        "tip": null,
+        "total": 70.0
+    }
+]

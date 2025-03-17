@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "UMIX",
+        "receipt_type": "receipt.retailMeal",
+        "total": 11.04,
+        "date": "2016-04-24",
+        "notes": "",
+        "recurring": false
+    }
+]

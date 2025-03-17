@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Hensley's Top Shelf",
+        "receipt_type": "receipt.retailMeal",
+        "total": 27.1,
+        "date": "2014-04-13",
+        "notes": "",
+        "recurring": false
+    }
+]

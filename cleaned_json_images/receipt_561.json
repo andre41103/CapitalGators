@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Hood Ranch",
+        "receipt_type": "receipt.retailMeal",
+        "total": 52.44,
+        "date": "2016-07-26",
+        "notes": "",
+        "recurring": false
+    }
+]

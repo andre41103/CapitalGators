@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Moore Ltd",
+        "receipt_type": "receipt.retailMeal",
+        "total": 131.98,
+        "date": "2019-03-23",
+        "notes": "",
+        "recurring": false
+    }
+]

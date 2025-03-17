@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Best Denki Malaysia",
+        "transaction_date": "2016-05-01",
+        "items": [
+            {
+                "description": "COMPUTER ACCESSORIES",
+                "quantity": 1.0,
+                "price": 89.0,
+                "total_price": 89.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 5.04,
+        "tip": null,
+        "total": 89.0
+    }
+]

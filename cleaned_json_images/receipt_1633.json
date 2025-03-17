@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Dunkin Donuts/Baskin Robbins",
+        "receipt_type": "receipt.retailMeal",
+        "total": 2.13,
+        "date": "2016-01-01",
+        "notes": "",
+        "recurring": false
+    }
+]

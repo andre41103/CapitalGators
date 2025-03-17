@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Jack's Seafood",
+        "receipt_type": "receipt.retailMeal",
+        "total": 58.73,
+        "date": "2016-10-14",
+        "notes": "",
+        "recurring": false
+    }
+]

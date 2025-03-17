@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SANYO STATIONERY SHOP",
+        "transaction_date": "2017-11-26",
+        "items": [
+            {
+                "description": "SB-5882 CAMIS NCR BILL BOOK\n5\"x8\" (BB-5882)",
+                "quantity": 1.0,
+                "price": 3.5,
+                "total_price": 3.5
+            },
+            {
+                "description": "RESTAURANT ORDER CHIT NCR\n3.5\"x6\"",
+                "quantity": 2.0,
+                "price": 2.9,
+                "total_price": 5.8
+            }
+        ],
+        "subtotal": 9.3,
+        "tax": 0.53,
+        "tip": null,
+        "total": 9.3
+    }
+]

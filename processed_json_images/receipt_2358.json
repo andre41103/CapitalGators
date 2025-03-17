@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TEO HENG STATIONERY & BOOKS",
+        "transaction_date": "2018-01-27",
+        "items": [
+            {
+                "description": "DOUBLE SIDE FOAM TAPE 18MM",
+                "quantity": 1.0,
+                "price": 3.96,
+                "total_price": 3.8
+            },
+            {
+                "description": "CAMIS SQ BOOK 200",
+                "quantity": 5.0,
+                "price": 2.74,
+                "total_price": 13.0
+            },
+            {
+                "description": "EAGLE F4 200 FOOLSCAP BOOK",
+                "quantity": 1.0,
+                "price": 5.47,
+                "total_price": 5.2
+            },
+            {
+                "description": "EAGLE F4 120 NUMBERING FOOLSCAP\nBOOK",
+                "quantity": 1.0,
+                "price": 3.96,
+                "total_price": 3.8
+            }
+        ],
+        "subtotal": 25.8,
+        "tax": 1.55,
+        "tip": null,
+        "total": 27.35
+    }
+]

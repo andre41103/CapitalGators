@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "YONG TAT HARDWARE TRADING",
+        "transaction_date": "2018-03-13",
+        "items": [
+            {
+                "description": "10' WING COMPASS\n6181801",
+                "quantity": 1.0,
+                "price": 48.0,
+                "total_price": 50.08
+            },
+            {
+                "description": "1/8'-3/4\" 12PCS HOLLOW PUNCH SET\nGB",
+                "quantity": 1.0,
+                "price": 47.17,
+                "total_price": 50.0
+            }
+        ],
+        "subtotal": 95.17,
+        "tax": 5.71,
+        "tip": null,
+        "total": 100.9
+    }
+]

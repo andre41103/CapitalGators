@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SANYO STATIONERY SHOP",
+        "transaction_date": "2017-10-28",
+        "items": [
+            {
+                "description": "CANON DESKTOP CALCULATOR\nLS-88HI III (BLACK)",
+                "quantity": 1.0,
+                "price": 21.9,
+                "total_price": 21.9
+            }
+        ],
+        "subtotal": 21.9,
+        "tax": 1.24,
+        "tip": null,
+        "total": 21.9
+    }
+]

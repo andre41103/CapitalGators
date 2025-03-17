@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KOH SENG HARDWARE",
+        "transaction_date": "2017-12-04",
+        "items": [
+            {
+                "description": "SR:EXTENSION LADDER 12' X 12'",
+                "quantity": 2.0,
+                "price": 424.0,
+                "total_price": 848.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 48.0,
+        "tip": null,
+        "total": 848.0
+    }
+]

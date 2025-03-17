@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DE LUXE CIRCLE FRESH MART SDN BHD",
+        "transaction_date": "2018-05-12",
+        "items": [
+            {
+                "description": "Heaven & Earth Ayataka Green Tea 1.5L",
+                "quantity": null,
+                "price": 5.0,
+                "total_price": 5.0
+            },
+            {
+                "description": "Konnyaku 10g",
+                "quantity": null,
+                "price": 3.5,
+                "total_price": 7.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 12.0
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B",
+        "transaction_date": "2018-05-13",
+        "items": [
+            {
+                "description": "KNORR CHICKEN STOCK 1K",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.85
+            },
+            {
+                "description": "HYGIENIC 7.5 INCH COLO",
+                "quantity": 6.0,
+                "price": 1.01,
+                "total_price": 6.06
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.31,
+        "tip": null,
+        "total": 22.91
+    }
+]

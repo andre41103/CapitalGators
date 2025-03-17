@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KING'S CONFECTIONERY S/B 273500-U",
+        "transaction_date": "2017-02-02",
+        "items": [
+            {
+                "description": "SCONE - M",
+                "quantity": 1.0,
+                "price": 7.5,
+                "total_price": 7.5
+            }
+        ],
+        "subtotal": 7.5,
+        "tax": 0.42,
+        "tip": null,
+        "total": 7.5
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AIK HUAT HARDWARE\nENTERPRISE (SETIA\nALAM) SDN BHD",
+        "transaction_date": "2017-07-13",
+        "items": [
+            {
+                "description": "15AMP UMS PLUG TOP (STRIM)",
+                "quantity": 1.0,
+                "price": 4.0,
+                "total_price": 4.0
+            }
+        ],
+        "subtotal": 4.0,
+        "tax": 0.23,
+        "tip": null,
+        "total": 4.8
+    }
+]

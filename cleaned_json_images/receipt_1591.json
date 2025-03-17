@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Giles Inc",
+        "receipt_type": "receipt",
+        "total": 15.36,
+        "date": "2013-05-05",
+        "notes": "",
+        "recurring": false
+    }
+]

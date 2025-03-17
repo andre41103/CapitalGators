@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HENG KEE DELIGHTS BAK KUT TEH.",
+        "transaction_date": "2018-01-04",
+        "items": [
+            {
+                "description": "Bak Kut Teh Soup (",
+                "quantity": 2.0,
+                "price": 17.0,
+                "total_price": 34.0
+            },
+            {
+                "description": "White Rice (B)",
+                "quantity": 2.0,
+                "price": 1.5,
+                "total_price": 3.0
+            },
+            {
+                "description": "Tofu (B)",
+                "quantity": 1.0,
+                "price": 4.0,
+                "total_price": 4.0
+            },
+            {
+                "description": "Chinese Tea/ Water",
+                "quantity": 2.0,
+                "price": 0.5,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 42.0,
+        "tax": null,
+        "tip": null,
+        "total": 42.0
+    }
+]

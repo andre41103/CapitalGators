@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "C W KHOO HARDWARE SDN BHD",
+        "transaction_date": "2018-03-01",
+        "items": [
+            {
+                "description": "AIR ADAPTOR",
+                "quantity": 5.0,
+                "price": 4.0,
+                "total_price": 20.0
+            }
+        ],
+        "subtotal": 20.0,
+        "tax": null,
+        "tip": null,
+        "total": 21.2
+    }
+]

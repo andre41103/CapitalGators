@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "MEXICAN FOOD",
+        "receipt_type": "receipt.retailMeal",
+        "total": 6.81,
+        "date": "2015-09-16",
+        "notes": "",
+        "recurring": false
+    }
+]

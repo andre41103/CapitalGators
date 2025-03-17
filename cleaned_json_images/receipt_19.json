@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "New Asia Buffet",
+        "receipt_type": "receipt.retailMeal",
+        "total": 33.92,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

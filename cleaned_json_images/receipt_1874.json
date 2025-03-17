@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Shady Grove",
+        "receipt_type": "receipt.retailMeal",
+        "total": 14.36,
+        "date": "2003-11-26",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SLF CASH & CARRY",
+        "transaction_date": "2018-02-02",
+        "items": [
+            {
+                "description": "(UNIT) ROYAL BAKING POWDER 450G",
+                "quantity": 4.0,
+                "price": 11.32,
+                "total_price": 45.28
+            }
+        ],
+        "subtotal": 45.28,
+        "tax": 2.72,
+        "tip": null,
+        "total": 48.0
+    }
+]

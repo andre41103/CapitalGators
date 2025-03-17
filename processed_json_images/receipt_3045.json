@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MAKASSAR FRESH MARKET SDN BHD",
+        "transaction_date": "2017-10-10",
+        "items": [
+            {
+                "description": "O.C. WHITE",
+                "quantity": -1.0,
+                "price": 2.13,
+                "total_price": -2.13
+            },
+            {
+                "description": "WHOLEMEAL",
+                "quantity": null,
+                "price": 2.78,
+                "total_price": 0.0
+            },
+            {
+                "description": "O.C JUMBO",
+                "quantity": null,
+                "price": 2.97,
+                "total_price": 0.0
+            },
+            {
+                "description": "DELICIA-B/SCOTCH",
+                "quantity": -2.0,
+                "price": 3.72,
+                "total_price": -7.44
+            },
+            {
+                "description": "CR-CORN",
+                "quantity": 20.0,
+                "price": 0.72,
+                "total_price": 14.4
+            },
+            {
+                "description": "SQ-CHOCMLT",
+                "quantity": 12.0,
+                "price": 0.84,
+                "total_price": 10.08
+            },
+            {
+                "description": "TWIG-C.DRM",
+                "quantity": 8.0,
+                "price": 1.33,
+                "total_price": 10.64
+            }
+        ],
+        "subtotal": 27.68,
+        "tax": 1.65,
+        "tip": null,
+        "total": 27.2
+    }
+]

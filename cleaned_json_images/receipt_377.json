@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Aurum",
+        "receipt_type": "receipt.retailMeal",
+        "total": 5459.1,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

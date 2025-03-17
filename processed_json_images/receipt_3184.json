@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2018-04-28",
+        "items": [
+            {
+                "description": "ALUMINIUM FOIL 25SQ# 30CM*7.62M",
+                "quantity": 1.0,
+                "price": 5.5,
+                "total_price": 5.5
+            },
+            {
+                "description": "SEKOPLAS H/D GARBAGE 89cm*117cm 10s",
+                "quantity": 5.0,
+                "price": 9.5,
+                "total_price": 47.5
+            },
+            {
+                "description": "PLASTIC BAGS",
+                "quantity": 1.0,
+                "price": 0.2,
+                "total_price": 0.2
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.01,
+        "tip": null,
+        "total": 53.2
+    }
+]

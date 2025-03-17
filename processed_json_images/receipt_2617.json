@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PappaRich BMC",
+        "transaction_date": "2018-03-24",
+        "items": [
+            {
+                "description": "MILO DINO(I)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.45
+            },
+            {
+                "description": "N' LEMAK+fc",
+                "quantity": 2.0,
+                "price": 17.83,
+                "total_price": 35.66
+            },
+            {
+                "description": "SPRG NDL+su+cr",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.34
+            },
+            {
+                "description": "HALF BL EGG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.53
+            },
+            {
+                "description": "CHAM (I)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.57
+            }
+        ],
+        "subtotal": 62.55,
+        "tax": null,
+        "tip": null,
+        "total": 72.93
+    }
+]

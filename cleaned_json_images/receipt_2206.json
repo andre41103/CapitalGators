@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "TUSCANY RISTORANTE",
+        "receipt_type": "receipt.retailMeal",
+        "total": 811.6,
+        "date": "2012-07-15",
+        "notes": "",
+        "recurring": false
+    }
+]

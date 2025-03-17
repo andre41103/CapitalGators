@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "EIGHT OUNCE\nCOFFEE",
+        "transaction_date": "2018-05-24",
+        "items": [
+            {
+                "description": "Hot Chocolate",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "Cappucino",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.0
+            },
+            {
+                "description": "Caramel Almond Crepe",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.26,
+        "tip": null,
+        "total": 39.9
+    }
+]

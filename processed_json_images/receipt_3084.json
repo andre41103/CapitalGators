@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B",
+        "transaction_date": "2016-01-24",
+        "items": [
+            {
+                "description": "MARIGOLD HL MILK 1L",
+                "quantity": 2.0,
+                "price": 6.79,
+                "total_price": 13.58
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.76,
+        "tip": null,
+        "total": 13.58
+    }
+]

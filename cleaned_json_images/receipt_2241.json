@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "GOLDEN CHOPSTICKS",
+        "receipt_type": "receipt.retailMeal",
+        "total": 26.5,
+        "date": "2010-07-12",
+        "notes": "",
+        "recurring": false
+    }
+]

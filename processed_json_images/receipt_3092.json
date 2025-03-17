@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Yam Fresh",
+        "transaction_date": "2016-07-31",
+        "items": [
+            {
+                "description": "Yam Fresh Signature-C",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.9
+            }
+        ],
+        "subtotal": 7.9,
+        "tax": 0.47,
+        "tip": null,
+        "total": 10.5
+    }
+]

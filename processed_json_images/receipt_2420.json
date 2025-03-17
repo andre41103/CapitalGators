@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BENS INDEPENDENT GROCER SDN. BHD",
+        "transaction_date": "2018-03-08",
+        "items": [
+            {
+                "description": "Dole Pineapple Pcs",
+                "quantity": null,
+                "price": 7.9,
+                "total_price": 23.7
+            },
+            {
+                "description": "Farmhouse Fresh Milk Twin Pack 2x1L",
+                "quantity": null,
+                "price": 19.9,
+                "total_price": 19.9
+            },
+            {
+                "description": "Fresh Cut Honey kfruit Peeled 400g",
+                "quantity": null,
+                "price": 8.9,
+                "total_price": 26.7
+            },
+            {
+                "description": "Nestle Bliss Yog Drink Strawberry 700g",
+                "quantity": null,
+                "price": 5.8,
+                "total_price": 5.8
+            },
+            {
+                "description": "Vitagen Assorted 5\u00d7125ml",
+                "quantity": null,
+                "price": 4.9,
+                "total_price": 4.9
+            }
+        ],
+        "subtotal": 81.0,
+        "tax": null,
+        "tip": null,
+        "total": 81.0
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "BURGER\nKING",
+        "receipt_type": "receipt.retailMeal",
+        "total": 10.05,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

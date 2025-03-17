@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "CPK",
+        "receipt_type": "receipt.retailMeal",
+        "total": 33.15,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

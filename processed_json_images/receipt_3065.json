@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GUDANG HASIL RESTAURANT SDN BHD",
+        "transaction_date": "2016-12-02",
+        "items": [
+            {
+                "description": "PEANUT C. CRC200G",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.9
+            },
+            {
+                "description": "TARO C. CRAC 200G",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.9
+            }
+        ],
+        "subtotal": 15.8,
+        "tax": 0.89,
+        "tip": null,
+        "total": 20.0
+    }
+]

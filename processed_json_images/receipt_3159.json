@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "VERBENA CONFECTIONERY SDN BHD",
+        "transaction_date": "2018-05-12",
+        "items": [
+            {
+                "description": "8\" PANDAN KAYA CAKE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 55.0
+            },
+            {
+                "description": "HOTDOG BUN",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 5.6
+            },
+            {
+                "description": "OTA BOAT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.5
+            },
+            {
+                "description": "SPICY CHICKEN FLOSS",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 5.8
+            },
+            {
+                "description": "DIRTY BREAD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.8
+            }
+        ],
+        "subtotal": null,
+        "tax": 4.28,
+        "tip": null,
+        "total": 75.7
+    }
+]

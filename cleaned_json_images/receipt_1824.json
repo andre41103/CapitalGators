@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "FAIRPRICE FINEST",
+        "receipt_type": "receipt.retailMeal",
+        "total": 10.45,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

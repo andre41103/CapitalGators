@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BREWERY TAP",
+        "transaction_date": "2018-03-30",
+        "items": [
+            {
+                "description": "Tiger 2 Bucket - HH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 95.0
+            },
+            {
+                "description": "Chicken wings",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.0
+            },
+            {
+                "description": "French Fries",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "Tiger Bucket- HH",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 50.0
+            }
+        ],
+        "subtotal": 179.0,
+        "tax": null,
+        "tip": null,
+        "total": 189.75
+    }
+]

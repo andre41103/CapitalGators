@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "C W KHOO HARDWARE SDN BHD",
+        "transaction_date": "2018-03-31",
+        "items": [
+            {
+                "description": "2.0MM 'EVACUT' HSS DRILL BIT @ PC",
+                "quantity": 3.0,
+                "price": 4.6,
+                "total_price": 13.8
+            }
+        ],
+        "subtotal": 13.8,
+        "tax": null,
+        "tip": null,
+        "total": null
+    }
+]

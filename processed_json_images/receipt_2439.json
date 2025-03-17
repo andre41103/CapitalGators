@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "POPULAR BOOK",
+        "transaction_date": "2018-03-01",
+        "items": [
+            {
+                "description": "TOMBOW C/Tape CX5N",
+                "quantity": 2.0,
+                "price": 9.89,
+                "total_price": 19.78
+            },
+            {
+                "description": "Spring Issue 20% Reba",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "L11 X-VENTURE UNEXPLA [BK]",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "PU EXPANDING FILE-TS",
+                "quantity": null,
+                "price": null,
+                "total_price": 20.9
+            }
+        ],
+        "subtotal": 49.39,
+        "tax": null,
+        "tip": null,
+        "total": 49.4
+    }
+]

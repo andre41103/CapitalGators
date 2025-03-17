@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Izzy",
+        "receipt_type": "receipt.retailMeal",
+        "total": 21.08,
+        "date": "2018-10-11",
+        "notes": "",
+        "recurring": false
+    }
+]

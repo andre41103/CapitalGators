@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2018-04-27",
+        "items": [
+            {
+                "description": "SUS304 HOOK 48804",
+                "quantity": 1.0,
+                "price": 9.9,
+                "total_price": 9.9
+            },
+            {
+                "description": "WOODEN SHEET 60*20CM",
+                "quantity": 4.0,
+                "price": 1.9,
+                "total_price": 7.6
+            },
+            {
+                "description": "LAVA PAIL PL623 3 GALLON",
+                "quantity": 1.0,
+                "price": 5.5,
+                "total_price": 5.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.3,
+        "tip": null,
+        "total": 23.0
+    }
+]

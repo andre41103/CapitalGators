@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "TOYS AUS",
+        "receipt_type": "receipt.retailMeal",
+        "total": 56.43,
+        "date": "2012-09-21",
+        "notes": "",
+        "recurring": false
+    }
+]

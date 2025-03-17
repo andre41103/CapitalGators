@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B",
+        "transaction_date": "2016-01-13",
+        "items": [
+            {
+                "description": "MASSIMO WHEAT GERM 400",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.25
+            },
+            {
+                "description": "PANTENE HAIR FALL CONT",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.95
+            },
+            {
+                "description": "PANTENE TTL DAMAGE CARE",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.95
+            },
+            {
+                "description": "AJI-SHIO BLACK PEPPER",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.75
+            },
+            {
+                "description": "COLGATE BERUS GIGI ZIG",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.2
+            },
+            {
+                "description": "COLGATE GREAT REGULAR",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "VEO'S SOYA BEAN PEK 4*6",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.5
+            },
+            {
+                "description": "YEO'S TEH BUNGA PEK 4%6",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 4.05,
+        "tip": null,
+        "total": 71.6
+    }
+]

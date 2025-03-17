@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Salon Du Chocolat",
+        "transaction_date": "2018-02-19",
+        "items": [
+            {
+                "description": "Mineral Water",
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 2.5
+            },
+            {
+                "description": "Chocolate Waffle-Half Moon",
+                "quantity": 1.0,
+                "price": 17.9,
+                "total_price": 17.9
+            }
+        ],
+        "subtotal": 20.4,
+        "tax": 1.35,
+        "tip": 2.04,
+        "total": 23.8
+    }
+]

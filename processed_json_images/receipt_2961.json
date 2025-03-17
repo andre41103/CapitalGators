@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "NSK TRADE CITY-SELAYANG",
+        "transaction_date": "2017-10-27",
+        "items": [
+            {
+                "description": "23 KIWI KNIFE 474 4\"",
+                "quantity": null,
+                "price": 4.5,
+                "total_price": 9.0
+            }
+        ],
+        "subtotal": 9.0,
+        "tax": null,
+        "tip": null,
+        "total": 9.0
+    }
+]

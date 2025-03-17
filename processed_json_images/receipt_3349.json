@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RESTORAN DE COFFEE",
+        "transaction_date": "2018-04-03",
+        "items": [
+            {
+                "description": "COFFEE O (T.AWAY)",
+                "quantity": 1.0,
+                "price": 2.3,
+                "total_price": 2.3
+            },
+            {
+                "description": "TEA (T.AWAY)",
+                "quantity": 1.0,
+                "price": 2.4,
+                "total_price": 2.4
+            },
+            {
+                "description": "COFFEE (T.AWAY)",
+                "quantity": 2.0,
+                "price": 2.4,
+                "total_price": 4.8
+            },
+            {
+                "description": "SOYA BEAN (T.AWAY)",
+                "quantity": 1.0,
+                "price": 2.1,
+                "total_price": 2.1
+            }
+        ],
+        "subtotal": 10.94,
+        "tax": 0.66,
+        "tip": null,
+        "total": 11.6
+    }
+]

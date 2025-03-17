@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "YIN MA (M) SDN.BHD.",
+        "transaction_date": "2016-06-03",
+        "items": [
+            {
+                "description": "STORAGE BOX(SM",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.9
+            },
+            {
+                "description": "STORAGE BOX(SM",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.9
+            },
+            {
+                "description": "STORAGE BOX(SM",
+                "quantity": null,
+                "price": null,
+                "total_price": 10.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.86,
+        "tip": null,
+        "total": 32.7
+    }
+]

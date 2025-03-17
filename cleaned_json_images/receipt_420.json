@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "SONIC BURGER",
+        "receipt_type": "receipt.retailMeal",
+        "total": 6.46,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

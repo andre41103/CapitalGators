@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KHE ELECTRICAL TRADING",
+        "transaction_date": "2018-03-22",
+        "items": [
+            {
+                "description": "105W E27 PLCE TUBE",
+                "quantity": 2.0,
+                "price": 48.0,
+                "total_price": 101.76
+            }
+        ],
+        "subtotal": 96.0,
+        "tax": 5.76,
+        "tip": null,
+        "total": 101.75
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Watson's Personal Care Stores Sdn Bhd",
+        "transaction_date": "2018-03-25",
+        "items": [
+            {
+                "description": "WS CUT _SCISSORS",
+                "quantity": null,
+                "price": null,
+                "total_price": 18.0
+            },
+            {
+                "description": "QVS TEMPO TWEEZER",
+                "quantity": null,
+                "price": null,
+                "total_price": 17.9
+            },
+            {
+                "description": "WS BABY WIPES FRAG",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.9
+            },
+            {
+                "description": "WATSONS BASKET",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 41.43,
+        "tax": 2.34,
+        "tip": null,
+        "total": null
+    }
+]

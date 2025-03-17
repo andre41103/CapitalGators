@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "USA",
+        "receipt_type": "receipt.gas",
+        "total": null,
+        "date": "2016-06-24",
+        "notes": "",
+        "recurring": false
+    }
+]

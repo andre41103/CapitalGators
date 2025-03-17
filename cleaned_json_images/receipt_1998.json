@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "HAPPY TIMES LTD",
+        "receipt_type": "receipt.retailMeal",
+        "total": 1360.0,
+        "date": "2015-02-08",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "HASHA PETROKIOSK",
+        "transaction_date": "2018-04-06",
+        "items": [
+            {
+                "description": "FuelSave 95",
+                "quantity": 22.73,
+                "price": 2.2,
+                "total_price": 50.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 50.0
+    }
+]

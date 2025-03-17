@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TANJONGMAS BOOKCENTRE (PJ) SDN BHD",
+        "transaction_date": "2017-04-02",
+        "items": [
+            {
+                "description": "INK CHINESE KIN'S ASTAR",
+                "quantity": 1.0,
+                "price": 2.3,
+                "total_price": 2.3
+            },
+            {
+                "description": "DOLPHIN PURE GOAT CHINESE",
+                "quantity": 1.0,
+                "price": 2.0,
+                "total_price": 2.0
+            }
+        ],
+        "subtotal": 4.3,
+        "tax": 0.24,
+        "tip": null,
+        "total": 4.3
+    }
+]

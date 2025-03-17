@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "GREEN LANE PHARMACY SDN BHD",
+        "transaction_date": "2018-08-01",
+        "items": [
+            {
+                "description": "AMOXICAP 500MG CAPSU",
+                "quantity": 1.0,
+                "price": 6.0,
+                "total_price": 6.0
+            },
+            {
+                "description": "NOFLUX TAB 90MG 10",
+                "quantity": 2.0,
+                "price": 4.51,
+                "total_price": 9.01
+            },
+            {
+                "description": "IBUPROFEN 400MG 10",
+                "quantity": 3.0,
+                "price": 3.0,
+                "total_price": 9.0
+            },
+            {
+                "description": "FEBRICOL -RX 10",
+                "quantity": 4.0,
+                "price": 2.7,
+                "total_price": 10.8
+            },
+            {
+                "description": "Rounding",
+                "quantity": null,
+                "price": null,
+                "total_price": -0.01
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 34.8
+    }
+]

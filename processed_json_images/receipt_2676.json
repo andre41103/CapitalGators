@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KEDA",
+        "transaction_date": "2018-03-08",
+        "items": [
+            {
+                "description": "SIMEN",
+                "quantity": null,
+                "price": 10.5,
+                "total_price": 174.9
+            },
+            {
+                "description": "PASIR HALUS (D)",
+                "quantity": 2.0,
+                "price": 65.0,
+                "total_price": 137.8
+            }
+        ],
+        "subtotal": 295.0,
+        "tax": 17.7,
+        "tip": null,
+        "total": 312.7
+    }
+]

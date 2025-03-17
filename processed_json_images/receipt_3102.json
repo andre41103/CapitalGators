@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MONSIEUR ( M ) SDN. BHD.",
+        "transaction_date": "2016-06-12",
+        "items": [
+            {
+                "description": "HH MILTON NYLON BASKET-HMT143188",
+                "quantity": 1.0,
+                "price": 29.0,
+                "total_price": 23.2
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 23.2
+            },
+            {
+                "description": "Rounding Adj",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.31,
+        "tip": null,
+        "total": 23.2
+    }
+]

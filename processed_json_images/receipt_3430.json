@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "POPULAR BOOK\nCO. (M) SDN BHD",
+        "transaction_date": "2018-04-03",
+        "items": [
+            {
+                "description": "Max HD-10K Stapler",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.3
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 7.3
+    }
+]

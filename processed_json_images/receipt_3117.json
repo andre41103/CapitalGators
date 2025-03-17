@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RESTORAN HOETIM",
+        "transaction_date": "2018-05-28",
+        "items": [
+            {
+                "description": "SQUID S",
+                "quantity": null,
+                "price": null,
+                "total_price": 25.0
+            },
+            {
+                "description": "NOODLES S",
+                "quantity": null,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "VEGETABLE S",
+                "quantity": null,
+                "price": null,
+                "total_price": 12.0
+            },
+            {
+                "description": "MEAT S",
+                "quantity": null,
+                "price": null,
+                "total_price": 22.0
+            },
+            {
+                "description": "RICE S",
+                "quantity": 3.0,
+                "price": 1.5,
+                "total_price": 4.5
+            },
+            {
+                "description": "OTHERS S",
+                "quantity": 4.0,
+                "price": 1.7,
+                "total_price": 6.8
+            }
+        ],
+        "subtotal": 78.3,
+        "tax": 4.7,
+        "tip": null,
+        "total": 83.0
+    }
+]

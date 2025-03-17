@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "KEDAI PAPAN YEW CHUAN",
+        "transaction_date": "2018-05-11",
+        "items": [
+            {
+                "description": "PASIR HALUS (D)",
+                "quantity": 1.0,
+                "price": 65.0,
+                "total_price": 68.9
+            }
+        ],
+        "subtotal": 65.0,
+        "tax": 3.9,
+        "tip": null,
+        "total": 68.9
+    }
+]

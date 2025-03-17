@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AEON CO. (M) BHD",
+        "transaction_date": "2018-04-12",
+        "items": [
+            {
+                "description": "QL CLASSIC EGGS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.6
+            },
+            {
+                "description": "WHITE GARLIC",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.882
+            },
+            {
+                "description": "OLD GINGER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.482
+            },
+            {
+                "description": "CHIC DRUMSTICK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.5
+            },
+            {
+                "description": "CHIC DRUMSTICK",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.552
+            },
+            {
+                "description": "DEER SESAME OI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.1
+            }
+        ],
+        "subtotal": 24.11,
+        "tax": 0.52,
+        "tip": null,
+        "total": 24.1
+    }
+]

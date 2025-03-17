@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2018-03-23",
+        "items": [
+            {
+                "description": "MESH SPONGE 4S\nAN62-72 - 12/96",
+                "quantity": 1.0,
+                "price": 1.8,
+                "total_price": 1.8
+            },
+            {
+                "description": "BROWN COCO BRUSH 6' V6N\nWA50 - 20/300",
+                "quantity": 2.0,
+                "price": 2.1,
+                "total_price": 4.2
+            },
+            {
+                "description": "PLASTIC BAGS",
+                "quantity": 1.0,
+                "price": 0.2,
+                "total_price": 0.2
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.35,
+        "tip": null,
+        "total": 6.2
+    }
+]

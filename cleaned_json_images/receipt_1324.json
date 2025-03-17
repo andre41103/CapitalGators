@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "M/S Ess Ess Hospitality",
+        "receipt_type": "receipt.retailMeal",
+        "total": 140.0,
+        "date": "2015-04-26",
+        "notes": "",
+        "recurring": false
+    }
+]

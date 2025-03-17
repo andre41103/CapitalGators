@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "CANVAS cafe & bakery",
+        "receipt_type": "receipt.retailMeal",
+        "total": 13.78,
+        "date": "2016-11-15",
+        "notes": "",
+        "recurring": false
+    }
+]

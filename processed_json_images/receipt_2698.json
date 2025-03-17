@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PASARAYA BORONG SUPER SEVEN\u00b7",
+        "transaction_date": "2018-03-01",
+        "items": [
+            {
+                "description": "TENDERLION",
+                "quantity": 1.0,
+                "price": 43.37,
+                "total_price": 43.37
+            },
+            {
+                "description": "D3.1 TENDERLOIN",
+                "quantity": 1.0,
+                "price": 49.42,
+                "total_price": 49.42
+            },
+            {
+                "description": "D31 TENDERLOIN",
+                "quantity": 1.0,
+                "price": 43.9,
+                "total_price": 43.9
+            },
+            {
+                "description": "D31 TENDERLOIN",
+                "quantity": 1.0,
+                "price": 49.66,
+                "total_price": 49.66
+            },
+            {
+                "description": "AYAMAS CHICKEN FRANKFURTER 340G",
+                "quantity": 8.0,
+                "price": 4.3,
+                "total_price": 34.4
+            },
+            {
+                "description": "BUTTERCUP LUXURY SPREAD 500G",
+                "quantity": 1.0,
+                "price": 9.9,
+                "total_price": 9.9
+            },
+            {
+                "description": "BUTTERCUP LUXURY SPREAD 500G",
+                "quantity": 1.0,
+                "price": 9.9,
+                "total_price": 9.9
+            },
+            {
+                "description": "QY CINCAU 2KG",
+                "quantity": 1.0,
+                "price": 3.9,
+                "total_price": 3.9
+            },
+            {
+                "description": "CRAB NUGGET 500G MUSHROOM",
+                "quantity": 20.0,
+                "price": 8.2,
+                "total_price": 164.0
+            }
+        ],
+        "subtotal": 408.45,
+        "tax": null,
+        "tip": null,
+        "total": -408.0
+    }
+]

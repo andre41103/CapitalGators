@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2016-01-11",
+        "items": [
+            {
+                "description": "CNY DrCOR 14-5R# 7*7.5CM",
+                "quantity": 4.0,
+                "price": 0.6,
+                "total_price": 2.4
+            },
+            {
+                "description": "COLANDER 12609#*VS\nMB52/3 - 6/96",
+                "quantity": 1.0,
+                "price": 3.9,
+                "total_price": 3.9
+            },
+            {
+                "description": "MOUSE PAD L-11\n25/400",
+                "quantity": 1.0,
+                "price": 3.9,
+                "total_price": 3.9
+            },
+            {
+                "description": "CUSHION 42*42CM\nJA21-51-61 - 5/60",
+                "quantity": 2.0,
+                "price": 11.3,
+                "total_price": 22.6
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.86,
+        "tip": null,
+        "total": 32.8
+    }
+]

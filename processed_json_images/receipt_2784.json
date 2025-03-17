@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TONYMOLY VIVA CITY",
+        "transaction_date": "2018-03-29",
+        "items": [
+            {
+                "description": "EGG PORE BLACKHEAD STEAM BALM2EAC [SR]",
+                "quantity": 1.0,
+                "price": 55.9,
+                "total_price": 55.9
+            },
+            {
+                "description": "LGG PORE TIGHTENING COOLING PA30g [SR]",
+                "quantity": 1.0,
+                "price": 55.9,
+                "total_price": 55.9
+            },
+            {
+                "description": "DISCOUNT 10%",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 100.62,
+        "tax": 11.18,
+        "tip": null,
+        "total": 100.6
+    }
+]

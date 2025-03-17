@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AMTECH ELECTRICAL SUPPLIES",
+        "transaction_date": "2018-06-27",
+        "items": [
+            {
+                "description": "30W SUPER T8 LED TUBE*D/L -FNM",
+                "quantity": 5.0,
+                "price": 16.0,
+                "total_price": 80.0
+            },
+            {
+                "description": "2\u00d740W LED F/FITTING (EMPTY)-ITK",
+                "quantity": 4.0,
+                "price": 14.0,
+                "total_price": 56.0
+            }
+        ],
+        "subtotal": 136.0,
+        "tax": null,
+        "tip": null,
+        "total": 136.0
+    }
+]

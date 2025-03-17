@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "F&P PHARMACY",
+        "transaction_date": "2018-03-02",
+        "items": [
+            {
+                "description": "HOMECARE GASCOAL 50MG",
+                "quantity": 1.0,
+                "price": 5.66,
+                "total_price": 6.0
+            },
+            {
+                "description": "P.P NAPROXEN NA 275 MG",
+                "quantity": 1.0,
+                "price": 6.0,
+                "total_price": 6.0
+            },
+            {
+                "description": "YELLOW LOTION 30 ML\nPANADOL SOLUBLE TABLET",
+                "quantity": 1.0,
+                "price": 3.58,
+                "total_price": 3.8
+            },
+            {
+                "description": "PMS GAUZE BANDAGE 5CM \u00d7 4M",
+                "quantity": 1.0,
+                "price": 6.13,
+                "total_price": 6.5
+            },
+            {
+                "description": "DETTOL 50 ML",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 5.3
+            }
+        ],
+        "subtotal": 30.68,
+        "tax": 1.22,
+        "tip": null,
+        "total": 31.9
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "KFC QUEENSBAY",
+        "receipt_type": "receipt.retailMeal",
+        "total": 16.69,
+        "date": "2010-10-19",
+        "notes": "",
+        "recurring": false
+    }
+]

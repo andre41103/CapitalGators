@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SANYO STATIONERY SHOP",
+        "transaction_date": "2017-12-21",
+        "items": [
+            {
+                "description": "CAMPAP CR 36364 A4 10S\nBRIEF CARD (CAMPAP ARTO)",
+                "quantity": 1.0,
+                "price": 3.9,
+                "total_price": 3.9
+            }
+        ],
+        "subtotal": 3.9,
+        "tax": 0.22,
+        "tip": null,
+        "total": 3.9
+    }
+]

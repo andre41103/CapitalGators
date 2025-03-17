@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "THE BUFFALO",
+        "receipt_type": "receipt.retailMeal",
+        "total": 38.36,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

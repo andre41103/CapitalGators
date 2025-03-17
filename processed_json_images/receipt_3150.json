@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AEON CO. (M) BHD",
+        "transaction_date": "2018-05-11",
+        "items": [
+            {
+                "description": "1000Z TP GIKEN",
+                "quantity": 1.0,
+                "price": 89.21,
+                "total_price": 93.9
+            },
+            {
+                "description": "TEFAL COMFORT M",
+                "quantity": 1.0,
+                "price": 141.55,
+                "total_price": 169.0
+            },
+            {
+                "description": "A161S545 TEFAL",
+                "quantity": 1.0,
+                "price": 246.05,
+                "total_price": 558.0
+            }
+        ],
+        "subtotal": 476.81,
+        "tax": 26.99,
+        "tip": null,
+        "total": 476.8
+    }
+]

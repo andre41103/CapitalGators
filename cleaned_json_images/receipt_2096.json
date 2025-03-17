@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "PizzaExpress",
+        "receipt_type": "receipt.retailMeal",
+        "total": 313.5,
+        "date": "2015-01-29",
+        "notes": "",
+        "recurring": false
+    }
+]

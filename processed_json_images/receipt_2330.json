@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LIGHTROOM GALLERY SDN BHD",
+        "transaction_date": "2017-11-20",
+        "items": [
+            {
+                "description": "YE36 BK 12W WW LED TRACK LIGHT",
+                "quantity": 2.0,
+                "price": 45.29,
+                "total_price": 90.57
+            },
+            {
+                "description": "YE44 35W WW BK TRACK HOLDER",
+                "quantity": 1.0,
+                "price": 155.66,
+                "total_price": 155.66
+            },
+            {
+                "description": "1METER TRACK-BK",
+                "quantity": 1.0,
+                "price": 16.99,
+                "total_price": 16.79
+            }
+        ],
+        "subtotal": 263.02,
+        "tax": null,
+        "tip": 0.0,
+        "total": 278.8
+    }
+]

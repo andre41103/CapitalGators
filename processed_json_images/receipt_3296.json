@@ -1,0 +1,74 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "NASI KANDAR PELITA",
+        "transaction_date": "2018-06-03",
+        "items": [
+            {
+                "description": "TEH TARIK",
+                "quantity": 3.0,
+                "price": 1.5,
+                "total_price": 4.51
+            },
+            {
+                "description": "MAGGI SUP",
+                "quantity": 1.0,
+                "price": 3.9,
+                "total_price": 3.9
+            },
+            {
+                "description": "ROTI BAWANG",
+                "quantity": 1.0,
+                "price": 1.6,
+                "total_price": 1.6
+            },
+            {
+                "description": "AYAM GORENG",
+                "quantity": 4.0,
+                "price": 4.1,
+                "total_price": 16.4
+            },
+            {
+                "description": "NASI KANDAR",
+                "quantity": 1.0,
+                "price": 7.8,
+                "total_price": 7.8
+            },
+            {
+                "description": "MAGGI GORENG TELUR ...",
+                "quantity": 1.0,
+                "price": 5.1,
+                "total_price": 5.1
+            },
+            {
+                "description": "INDONMIE DOUBLE",
+                "quantity": 1.0,
+                "price": 6.1,
+                "total_price": 6.1
+            },
+            {
+                "description": "INDONMIE DOUBLE",
+                "quantity": 1.0,
+                "price": 6.1,
+                "total_price": 6.1
+            },
+            {
+                "description": "MAGGI GORENG TELUR",
+                "quantity": 1.0,
+                "price": 5.1,
+                "total_price": 5.1
+            },
+            {
+                "description": "TEH O LIMAU AIS",
+                "quantity": 3.0,
+                "price": 1.7,
+                "total_price": 5.11
+            }
+        ],
+        "subtotal": 61.72,
+        "tax": 0.0,
+        "tip": null,
+        "total": 61.7
+    }
+]

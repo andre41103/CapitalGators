@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "WARAKUYA PERMAS CITY SDN BHD",
+        "transaction_date": "2018-03-10",
+        "items": [
+            {
+                "description": "SABA SHIO YAKI SET",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": 53.7
+            },
+            {
+                "description": "SALMON SHIO SET",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 21.9
+            },
+            {
+                "description": "ICED GREEN TEA",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 4.0
+            }
+        ],
+        "subtotal": 79.6,
+        "tax": null,
+        "tip": 4.96,
+        "total": 57.8
+    }
+]

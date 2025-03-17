@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "IKEA Cheras",
+        "transaction_date": "2018-04-25",
+        "items": [
+            {
+                "description": "6 Chicken Curry Puff",
+                "quantity": 4.0,
+                "price": 5.5,
+                "total_price": 22.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.25,
+        "tip": null,
+        "total": 22.0
+    }
+]

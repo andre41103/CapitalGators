@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "OLD ASIA",
+        "transaction_date": "2016-02-13",
+        "items": [
+            {
+                "description": "SEAFOOD FRIED PRICE",
+                "quantity": null,
+                "price": null,
+                "total_price": 13.5
+            },
+            {
+                "description": "FISH HEAD",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.5
+            },
+            {
+                "description": "FISH CAKE",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.9
+            },
+            {
+                "description": "G. CRISPY CHIC RICE",
+                "quantity": null,
+                "price": null,
+                "total_price": 15.9
+            },
+            {
+                "description": "V. GRILL CHIC RICE",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.5
+            },
+            {
+                "description": "W/MELON JUICE",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": "RIBENA",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.9
+            },
+            {
+                "description": "ICED CHINESE TEA",
+                "quantity": 2.0,
+                "price": 1.9,
+                "total_price": 3.8
+            }
+        ],
+        "subtotal": 96.2,
+        "tax": 5.45,
+        "tip": 8.25,
+        "total": null
+    }
+]

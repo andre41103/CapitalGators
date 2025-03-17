@@ -1,0 +1,104 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AEON CO. (M) BHD",
+        "transaction_date": "2018-06-03",
+        "items": [
+            {
+                "description": "SUSHI SET-PTC",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "CHEK HUP 2IN1",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.56
+            },
+            {
+                "description": "LUCOZADE SPORT",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.73
+            },
+            {
+                "description": "JAPAN SUN FUJI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.5
+            },
+            {
+                "description": "CHILE ANGELENO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.9
+            },
+            {
+                "description": "AUS SEEKA KIWI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.9
+            },
+            {
+                "description": "BLUEBERRY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.0
+            },
+            {
+                "description": "T. CHERRY HONEY",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.8
+            },
+            {
+                "description": "TOMATO PLUM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.4
+            },
+            {
+                "description": "CUT FRUITS 1.99",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.5
+            },
+            {
+                "description": "GUAVA KING",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.14
+            },
+            {
+                "description": "CAVANDISH BANAN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.18
+            },
+            {
+                "description": "US RED GLOBE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 14.85
+            },
+            {
+                "description": "PAPAYA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.75
+            },
+            {
+                "description": "E-1150 POWERFUL",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.22
+            }
+        ],
+        "subtotal": 147.45,
+        "tax": 0.0,
+        "tip": null,
+        "total": 147.45
+    }
+]

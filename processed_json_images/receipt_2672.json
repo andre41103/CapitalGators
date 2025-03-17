@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "BAKALIMA SDN BHD",
+        "transaction_date": "2018-03-14",
+        "items": [
+            {
+                "description": "V-Power 97",
+                "quantity": 40.49,
+                "price": 2.47,
+                "total_price": 100.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 5.66,
+        "tip": null,
+        "total": 100.0
+    }
+]

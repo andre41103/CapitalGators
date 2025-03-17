@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PANA JAYA ENTERPRISE",
+        "transaction_date": "2018-03-21",
+        "items": [
+            {
+                "description": "28 IN BASIN",
+                "quantity": 1.0,
+                "price": 35.0,
+                "total_price": 35.0
+            },
+            {
+                "description": "TG WFD32 PP BOWL CTN",
+                "quantity": 1.0,
+                "price": 70.0,
+                "total_price": 70.0
+            }
+        ],
+        "subtotal": 99.06,
+        "tax": null,
+        "tip": null,
+        "total": 105.0
+    }
+]

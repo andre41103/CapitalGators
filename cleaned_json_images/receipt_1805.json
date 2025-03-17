@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Mitchells Restaurant",
+        "receipt_type": "receipt.retailMeal",
+        "total": 101.1,
+        "date": "2016-07-15",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)",
+        "transaction_date": "2017-12-30",
+        "items": [
+            {
+                "description": "CEMENT (50KG)",
+                "quantity": 2.0,
+                "price": 18.02,
+                "total_price": 36.04
+            },
+            {
+                "description": "PASIR KASAR (BAG)",
+                "quantity": 10.0,
+                "price": 5.3,
+                "total_price": 53.0
+            }
+        ],
+        "subtotal": 84.0,
+        "tax": 5.04,
+        "tip": null,
+        "total": 89.04
+    }
+]

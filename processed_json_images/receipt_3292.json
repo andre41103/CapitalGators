@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "FY EAGLE ENTERPRISE",
+        "transaction_date": "2018-05-24",
+        "items": [
+            {
+                "description": "SR:8PCS AA ENERGIZER(BP.ME)WF",
+                "quantity": 1.0,
+                "price": 22.0,
+                "total_price": 22.0
+            },
+            {
+                "description": "SR:8PCS AAA ENERGIZER(BP.SC)WF",
+                "quantity": 1.0,
+                "price": 22.0,
+                "total_price": 22.0
+            },
+            {
+                "description": "SR:EVEREADY SHD AA 4PC 1215BP4(YO.PM)-WF",
+                "quantity": 1.0,
+                "price": 8.0,
+                "total_price": 8.0
+            }
+        ],
+        "subtotal": 49.06,
+        "tax": 2.94,
+        "tip": null,
+        "total": 52.0
+    }
+]

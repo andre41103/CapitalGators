@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Cook LLC",
+        "receipt_type": "receipt.retailMeal",
+        "total": 18710.63,
+        "date": "2017-12-25",
+        "notes": "",
+        "recurring": false
+    }
+]

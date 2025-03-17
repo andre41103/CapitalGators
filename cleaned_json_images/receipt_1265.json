@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "LA CANASTA",
+        "receipt_type": "receipt.retailMeal",
+        "total": 8.2,
+        "date": "2017-01-03",
+        "notes": "",
+        "recurring": false
+    }
+]

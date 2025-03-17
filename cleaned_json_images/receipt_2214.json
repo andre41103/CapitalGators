@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "MAGASIN CHIN LEE",
+        "receipt_type": "receipt.retailMeal",
+        "total": 12312.0,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

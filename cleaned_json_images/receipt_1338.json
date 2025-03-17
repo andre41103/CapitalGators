@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Corner Bakery Cafe",
+        "receipt_type": "receipt.retailMeal",
+        "total": 16.16,
+        "date": "2017-08-13",
+        "notes": "",
+        "recurring": false
+    }
+]

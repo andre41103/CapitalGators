@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AEON CO. (M) BHD",
+        "transaction_date": "2018-03-21",
+        "items": [
+            {
+                "description": "DECORATIVE WOOD",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.9
+            },
+            {
+                "description": "APRON-93",
+                "quantity": 10.0,
+                "price": 5.9,
+                "total_price": 59.0
+            },
+            {
+                "description": "PLASTICS BAG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.2
+            }
+        ],
+        "subtotal": 65.1,
+        "tax": 3.64,
+        "tip": null,
+        "total": 65.1
+    }
+]

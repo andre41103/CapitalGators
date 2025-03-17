@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "EDEN IMPRESSION SDN BHD",
+        "transaction_date": "2016-10-20",
+        "items": [
+            {
+                "description": "ALACARTE SUSHI 2.80",
+                "quantity": 2.0,
+                "price": 2.8,
+                "total_price": 5.6
+            },
+            {
+                "description": "ALACARTE SUSHI 1.80",
+                "quantity": 2.0,
+                "price": 1.8,
+                "total_price": 3.6
+            }
+        ],
+        "subtotal": 9.2,
+        "tax": null,
+        "tip": 0.0,
+        "total": 9.75
+    }
+]

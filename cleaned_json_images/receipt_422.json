@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "COACH",
+        "receipt_type": "receipt.retailMeal",
+        "total": 125.38,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

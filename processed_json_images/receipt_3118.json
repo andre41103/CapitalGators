@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Kechara Oasis",
+        "transaction_date": "2018-05-15",
+        "items": [
+            {
+                "description": "Butter Mushrooms (S)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.8
+            },
+            {
+                "description": "Mix Vegetable Curry (S)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.8
+            },
+            {
+                "description": "Brown Rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.0
+            },
+            {
+                "description": "Plain Water (Hot)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            },
+            {
+                "description": "Longan Sea Coconut (S (Bar))",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.8
+            },
+            {
+                "description": "Special Day Set Lunch",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 11.9
+            },
+            {
+                "description": "Bak Kut Teh",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Chinese Tea (Hot)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 55.3,
+        "tax": 3.65,
+        "tip": 5.53,
+        "total": 64.5
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Restaurant KEUNG KEE",
+        "receipt_type": "receipt.retailMeal",
+        "total": 87.73,
+        "date": "2018-02-15",
+        "notes": "",
+        "recurring": false
+    }
+]

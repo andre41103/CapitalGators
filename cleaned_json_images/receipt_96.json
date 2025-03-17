@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Golden Coin",
+        "receipt_type": "receipt.retailMeal",
+        "total": 10.25,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

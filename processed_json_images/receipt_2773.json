@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "POPULAR BOOK\nCO. (M) SDN BHD",
+        "transaction_date": "2018-03-05",
+        "items": [
+            {
+                "description": "No Plastic Bag Campai",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.2
+            },
+            {
+                "description": "Spring Issue 20% Reba",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "PB 2D R/FILE A4 40MM",
+                "quantity": 2.0,
+                "price": 7.99,
+                "total_price": 15.98
+            },
+            {
+                "description": "Stat-Buy 20RM 13",
+                "quantity": null,
+                "price": null,
+                "total_price": -2.98
+            },
+            {
+                "description": "PB 1H SHRP PB8172-GY\nDiscount",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.5
+            },
+            {
+                "description": "PLASTIC RULER 20CM",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.8
+            },
+            {
+                "description": "PB SHT/P 11H A4 50'S",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.9
+            }
+        ],
+        "subtotal": 30.48,
+        "tax": null,
+        "tip": null,
+        "total": 30.5
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2016-04-18",
+        "items": [
+            {
+                "description": "WALL PENDULUM CLOCK HM5 WPC 14P",
+                "quantity": 2.0,
+                "price": 32.0,
+                "total_price": 64.0
+            },
+            {
+                "description": "TOILET PAPER HOLDER BWJ-2503#",
+                "quantity": 1.0,
+                "price": 17.5,
+                "total_price": 17.5
+            },
+            {
+                "description": "BAG JR-SCXL 45*37*14CM",
+                "quantity": 1.0,
+                "price": 7.5,
+                "total_price": 7.5
+            },
+            {
+                "description": "MAGIC SEALER 6PC",
+                "quantity": 1.0,
+                "price": 7.9,
+                "total_price": 7.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 5.48,
+        "tip": null,
+        "total": 96.9
+    }
+]

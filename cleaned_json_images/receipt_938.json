@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Ribs & Rumps",
+        "receipt_type": "receipt.retailMeal",
+        "total": 333.0,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

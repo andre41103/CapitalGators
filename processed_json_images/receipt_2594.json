@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "(EDAI BUKU NEW ACHEIVERS",
+        "transaction_date": "2017-09-15",
+        "items": [
+            {
+                "description": "ON ENVOLOPE 4X9 WINDOW 20.S",
+                "quantity": 3.0,
+                "price": 3.2,
+                "total_price": 10.18
+            },
+            {
+                "description": "3 SEASONSHARD COVER BOOK 3007",
+                "quantity": 3.0,
+                "price": 3.8,
+                "total_price": 12.08
+            },
+            {
+                "description": "P RWT HARDCOVER FOOLSCAP 300,S 2613B",
+                "quantity": 1.0,
+                "price": 7.9,
+                "total_price": 8.37
+            },
+            {
+                "description": "O SHARPIE FINE PERMANENT MARKER",
+                "quantity": 3.0,
+                "price": 2.73,
+                "total_price": 8.68
+            },
+            {
+                "description": "O SHARPIE FINE PERMANENT MARKER",
+                "quantity": 3.0,
+                "price": 2.73,
+                "total_price": 8.68
+            }
+        ],
+        "subtotal": 45.28,
+        "tax": 2.72,
+        "tip": null,
+        "total": 48.0
+    }
+]

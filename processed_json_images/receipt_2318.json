@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "RESTORAN HASSANBISTRO",
+        "transaction_date": "2017-12-28",
+        "items": [
+            {
+                "description": "MAKANAN",
+                "quantity": 1.0,
+                "price": 15.0,
+                "total_price": 15.0
+            }
+        ],
+        "subtotal": 15.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 15.0
+    }
+]

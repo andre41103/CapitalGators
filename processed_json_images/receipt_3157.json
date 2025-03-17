@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THE TOAST F&B SDN BHD",
+        "transaction_date": "2018-05-11",
+        "items": [
+            {
+                "description": "WM TUNA",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 5.0
+            },
+            {
+                "description": "CANTONESE",
+                "quantity": 1.0,
+                "price": 10.0,
+                "total_price": 10.0
+            },
+            {
+                "description": "TVA KAMPUNG",
+                "quantity": 1.0,
+                "price": 10.4,
+                "total_price": 10.4
+            },
+            {
+                "description": "KOPI - HOT",
+                "quantity": 2.0,
+                "price": 2.8,
+                "total_price": 5.6
+            }
+        ],
+        "subtotal": 31.0,
+        "tax": 1.76,
+        "tip": null,
+        "total": 31.0
+    }
+]

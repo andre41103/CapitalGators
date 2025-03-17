@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2018-04-19",
+        "items": [
+            {
+                "description": "CAULKING GUN",
+                "quantity": 1.0,
+                "price": 6.3,
+                "total_price": 6.3
+            },
+            {
+                "description": "S/B HEAVY DUTY SCOURPAD 5S B315",
+                "quantity": 2.0,
+                "price": 2.5,
+                "total_price": 5.0
+            },
+            {
+                "description": "VIP HANDLE DUSTPAN 370 2.5'",
+                "quantity": 1.0,
+                "price": 3.9,
+                "total_price": 3.9
+            },
+            {
+                "description": "PLASTIC BAGS",
+                "quantity": 1.0,
+                "price": 0.2,
+                "total_price": 0.2
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.87,
+        "tip": null,
+        "total": 15.4
+    }
+]

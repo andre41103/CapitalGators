@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Chili's Grill & Bar",
+        "receipt_type": "receipt.retailMeal",
+        "total": 26.37,
+        "date": "2018-09-15",
+        "notes": "",
+        "recurring": false
+    }
+]

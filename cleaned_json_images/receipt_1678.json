@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "The National Underground",
+        "receipt_type": "receipt.retailMeal",
+        "total": 24.0,
+        "date": "2013-04-13",
+        "notes": "",
+        "recurring": false
+    }
+]

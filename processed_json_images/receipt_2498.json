@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "POPULAR BOOK",
+        "transaction_date": "2018-03-29",
+        "items": [
+            {
+                "description": "PB SHT/P 11H A4 10'S C/0.",
+                "quantity": 2.0,
+                "price": 3.5,
+                "total_price": 7.0
+            },
+            {
+                "description": "R RING 500'S",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.65
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.55,
+        "tip": null,
+        "total": 9.65
+    }
+]

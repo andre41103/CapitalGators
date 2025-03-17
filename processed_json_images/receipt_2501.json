@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "WAHIN HARDWARE SDN BHD",
+        "transaction_date": "2017-12-04",
+        "items": [
+            {
+                "description": "14\" MINI ROLLER REFILL",
+                "quantity": 2.0,
+                "price": 2.65,
+                "total_price": 5.3
+            },
+            {
+                "description": "24\"X18\" ROLLERPAINT HANDLE",
+                "quantity": 2.0,
+                "price": 3.18,
+                "total_price": 6.36
+            },
+            {
+                "description": "33.5LRT BLACK OXIDE PAINT",
+                "quantity": 1.0,
+                "price": 30.74,
+                "total_price": 30.74
+            }
+        ],
+        "subtotal": 40.0,
+        "tax": 2.4,
+        "tip": null,
+        "total": 42.4
+    }
+]

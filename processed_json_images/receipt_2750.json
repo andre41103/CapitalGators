@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "LEE WAH FLORIST SDN BHD",
+        "transaction_date": "2018-02-02",
+        "items": [
+            {
+                "description": "PEACOCK YELLOW",
+                "quantity": 2.0,
+                "price": 12.0,
+                "total_price": 25.64
+            },
+            {
+                "description": "STATICE FULL IMP",
+                "quantity": 4.0,
+                "price": 34.0,
+                "total_price": 144.16
+            },
+            {
+                "description": "LILY CONCORDO 2H",
+                "quantity": 1.0,
+                "price": 58.0,
+                "total_price": 61.48
+            },
+            {
+                "description": "SNOW WHITE LEAF",
+                "quantity": 2.0,
+                "price": 6.0,
+                "total_price": 12.72
+            },
+            {
+                "description": "FLORIDA BEAUTY",
+                "quantity": 1.0,
+                "price": 3.5,
+                "total_price": 3.71
+            },
+            {
+                "description": "PALM LEAF L",
+                "quantity": 4.0,
+                "price": 9.0,
+                "total_price": 38.16
+            },
+            {
+                "description": "PALM LEAF M",
+                "quantity": 3.0,
+                "price": 4.5,
+                "total_price": 14.31
+            },
+            {
+                "description": "ROSE INDIA SUPERIOR",
+                "quantity": 1.0,
+                "price": 22.0,
+                "total_price": 23.32
+            },
+            {
+                "description": "SUCCULENT L",
+                "quantity": 4.0,
+                "price": 12.0,
+                "total_price": 50.88
+            }
+        ],
+        "subtotal": 353.0,
+        "tax": 21.18,
+        "tip": null,
+        "total": 374.2
+    }
+]

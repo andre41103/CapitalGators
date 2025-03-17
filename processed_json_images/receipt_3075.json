@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Guardian Health And Beauty Sdn Bhd",
+        "transaction_date": "2016-02-11",
+        "items": [
+            {
+                "description": "GDN WATER 500ML",
+                "quantity": 2.0,
+                "price": 2.2,
+                "total_price": 4.4
+            },
+            {
+                "description": "GDN WATER 500ML",
+                "quantity": null,
+                "price": null,
+                "total_price": 1.84
+            }
+        ],
+        "subtotal": 2.56,
+        "tax": 0.14,
+        "tip": null,
+        "total": 2.56
+    }
+]

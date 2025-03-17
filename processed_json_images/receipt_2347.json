@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "UROKO JAPANESE CUISINE SDN BHD",
+        "transaction_date": "2018-03-20",
+        "items": [
+            {
+                "description": "KO NABE INANIWA",
+                "quantity": 1.0,
+                "price": 24.0,
+                "total_price": 24.0
+            },
+            {
+                "description": "GREEN TEA",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1.0
+            },
+            {
+                "description": "GYOZA 5pcs",
+                "quantity": 1.0,
+                "price": 15.0,
+                "total_price": 15.0
+            },
+            {
+                "description": "GARLIC CHAHAN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            }
+        ],
+        "subtotal": 46.0,
+        "tax": null,
+        "tip": 4.0,
+        "total": null
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "PAPPADEAU",
+        "receipt_type": "receipt.retailMeal",
+        "total": 52.76,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

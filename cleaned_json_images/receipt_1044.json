@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "DARTMOUTH BOOKSTORE, INC.",
+        "receipt_type": "receipt.retailMeal",
+        "total": 65.08,
+        "date": "2001-01-05",
+        "notes": "",
+        "recurring": false
+    }
+]

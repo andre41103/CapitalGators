@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Eco-Shop Marketing Sdn Bhd",
+        "transaction_date": "2018-02-26",
+        "items": [
+            {
+                "description": "JT5501 - CHOPSTICK HOLDER\n72/1",
+                "quantity": 1.0,
+                "price": 2.33,
+                "total_price": 2.33
+            },
+            {
+                "description": "PLIERS 6\" 110G 120PCS(PELAYAR",
+                "quantity": 1.0,
+                "price": 2.33,
+                "total_price": 2.33
+            },
+            {
+                "description": "771-2 MULTI PURPOSE FOOD\nTONGS",
+                "quantity": 3.0,
+                "price": 2.33,
+                "total_price": 6.99
+            },
+            {
+                "description": "LS301 SCALE SCRAPER -LARGE\n360",
+                "quantity": 1.0,
+                "price": 2.33,
+                "total_price": 2.33
+            },
+            {
+                "description": "PVC WALL PLUG 4'S 240/10-(PLUG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 2.33
+            }
+        ],
+        "subtotal": 16.31,
+        "tax": null,
+        "tip": null,
+        "total": 16.3
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Maui Teriyaki",
+        "receipt_type": "receipt.retailMeal",
+        "total": 14.17,
+        "date": "2017-10-25",
+        "notes": "",
+        "recurring": false
+    }
+]

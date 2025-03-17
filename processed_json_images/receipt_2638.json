@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Golden Scoop Sdn Bhd",
+        "transaction_date": "2018-02-16",
+        "items": [
+            {
+                "description": "Double Rg. Cup",
+                "quantity": 1.0,
+                "price": 20.0,
+                "total_price": 20.0
+            },
+            {
+                "description": "Colour Rice",
+                "quantity": 1.0,
+                "price": 1.5,
+                "total_price": 1.5
+            }
+        ],
+        "subtotal": 21.5,
+        "tax": 1.22,
+        "tip": null,
+        "total": 21.5
+    }
+]

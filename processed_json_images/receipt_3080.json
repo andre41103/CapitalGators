@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+        "transaction_date": "2016-01-11",
+        "items": [
+            {
+                "description": "PLACEMAT 3D*45CM\nMB41/2 - 12/144",
+                "quantity": 2.0,
+                "price": 3.5,
+                "total_price": 7.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.4,
+        "tip": null,
+        "total": 7.0
+    }
+]

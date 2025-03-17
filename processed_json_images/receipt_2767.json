@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PRINT EXPERT SDN BHD",
+        "transaction_date": "2018-01-12",
+        "items": [
+            {
+                "description": "A4 CLR COPY",
+                "quantity": 8.0,
+                "price": 0.53,
+                "total_price": 4.24
+            }
+        ],
+        "subtotal": 4.24,
+        "tax": 0.24,
+        "tip": 0.0,
+        "total": 4.25
+    }
+]

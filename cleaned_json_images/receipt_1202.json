@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Shell",
+        "receipt_type": "receipt.gas",
+        "total": 50.0,
+        "date": "2013-06-04",
+        "notes": "",
+        "recurring": false
+    }
+]

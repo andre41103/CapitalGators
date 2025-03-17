@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "FARMASI LIGAMAS",
+        "transaction_date": "2018-05-20",
+        "items": [
+            {
+                "description": "NON WOWEN 3 PLY FACE MASK EAR LOOP 50'S",
+                "quantity": 1.0,
+                "price": 25.0,
+                "total_price": 25.0
+            }
+        ],
+        "subtotal": 23.58,
+        "tax": 1.42,
+        "tip": null,
+        "total": 25.0
+    }
+]

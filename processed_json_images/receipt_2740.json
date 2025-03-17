@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Harvey Norman M'sia Paradigm Mall",
+        "transaction_date": "2018-02-11",
+        "items": [
+            {
+                "description": "CANON CART PG-47BK",
+                "quantity": 2.0,
+                "price": 20.0,
+                "total_price": 60.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.4,
+        "tip": null,
+        "total": 60.0
+    }
+]

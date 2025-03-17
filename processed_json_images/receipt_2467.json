@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+        "transaction_date": "2017-03-08",
+        "items": [
+            {
+                "description": "BOOSTER CABLE XH-500A",
+                "quantity": 1.0,
+                "price": 29.9,
+                "total_price": 29.9
+            },
+            {
+                "description": "MOTH BALLS 150G",
+                "quantity": 1.0,
+                "price": 2.1,
+                "total_price": 2.1
+            },
+            {
+                "description": "DIY GOLD TWIST DRILL 3MM",
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 2.5
+            },
+            {
+                "description": "HSS TWIST DRILL\n6*160MM",
+                "quantity": 1.0,
+                "price": 3.3,
+                "total_price": 3.3
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.14,
+        "tip": null,
+        "total": 37.8
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "STANLEY'S FRUIT MARKE",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": "2018-01-22",
+        "notes": "",
+        "recurring": false
+    }
+]

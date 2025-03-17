@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "meijer",
+        "receipt_type": "receipt.retailMeal",
+        "total": 96.7,
+        "date": "2012-09-08",
+        "notes": "",
+        "recurring": false
+    }
+]

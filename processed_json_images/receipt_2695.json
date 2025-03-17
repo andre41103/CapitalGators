@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KMF FOODICIOUS SDN BHD",
+        "transaction_date": "2018-04-09",
+        "items": [
+            {
+                "description": "Tori Teriyaki Don",
+                "quantity": 1.0,
+                "price": 12.8,
+                "total_price": 12.8
+            },
+            {
+                "description": "Tako Ball",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "Sushi 1.80",
+                "quantity": 4.0,
+                "price": 1.8,
+                "total_price": 7.2
+            },
+            {
+                "description": "Sushi 2.80",
+                "quantity": 2.0,
+                "price": 2.8,
+                "total_price": 5.6
+            },
+            {
+                "description": "Green Tea",
+                "quantity": 1.0,
+                "price": 1.0,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 26.6,
+        "tax": null,
+        "tip": 2.66,
+        "total": 31.0
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Burger King",
+        "transaction_date": "2018-03-27",
+        "items": [
+            {
+                "description": "Whopper JR.",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": 40.6
+            },
+            {
+                "description": "Ice Lemon Tea(L)",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 12.8
+            },
+            {
+                "description": "Coke (L)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.3
+            },
+            {
+                "description": "Americano(L)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.2
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 63.9
+    }
+]

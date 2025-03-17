@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Guardian Health And Beauty Sdn Bhd",
+        "transaction_date": "2018-03-04",
+        "items": [
+            {
+                "description": "GDN MC H/W ENC ROM",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.9
+            },
+            {
+                "description": "GDN MC H/W ENC ROM",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.9
+            },
+            {
+                "description": "GDN MC H/W N/DREAM",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.9
+            },
+            {
+                "description": "GDN MC H/W N/DREAM",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.9
+            },
+            {
+                "description": "P3 KDP G HW 4012",
+                "quantity": null,
+                "price": null,
+                "total_price": 11.6
+            }
+        ],
+        "subtotal": 12.0,
+        "tax": 0.68,
+        "tip": null,
+        "total": 12.0
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "PappaRich BMC",
+        "receipt_type": "receipt.retailMeal",
+        "total": 72.93,
+        "date": "2018-03-24",
+        "notes": "",
+        "recurring": false
+    }
+]

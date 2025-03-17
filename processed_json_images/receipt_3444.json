@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LIAN HING STATIONERY SDN BHD",
+        "transaction_date": "2018-03-27",
+        "items": [
+            {
+                "description": "Dursfile H399 (110 x 95mm)\nName Badge (H)",
+                "quantity": 100.0,
+                "price": 0.55,
+                "total_price": 58.3
+            },
+            {
+                "description": "809 Metal Name Badge Clip",
+                "quantity": 1.0,
+                "price": 20.0,
+                "total_price": 21.2
+            }
+        ],
+        "subtotal": 75.0,
+        "tax": 4.5,
+        "tip": null,
+        "total": 79.5
+    }
+]

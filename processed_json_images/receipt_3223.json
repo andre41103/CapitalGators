@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SANYO STATIONERY SHOP",
+        "transaction_date": "2017-04-04",
+        "items": [
+            {
+                "description": "RESTAURANT ORDER CHIT NCR\n3.5\"x6\"",
+                "quantity": 4.0,
+                "price": 2.9,
+                "total_price": 11.6
+            },
+            {
+                "description": "CASH BOOK 80PGS A4 70GSM\nCARD COVER (SCB-4012)",
+                "quantity": 1.0,
+                "price": 3.3,
+                "total_price": 3.3
+            }
+        ],
+        "subtotal": 14.9,
+        "tax": 0.84,
+        "tip": null,
+        "total": 14.9
+    }
+]

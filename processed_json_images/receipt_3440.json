@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+        "transaction_date": "2018-06-23",
+        "items": [
+            {
+                "description": "Yam Item",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 30.0
+            },
+            {
+                "description": null,
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 30.0
+            },
+            {
+                "description": "S.Soup Lala Item (XL)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 77.0
+            },
+            {
+                "description": "Fish Item",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "Omellete Item\nwhite Rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "Vege Item (M)\nBeverage",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 179.5,
+        "tax": 0.0,
+        "tip": null,
+        "total": 179.5
+    }
+]

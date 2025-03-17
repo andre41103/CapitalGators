@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AL MENDIS-THE MINES",
+        "transaction_date": "2018-03-21",
+        "items": [
+            {
+                "description": "Maghgout Lamb w 1SI",
+                "quantity": 1.0,
+                "price": 22.5,
+                "total_price": 22.5
+            },
+            {
+                "description": "Garden Salad (S)",
+                "quantity": 1.0,
+                "price": 5.9,
+                "total_price": 5.9
+            },
+            {
+                "description": "TEA POT BIG",
+                "quantity": 1.0,
+                "price": 12.9,
+                "total_price": 12.9
+            }
+        ],
+        "subtotal": 41.3,
+        "tax": null,
+        "tip": 4.13,
+        "total": 48.15
+    }
+]

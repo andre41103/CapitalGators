@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "YHM Mid Valley",
+        "transaction_date": "2017-12-15",
+        "items": [
+            {
+                "description": "Karaage",
+                "quantity": 1.0,
+                "price": 3.8,
+                "total_price": 3.8
+            },
+            {
+                "description": "Otm Beef Bukkake L",
+                "quantity": 1.0,
+                "price": 17.8,
+                "total_price": 17.8
+            }
+        ],
+        "subtotal": 21.6,
+        "tax": 1.23,
+        "tip": null,
+        "total": 21.6
+    }
+]

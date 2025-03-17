@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Connor Clothing Pty Ltd",
+        "receipt_type": "receipt.retailMeal",
+        "total": 19.95,
+        "date": "2013-11-10",
+        "notes": "",
+        "recurring": false
+    }
+]

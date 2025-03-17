@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "FUYI MINI MARKET",
+        "transaction_date": "2018-01-25",
+        "items": [
+            {
+                "description": "SUMMER CUP 48X230ML",
+                "quantity": 1.0,
+                "price": 8.49,
+                "total_price": 9.0
+            }
+        ],
+        "subtotal": 9.0,
+        "tax": 9.0,
+        "tip": null,
+        "total": null
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Restaurant\nMundart",
+        "receipt_type": "receipt.retailMeal",
+        "total": 29.6,
+        "date": "2015-06-27",
+        "notes": "",
+        "recurring": false
+    }
+]

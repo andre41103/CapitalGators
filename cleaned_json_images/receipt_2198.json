@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "ZAKKUSHI",
+        "receipt_type": "receipt.retailMeal",
+        "total": 85.22,
+        "date": "2007-06-20",
+        "notes": "",
+        "recurring": false
+    }
+]

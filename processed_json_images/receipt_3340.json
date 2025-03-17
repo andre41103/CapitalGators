@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "McDonald's Mutiara Rini DT",
+        "transaction_date": "2018-06-24",
+        "items": [
+            {
+                "description": "L 9Nuggets",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.8
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 12.8
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Golden Arches Restaurants Sdn Bhd",
+        "transaction_date": "2016-12-25",
+        "items": [
+            {
+                "description": "L FiletOFish",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 21.18
+            },
+            {
+                "description": "6Nuggets",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.1
+            },
+            {
+                "description": "Small Cone",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.0
+            }
+        ],
+        "subtotal": 29.28,
+        "tax": 1.66,
+        "tip": null,
+        "total": 29.3
+    }
+]

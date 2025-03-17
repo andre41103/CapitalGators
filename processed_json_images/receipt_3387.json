@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PappaRich BMC",
+        "transaction_date": "2018-06-29",
+        "items": [
+            {
+                "description": "SPRG NDL+su+cr E",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.34
+            },
+            {
+                "description": "N' LMK+cc+st",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 20.66
+            },
+            {
+                "description": "MILO (I) E",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.19
+            },
+            {
+                "description": "MOCHA (I)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.45
+            }
+        ],
+        "subtotal": 42.64,
+        "tax": null,
+        "tip": 4.25,
+        "total": 46.89
+    }
+]

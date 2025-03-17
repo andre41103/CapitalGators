@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PappaRich BMC",
+        "transaction_date": "2018-06-15",
+        "items": [
+            {
+                "description": "HALF BL EGG E",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.53
+            },
+            {
+                "description": "HNN TST+b+k E",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.57
+            },
+            {
+                "description": "CHAM (I) E",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.57
+            }
+        ],
+        "subtotal": 15.67,
+        "tax": null,
+        "tip": 1.55,
+        "total": 17.22
+    }
+]

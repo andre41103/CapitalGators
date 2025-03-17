@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)",
+        "transaction_date": "2018-01-04",
+        "items": [
+            {
+                "description": "25MM GI NIPPLE",
+                "quantity": 1.0,
+                "price": 3.71,
+                "total_price": 3.71
+            },
+            {
+                "description": "SEAL TAPE",
+                "quantity": 2.0,
+                "price": 0.64,
+                "total_price": 1.27
+            },
+            {
+                "description": "32MM POLY SOCKET",
+                "quantity": 1.0,
+                "price": 5.83,
+                "total_price": 5.83
+            },
+            {
+                "description": "1\" BALL VALVE",
+                "quantity": 1.0,
+                "price": 33.92,
+                "total_price": 33.92
+            }
+        ],
+        "subtotal": 42.2,
+        "tax": 2.53,
+        "tip": null,
+        "total": 44.73
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "SIN THYE & COMPANY",
+        "transaction_date": "2016-02-28",
+        "items": [
+            {
+                "description": "KR600 KING'S SAFETY SHOES",
+                "quantity": 1.0,
+                "price": 103.77,
+                "total_price": 103.77
+            }
+        ],
+        "subtotal": 103.77,
+        "tax": 6.23,
+        "tip": null,
+        "total": 110.0
+    }
+]

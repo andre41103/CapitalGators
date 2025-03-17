@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "SHIMA RESTAURANT",
+        "receipt_type": "receipt.retailMeal",
+        "total": 150.42,
+        "date": "2015-06-09",
+        "notes": "",
+        "recurring": false
+    }
+]

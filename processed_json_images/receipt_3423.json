@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "KEDAI PAPAN YEW CHUAN",
+        "transaction_date": "2018-05-02",
+        "items": [
+            {
+                "description": "BATU SIMEN",
+                "quantity": 1200.0,
+                "price": 0.23,
+                "total_price": 292.56
+            },
+            {
+                "description": "PASIR HALUS (D)",
+                "quantity": 1.0,
+                "price": 65.0,
+                "total_price": 68.9
+            }
+        ],
+        "subtotal": 341.0,
+        "tax": 20.46,
+        "tip": null,
+        "total": 361.46
+    }
+]

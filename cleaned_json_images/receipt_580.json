@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Boston Pizza",
+        "receipt_type": "receipt.retailMeal",
+        "total": 77.6,
+        "date": "2017-09-17",
+        "notes": "",
+        "recurring": false
+    }
+]

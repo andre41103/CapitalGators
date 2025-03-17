@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CROSS CHANNEL NETWORK SDN. BHD.",
+        "transaction_date": "2017-12-31",
+        "items": [
+            {
+                "description": "20MM HERO PVC CONDUIT PIPE",
+                "quantity": 1.0,
+                "price": 1.7,
+                "total_price": 1.8
+            },
+            {
+                "description": "15A PVC CONNECTOR",
+                "quantity": 1.0,
+                "price": 1.8,
+                "total_price": 1.91
+            },
+            {
+                "description": "R & B-C/CLIP 8MM \u00d7 100PCS\nCABLE CLIPS",
+                "quantity": 1.0,
+                "price": 3.5,
+                "total_price": 3.71
+            },
+            {
+                "description": "3\" X 3\" 2862 A1 PVC NUT BOX",
+                "quantity": 1.0,
+                "price": 0.5,
+                "total_price": 0.53
+            }
+        ],
+        "subtotal": 7.5,
+        "tax": 0.45,
+        "tip": null,
+        "total": 7.95
+    }
+]

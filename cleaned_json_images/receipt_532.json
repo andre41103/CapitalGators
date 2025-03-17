@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Aur\ne Anne's",
+        "receipt_type": "receipt.retailMeal",
+        "total": 3.8,
+        "date": "2014-09-05",
+        "notes": "",
+        "recurring": false
+    }
+]

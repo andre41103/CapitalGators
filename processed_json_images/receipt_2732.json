@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "GOLDEN KEY MAKER",
+        "transaction_date": "2018-03-24",
+        "items": [
+            {
+                "description": "NORMAL KEY",
+                "quantity": 4.0,
+                "price": 4.0,
+                "total_price": 16.0
+            },
+            {
+                "description": "NORMAL KEY LONG",
+                "quantity": 1.0,
+                "price": 5.0,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 21.0,
+        "tax": null,
+        "tip": null,
+        "total": 21.0
+    }
+]

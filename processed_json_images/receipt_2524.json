@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SYARIKAT PERNIAGAAN GIN KEE",
+        "transaction_date": "2017-12-28",
+        "items": [
+            {
+                "description": "NAIL (PER/PACK) - RM2",
+                "quantity": 2.0,
+                "price": 2.12,
+                "total_price": 4.24
+            },
+            {
+                "description": "1 1/2\" SANCORA PAINT BRUSH",
+                "quantity": 1.0,
+                "price": 10.07,
+                "total_price": 7.95
+            },
+            {
+                "description": "7\" PAINT ROLLER SET",
+                "quantity": 1.0,
+                "price": 26.5,
+                "total_price": 10.07
+            },
+            {
+                "description": "1LT BIG TREE HIGH GLOSS PAINT",
+                "quantity": 450.0,
+                "price": 0.3,
+                "total_price": 133.56
+            },
+            {
+                "description": "CEMENT BRICK",
+                "quantity": 3.0,
+                "price": 15.9,
+                "total_price": 47.7
+            },
+            {
+                "description": "6' X 35# CORRUGATED ROOFING SHEET\nCEMENT (50KG)",
+                "quantity": 4.0,
+                "price": 18.02,
+                "total_price": 72.08
+            },
+            {
+                "description": "10' 2 X 3",
+                "quantity": 2.0,
+                "price": 16.96,
+                "total_price": 33.92
+            },
+            {
+                "description": "10' 1 X 2",
+                "quantity": 3.0,
+                "price": 7.42,
+                "total_price": 22.26
+            },
+            {
+                "description": "K10' 1 X 8",
+                "quantity": 2.0,
+                "price": 40.28,
+                "total_price": 80.56
+            }
+        ],
+        "subtotal": 439.0,
+        "tax": 26.34,
+        "tip": null,
+        "total": 465.34
+    }
+]

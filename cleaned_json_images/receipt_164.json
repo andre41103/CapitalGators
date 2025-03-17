@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "BEN'S BAYSIDE",
+        "receipt_type": "receipt.retailMeal",
+        "total": 41.32,
+        "date": "2017-03-05",
+        "notes": "",
+        "recurring": false
+    }
+]

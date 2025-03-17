@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SANYO STATIONERY SHOP",
+        "transaction_date": "2017-11-29",
+        "items": [
+            {
+                "description": "WIRE O (3:1) DOUBLE WIRE A4\n34 LOOPS - 6.4MM (WHITE)",
+                "quantity": 6.0,
+                "price": 4.0,
+                "total_price": 24.0
+            },
+            {
+                "description": "PVC- RIGID SHEET BINDING CC\nA4",
+                "quantity": 12.0,
+                "price": 0.8,
+                "total_price": 9.6
+            }
+        ],
+        "subtotal": 33.6,
+        "tax": 1.9,
+        "tip": null,
+        "total": 33.6
+    }
+]

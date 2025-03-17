@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "KFC",
+        "receipt_type": "receipt.retailMeal",
+        "total": 4.32,
+        "date": "2008-06-05",
+        "notes": "",
+        "recurring": false
+    }
+]

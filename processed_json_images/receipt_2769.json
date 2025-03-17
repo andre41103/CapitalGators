@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PRINT EXPERT SDN BHD",
+        "transaction_date": "2018-03-25",
+        "items": [
+            {
+                "description": "BANNER 8X4FEET",
+                "quantity": 1.0,
+                "price": 28.58,
+                "total_price": 28.58
+            },
+            {
+                "description": "DESIGN BANNER",
+                "quantity": 1.0,
+                "price": 31.8,
+                "total_price": 31.8
+            },
+            {
+                "description": "BUSINESS SPOT UV",
+                "quantity": 1.0,
+                "price": 159.0,
+                "total_price": 159.0
+            },
+            {
+                "description": "DIE-CUT TRANSPARENT PP",
+                "quantity": 5.0,
+                "price": 12.4,
+                "total_price": 62.01
+            },
+            {
+                "description": "DESIGN STICKER",
+                "quantity": 1.0,
+                "price": 31.8,
+                "total_price": 31.8
+            },
+            {
+                "description": "T SHIRT PRINTING",
+                "quantity": 5.0,
+                "price": 11.13,
+                "total_price": 55.65
+            },
+            {
+                "description": "DEPOSIT (CS00530344)",
+                "quantity": 1.0,
+                "price": 200.0,
+                "total_price": 200.0
+            },
+            {
+                "description": "BANNER 8 X 4",
+                "quantity": 1.0,
+                "price": 35.36,
+                "total_price": 35.36
+            }
+        ],
+        "subtotal": 192.64,
+        "tax": 11.56,
+        "tip": 0.0,
+        "total": 204.2
+    }
+]

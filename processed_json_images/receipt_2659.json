@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Zen and coffee 28 S/B",
+        "transaction_date": "2018-03-25",
+        "items": [
+            {
+                "description": "Saba shioyaki wazen (20mins)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 26.0
+            },
+            {
+                "description": "Unagi don",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 28.0
+            },
+            {
+                "description": "Spicy ASARI Pasta",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 19.0
+            },
+            {
+                "description": "Ebi Mentai Pasta",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.0
+            },
+            {
+                "description": "Jasmine Green Tea",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": 105.0,
+        "tax": 5.95,
+        "tip": null,
+        "total": 105.0
+    }
+]

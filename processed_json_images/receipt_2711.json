@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AEON CO. (M) BHD",
+        "transaction_date": "2018-03-09",
+        "items": [
+            {
+                "description": "BIO ZIP POWDER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.5
+            },
+            {
+                "description": "BIO ZIP POWDER",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.5
+            }
+        ],
+        "subtotal": 31.0,
+        "tax": 1.76,
+        "tip": null,
+        "total": 31.0
+    }
+]

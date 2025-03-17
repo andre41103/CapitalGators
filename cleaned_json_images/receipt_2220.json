@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "TRANSIT",
+        "receipt_type": "receipt",
+        "total": 12.5,
+        "date": "2011-11-29",
+        "notes": "",
+        "recurring": false
+    }
+]

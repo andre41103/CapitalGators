@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Lemon Tree Restaurant",
+        "transaction_date": "2018-05-01",
+        "items": [
+            {
+                "description": "Green Apple Juice (S)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.8
+            },
+            {
+                "description": "Ham & Cheese Grilled\nChicken",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.8
+            },
+            {
+                "description": "Mee Mamak",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.8
+            }
+        ],
+        "subtotal": 36.2,
+        "tax": null,
+        "tip": null,
+        "total": 38.35
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "POPULAR BOOK\nCO. (M) SDN BHD",
+        "transaction_date": "2017-08-20",
+        "items": [
+            {
+                "description": "H'MAN GLASS PAPER",
+                "quantity": 4.0,
+                "price": 1.4,
+                "total_price": 5.6
+            }
+        ],
+        "subtotal": 5.04,
+        "tax": 0.29,
+        "tip": null,
+        "total": 5.05
+    }
+]

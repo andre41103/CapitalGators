@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Wheeler-Dawson",
+        "receipt_type": "receipt.retailMeal",
+        "total": 403.25,
+        "date": "2017-06-14",
+        "notes": "",
+        "recurring": false
+    }
+]

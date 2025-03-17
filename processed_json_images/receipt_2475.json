@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MODERN DEPOT SDN BHD",
+        "transaction_date": "2016-12-04",
+        "items": [
+            {
+                "description": "CLSTEL670",
+                "quantity": 1.0,
+                "price": 141.51,
+                "total_price": 141.51
+            }
+        ],
+        "subtotal": 141.51,
+        "tax": 8.49,
+        "tip": null,
+        "total": 150.0
+    }
+]

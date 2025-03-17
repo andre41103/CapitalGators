@@ -1,0 +1,13 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.parking",
+        "merchant_name": "First City Parking Sdn Bhd",
+        "transaction_date": "2018-04-16",
+        "items": [],
+        "subtotal": 6.6,
+        "tax": 0.4,
+        "tip": null,
+        "total": 7.0
+    }
+]

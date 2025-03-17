@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "KTCHN Restaurant",
+        "receipt_type": "receipt.retailMeal",
+        "total": 85.06,
+        "date": "2014-11-22",
+        "notes": "",
+        "recurring": false
+    }
+]

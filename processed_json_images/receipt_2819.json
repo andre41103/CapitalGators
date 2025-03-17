@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Partyplan\nSTAR CASH & CARRY",
+        "transaction_date": "2017-01-05",
+        "items": [
+            {
+                "description": "[AKS]APPALAM",
+                "quantity": 2.0,
+                "price": 45.0,
+                "total_price": 90.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 90.0
+    }
+]

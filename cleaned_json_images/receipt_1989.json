@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Milano\nRestaurant",
+        "receipt_type": "receipt.retailMeal",
+        "total": 990.0,
+        "date": "2016-11-28",
+        "notes": "",
+        "recurring": false
+    }
+]

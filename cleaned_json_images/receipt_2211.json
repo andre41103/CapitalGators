@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Restaurant Scheltema",
+        "receipt_type": "receipt.retailMeal",
+        "total": 60.5,
+        "date": "2014-12-17",
+        "notes": "",
+        "recurring": false
+    }
+]

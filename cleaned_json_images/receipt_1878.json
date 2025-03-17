@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "TOPAZ\nRESTAURANT",
+        "receipt_type": "receipt.retailMeal",
+        "total": 6.1,
+        "date": "2017-10-07",
+        "notes": "",
+        "recurring": false
+    }
+]

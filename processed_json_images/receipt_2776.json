@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "POPULAR BOOK",
+        "transaction_date": "2018-03-06",
+        "items": [
+            {
+                "description": "IC&License Hol 3552",
+                "quantity": 30.0,
+                "price": 0.45,
+                "total_price": 13.5
+            },
+            {
+                "description": "Member Discount",
+                "quantity": null,
+                "price": null,
+                "total_price": -1.35
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.69,
+        "tip": null,
+        "total": 12.15
+    }
+]

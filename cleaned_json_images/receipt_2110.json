@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Jollibee\u00ae",
+        "receipt_type": "receipt.retailMeal",
+        "total": 3.7,
+        "date": "2014-02-18",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "$9 SPEED MART S/D (519537.X)",
+        "transaction_date": "2018-02-05",
+        "items": [
+            {
+                "description": "YONCCHUN LOKAM MNORN S",
+                "quantity": 5.0,
+                "price": 12.5,
+                "total_price": 62.5
+            },
+            {
+                "description": "YONGCHUN LOKAM MNORN #",
+                "quantity": 5.0,
+                "price": 15.8,
+                "total_price": 79.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 141.5
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "THYME",
+        "receipt_type": "receipt.retailMeal",
+        "total": 60.13,
+        "date": "2017-07-22",
+        "notes": "",
+        "recurring": false
+    }
+]

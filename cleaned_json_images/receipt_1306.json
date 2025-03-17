@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Domino's Pizza",
+        "receipt_type": "receipt.retailMeal",
+        "total": 16.28,
+        "date": "2014-07-31",
+        "notes": "",
+        "recurring": false
+    }
+]

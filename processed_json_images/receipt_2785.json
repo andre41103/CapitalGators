@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TONYMOLY VIVA CITY",
+        "transaction_date": "2018-03-29",
+        "items": [
+            {
+                "description": "PURE ECO SNAIL MOISTURE GEL\n300 [SR]",
+                "quantity": 1.0,
+                "price": 39.9,
+                "total_price": 39.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.26,
+        "tip": null,
+        "total": 39.9
+    }
+]

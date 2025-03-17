@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "SWC ENTERPRISE SDN BHD",
+        "transaction_date": "2018-03-23",
+        "items": [
+            {
+                "description": "OPEN CODE-SR ITEM",
+                "quantity": null,
+                "price": 11.8,
+                "total_price": 23.6
+            },
+            {
+                "description": "U",
+                "quantity": null,
+                "price": 8.8,
+                "total_price": 17.6
+            }
+        ],
+        "subtotal": 41.2,
+        "tax": 2.34,
+        "tip": null,
+        "total": 41.2
+    }
+]

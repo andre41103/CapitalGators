@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)",
+        "transaction_date": "2018-01-03",
+        "items": [
+            {
+                "description": "4\" ROLLER SET",
+                "quantity": 2.0,
+                "price": 6.89,
+                "total_price": 13.78
+            },
+            {
+                "description": "7LT TOPLUS EMULSION PAINT",
+                "quantity": 1.0,
+                "price": 40.28,
+                "total_price": 40.28
+            },
+            {
+                "description": "CEMENT (50KG)",
+                "quantity": 2.0,
+                "price": 18.02,
+                "total_price": 36.04
+            },
+            {
+                "description": "PLASTIC TRAP (L)",
+                "quantity": 1.0,
+                "price": 4.77,
+                "total_price": 4.77
+            }
+        ],
+        "subtotal": 89.5,
+        "tax": 5.37,
+        "tip": null,
+        "total": 94.87
+    }
+]

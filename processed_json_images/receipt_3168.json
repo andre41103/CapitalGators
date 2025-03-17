@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2018-04-06",
+        "items": [
+            {
+                "description": "ACRYLIC TAPE 18MM*1.5M\nUA12 - 12/144",
+                "quantity": 4.0,
+                "price": 2.9,
+                "total_price": 11.6
+            },
+            {
+                "description": "DBL SIDE CLEAR ACRYLIC TAPE VST106C\nWA10 - 8/64",
+                "quantity": 1.0,
+                "price": 11.9,
+                "total_price": 11.9
+            },
+            {
+                "description": "TEST PEN 886A\nXG02XA21 - 24/600",
+                "quantity": 1.0,
+                "price": 1.9,
+                "total_price": 1.9
+            },
+            {
+                "description": "S/DRIVER 860 4#\n*6730003*TR\nLF31/2 - 12/240",
+                "quantity": 1.0,
+                "price": 3.3,
+                "total_price": 3.3
+            },
+            {
+                "description": "COL.SCREWDRIVER 4' +*TR\nLB31 - 12/240",
+                "quantity": 1.0,
+                "price": 2.5,
+                "total_price": 2.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.77,
+        "tip": null,
+        "total": 31.2
+    }
+]

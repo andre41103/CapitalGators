@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SWEET FOREST CAFE",
+        "transaction_date": "2018-02-14",
+        "items": [
+            {
+                "description": "Smoked Duck Spaghetti",
+                "quantity": 1.0,
+                "price": 12.5,
+                "total_price": 12.5
+            },
+            {
+                "description": "Hot Green Tea",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "Coffee(H)",
+                "quantity": 1.0,
+                "price": 4.9,
+                "total_price": 4.9
+            },
+            {
+                "description": "Rendang Chicken Rice",
+                "quantity": 1.0,
+                "price": 9.9,
+                "total_price": 9.9
+            }
+        ],
+        "subtotal": 28.58,
+        "tax": null,
+        "tip": null,
+        "total": 30.3
+    }
+]

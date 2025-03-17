@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Palmer Ltd",
+        "receipt_type": "receipt.retailMeal",
+        "total": 44745.59,
+        "date": "2014-04-09",
+        "notes": "",
+        "recurring": false
+    }
+]

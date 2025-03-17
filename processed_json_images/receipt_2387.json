@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Taste Of The World Sdn Bhd",
+        "transaction_date": "2018-03-05",
+        "items": [
+            {
+                "description": "S Tiger Bucket",
+                "quantity": 1.0,
+                "price": 55.0,
+                "total_price": 58.3
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": 5.83,
+        "total": 64.15
+    }
+]

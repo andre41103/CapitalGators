@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "tealive",
+        "transaction_date": "2018-01-21",
+        "items": [
+            {
+                "description": "Hazelnut Coco -L",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.5
+            },
+            {
+                "description": ":Pearl",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 1.1
+            }
+        ],
+        "subtotal": 8.6,
+        "tax": 0.48,
+        "tip": null,
+        "total": 8.6
+    }
+]

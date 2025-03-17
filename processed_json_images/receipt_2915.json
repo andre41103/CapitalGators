@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AEON CO. (M) BHD",
+        "transaction_date": "2018-04-14",
+        "items": [
+            {
+                "description": "MAMEE MONSTER",
+                "quantity": 3.0,
+                "price": 3.45,
+                "total_price": 10.35
+            },
+            {
+                "description": "CL FROZEN EDAMA",
+                "quantity": 3.0,
+                "price": 10.9,
+                "total_price": 32.7
+            },
+            {
+                "description": "YAKULT ACE LIG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.15
+            },
+            {
+                "description": "PLASTICS BAG",
+                "quantity": 2.0,
+                "price": 0.2,
+                "total_price": 0.4
+            }
+        ],
+        "subtotal": 50.92,
+        "tax": 2.88,
+        "tip": null,
+        "total": 50.92
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DI HUAN YA RESTAURANT",
+        "transaction_date": "2018-04-07",
+        "items": [
+            {
+                "description": "'#TAKE AWAY##\nROASTED DUCK WITH CHINESE\nHERB (HALF)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 33.0
+            }
+        ],
+        "subtotal": 33.0,
+        "tax": null,
+        "tip": null,
+        "total": 35.0
+    }
+]

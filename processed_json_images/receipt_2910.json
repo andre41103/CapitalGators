@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "The GeoVenture",
+        "transaction_date": "2018-04-06",
+        "items": [
+            {
+                "description": "S Special TG Tower 01",
+                "quantity": 1.0,
+                "price": 75.47,
+                "total_price": 75.47
+            },
+            {
+                "description": "S Iced Cafe Latte",
+                "quantity": 1.0,
+                "price": 8.58,
+                "total_price": 8.58
+            }
+        ],
+        "subtotal": 84.05,
+        "tax": null,
+        "tip": 8.41,
+        "total": 98.0
+    }
+]

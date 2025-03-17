@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)",
+        "transaction_date": "2017-12-29",
+        "items": [
+            {
+                "description": "G.I WIRE RM10",
+                "quantity": 1.0,
+                "price": 10.6,
+                "total_price": 10.6
+            }
+        ],
+        "subtotal": 10.0,
+        "tax": 0.6,
+        "tip": null,
+        "total": 10.6
+    }
+]

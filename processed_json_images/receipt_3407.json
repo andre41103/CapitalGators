@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "OGN GROUP SDN BHD",
+        "transaction_date": "2018-06-17",
+        "items": [
+            {
+                "description": "Kitchen Lighter 2015",
+                "quantity": 5.0,
+                "price": 3.68,
+                "total_price": 18.4
+            },
+            {
+                "description": "Cotton White Mop 450 W.HDL",
+                "quantity": 1.0,
+                "price": 9.91,
+                "total_price": 9.91
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.0,
+        "tip": null,
+        "total": 28.3
+    }
+]

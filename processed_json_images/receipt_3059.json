@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "THE STORE (MALAYSIA) SDN. BHD.",
+        "transaction_date": "2016-02-06",
+        "items": [
+            {
+                "description": "PLASTICWARE-NORMAL (MCH)",
+                "quantity": 20.0,
+                "price": 4.9,
+                "total_price": 9.8
+            }
+        ],
+        "subtotal": 9.24,
+        "tax": 0.56,
+        "tip": null,
+        "total": 9.8
+    }
+]

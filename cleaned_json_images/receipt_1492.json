@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Larson-Grant",
+        "receipt_type": "receipt.retailMeal",
+        "total": 897.52,
+        "date": "2014-06-25",
+        "notes": "",
+        "recurring": false
+    }
+]

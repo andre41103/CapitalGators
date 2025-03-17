@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "OJC MARKETING SDN BHD",
+        "transaction_date": "2019-01-15",
+        "items": [
+            {
+                "description": "KINGS SAFETY SHOES KWD 805",
+                "quantity": 1.0,
+                "price": 193.0,
+                "total_price": 193.0
+            }
+        ],
+        "subtotal": 193.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 193.0
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Golden Arches Restaurants Sdn Bhd",
+        "transaction_date": "2016-12-03",
+        "items": [
+            {
+                "description": "S Cappucino",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.7
+            },
+            {
+                "description": "S Green Tea Latte",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.83,
+        "tip": null,
+        "total": 14.7
+    }
+]

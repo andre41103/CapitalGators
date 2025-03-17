@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Becon Enterprise Sdn Bhd",
+        "transaction_date": "2017-11-13",
+        "items": [
+            {
+                "description": "H/COVER F/SCAP BOOK 300PGS (NN) HFC309/HFC",
+                "quantity": 3.0,
+                "price": 7.2,
+                "total_price": 21.6
+            },
+            {
+                "description": "TACK-IT 120pcs F/CASTELL 75GMS 187092/7057",
+                "quantity": 1.0,
+                "price": 5.7,
+                "total_price": 5.7
+            },
+            {
+                "description": "NOTE BOOK SPIRAL 202 CROWN",
+                "quantity": 2.0,
+                "price": 1.4,
+                "total_price": 2.8
+            },
+            {
+                "description": "DEAL074#5 REAMS IK PLUS Simili Paper A4 80",
+                "quantity": 4.0,
+                "price": 60.0,
+                "total_price": 240.0
+            }
+        ],
+        "subtotal": 270.1,
+        "tax": 15.28,
+        "tip": null,
+        "total": 270.1
+    }
+]

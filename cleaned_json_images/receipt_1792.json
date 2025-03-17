@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Wendy's Restaurant",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": "2016-07-14",
+        "notes": "",
+        "recurring": false
+    }
+]

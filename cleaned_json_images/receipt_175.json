@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Brazilian Steak House",
+        "receipt_type": "receipt.retailMeal",
+        "total": 55.38,
+        "date": "2018-04-13",
+        "notes": "",
+        "recurring": false
+    }
+]

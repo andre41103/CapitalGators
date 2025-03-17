@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "HARD ROCK CAFE COPENHAGEN",
+        "receipt_type": "receipt.retailMeal",
+        "total": 350.0,
+        "date": "2007-07-17",
+        "notes": "",
+        "recurring": false
+    }
+]

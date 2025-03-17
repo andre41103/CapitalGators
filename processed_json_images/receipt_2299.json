@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR D.I.Y. (M) SDN BHD",
+        "transaction_date": "2018-11-18",
+        "items": [
+            {
+                "description": "KILAT'AUTO ECO WASH & SHINE ES1000 1L",
+                "quantity": 1.0,
+                "price": 3.11,
+                "total_price": 3.11
+            },
+            {
+                "description": "KILAT' ECO AUTO WASH &WAX EW-1000-1L",
+                "quantity": 1.0,
+                "price": 4.62,
+                "total_price": 4.62
+            },
+            {
+                "description": "WD40 277ml MOQ 2572",
+                "quantity": 1.0,
+                "price": 11.23,
+                "total_price": 11.23
+            },
+            {
+                "description": "KLEENSO AJAIB 99 SERAI WANYI 900G",
+                "quantity": 1.0,
+                "price": 7.45,
+                "total_price": 7.45
+            },
+            {
+                "description": "HANDKERCHIEF 71386#2PCS",
+                "quantity": 1.0,
+                "price": 4.5,
+                "total_price": 4.5
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 30.91
+    }
+]

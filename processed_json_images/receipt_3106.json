@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "NADEJE PLATINUM SDN BHD",
+        "transaction_date": "2016-05-01",
+        "items": [
+            {
+                "description": "DoubleCoco Slice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.6
+            },
+            {
+                "description": "Mother's Slices",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.5
+            },
+            {
+                "description": "Tiramisu Slice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.6
+            },
+            {
+                "description": "Cheese Slice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.6
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 51.3
+    }
+]

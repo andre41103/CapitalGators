@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "SUPER A FOODS",
+        "receipt_type": "receipt.retailMeal",
+        "total": 1.48,
+        "date": "2014-12-12",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "PANDAH INDAH PULAU KETAM RESTAURANT",
+        "transaction_date": "2018-04-30",
+        "items": [
+            {
+                "description": "KUO POH (C) (2 PAX)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.0
+            },
+            {
+                "description": "TEA EXTRA PERSON (1 PAX)",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 2.0
+            },
+            {
+                "description": "TONG HOU",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.0
+            },
+            {
+                "description": "MUTTAN SLICE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "SOUP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "TOM YUM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": null,
+                "total_price": 60.0
+            }
+        ],
+        "subtotal": 93.0,
+        "tax": null,
+        "tip": null,
+        "total": 93.0
+    }
+]

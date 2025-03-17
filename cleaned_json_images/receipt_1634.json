@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Loulay\nKitchen",
+        "receipt_type": "receipt.retailMeal",
+        "total": 48.22,
+        "date": "2015-05-07",
+        "notes": "",
+        "recurring": false
+    }
+]

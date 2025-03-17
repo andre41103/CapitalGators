@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.gas",
+        "merchant_name": "LEONG HENG SHELL SERVICE STATION",
+        "transaction_date": "2018-06-20",
+        "items": [
+            {
+                "description": "Fuel Save 95",
+                "quantity": 22.73,
+                "price": 2.2,
+                "total_price": 50.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 50.0
+    }
+]

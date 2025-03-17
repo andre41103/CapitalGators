@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "DE LUXE CIRCLE FRESH MART SDN BHD",
+        "transaction_date": "2018-06-02",
+        "items": [
+            {
+                "description": "Coca-Cola 320ml",
+                "quantity": null,
+                "price": 1.4,
+                "total_price": 1.4
+            },
+            {
+                "description": "F&N Gotcha Buggy 75ml",
+                "quantity": null,
+                "price": 0.95,
+                "total_price": 0.95
+            },
+            {
+                "description": "King Oyster Mushroom -Unit satz -Unit",
+                "quantity": null,
+                "price": 3.5,
+                "total_price": 3.5
+            },
+            {
+                "description": "LKK Kum Chun Oyster Sauce 770g",
+                "quantity": null,
+                "price": 5.65,
+                "total_price": 5.65
+            },
+            {
+                "description": "Whole Chicken Ix3",
+                "quantity": null,
+                "price": 10.99,
+                "total_price": 14.35
+            }
+        ],
+        "subtotal": 25.85,
+        "tax": null,
+        "tip": null,
+        "total": 25.85
+    }
+]

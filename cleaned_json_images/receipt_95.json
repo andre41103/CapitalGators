@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Pokeatery CV",
+        "receipt_type": "receipt.retailMeal",
+        "total": 16.23,
+        "date": "2018-12-29",
+        "notes": "",
+        "recurring": false
+    }
+]

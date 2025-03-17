@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AEON CO. (M) BHD",
+        "transaction_date": "2018-04-28",
+        "items": [
+            {
+                "description": "MUNCHY'S CREAM",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.513
+            },
+            {
+                "description": "TOPVALU BESTPRI",
+                "quantity": 3.0,
+                "price": 6.2,
+                "total_price": 18.6
+            }
+        ],
+        "subtotal": 26.11,
+        "tax": 1.48,
+        "tip": null,
+        "total": 26.1
+    }
+]

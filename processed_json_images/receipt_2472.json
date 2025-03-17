@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "FY EAGLE ENTERPRISE",
+        "transaction_date": "2017-12-07",
+        "items": [
+            {
+                "description": "SR:500ML PAINT REMOVER(M.TE)-KTH",
+                "quantity": 1.0,
+                "price": 10.0,
+                "total_price": 10.0
+            }
+        ],
+        "subtotal": 9.43,
+        "tax": 0.57,
+        "tip": null,
+        "total": 10.0
+    }
+]

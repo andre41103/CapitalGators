@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2016-05-22",
+        "items": [
+            {
+                "description": "TISSUE BOX ZXD-19",
+                "quantity": 1.0,
+                "price": 12.5,
+                "total_price": 12.5
+            },
+            {
+                "description": "FRUIT PLATE 9'*VS",
+                "quantity": 2.0,
+                "price": 4.5,
+                "total_price": 9.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.22,
+        "tip": null,
+        "total": 21.5
+    }
+]

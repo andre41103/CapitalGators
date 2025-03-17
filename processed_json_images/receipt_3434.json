@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ONE THREE SEAFOOD RESTAURANT SDN BHD",
+        "transaction_date": "2018-06-14",
+        "items": [
+            {
+                "description": "Tilapia",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 28.0
+            },
+            {
+                "description": "Vege item",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.0
+            },
+            {
+                "description": "White Rice",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 7.0
+            },
+            {
+                "description": "Beverage\nHerbal Tea Item",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 59.0,
+        "tax": 0.0,
+        "tip": null,
+        "total": 59.0
+    }
+]

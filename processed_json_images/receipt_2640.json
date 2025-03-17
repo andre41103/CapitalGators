@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B",
+        "transaction_date": "2018-02-03",
+        "items": [
+            {
+                "description": "LABOOST DRINKING WATER",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.5
+            },
+            {
+                "description": "NEOBUN PLASTER 10PCS",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.2
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.21,
+        "tip": null,
+        "total": 3.7
+    }
+]

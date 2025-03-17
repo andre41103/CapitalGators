@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "MY HAPPY PHARMACY PLT",
+        "transaction_date": "2018-02-01",
+        "items": [
+            {
+                "description": "FLANIL ANALGESIC CR. 60G",
+                "quantity": 1.0,
+                "price": 20.5,
+                "total_price": 20.5
+            }
+        ],
+        "subtotal": 19.34,
+        "tax": 1.16,
+        "tip": null,
+        "total": 20.5
+    }
+]

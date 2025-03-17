@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AEON CO. (M) BHD",
+        "transaction_date": "2018-03-05",
+        "items": [
+            {
+                "description": "TOPVALU VIRGIN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.9
+            },
+            {
+                "description": "TOPVALU VIRGIN",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.9
+            },
+            {
+                "description": "ANCHOR FLOUR 1",
+                "quantity": 16.0,
+                "price": 2.75,
+                "total_price": 44.0
+            },
+            {
+                "description": "DIAMOND FOIL 7",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.4
+            }
+        ],
+        "subtotal": 81.2,
+        "tax": 2.11,
+        "tip": null,
+        "total": 81.2
+    }
+]

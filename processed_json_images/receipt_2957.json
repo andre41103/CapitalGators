@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Maxincome Resources Sdn Bhd",
+        "transaction_date": "2018-04-10",
+        "items": [
+            {
+                "description": "F/Friend S/F Original",
+                "quantity": 2.0,
+                "price": null,
+                "total_price": 5.8
+            }
+        ],
+        "subtotal": 5.0,
+        "tax": 0.33,
+        "tip": null,
+        "total": null
+    }
+]

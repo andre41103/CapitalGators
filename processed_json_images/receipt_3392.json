@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART 5/B",
+        "transaction_date": "2018-05-05",
+        "items": [
+            {
+                "description": "KNORR CHICKEN STOCK 1K",
+                "quantity": null,
+                "price": null,
+                "total_price": 134.8
+            },
+            {
+                "description": null,
+                "quantity": 88.0,
+                "price": 16.85,
+                "total_price": null
+            },
+            {
+                "description": "GARDENIA ENRICHED WHIT",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.35
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 137.15
+    }
+]

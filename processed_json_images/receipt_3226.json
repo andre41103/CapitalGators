@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SANYO STATIONERY SHOP",
+        "transaction_date": "2017-08-12",
+        "items": [
+            {
+                "description": "MAX STAPLE 10-1M",
+                "quantity": 3.0,
+                "price": 1.0,
+                "total_price": 3.0
+            }
+        ],
+        "subtotal": 3.0,
+        "tax": 0.17,
+        "tip": null,
+        "total": 3.0
+    }
+]

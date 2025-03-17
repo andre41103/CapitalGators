@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SIZZLING STONEGRILL",
+        "transaction_date": "2018-05-26",
+        "items": [
+            {
+                "description": "CREAM OF MUSHROOM SOUP",
+                "quantity": 2.0,
+                "price": 6.1,
+                "total_price": 12.2
+            },
+            {
+                "description": "NOODLE SOUP O.T.ROCK",
+                "quantity": 1.0,
+                "price": 12.9,
+                "total_price": 12.9
+            },
+            {
+                "description": "SPICY T/S SPAGHETTI",
+                "quantity": 1.0,
+                "price": 14.9,
+                "total_price": 14.9
+            },
+            {
+                "description": "SIRLOIN STEAK",
+                "quantity": 2.0,
+                "price": 34.9,
+                "total_price": 69.8
+            },
+            {
+                "description": "GRILLED MARINATED",
+                "quantity": 1.0,
+                "price": 19.9,
+                "total_price": 19.9
+            },
+            {
+                "description": "GRILLED CHICKEN CHOP",
+                "quantity": 1.0,
+                "price": 18.9,
+                "total_price": 18.9
+            },
+            {
+                "description": "ICED LEMON TEA",
+                "quantity": 1.0,
+                "price": 6.9,
+                "total_price": 6.9
+            }
+        ],
+        "subtotal": 155.5,
+        "tax": null,
+        "tip": null,
+        "total": 164.8
+    }
+]

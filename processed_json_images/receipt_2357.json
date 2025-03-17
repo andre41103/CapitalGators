@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TED HENG STATIONERY & BOOKS",
+        "transaction_date": "2018-01-23",
+        "items": [
+            {
+                "description": "- DOUBLE SIDED TISSUE TAPE 18MM",
+                "quantity": 5.0,
+                "price": 1.32,
+                "total_price": 6.6
+            },
+            {
+                "description": "- G SOFT 6ML QUICK DRY CORRECTION PEN",
+                "quantity": 5.0,
+                "price": 2.08,
+                "total_price": 10.38
+            }
+        ],
+        "subtotal": 18.0,
+        "tax": 1.02,
+        "tip": null,
+        "total": 18.0
+    }
+]

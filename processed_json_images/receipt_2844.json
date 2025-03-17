@@ -1,0 +1,92 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "YONG SOON FATT S/B (81497-P)",
+        "transaction_date": "2017-02-06",
+        "items": [
+            {
+                "description": "KCL SOH HOON 5KG",
+                "quantity": 1.0,
+                "price": 31.5,
+                "total_price": 31.5
+            },
+            {
+                "description": "BAWANG PUTIH",
+                "quantity": 1.0,
+                "price": 37.5,
+                "total_price": 37.5
+            },
+            {
+                "description": "A1 BIHUN ISTIMEWA 3KG",
+                "quantity": 5.0,
+                "price": 10.0,
+                "total_price": 50.0
+            },
+            {
+                "description": "ABC TEPUNG UBI KAYU 1KG",
+                "quantity": 1.0,
+                "price": 27.0,
+                "total_price": 27.0
+            },
+            {
+                "description": "LIMA GAJAH TEPUNG BERAS 500",
+                "quantity": 1.0,
+                "price": 26.8,
+                "total_price": 26.8
+            },
+            {
+                "description": "ALISHAN YOUNG CORN 425GM",
+                "quantity": 1.0,
+                "price": 52.0,
+                "total_price": 52.0
+            },
+            {
+                "description": "NEW SUN BUTTON MUSHROOM 425",
+                "quantity": 1.0,
+                "price": 58.0,
+                "total_price": 58.0
+            },
+            {
+                "description": "RAMBUTAN BERAS SST 5% 10KG",
+                "quantity": 6.0,
+                "price": 26.0,
+                "total_price": 156002.0
+            },
+            {
+                "description": "DAIRY CHAMP EVAP 390GM",
+                "quantity": 1.0,
+                "price": 113.9,
+                "total_price": 113.9
+            },
+            {
+                "description": "LIFE SOS CILI 340GM",
+                "quantity": 1.0,
+                "price": 63.6,
+                "total_price": 63.6
+            },
+            {
+                "description": "MAGGI SOS TOMATO 325GM",
+                "quantity": 1.0,
+                "price": 62.2,
+                "total_price": 62.2
+            },
+            {
+                "description": "LIFE SOS CILI 500GM",
+                "quantity": 1.0,
+                "price": 41.2,
+                "total_price": 41.2
+            },
+            {
+                "description": "MAGGI SOS TOMATO 475GM",
+                "quantity": 1.0,
+                "price": 39.0,
+                "total_price": 39.0
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 758.7
+    }
+]

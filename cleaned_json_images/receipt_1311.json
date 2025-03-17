@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Walgreens",
+        "receipt_type": "receipt",
+        "total": 49.99,
+        "date": "2015-09-09",
+        "notes": "",
+        "recurring": false
+    }
+]

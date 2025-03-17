@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+        "transaction_date": "2016-06-07",
+        "items": [
+            {
+                "description": "HANDPHONE STICKER WNY-037\nRC21 - 25/1000",
+                "quantity": 4.0,
+                "price": 2.8,
+                "total_price": 11.2
+            },
+            {
+                "description": "DECO STICKER 128\nQF12 - 20/1000",
+                "quantity": 1.0,
+                "price": 2.1,
+                "total_price": 2.1
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.75,
+        "tip": null,
+        "total": 13.3
+    }
+]

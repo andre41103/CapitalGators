@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "IKANO HANDEL SDN BHD",
+        "transaction_date": "2018-06-09",
+        "items": [
+            {
+                "description": "1/2 Spri",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.0
+            },
+            {
+                "description": "Soft Bun",
+                "quantity": 2.0,
+                "price": 0.9,
+                "total_price": 1.8
+            },
+            {
+                "description": "Mushroom",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.9
+            },
+            {
+                "description": "Add-On C",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.2
+            },
+            {
+                "description": "Chicken",
+                "quantity": null,
+                "price": null,
+                "total_price": 4.2
+            },
+            {
+                "description": "15 Meatb",
+                "quantity": null,
+                "price": null,
+                "total_price": 14.1
+            },
+            {
+                "description": "Minidish",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.4
+            },
+            {
+                "description": "Soft Drink\nglass",
+                "quantity": 2.0,
+                "price": 1.8,
+                "total_price": 3.6
+            }
+        ],
+        "subtotal": 46.2,
+        "tax": 0.0,
+        "tip": null,
+        "total": 46.2
+    }
+]

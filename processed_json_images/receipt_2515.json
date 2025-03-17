@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "LIM SENG THO HARDWARE TRADING",
+        "transaction_date": "2018-02-02",
+        "items": [
+            {
+                "description": "BEG GUNI",
+                "quantity": 10.0,
+                "price": 0.7,
+                "total_price": 7.0
+            }
+        ],
+        "subtotal": 7.0,
+        "tax": 0.4,
+        "tip": null,
+        "total": 7.0
+    }
+]

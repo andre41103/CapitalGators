@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2016-01-25",
+        "items": [
+            {
+                "description": "BASKET W/HOOK 9314#",
+                "quantity": 1.0,
+                "price": 3.5,
+                "total_price": 3.5
+            },
+            {
+                "description": "TOILET PAPER HOLDER BWJ-2503#",
+                "quantity": 1.0,
+                "price": 17.5,
+                "total_price": 17.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.19,
+        "tip": null,
+        "total": 21.0
+    }
+]

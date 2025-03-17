@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B",
+        "transaction_date": "2016-12-14",
+        "items": [
+            {
+                "description": "MI SEDAAP MI GORENG AS",
+                "quantity": null,
+                "price": null,
+                "total_price": 3.79
+            },
+            {
+                "description": "TWISTIES CHIPSTER ORIG",
+                "quantity": null,
+                "price": null,
+                "total_price": 2.85
+            },
+            {
+                "description": "MISTER POTATO BBQ (B)",
+                "quantity": 2.0,
+                "price": 2.45,
+                "total_price": 4.9
+            },
+            {
+                "description": "EAGLE FRIED DACE WT SA",
+                "quantity": 2.0,
+                "price": 6.99,
+                "total_price": 13.98
+            },
+            {
+                "description": "PLANTA MARJERIN 240G",
+                "quantity": null,
+                "price": null,
+                "total_price": 5.2
+            },
+            {
+                "description": "COKE 1.5L",
+                "quantity": 2.0,
+                "price": 2.99,
+                "total_price": 5.98
+            },
+            {
+                "description": "CAP TAKRAW BERAS SUPER",
+                "quantity": null,
+                "price": null,
+                "total_price": 24.95
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 61.65
+    }
+]

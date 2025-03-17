@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "CPI ROCKU SDN. BHD.",
+        "transaction_date": "2018-02-19",
+        "items": [
+            {
+                "description": "GREEN TEA",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "GREEN TEA",
+                "quantity": 1.0,
+                "price": 3.0,
+                "total_price": 3.0
+            },
+            {
+                "description": "BUFFET DINNER (ADULT)",
+                "quantity": 3.0,
+                "price": 49.9,
+                "total_price": 149.7
+            }
+        ],
+        "subtotal": 155.7,
+        "tax": null,
+        "tip": 15.57,
+        "total": 181.55
+    }
+]

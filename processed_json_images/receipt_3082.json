@@ -1,0 +1,62 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+        "transaction_date": "2016-01-24",
+        "items": [
+            {
+                "description": "TISSUE HOLDER Z-66#*VS",
+                "quantity": 2.0,
+                "price": 5.3,
+                "total_price": 10.6
+            },
+            {
+                "description": "HOOK 1526#",
+                "quantity": 2.0,
+                "price": 2.3,
+                "total_price": 4.6
+            },
+            {
+                "description": "PLACEMAT 145#",
+                "quantity": 2.0,
+                "price": 1.9,
+                "total_price": 3.8
+            },
+            {
+                "description": "FURNITURE S/MAT 2PCS 3243#\n24/360",
+                "quantity": 2.0,
+                "price": 2.5,
+                "total_price": 5.0
+            },
+            {
+                "description": "PARTITION 1072 10CM",
+                "quantity": 2.0,
+                "price": 7.3,
+                "total_price": 14.6
+            },
+            {
+                "description": "CNY DECO A002# 26CM",
+                "quantity": 1.0,
+                "price": 10.9,
+                "total_price": 10.9
+            },
+            {
+                "description": "CNY DECO A003# 21CM",
+                "quantity": 1.0,
+                "price": 7.9,
+                "total_price": 7.9
+            },
+            {
+                "description": "FREE 2016 CNY RED PACKET",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": null,
+        "tax": 3.25,
+        "tip": null,
+        "total": 57.4
+    }
+]

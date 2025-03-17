@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)",
+        "transaction_date": "2018-02-03",
+        "items": [
+            {
+                "description": "12M WIRE ROPE CLIP",
+                "quantity": 2.0,
+                "price": 4.77,
+                "total_price": 9.54
+            },
+            {
+                "description": "4\" X KINKI BRD 2 WAY SCREWDRIVER",
+                "quantity": 1.0,
+                "price": 4.77,
+                "total_price": 4.77
+            },
+            {
+                "description": "HOES SET",
+                "quantity": 2.0,
+                "price": 23.32,
+                "total_price": 46.64
+            }
+        ],
+        "subtotal": 57.5,
+        "tax": 3.45,
+        "tip": null,
+        "total": 60.95
+    }
+]

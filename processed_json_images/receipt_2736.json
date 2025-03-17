@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2018-03-24",
+        "items": [
+            {
+                "description": "MULTIPURPOSE BROOM 737P W/4FT\nWA16 - 24",
+                "quantity": 2.0,
+                "price": 6.5,
+                "total_price": 13.0
+            },
+            {
+                "description": "HOSE PUMP C88351#\nKE23-33-53 - 12/120",
+                "quantity": 1.0,
+                "price": 1.9,
+                "total_price": 1.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.84,
+        "tip": null,
+        "total": 14.9
+    }
+]

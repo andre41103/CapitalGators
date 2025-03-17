@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ASO ELECTRICAL TRADING SDN BHD",
+        "transaction_date": "2017-10-13",
+        "items": [
+            {
+                "description": "SR: CABLE LUG 50MM(M10)",
+                "quantity": 10.0,
+                "price": 1.43,
+                "total_price": 15.12
+            },
+            {
+                "description": "SR: CRIMPING TOOL, HS-38, 5.5MM - 38MM",
+                "quantity": 1.0,
+                "price": 75.0,
+                "total_price": 79.5
+            }
+        ],
+        "subtotal": 89.26,
+        "tax": 5.36,
+        "tip": null,
+        "total": 94.6
+    }
+]

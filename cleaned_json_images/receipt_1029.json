@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "LA VACA AZUL",
+        "receipt_type": "receipt.retailMeal",
+        "total": 37.56,
+        "date": "2014-03-21",
+        "notes": "",
+        "recurring": false
+    }
+]

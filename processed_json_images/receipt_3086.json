@@ -1,0 +1,38 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+        "transaction_date": "2016-01-05",
+        "items": [
+            {
+                "description": "MOSQUITO RACKET 108#",
+                "quantity": 1.0,
+                "price": 13.5,
+                "total_price": 13.5
+            },
+            {
+                "description": "MIRROR STICKER 60CM*2M",
+                "quantity": 1.0,
+                "price": 10.9,
+                "total_price": 10.9
+            },
+            {
+                "description": "TABLE MAT 50P-42*VS",
+                "quantity": 1.0,
+                "price": 6.5,
+                "total_price": 6.5
+            },
+            {
+                "description": "MOP HOOK 703#",
+                "quantity": 1.0,
+                "price": 3.5,
+                "total_price": 3.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 1.95,
+        "tip": null,
+        "total": 34.4
+    }
+]

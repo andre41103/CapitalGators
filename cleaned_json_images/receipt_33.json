@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "WINGS & THINGS",
+        "receipt_type": "receipt.retailMeal",
+        "total": 9.5,
+        "date": "2017-03-19",
+        "notes": "",
+        "recurring": false
+    }
+]

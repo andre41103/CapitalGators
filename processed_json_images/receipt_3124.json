@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt",
+        "merchant_name": "Kedai Ubat Dan Runcit CHONG HWA",
+        "transaction_date": "2016-10-03",
+        "items": [
+            {
+                "description": "Liquid Medicine",
+                "quantity": 1.0,
+                "price": 33.9,
+                "total_price": 33.9
+            }
+        ],
+        "subtotal": 31.98,
+        "tax": 1.92,
+        "tip": null,
+        "total": 33.9
+    }
+]

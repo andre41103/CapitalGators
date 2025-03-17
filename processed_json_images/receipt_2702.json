@@ -1,0 +1,86 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Segi Cash & Carry Sdn. Bhd.",
+        "transaction_date": "2018-03-12",
+        "items": [
+            {
+                "description": "KNIFE COOKING OIL 5KG",
+                "quantity": 1.0,
+                "price": 25.8,
+                "total_price": 25.8
+            },
+            {
+                "description": "LKK HOI SIN SAUCE 240G",
+                "quantity": 1.0,
+                "price": 7.69,
+                "total_price": 7.69
+            },
+            {
+                "description": "SEVEN FRENCH FRIES S/S 2.5KG",
+                "quantity": 1.0,
+                "price": 13.5,
+                "total_price": 13.5
+            },
+            {
+                "description": "IQF SQUID TUBE 1KG+-",
+                "quantity": 1.0,
+                "price": 10.9,
+                "total_price": 10.9
+            },
+            {
+                "description": "IQF SQUID TUBE 1KG+-",
+                "quantity": 1.0,
+                "price": 10.9,
+                "total_price": 10.9
+            },
+            {
+                "description": "IQF SQUID TUBE 1KG+-",
+                "quantity": 1.0,
+                "price": 10.9,
+                "total_price": 10.9
+            },
+            {
+                "description": "IQF SQUID TUBE 1KG+-",
+                "quantity": 1.0,
+                "price": 10.9,
+                "total_price": 10.9
+            },
+            {
+                "description": "IQF SQUID TUBE 1KG+-",
+                "quantity": 1.0,
+                "price": 10.9,
+                "total_price": 10.9
+            },
+            {
+                "description": "IQF SQUID TUBE 1KG+-",
+                "quantity": 1.0,
+                "price": 10.9,
+                "total_price": 10.9
+            },
+            {
+                "description": "IQF SQUID TUBE 1KG+-",
+                "quantity": 1.0,
+                "price": 10.9,
+                "total_price": 10.9
+            },
+            {
+                "description": "IQF SQUID TUBE 1KG+-",
+                "quantity": 1.0,
+                "price": 10.9,
+                "total_price": 10.9
+            },
+            {
+                "description": "IQF SQUID TUBE 1KG+-",
+                "quantity": 1.0,
+                "price": 10.9,
+                "total_price": 10.9
+            }
+        ],
+        "subtotal": 145.09,
+        "tax": null,
+        "tip": null,
+        "total": 145.1
+    }
+]

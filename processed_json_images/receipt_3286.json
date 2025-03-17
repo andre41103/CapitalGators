@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AIK HUAT HARDWARE.\nENTERPRISE (SETIA\nALAM) SDN BHD",
+        "transaction_date": "2017-12-29",
+        "items": [
+            {
+                "description": "UMS 13A SWITCH SOCKET(PC-2913A)",
+                "quantity": 2.0,
+                "price": 3.5,
+                "total_price": 7.0
+            }
+        ],
+        "subtotal": 7.0,
+        "tax": 0.4,
+        "tip": null,
+        "total": 7.0
+    }
+]

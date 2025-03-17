@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "C W KHOO HARDWARE SDN BHD",
+        "transaction_date": "2018-04-26",
+        "items": [
+            {
+                "description": "50MM X 3PCS 'TAKKA' K.A PADLOCK\nSET",
+                "quantity": 1.0,
+                "price": 80.0,
+                "total_price": 80.0
+            }
+        ],
+        "subtotal": 80.0,
+        "tax": null,
+        "tip": null,
+        "total": 84.8
+    }
+]

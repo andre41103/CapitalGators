@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SWC ENTERPRISE SDN BHD",
+        "transaction_date": "2018-01-02",
+        "items": [
+            {
+                "description": "5X8 500G (1X60)\n5X8 500G",
+                "quantity": 1.0,
+                "price": 4.2,
+                "total_price": 4.2
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.24,
+        "tip": null,
+        "total": 4.2
+    }
+]

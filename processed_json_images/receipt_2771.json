@@ -1,0 +1,44 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "POPULAR BOOK\nCO. (M) SDN BHD",
+        "transaction_date": "2018-01-24",
+        "items": [
+            {
+                "description": "PB SHT/P 11H A4 50'S",
+                "quantity": null,
+                "price": null,
+                "total_price": 16.9
+            },
+            {
+                "description": "No Plastic Bag Campai",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.2
+            },
+            {
+                "description": "Issue Spring Ingot RM",
+                "quantity": null,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "PB 2D R/FILE A4 40MM",
+                "quantity": 2.0,
+                "price": 7.99,
+                "total_price": 15.98
+            },
+            {
+                "description": "Stat-Buy 2@RM 13",
+                "quantity": null,
+                "price": null,
+                "total_price": -2.98
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 30.1
+    }
+]

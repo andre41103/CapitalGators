@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "99 SPEED MART S/B",
+        "transaction_date": "2017-02-07",
+        "items": [
+            {
+                "description": "INDOCAFE COFFEEMIX 3IN",
+                "quantity": null,
+                "price": null,
+                "total_price": 29.95
+            },
+            {
+                "description": "CADBURY CHOCOLATE HAZEL",
+                "quantity": null,
+                "price": null,
+                "total_price": 7.49
+            }
+        ],
+        "subtotal": null,
+        "tax": 2.12,
+        "tip": null,
+        "total": 37.44
+    }
+]

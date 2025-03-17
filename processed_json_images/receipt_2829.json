@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "S&Y STATIONERY",
+        "transaction_date": "2017-01-09",
+        "items": [
+            {
+                "description": "EXERCISE BOOK 80 PAGES SINGLE LIN",
+                "quantity": 2.0,
+                "price": 0.7,
+                "total_price": 1.4
+            }
+        ],
+        "subtotal": 1.4,
+        "tax": 0.08,
+        "tip": null,
+        "total": 1.4
+    }
+]

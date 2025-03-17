@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "CVS/pharmacy",
+        "receipt_type": "receipt.retailMeal",
+        "total": 20.41,
+        "date": "2016-04-01",
+        "notes": "",
+        "recurring": false
+    }
+]

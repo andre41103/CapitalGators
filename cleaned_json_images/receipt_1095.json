@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "PRODUITS DU SUD-OUEST",
+        "receipt_type": "receipt.retailMeal",
+        "total": 80.3,
+        "date": "2015-10-30",
+        "notes": "",
+        "recurring": false
+    }
+]

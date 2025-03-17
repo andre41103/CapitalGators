@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Abb 10",
+        "transaction_date": "2018-06-02",
+        "items": [
+            {
+                "description": "Cheese Matcha",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.1
+            }
+        ],
+        "subtotal": 13.1,
+        "tax": 0.0,
+        "tip": null,
+        "total": 13.1
+    }
+]

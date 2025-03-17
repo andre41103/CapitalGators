@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "SINNATHAMBY HOLDINGS\nSDN. BHD.",
+        "transaction_date": "2018-02-06",
+        "items": [
+            {
+                "description": "ROYAL GOLD LUXURIOUS KITCHEN TOWEL\n6R*60",
+                "quantity": 1.0,
+                "price": 13.5,
+                "total_price": 13.5
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.76,
+        "tip": null,
+        "total": 13.5
+    }
+]

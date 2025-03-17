@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "BEMED (SP) SDN. BHD.",
+        "transaction_date": "2017-04-01",
+        "items": [
+            {
+                "description": "ALPHA LIPID LIFE LINE",
+                "quantity": 1.0,
+                "price": 165.0,
+                "total_price": 165.0
+            }
+        ],
+        "subtotal": 165.0,
+        "tax": 9.34,
+        "tip": null,
+        "total": 165.0
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Bombay Grill House",
+        "receipt_type": "receipt.retailMeal",
+        "total": 154.0,
+        "date": "2018-06-30",
+        "notes": "",
+        "recurring": false
+    }
+]

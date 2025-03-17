@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Old Town Kopitiam Sdn Bhd",
+        "transaction_date": "2018-03-22",
+        "items": [
+            {
+                "description": "ST30",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 13.87
+            },
+            {
+                "description": "BR10 Stm Ginger R",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "TF2 (H) Teh Tarik",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "HS4",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 12.07
+            },
+            {
+                "description": "SN5 Curry Mee",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "TF7 (C) Lemon T",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 25.94,
+        "tax": null,
+        "tip": 2.59,
+        "total": 30.24
+    }
+]

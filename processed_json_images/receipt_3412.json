@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+        "transaction_date": "2018-04-28",
+        "items": [
+            {
+                "description": "Chicken Item",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 15.0
+            },
+            {
+                "description": "Vege item",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 22.0
+            },
+            {
+                "description": "Sausage Fried Rice (L)",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 5.0
+            }
+        ],
+        "subtotal": 62.0,
+        "tax": 3.72,
+        "tip": null,
+        "total": 65.7
+    }
+]

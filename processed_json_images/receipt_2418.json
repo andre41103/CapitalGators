@@ -1,0 +1,56 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Nando's Chickenland Malaysia\nSdn Bhd",
+        "transaction_date": "2018-03-28",
+        "items": [
+            {
+                "description": "DELIVERY CHG",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 4.0
+            },
+            {
+                "description": "1/4 Chic+1sd-T",
+                "quantity": 4.0,
+                "price": 17.9,
+                "total_price": 71.6
+            },
+            {
+                "description": "1/4-H",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "CharGrill Veg(R)-TC",
+                "quantity": 4.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "1/4 Chic+1sd-T",
+                "quantity": 3.0,
+                "price": 17.9,
+                "total_price": 53.7
+            },
+            {
+                "description": "1/4-M",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": "Coleslaw(R)-TC",
+                "quantity": 3.0,
+                "price": null,
+                "total_price": null
+            }
+        ],
+        "subtotal": 129.3,
+        "tax": null,
+        "tip": null,
+        "total": 129.3
+    }
+]

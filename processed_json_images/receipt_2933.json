@@ -1,0 +1,80 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "YHM Aeon Tebrau City",
+        "transaction_date": "2018-04-17",
+        "items": [
+            {
+                "description": "Green Tea",
+                "quantity": 2.0,
+                "price": 1.5,
+                "total_price": 3.0
+            },
+            {
+                "description": "Chikuwa Tempura",
+                "quantity": 1.0,
+                "price": 3.8,
+                "total_price": 3.8
+            },
+            {
+                "description": "Karaage",
+                "quantity": 1.0,
+                "price": 3.8,
+                "total_price": 3.8
+            },
+            {
+                "description": "Otm Spicy Yakiniku Bowl R",
+                "quantity": 1.0,
+                "price": 16.8,
+                "total_price": 16.8
+            },
+            {
+                "description": "Otm Spicy Teri Chicken Bowl R",
+                "quantity": 1.0,
+                "price": 16.8,
+                "total_price": 16.8
+            },
+            {
+                "description": "Otm Tori Katsu Set",
+                "quantity": 1.0,
+                "price": 18.8,
+                "total_price": 18.8
+            },
+            {
+                "description": "Katsu Sauce",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "Miso Soup",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "Otm Tori Katsu Set",
+                "quantity": 1.0,
+                "price": 18.8,
+                "total_price": 18.8
+            },
+            {
+                "description": "Taru Taru Sauce",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            },
+            {
+                "description": "Wakame Soup",
+                "quantity": 1.0,
+                "price": 0.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 81.8,
+        "tax": 4.62,
+        "tip": null,
+        "total": 81.8
+    }
+]

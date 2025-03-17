@@ -1,0 +1,68 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AEON CO. (M) BHD",
+        "transaction_date": "2018-06-03",
+        "items": [
+            {
+                "description": "I/BERG LETTUCE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 3.2
+            },
+            {
+                "description": "DRIED FIGS",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 17.92
+            },
+            {
+                "description": "US RED GLOBE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 10.3
+            },
+            {
+                "description": "LE ORGANIC SOYB",
+                "quantity": null,
+                "price": null,
+                "total_price": 6.5
+            },
+            {
+                "description": "LE ORGANIC SOYB",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 6.5
+            },
+            {
+                "description": "HOLLAND POTATO",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 0.6
+            },
+            {
+                "description": "CF TWIN PACK RA",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 16.5
+            },
+            {
+                "description": "TOPVALU",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.96
+            },
+            {
+                "description": "TOPVALU TOILET",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 8.96
+            }
+        ],
+        "subtotal": 79.44,
+        "tax": 0.0,
+        "tip": null,
+        "total": 79.45
+    }
+]

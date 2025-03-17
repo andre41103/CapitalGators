@@ -1,0 +1,32 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "MR. D.I.Y. (M) SDN BHD",
+        "transaction_date": "2018-03-24",
+        "items": [
+            {
+                "description": "WHITE CABLE TIE 4*200MM(8')\nUB52 - 20/250",
+                "quantity": 1.0,
+                "price": 3.9,
+                "total_price": 3.9
+            },
+            {
+                "description": "WHITE CABLE TIE 5*250\nUH32 - 10/150",
+                "quantity": 1.0,
+                "price": 6.5,
+                "total_price": 6.5
+            },
+            {
+                "description": "HOSE PUMP C88351#\nKE23-33-53 - 12/120",
+                "quantity": 1.0,
+                "price": 1.9,
+                "total_price": 1.9
+            }
+        ],
+        "subtotal": null,
+        "tax": 0.7,
+        "tip": null,
+        "total": 12.3
+    }
+]

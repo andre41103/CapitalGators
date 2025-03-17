@@ -1,0 +1,26 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "HAPPY SNACKS ENTERPRISE",
+        "transaction_date": "2018-03-20",
+        "items": [
+            {
+                "description": "*350PCS FRUIT PLUS - APPLE",
+                "quantity": 1.0,
+                "price": 14.31,
+                "total_price": 14.31
+            },
+            {
+                "description": "300PCS LOT100 CANDY - ASSORTED",
+                "quantity": 1.0,
+                "price": 12.51,
+                "total_price": 12.51
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 26.8
+    }
+]

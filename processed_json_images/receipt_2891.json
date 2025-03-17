@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Worf Catering",
+        "transaction_date": "2017-01-19",
+        "items": [
+            {
+                "description": "[MAP]KISMIS 500GM",
+                "quantity": 2.0,
+                "price": 9.9,
+                "total_price": 19.8
+            }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tip": null,
+        "total": 19.8
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "TONY ROMA'S AEON TEBRAU CITY",
+        "transaction_date": "2018-03-03",
+        "items": [
+            {
+                "description": "NY STRIP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 67.67
+            },
+            {
+                "description": "NY STRIP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 67.67
+            },
+            {
+                "description": "NY STRIP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 67.67
+            },
+            {
+                "description": "ICE LATTE",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.35
+            },
+            {
+                "description": "7UP",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.35
+            },
+            {
+                "description": "PEPSI",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": 9.35
+            }
+        ],
+        "subtotal": 231.06,
+        "tax": null,
+        "tip": null,
+        "total": 269.4
+    }
+]

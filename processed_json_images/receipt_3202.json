@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "AMPHAWA THAI TEA & CO.",
+        "transaction_date": "2018-05-11",
+        "items": [
+            {
+                "description": "THAI MILK TEA - CHA\nYEN",
+                "quantity": 1.0,
+                "price": 8.9,
+                "total_price": 8.9
+            }
+        ],
+        "subtotal": 8.9,
+        "tax": 0.53,
+        "tip": 0.0,
+        "total": 9.45
+    }
+]

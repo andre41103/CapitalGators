@@ -1,0 +1,20 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "Segi Cash & Carry Sdn.Bhd",
+        "transaction_date": "2017-01-05",
+        "items": [
+            {
+                "description": "BUDGET TOILET ROLL 20'S",
+                "quantity": 1.0,
+                "price": 12.61,
+                "total_price": 12.61
+            }
+        ],
+        "subtotal": 12.61,
+        "tax": 0.71,
+        "tip": null,
+        "total": 12.6
+    }
+]

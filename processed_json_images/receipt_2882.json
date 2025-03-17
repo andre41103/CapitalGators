@@ -1,0 +1,50 @@
+[
+    {
+        "receipt_number": 1,
+        "receipt_type": "receipt.retailMeal",
+        "merchant_name": "ELKEN SERVICE SDN BHD",
+        "transaction_date": "2017-10-10",
+        "items": [
+            {
+                "description": "VALUE PACK A - BP SER SR\n-CARBON FILTER - BP SERIES",
+                "quantity": 1.0,
+                "price": 235.85,
+                "total_price": 235.85
+            },
+            {
+                "description": "-SEDIMENT FILTER - BP SERIES",
+                "quantity": 1.0,
+                "price": null,
+                "total_price": null
+            },
+            {
+                "description": null,
+                "quantity": null,
+                "price": 0.0,
+                "total_price": null
+            },
+            {
+                "description": "Zero rate",
+                "quantity": null,
+                "price": null,
+                "total_price": 0.0
+            },
+            {
+                "description": "Standard rate",
+                "quantity": null,
+                "price": 235.85,
+                "total_price": 250.0
+            },
+            {
+                "description": "Relief Supply",
+                "quantity": null,
+                "price": 0.0,
+                "total_price": 0.0
+            }
+        ],
+        "subtotal": 235.85,
+        "tax": 14.15,
+        "tip": null,
+        "total": 250.0
+    }
+]

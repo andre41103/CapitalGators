@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "SUNFISH",
+        "receipt_type": "receipt.retailMeal",
+        "total": 100.0,
+        "date": "2018-01-05",
+        "notes": "",
+        "recurring": false
+    }
+]
