@@ -61,7 +61,6 @@ func GetOneUser(email string) (*User, error) {
 
 	//client disconnects
 	if err != nil {
-
 		fmt.Println("The error is here")
 		panic(err)
 	}
