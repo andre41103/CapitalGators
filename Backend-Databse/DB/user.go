@@ -29,13 +29,29 @@ import (
 
 // This file will define/contain the main actions that can be done with the User schema
 type User struct {
-	Username     string   `json:"username" bson:"username"`
-	Password     string   `json:"password" bson:"password"`
-	Email        string   `json:"email" bson:"email"`
-	Monthincome  int      `json:"monthlyIncome" bson:"monthlyIncome"`
-	Spendinggoal int      `json:"spendingGoal" bson:"spendingGoal"`
-	Categories   []string `json:"selectedCategories" bson:"selectedCategories"`
-	Newstopics   []string `json:"selectedTopics" bson:"selectedTopics"`
+	Username     string    `json:"username" bson:"username"`
+	Password     string    `json:"password" bson:"password"`
+	Email        string    `json:"email" bson:"email"`
+	Monthincome  int       `json:"monthlyIncome" bson:"monthlyIncome"`
+	Spendinggoal int       `json:"spendingGoal" bson:"spendingGoal"`
+	Categories   []string  `json:"selectedCategories" bson:"selectedCategories"`
+	Newstopics   []string  `json:"selectedTopics" bson:"selectedTopics"`
+	UserReceipt  []Receipt `json:"userReceipt,omitempty" bson:"userReceipt,omitempty"` //this can be omitted when user originally created account
+}
+
+// nested Receipt for user
+type Receipt struct {
+	Merchant_name   string  `json:"merchant_name" bson:"merchant_name"`
+	Receipt_type    string  `json:"receipt_type" bson:"receipt_type"`
+	Receipt_details Details `json:"receiptDetails" bson:"receiptDetails"`
+}
+
+// details of receipt
+type Details struct {
+	Total     float64 `json:"total" bson:"total"`
+	Date      string  `json:"date" bson:"date"`
+	Notes     string  `json:"notes,omitempty" bson:"notes,omitempty"`
+	Recurring bool    `json:"recurring" bson:"recurring"`
 }
 
 func getCollection() *mongo.Collection {

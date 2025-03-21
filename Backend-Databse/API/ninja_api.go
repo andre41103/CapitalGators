@@ -1,15 +1,29 @@
 package api
 
 import (
+	"encoding/json"
 	"fmt"
 	"io"
+	"log"
 	"math/rand"
 	"net/http"
 	"time"
 )
 
-// Gets five random stock prices from a fortune 50 company from that day
-func get_StockPrice(symbol string) string {
+// stock struct to be displayed
+type Stock struct {
+	Ticker   string  `json:"ticker"`
+	Name     string  `json:"name"`
+	Price    float64 `json:"price"`
+	Exchange string  `json:"exchange"`
+	Updated  string  `json:"-"`
+	Currency string  `json:"-"`
+}
+
+// Gets stock price
+func get_StockPrice(symbol string) Stock {
+
+	var stock Stock
 
 	api_key := "X3/9bQCfoeiu5Z5uZ6GGMw==w2uDgfJZF0mRL48d"
 	apiURL := fmt.Sprintf("https://api.api-ninjas.com/v1/stockprice?ticker=%s", symbol)
@@ -17,9 +31,7 @@ func get_StockPrice(symbol string) string {
 	req, err := http.NewRequest("GET", apiURL, nil)
 
 	if err != nil {
-
-		fmt.Println("There was error with the request")
-		return ""
+		log.Fatalln("There was error with the request")
 	}
 
 	req.Header.Set("X-Api-Key", api_key)
@@ -30,8 +42,7 @@ func get_StockPrice(symbol string) string {
 	response, err := client.Do(req)
 
 	if err != nil {
-		fmt.Println("there is an error with the client Do method")
-		return ""
+		log.Fatalln("there is an error with the client Do method")
 	}
 
 	defer response.Body.Close() // Ensure response body is closed
@@ -39,18 +50,17 @@ func get_StockPrice(symbol string) string {
 	// Read response body
 	body, err := io.ReadAll(response.Body)
 	if err != nil {
-		fmt.Println("Error reading response:", err)
-		return ""
+		log.Fatalln("Error reading response:", err)
 	}
-
-	fmt.Println("This is the datatype of body")
 
 	// Print response based on status code
 	if response.StatusCode != http.StatusOK {
 		fmt.Println(string(body))
 	}
 
-	return string(body)
+	json.Unmarshal(body, &stock)
+
+	return stock
 }
 
 // there will need to be a function to randomly pick 5 companies
@@ -77,11 +87,11 @@ func rotateTickers() []string {
 }
 
 // display the five Tickers for display on main page:
-func DisplayTickers() []string {
+func DisplayTickers() []Stock {
 
 	tickers := rotateTickers()
 
-	var display []string
+	var display []Stock
 
 	for _, v := range tickers {
 

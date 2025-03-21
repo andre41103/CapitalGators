@@ -29,13 +29,13 @@ func RequestPage() {
 
 			fmt.Println("Error has occcured in parsing")
 
-		} else {
-
-			for key, value := range JsonData {
-
-				fmt.Println("%s is %d years old\n", key, value)
-			}
 		}
+
+		formattedJson, _ := json.MarshalIndent(JsonData, "", " ")
+
+		fmt.Println(string(formattedJson))
+
+		fmt.Println(JsonData["name"])
 
 		//iterate over jsondata, see what's there
 	})
