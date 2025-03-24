@@ -2,12 +2,15 @@ package api
 
 import (
 	"encoding/json"
+	"fmt"
 	"log"
 	"net/http"
 
 	db "github.com/CapitalGators/DB"
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
+
+	pass "github.com/CapitalGators/Hash"
 )
 
 // this is our POST
@@ -67,7 +70,8 @@ func login(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	if user.Password != credentials.Password {
+	//compares hashes
+	if !pass.CheckPassword(user.Password, credentials.Password) {
 		http.Error(w, `{"error": "Invalid email or password"}`, http.StatusUnauthorized)
 		return
 	}
@@ -86,16 +90,26 @@ func createAccount(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
+	//hash password
+	hashPass, err := pass.HashPassword(newUser.Password)
+
+	if err != nil {
+		fmt.Println("Could not hash user password. ", err)
+		return
+	}
+
+	newUser.Password = hashPass //set to new hash
+
 	user, err := db.InsertUser(newUser)
 	if err != nil {
 		http.Error(w, `{"error": "User not found"}`, http.StatusUnauthorized)
 		return
 	}
 
-	if newUser.Email == user.Email {
-		http.Error(w, `{"error": "Email is already in system. Use another email"}`, http.StatusUnauthorized)
-		return
-	}
+	// if newUser.Email == user.Email {
+	// 	http.Error(w, `{"error": "Email is already in system. Use another email"}`, http.StatusUnauthorized)
+	// 	return
+	// }
 
 	json.NewEncoder(w).Encode(user)
 }
