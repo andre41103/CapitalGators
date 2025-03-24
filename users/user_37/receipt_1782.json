@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "CARRABBA'S",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": "2015-11-22",
+        "notes": "",
+        "recurring": false
+    }
+]

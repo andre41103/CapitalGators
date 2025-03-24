@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "LIZZY'S",
+        "receipt_type": "receipt.retailMeal",
+        "total": 12.03,
+        "date": "2014-08-30",
+        "notes": "",
+        "recurring": false
+    }
+]

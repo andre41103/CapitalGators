@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Hobbs Group",
+        "receipt_type": "receipt.retailMeal",
+        "total": 500.29,
+        "date": "2018-02-24",
+        "notes": "",
+        "recurring": false
+    }
+]

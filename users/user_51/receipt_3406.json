@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "myNEWS.com",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": "2018-06-29",
+        "notes": "",
+        "recurring": false
+    }
+]

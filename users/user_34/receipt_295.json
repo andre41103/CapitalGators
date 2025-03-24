@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Stop&Shop",
+        "receipt_type": "receipt.retailMeal",
+        "total": 3.21,
+        "date": "2012-07-16",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "ELKEN SERVICE SDN BHD",
+        "receipt_type": "receipt.retailMeal",
+        "total": 250.0,
+        "date": "2017-10-10",
+        "notes": "",
+        "recurring": false
+    }
+]

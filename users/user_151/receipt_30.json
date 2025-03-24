@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "RINCON MEXICANO",
+        "receipt_type": "receipt.retailMeal",
+        "total": 30.98,
+        "date": "2017-05-09",
+        "notes": "",
+        "recurring": false
+    }
+]

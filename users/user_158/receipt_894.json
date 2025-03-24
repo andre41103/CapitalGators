@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Hamburger Mary's",
+        "receipt_type": "receipt.retailMeal",
+        "total": 22.59,
+        "date": "2016-08-27",
+        "notes": "",
+        "recurring": false
+    }
+]

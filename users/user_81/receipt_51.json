@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "HOLLYWOOD CAFE & SPORTS, BAR",
+        "receipt_type": "receipt.retailMeal",
+        "total": 26.96,
+        "date": "2017-09-08",
+        "notes": "",
+        "recurring": false
+    }
+]

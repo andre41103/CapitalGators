@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "DAIRY QUEEN",
+        "receipt_type": "receipt.retailMeal",
+        "total": 5.07,
+        "date": "2017-04-27",
+        "notes": "",
+        "recurring": false
+    }
+]

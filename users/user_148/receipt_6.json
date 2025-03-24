@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Smoke City Market",
+        "receipt_type": "receipt.retailMeal",
+        "total": 64.43,
+        "date": "2015-06-26",
+        "notes": "",
+        "recurring": false
+    }
+]

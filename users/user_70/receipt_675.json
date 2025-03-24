@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "TESCO",
+        "receipt_type": "receipt.retailMeal",
+        "total": 5.52,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

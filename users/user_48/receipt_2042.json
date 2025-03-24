@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "WOOLWORTHS",
+        "receipt_type": "receipt.retailMeal",
+        "total": 20.0,
+        "date": "2016-02-05",
+        "notes": "",
+        "recurring": false
+    }
+]

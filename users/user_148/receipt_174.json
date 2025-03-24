@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Lalo's Mexican at Navy Pier",
+        "receipt_type": "receipt.retailMeal",
+        "total": 16.56,
+        "date": "2017-08-24",
+        "notes": "",
+        "recurring": false
+    }
+]

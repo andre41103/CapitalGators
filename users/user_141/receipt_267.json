@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "TAQUERIA\nPICO DE GALLO",
+        "receipt_type": "receipt.retailMeal",
+        "total": 6.16,
+        "date": "2007-09-06",
+        "notes": "",
+        "recurring": false
+    }
+]

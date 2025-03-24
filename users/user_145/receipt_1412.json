@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Nelson Ltd",
+        "receipt_type": "receipt",
+        "total": 2804.66,
+        "date": "2012-08-11",
+        "notes": "",
+        "recurring": false
+    }
+]

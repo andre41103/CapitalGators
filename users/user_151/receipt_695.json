@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "San Carlos - Ducky's Car Wash",
+        "receipt_type": "receipt",
+        "total": 90.0,
+        "date": "2018-02-04",
+        "notes": "",
+        "recurring": false
+    }
+]

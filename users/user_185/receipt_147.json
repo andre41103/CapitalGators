@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Rihanna's Caribbean Restaurant",
+        "receipt_type": "receipt.retailMeal",
+        "total": 13.26,
+        "date": "2018-08-12",
+        "notes": "",
+        "recurring": false
+    }
+]

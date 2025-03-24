@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "The Place 2 Be\nyou!",
+        "receipt_type": "receipt.retailMeal",
+        "total": 22.87,
+        "date": "2018-02-17",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Khmer Grill Coffee and Bakery",
+        "receipt_type": "receipt.retailMeal",
+        "total": 30.25,
+        "date": "2016-11-10",
+        "notes": "",
+        "recurring": false
+    }
+]

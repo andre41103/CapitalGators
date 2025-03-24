@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "RESTAURANT JIAWEI\nJIAWEI HOUSE",
+        "receipt_type": "receipt.retailMeal",
+        "total": 27.0,
+        "date": "2018-05-11",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "ST.MARC CAFE",
+        "receipt_type": "receipt.retailMeal",
+        "total": 20.8,
+        "date": "2014-01-20",
+        "notes": "",
+        "recurring": false
+    }
+]

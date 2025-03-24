@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Duncan and Sons",
+        "receipt_type": "receipt.retailMeal",
+        "total": 16691.02,
+        "date": "2020-01-16",
+        "notes": "",
+        "recurring": false
+    }
+]

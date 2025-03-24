@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Marton's The Steakhouss",
+        "receipt_type": "receipt.retailMeal",
+        "total": 244.58,
+        "date": "2014-09-09",
+        "notes": "",
+        "recurring": false
+    }
+]

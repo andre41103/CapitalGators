@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "BIG JO'S",
+        "receipt_type": "receipt.retailMeal",
+        "total": 56.5,
+        "date": "2018-01-25",
+        "notes": "",
+        "recurring": false
+    }
+]

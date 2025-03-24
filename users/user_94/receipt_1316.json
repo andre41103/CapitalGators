@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Clark and Sons",
+        "receipt_type": "receipt.retailMeal",
+        "total": 549.98,
+        "date": "2021-01-17",
+        "notes": "",
+        "recurring": false
+    }
+]

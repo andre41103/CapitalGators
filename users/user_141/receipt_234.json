@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "T.G.I. FRIDAY 'S",
+        "receipt_type": "receipt.retailMeal",
+        "total": 8.44,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

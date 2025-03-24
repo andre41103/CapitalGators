@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Dream Arts",
+        "receipt_type": "receipt.retailMeal",
+        "total": 15.0,
+        "date": "2018-03-29",
+        "notes": "",
+        "recurring": false
+    }
+]

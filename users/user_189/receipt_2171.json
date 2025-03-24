@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Burton Inc",
+        "receipt_type": "receipt",
+        "total": 1095.56,
+        "date": "2012-03-05",
+        "notes": "",
+        "recurring": false
+    }
+]

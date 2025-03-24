@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "MEAT MARKET",
+        "receipt_type": "receipt.retailMeal",
+        "total": 7.29,
+        "date": "2015-11-08",
+        "notes": "",
+        "recurring": false
+    }
+]

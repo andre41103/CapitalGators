@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Buckley's on Queen Anne",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": "2018-01-20",
+        "notes": "",
+        "recurring": false
+    }
+]

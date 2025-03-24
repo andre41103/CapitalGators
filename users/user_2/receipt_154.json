@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Gordon Ramsay Steak",
+        "receipt_type": "receipt.retailMeal",
+        "total": 313.49,
+        "date": "2014-10-21",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Arthurs",
+        "receipt_type": "receipt.retailMeal",
+        "total": 84.78,
+        "date": "2017-10-01",
+        "notes": "",
+        "recurring": false
+    }
+]

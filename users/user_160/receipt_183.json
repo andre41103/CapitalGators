@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Finnegan's",
+        "receipt_type": "receipt.retailMeal",
+        "total": 50.8,
+        "date": "2017-08-21",
+        "notes": "",
+        "recurring": false
+    }
+]

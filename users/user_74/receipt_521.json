@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "DOWNSTAIRS",
+        "receipt_type": "receipt",
+        "total": 30.99,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

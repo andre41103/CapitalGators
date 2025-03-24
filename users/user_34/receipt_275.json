@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "LOREM SHOP",
+        "receipt_type": "receipt",
+        "total": 34.5,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

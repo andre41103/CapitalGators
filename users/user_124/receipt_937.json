@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Roy and Sons",
+        "receipt_type": "receipt",
+        "total": 148.19,
+        "date": "2013-05-01",
+        "notes": "",
+        "recurring": false
+    }
+]

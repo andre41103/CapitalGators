@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Adams and Sons",
+        "receipt_type": "receipt.retailMeal",
+        "total": 228.68,
+        "date": "2016-03-18",
+        "notes": "",
+        "recurring": false
+    }
+]

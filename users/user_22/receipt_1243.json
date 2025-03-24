@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Sam's Club",
+        "receipt_type": "receipt.gas",
+        "total": 50.01,
+        "date": "2013-02-06",
+        "notes": "",
+        "recurring": false
+    }
+]

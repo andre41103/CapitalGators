@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Restaurant\nPORTONOVO",
+        "receipt_type": "receipt.retailMeal",
+        "total": 120.12,
+        "date": "2018-07-14",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "First watch",
+        "receipt_type": "receipt.retailMeal",
+        "total": 10.16,
+        "date": "2017-10-15",
+        "notes": "",
+        "recurring": false
+    }
+]

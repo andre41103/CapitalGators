@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Cub",
+        "receipt_type": "receipt.retailMeal",
+        "total": 28.64,
+        "date": "2013-04-09",
+        "notes": "",
+        "recurring": false
+    }
+]

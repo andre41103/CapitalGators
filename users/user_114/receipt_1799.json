@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "ALDI",
+        "receipt_type": "receipt.retailMeal",
+        "total": 25.14,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

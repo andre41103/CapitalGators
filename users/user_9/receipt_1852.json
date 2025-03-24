@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Foodtown",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": "2015-11-28",
+        "notes": "",
+        "recurring": false
+    }
+]

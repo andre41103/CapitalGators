@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "saras",
+        "receipt_type": "receipt.retailMeal",
+        "total": 1455.2,
+        "date": "2017-11-11",
+        "notes": "",
+        "recurring": false
+    }
+]

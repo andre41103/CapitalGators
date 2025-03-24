@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Le Wazawan Medieval Restaurant",
+        "receipt_type": "receipt.retailMeal",
+        "total": 45.0,
+        "date": "2018-09-29",
+        "notes": "",
+        "recurring": false
+    }
+]

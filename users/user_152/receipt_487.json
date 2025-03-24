@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Walmart",
+        "receipt_type": "receipt.retailMeal",
+        "total": 69.11,
+        "date": "2014-11-17",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "McDonald's Boat Quay",
+        "receipt_type": "receipt.retailMeal",
+        "total": 8.5,
+        "date": "2012-11-15",
+        "notes": "",
+        "recurring": false
+    }
+]

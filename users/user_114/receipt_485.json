@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "WESTMINSTER CO-OP",
+        "receipt_type": "receipt.retailMeal",
+        "total": 15.05,
+        "date": "1998-07-29",
+        "notes": "",
+        "recurring": false
+    }
+]

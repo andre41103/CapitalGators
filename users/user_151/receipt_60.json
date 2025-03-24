@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "LANDFALL RESTAURANT",
+        "receipt_type": "receipt.retailMeal",
+        "total": 7.55,
+        "date": "2017-06-10",
+        "notes": "",
+        "recurring": false
+    }
+]

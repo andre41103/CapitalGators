@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "DENNY'S GUAM",
+        "receipt_type": "receipt.retailMeal",
+        "total": 14.87,
+        "date": "2015-10-17",
+        "notes": "",
+        "recurring": false
+    }
+]

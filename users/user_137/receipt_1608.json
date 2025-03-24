@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Harris Ltd",
+        "receipt_type": "receipt",
+        "total": 675.46,
+        "date": "2018-05-25",
+        "notes": "",
+        "recurring": false
+    }
+]

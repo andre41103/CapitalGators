@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Yogurtland",
+        "receipt_type": "receipt.retailMeal",
+        "total": 17.8,
+        "date": "2018-09-07",
+        "notes": "",
+        "recurring": false
+    }
+]

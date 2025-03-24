@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Harvard Gardens",
+        "receipt_type": "receipt.retailMeal",
+        "total": 70.97,
+        "date": "2018-04-07",
+        "notes": "",
+        "recurring": false
+    }
+]

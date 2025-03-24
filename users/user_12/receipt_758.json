@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "KFC OLDBURY",
+        "receipt_type": "receipt.retailMeal",
+        "total": 3.79,
+        "date": "2015-06-18",
+        "notes": "",
+        "recurring": false
+    }
+]

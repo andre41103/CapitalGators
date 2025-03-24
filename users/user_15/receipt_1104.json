@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "GREY GOOSE BAR",
+        "receipt_type": "receipt.retailMeal",
+        "total": 201150.0,
+        "date": "2017-11-29",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Marche Restaurants",
+        "receipt_type": "receipt.retailMeal",
+        "total": 2.55,
+        "date": "2009-12-09",
+        "notes": "",
+        "recurring": false
+    }
+]

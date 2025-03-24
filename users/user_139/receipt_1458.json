@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Tran LLC",
+        "receipt_type": "receipt.retailMeal",
+        "total": 10305.77,
+        "date": "2020-07-30",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Johnson Group",
+        "receipt_type": "receipt.retailMeal",
+        "total": 53078.96,
+        "date": "2013-01-02",
+        "notes": "",
+        "recurring": false
+    }
+]

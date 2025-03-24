@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "SIPOTLE",
+        "receipt_type": "receipt.retailMeal",
+        "total": 15.62,
+        "date": "2014-10-11",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "MIKE SHOPPING MALL CO.,LTD.",
+        "receipt_type": "receipt.retailMeal",
+        "total": 30.0,
+        "date": "2016-09-16",
+        "notes": "",
+        "recurring": false
+    }
+]

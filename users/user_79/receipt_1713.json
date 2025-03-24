@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "OFFICE DEPOT",
+        "receipt_type": "receipt.retailMeal",
+        "total": 320.99,
+        "date": "2011-07-28",
+        "notes": "",
+        "recurring": false
+    }
+]

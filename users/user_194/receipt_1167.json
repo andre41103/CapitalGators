@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "GORDON RAMSAY",
+        "receipt_type": "receipt.retailMeal",
+        "total": 24.5,
+        "date": "2013-04-24",
+        "notes": "",
+        "recurring": false
+    }
+]

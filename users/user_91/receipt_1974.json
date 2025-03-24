@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "CARREFOUR",
+        "receipt_type": "receipt.retailMeal",
+        "total": 28.02,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

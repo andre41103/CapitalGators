@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "GRANDMA HOMES RESTAURANT",
+        "receipt_type": "receipt.retailMeal",
+        "total": 473.3,
+        "date": "2018-06-13",
+        "notes": "",
+        "recurring": false
+    }
+]

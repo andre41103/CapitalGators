@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Mr. M's Hot Wings & Things Inc",
+        "receipt_type": "receipt.retailMeal",
+        "total": 10.95,
+        "date": "2019-06-28",
+        "notes": "",
+        "recurring": false
+    }
+]

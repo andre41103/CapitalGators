@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "sweetgreen.com",
+        "receipt_type": "receipt.retailMeal",
+        "total": 13.75,
+        "date": "2015-05-19",
+        "notes": "",
+        "recurring": false
+    }
+]

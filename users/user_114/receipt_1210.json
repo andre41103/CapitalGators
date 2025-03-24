@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Mitcheldean Garage",
+        "receipt_type": "receipt.parking",
+        "total": 15.25,
+        "date": "2015-06-13",
+        "notes": "",
+        "recurring": false
+    }
+]

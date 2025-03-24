@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Rexall",
+        "receipt_type": "receipt.retailMeal",
+        "total": 4.65,
+        "date": "2018-06-07",
+        "notes": "",
+        "recurring": false
+    }
+]

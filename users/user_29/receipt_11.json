@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Chef Wang",
+        "receipt_type": "receipt.retailMeal",
+        "total": 35.52,
+        "date": "2019-02-02",
+        "notes": "",
+        "recurring": false
+    }
+]

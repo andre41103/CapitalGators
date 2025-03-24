@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Facci",
+        "receipt_type": "receipt.retailMeal",
+        "total": 100.0,
+        "date": "2014-04-20",
+        "notes": "",
+        "recurring": false
+    }
+]

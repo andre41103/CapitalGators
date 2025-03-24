@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "PIZZA PINO",
+        "receipt_type": "receipt.retailMeal",
+        "total": 43.5,
+        "date": "2016-06-25",
+        "notes": "",
+        "recurring": false
+    }
+]

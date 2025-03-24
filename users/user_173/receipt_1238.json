@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Williamson and Sons",
+        "receipt_type": "receipt",
+        "total": 9.88,
+        "date": "2017-01-31",
+        "notes": "",
+        "recurring": false
+    }
+]

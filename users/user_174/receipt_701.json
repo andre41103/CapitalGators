@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Smith's",
+        "receipt_type": "receipt.retailMeal",
+        "total": 5.03,
+        "date": "2016-10-06",
+        "notes": "",
+        "recurring": false
+    }
+]

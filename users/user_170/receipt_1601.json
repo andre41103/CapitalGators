@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Nicholson and Sons",
+        "receipt_type": "receipt.retailMeal",
+        "total": 507.47,
+        "date": "2020-05-30",
+        "notes": "",
+        "recurring": false
+    }
+]

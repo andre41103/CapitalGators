@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Arizona Five Palms",
+        "receipt_type": "receipt.retailMeal",
+        "total": 94.43,
+        "date": "2017-03-24",
+        "notes": "",
+        "recurring": false
+    }
+]

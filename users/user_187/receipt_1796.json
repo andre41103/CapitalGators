@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "JOANN",
+        "receipt_type": "receipt.retailMeal",
+        "total": 8.68,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

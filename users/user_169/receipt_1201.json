@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "STARBUCKS",
+        "receipt_type": "receipt.retailMeal",
+        "total": 13.77,
+        "date": "2017-01-30",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "McDonald's Restaurant",
+        "receipt_type": "receipt.retailMeal",
+        "total": 1.1,
+        "date": "2018-03-30",
+        "notes": "",
+        "recurring": false
+    }
+]

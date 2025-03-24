@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Coleman Inc",
+        "receipt_type": "receipt",
+        "total": 640.15,
+        "date": "2013-08-03",
+        "notes": "",
+        "recurring": false
+    }
+]

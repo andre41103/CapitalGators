@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Greene Ltd",
+        "receipt_type": "receipt",
+        "total": 2345.76,
+        "date": "2020-11-03",
+        "notes": "",
+        "recurring": false
+    }
+]

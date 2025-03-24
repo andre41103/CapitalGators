@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "BOULEVARD",
+        "receipt_type": "receipt.retailMeal",
+        "total": 249.32,
+        "date": "2006-02-15",
+        "notes": "",
+        "recurring": false
+    }
+]

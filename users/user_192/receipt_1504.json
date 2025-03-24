@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Hutchinson PLC",
+        "receipt_type": "receipt.retailMeal",
+        "total": 551.54,
+        "date": "2015-05-01",
+        "notes": "",
+        "recurring": false
+    }
+]

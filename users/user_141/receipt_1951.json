@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "GameStop",
+        "receipt_type": "receipt",
+        "total": 0.0,
+        "date": "2016-05-25",
+        "notes": "",
+        "recurring": false
+    }
+]

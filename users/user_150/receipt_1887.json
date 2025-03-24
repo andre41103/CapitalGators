@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "POPPIES",
+        "receipt_type": "receipt.retailMeal",
+        "total": 22.0,
+        "date": "2016-07-31",
+        "notes": "",
+        "recurring": false
+    }
+]

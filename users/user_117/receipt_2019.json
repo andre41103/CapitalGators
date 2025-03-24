@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Cracker Barrel",
+        "receipt_type": "receipt.retailMeal",
+        "total": 17.16,
+        "date": "2015-07-12",
+        "notes": "",
+        "recurring": false
+    }
+]

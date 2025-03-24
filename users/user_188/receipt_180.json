@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "FourthStreetMill",
+        "receipt_type": "receipt.retailMeal",
+        "total": 54.2,
+        "date": "2018-09-29",
+        "notes": "",
+        "recurring": false
+    }
+]

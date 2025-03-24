@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "LIMONI's",
+        "receipt_type": "receipt.retailMeal",
+        "total": 25.8,
+        "date": "2016-07-26",
+        "notes": "",
+        "recurring": false
+    }
+]

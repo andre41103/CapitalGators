@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Nando's 101 City Mall",
+        "receipt_type": "receipt.retailMeal",
+        "total": 64.15,
+        "date": "2015-05-17",
+        "notes": "",
+        "recurring": false
+    }
+]

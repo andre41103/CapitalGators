@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Carl's Jr",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": "2015-09-29",
+        "notes": "",
+        "recurring": false
+    }
+]

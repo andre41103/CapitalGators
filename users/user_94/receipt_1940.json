@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Hippopotamus Restauration S.L.",
+        "receipt_type": "receipt.retailMeal",
+        "total": 39.5,
+        "date": "2018-01-15",
+        "notes": "",
+        "recurring": false
+    }
+]

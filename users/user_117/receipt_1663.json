@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Chick-fil-a",
+        "receipt_type": "receipt.retailMeal",
+        "total": 12.18,
+        "date": "2012-11-05",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Lan Sheng",
+        "receipt_type": "receipt.retailMeal",
+        "total": 75.15,
+        "date": "2017-06-13",
+        "notes": "",
+        "recurring": false
+    }
+]

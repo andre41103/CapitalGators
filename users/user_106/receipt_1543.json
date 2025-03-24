@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Jones Inc",
+        "receipt_type": "receipt.retailMeal",
+        "total": 13986.35,
+        "date": "2015-01-18",
+        "notes": "",
+        "recurring": false
+    }
+]

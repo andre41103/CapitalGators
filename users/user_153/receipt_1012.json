@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Restaurant Ethan",
+        "receipt_type": "receipt.retailMeal",
+        "total": 67.17,
+        "date": "2015-08-23",
+        "notes": "",
+        "recurring": false
+    }
+]

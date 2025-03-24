@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Fairview",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

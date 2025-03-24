@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "MY HAPPY PHARMACY PLT",
+        "receipt_type": "receipt",
+        "total": 20.5,
+        "date": "2018-02-01",
+        "notes": "",
+        "recurring": false
+    }
+]

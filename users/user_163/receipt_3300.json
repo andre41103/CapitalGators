@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Esjay Fuel Enterprise",
+        "receipt_type": "receipt.gas",
+        "total": 50.0,
+        "date": "2018-06-30",
+        "notes": "",
+        "recurring": false
+    }
+]

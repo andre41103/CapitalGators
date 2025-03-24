@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Shell",
+        "receipt_type": "receipt.gas",
+        "total": 0.35,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

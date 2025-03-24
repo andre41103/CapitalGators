@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "KABUKI",
+        "receipt_type": "receipt.retailMeal",
+        "total": 82.2,
+        "date": "2016-08-01",
+        "notes": "",
+        "recurring": false
+    }
+]

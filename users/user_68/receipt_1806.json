@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Kikusan Landmark",
+        "receipt_type": "receipt.retailMeal",
+        "total": 200.0,
+        "date": "2016-10-27",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Bar Louie Huntsville!",
+        "receipt_type": "receipt.retailMeal",
+        "total": 7.56,
+        "date": "2015-07-03",
+        "notes": "",
+        "recurring": false
+    }
+]

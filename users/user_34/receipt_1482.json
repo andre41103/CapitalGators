@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Brown and Sons",
+        "receipt_type": "receipt",
+        "total": 4675.0,
+        "date": "2013-10-15",
+        "notes": "",
+        "recurring": false
+    }
+]

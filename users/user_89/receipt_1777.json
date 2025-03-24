@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Hong Kong Supermarket (Elmhurst)",
+        "receipt_type": "receipt.retailMeal",
+        "total": 7.76,
+        "date": "2009-02-21",
+        "notes": "",
+        "recurring": false
+    }
+]

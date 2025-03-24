@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Brown-Harris",
+        "receipt_type": "receipt.retailMeal",
+        "total": 182.23,
+        "date": "2018-07-08",
+        "notes": "",
+        "recurring": false
+    }
+]

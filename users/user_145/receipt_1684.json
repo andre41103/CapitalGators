@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "CREAMSTONE CONCEPTS",
+        "receipt_type": "receipt.retailMeal",
+        "total": 500.0,
+        "date": "2016-08-05",
+        "notes": "",
+        "recurring": false
+    }
+]

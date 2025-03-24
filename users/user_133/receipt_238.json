@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "CAFE MATISSE",
+        "receipt_type": "receipt.retailMeal",
+        "total": 170.78,
+        "date": "2013-05-11",
+        "notes": "",
+        "recurring": false
+    }
+]

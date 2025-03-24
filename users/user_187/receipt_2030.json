@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Pizza Hut",
+        "receipt_type": "receipt.retailMeal",
+        "total": 23.24,
+        "date": "2009-10-15",
+        "notes": "",
+        "recurring": false
+    }
+]

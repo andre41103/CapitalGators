@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Crystal Palace",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

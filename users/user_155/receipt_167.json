@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Pappadeaux Seafood Kitchen",
+        "receipt_type": "receipt.retailMeal",
+        "total": 42.16,
+        "date": "2017-01-07",
+        "notes": "",
+        "recurring": false
+    }
+]

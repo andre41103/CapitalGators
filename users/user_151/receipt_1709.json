@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "LIDL",
+        "receipt_type": "receipt.retailMeal",
+        "total": 21.45,
+        "date": "2012-03-03",
+        "notes": "",
+        "recurring": false
+    }
+]

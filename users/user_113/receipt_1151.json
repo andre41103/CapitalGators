@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "La Parrilla",
+        "receipt_type": "receipt.retailMeal",
+        "total": 59.34,
+        "date": "2017-04-03",
+        "notes": "",
+        "recurring": false
+    }
+]

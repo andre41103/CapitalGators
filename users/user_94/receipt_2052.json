@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "FIVE GUYS",
+        "receipt_type": "receipt.retailMeal",
+        "total": 11.95,
+        "date": "2017-03-07",
+        "notes": "",
+        "recurring": false
+    }
+]

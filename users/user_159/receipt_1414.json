@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Martin Group",
+        "receipt_type": "receipt.retailMeal",
+        "total": 40.69,
+        "date": "2015-02-24",
+        "notes": "",
+        "recurring": false
+    }
+]

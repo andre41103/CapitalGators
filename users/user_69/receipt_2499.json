@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "POPULAR BOOK",
+        "receipt_type": "receipt.retailMeal",
+        "total": 21.0,
+        "date": "2018-01-12",
+        "notes": "",
+        "recurring": false
+    }
+]

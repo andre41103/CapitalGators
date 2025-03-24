@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "JAVA HOUSE CAFE",
+        "receipt_type": "receipt.retailMeal",
+        "total": 3.5,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

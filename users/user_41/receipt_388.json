@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "THAI TUK TUK RESTAURANT",
+        "receipt_type": "receipt.retailMeal",
+        "total": 69.7,
+        "date": "2016-08-23",
+        "notes": "",
+        "recurring": false
+    }
+]

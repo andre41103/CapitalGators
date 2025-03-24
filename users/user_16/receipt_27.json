@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "CHRIS'S HAMBURGERS",
+        "receipt_type": "receipt.retailMeal",
+        "total": 51.82,
+        "date": "2018-07-22",
+        "notes": "",
+        "recurring": false
+    }
+]

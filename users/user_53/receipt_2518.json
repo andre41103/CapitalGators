@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "KOH SENG HARDWARE",
+        "receipt_type": "receipt.retailMeal",
+        "total": 5.3,
+        "date": "2018-02-01",
+        "notes": "",
+        "recurring": false
+    }
+]

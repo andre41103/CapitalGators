@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "QuikTrip",
+        "receipt_type": "receipt.gas",
+        "total": 21.9,
+        "date": "2015-12-21",
+        "notes": "",
+        "recurring": false
+    }
+]

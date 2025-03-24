@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Mexican Restaurant & Bar",
+        "receipt_type": "receipt.retailMeal",
+        "total": 64.52,
+        "date": "2017-12-29",
+        "notes": "",
+        "recurring": false
+    }
+]

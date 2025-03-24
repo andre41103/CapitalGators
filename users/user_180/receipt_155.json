@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Via Mar Restaurant",
+        "receipt_type": "receipt.retailMeal",
+        "total": 73.24,
+        "date": "2018-09-06",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Nando's Gurney Plaza",
+        "receipt_type": "receipt.retailMeal",
+        "total": 45.11,
+        "date": "2015-12-25",
+        "notes": "",
+        "recurring": false
+    }
+]

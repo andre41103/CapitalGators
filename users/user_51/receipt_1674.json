@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "The Golden Spoon",
+        "receipt_type": "receipt.retailMeal",
+        "total": 7.2,
+        "date": "2008-08-27",
+        "notes": "",
+        "recurring": false
+    }
+]

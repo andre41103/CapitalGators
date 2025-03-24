@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Petco",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": "2016-06-18",
+        "notes": "",
+        "recurring": false
+    }
+]

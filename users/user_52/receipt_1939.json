@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Luna Grill Oxnard",
+        "receipt_type": "receipt.retailMeal",
+        "total": 19.38,
+        "date": "2017-03-07",
+        "notes": "",
+        "recurring": false
+    }
+]

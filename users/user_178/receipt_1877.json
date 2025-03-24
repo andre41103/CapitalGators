@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "MEAT\n& POTATOES",
+        "receipt_type": "receipt.retailMeal",
+        "total": 201.16,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

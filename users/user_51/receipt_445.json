@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "SteakHouse District",
+        "receipt_type": "receipt.retailMeal",
+        "total": 60.7,
+        "date": "2016-11-19",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "GetGo",
+        "receipt_type": "receipt.gas",
+        "total": null,
+        "date": "2014-12-14",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "au bon pain",
+        "receipt_type": "receipt.retailMeal",
+        "total": 20.6,
+        "date": "2016-08-23",
+        "notes": "",
+        "recurring": false
+    }
+]

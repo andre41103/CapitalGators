@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Smith LLC",
+        "receipt_type": "receipt",
+        "total": 285.95,
+        "date": "2012-03-09",
+        "notes": "",
+        "recurring": false
+    }
+]

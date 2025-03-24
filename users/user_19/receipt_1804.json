@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "THE BODY SHOP",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

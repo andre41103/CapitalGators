@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "JALISCO",
+        "receipt_type": "receipt.retailMeal",
+        "total": 10.0,
+        "date": "2019-05-19",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "La Maree",
+        "receipt_type": "receipt.retailMeal",
+        "total": 137.45,
+        "date": "2015-07-20",
+        "notes": "",
+        "recurring": false
+    }
+]

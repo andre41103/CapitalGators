@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Yam Fresh",
+        "receipt_type": "receipt.retailMeal",
+        "total": 10.5,
+        "date": "2016-07-31",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Sakae Sushi",
+        "receipt_type": "receipt.retailMeal",
+        "total": 93.24,
+        "date": "2013-05-01",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Coleman Inc",
+        "receipt_type": "receipt.retailMeal",
+        "total": 21151.66,
+        "date": "2018-06-13",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "CIUD",
+        "receipt_type": "receipt.retailMeal",
+        "total": 49.45,
+        "date": "2015-12-16",
+        "notes": "",
+        "recurring": false
+    }
+]

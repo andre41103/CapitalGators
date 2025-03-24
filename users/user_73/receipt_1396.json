@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Sanchez Inc",
+        "receipt_type": "receipt.retailMeal",
+        "total": 130.84,
+        "date": "2014-09-06",
+        "notes": "",
+        "recurring": false
+    }
+]

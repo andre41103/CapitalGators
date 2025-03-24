@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Koh Grill&Sushi Bar",
+        "receipt_type": "receipt.retailMeal",
+        "total": 190.05,
+        "date": "2015-02-24",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Hanson PLC",
+        "receipt_type": "receipt.retailMeal",
+        "total": 35572.0,
+        "date": "2012-03-03",
+        "notes": "",
+        "recurring": false
+    }
+]

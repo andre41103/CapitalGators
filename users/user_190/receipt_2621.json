@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "HAPPY SNACKS ENTERPRISE",
+        "receipt_type": "receipt.retailMeal",
+        "total": 26.8,
+        "date": "2018-03-20",
+        "notes": "",
+        "recurring": false
+    }
+]

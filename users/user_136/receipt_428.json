@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Hussar Grill Willowbr",
+        "receipt_type": "receipt.retailMeal",
+        "total": 816.0,
+        "date": "2018-03-11",
+        "notes": "",
+        "recurring": false
+    }
+]

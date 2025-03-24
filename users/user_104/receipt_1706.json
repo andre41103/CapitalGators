@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "P.F. Chang & Chips Bistro.",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": "2015-10-01",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Panera Bread",
+        "receipt_type": "receipt.retailMeal",
+        "total": 16.63,
+        "date": "2017-04-08",
+        "notes": "",
+        "recurring": false
+    }
+]

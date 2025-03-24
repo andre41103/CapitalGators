@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Taco Time - Kenmore",
+        "receipt_type": "receipt.retailMeal",
+        "total": 6.59,
+        "date": "2018-04-24",
+        "notes": "",
+        "recurring": false
+    }
+]

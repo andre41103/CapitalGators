@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Applebee's",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": "2015-04-15",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "SANTA FE MEXICAN",
+        "receipt_type": "receipt.retailMeal",
+        "total": 99.83,
+        "date": "2016-07-24",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "BEIJING EXPRESS",
+        "receipt_type": "receipt.retailMeal",
+        "total": 10.23,
+        "date": "2017-02-18",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Firehouse Pizza & Pub",
+        "receipt_type": "receipt.retailMeal",
+        "total": 25.76,
+        "date": "2013-06-03",
+        "notes": "",
+        "recurring": false
+    }
+]

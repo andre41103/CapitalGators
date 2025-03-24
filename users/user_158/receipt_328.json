@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "La Banca",
+        "receipt_type": "receipt.retailMeal",
+        "total": 77.5,
+        "date": "2009-06-30",
+        "notes": "",
+        "recurring": false
+    }
+]

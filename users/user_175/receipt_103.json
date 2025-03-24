@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "OM INDIAN FOOD",
+        "receipt_type": "receipt.retailMeal",
+        "total": 16.24,
+        "date": "2016-04-15",
+        "notes": "",
+        "recurring": false
+    }
+]

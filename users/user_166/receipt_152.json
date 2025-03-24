@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Collector's Choice Restaurant",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": "2019-04-10",
+        "notes": "",
+        "recurring": false
+    }
+]

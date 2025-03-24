@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Charles, Black and Vasquez",
+        "receipt_type": "receipt.retailMeal",
+        "total": 117.7,
+        "date": "2012-08-28",
+        "notes": "",
+        "recurring": false
+    }
+]

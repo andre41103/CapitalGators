@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Trattoria Saporito",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": "2018-07-01",
+        "notes": "",
+        "recurring": false
+    }
+]

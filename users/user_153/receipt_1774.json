@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "PUENT",
+        "receipt_type": "receipt.retailMeal",
+        "total": 10.0,
+        "date": "2015-02-14",
+        "notes": "",
+        "recurring": false
+    }
+]

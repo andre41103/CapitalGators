@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "La Aventura",
+        "receipt_type": "receipt.retailMeal",
+        "total": 24.8,
+        "date": "2017-09-06",
+        "notes": "",
+        "recurring": false
+    }
+]

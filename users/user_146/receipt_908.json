@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Macy's",
+        "receipt_type": "receipt.retailMeal",
+        "total": 5.84,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

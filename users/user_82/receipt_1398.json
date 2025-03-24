@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Carney-Rogers",
+        "receipt_type": "receipt.retailMeal",
+        "total": 195.31,
+        "date": "2017-10-07",
+        "notes": "",
+        "recurring": false
+    }
+]

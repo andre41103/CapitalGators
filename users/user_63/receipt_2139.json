@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "TRADER JOE'S",
+        "receipt_type": "receipt.retailMeal",
+        "total": 22.35,
+        "date": "2016-02-03",
+        "notes": "",
+        "recurring": false
+    }
+]

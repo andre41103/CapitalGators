@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Baby Sumo Sushi & Steakhouse",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": "2016-07-23",
+        "notes": "",
+        "recurring": false
+    }
+]

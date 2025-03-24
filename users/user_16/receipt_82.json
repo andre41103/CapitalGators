@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "BRASAS RESTAURANT",
+        "receipt_type": "receipt.retailMeal",
+        "total": 9.97,
+        "date": "2019-03-02",
+        "notes": "",
+        "recurring": false
+    }
+]

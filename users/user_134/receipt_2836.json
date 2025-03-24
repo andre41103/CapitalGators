@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "MEI LET RESTAURANT",
+        "receipt_type": "receipt.retailMeal",
+        "total": 67.85,
+        "date": "2017-01-22",
+        "notes": "",
+        "recurring": false
+    }
+]

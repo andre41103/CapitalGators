@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "HAJI SYED RESTAURANT",
+        "receipt_type": "receipt.retailMeal",
+        "total": 23.9,
+        "date": "2013-01-10",
+        "notes": "",
+        "recurring": false
+    }
+]

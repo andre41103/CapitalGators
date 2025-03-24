@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "AnnAdyA Restaurant & Bar",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": "2017-01-01",
+        "notes": "",
+        "recurring": false
+    }
+]

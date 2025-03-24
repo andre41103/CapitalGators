@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Villaggio Grille",
+        "receipt_type": "receipt.retailMeal",
+        "total": 34.12,
+        "date": "2019-06-08",
+        "notes": "",
+        "recurring": false
+    }
+]

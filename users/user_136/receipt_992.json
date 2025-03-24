@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Med Bistro",
+        "receipt_type": "receipt.retailMeal",
+        "total": 10.69,
+        "date": "2015-06-15",
+        "notes": "",
+        "recurring": false
+    }
+]

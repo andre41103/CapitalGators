@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "The Victoria Falls Hotel",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": "2008-03-23",
+        "notes": "",
+        "recurring": false
+    }
+]

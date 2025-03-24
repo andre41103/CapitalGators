@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "EL CHICO MEXICAN RESTAURANT",
+        "receipt_type": "receipt.retailMeal",
+        "total": 117.0,
+        "date": "2016-11-12",
+        "notes": "",
+        "recurring": false
+    }
+]

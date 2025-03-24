@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "-ELEVEN",
+        "receipt_type": "receipt.gas",
+        "total": 11.5,
+        "date": "2016-09-10",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Absinthe",
+        "receipt_type": "receipt.retailMeal",
+        "total": 431.95,
+        "date": "2012-10-25",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "The Butcher Shop & Grill",
+        "receipt_type": "receipt.retailMeal",
+        "total": 215.0,
+        "date": "2016-12-02",
+        "notes": "",
+        "recurring": false
+    }
+]

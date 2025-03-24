@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Dunkin' Donuts",
+        "receipt_type": "receipt.retailMeal",
+        "total": 3.33,
+        "date": "2013-11-05",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "SAFEWAY",
+        "receipt_type": "receipt.gas",
+        "total": -15.0,
+        "date": "2015-09-26",
+        "notes": "",
+        "recurring": false
+    }
+]

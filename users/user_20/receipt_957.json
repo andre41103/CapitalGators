@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "BEST BUY",
+        "receipt_type": "receipt.retailMeal",
+        "total": 127.77,
+        "date": "2013-11-09",
+        "notes": "",
+        "recurring": false
+    }
+]

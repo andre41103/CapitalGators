@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "WENDY'S REG",
+        "receipt_type": "receipt.retailMeal",
+        "total": 19.5,
+        "date": "2014-07-22",
+        "notes": "",
+        "recurring": false
+    }
+]

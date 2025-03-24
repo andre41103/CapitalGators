@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Goldbergs",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": "2014-03-01",
+        "notes": "",
+        "recurring": false
+    }
+]

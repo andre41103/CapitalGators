@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "IKEA Cheras",
+        "receipt_type": "receipt.retailMeal",
+        "total": 22.0,
+        "date": "2018-04-25",
+        "notes": "",
+        "recurring": false
+    }
+]

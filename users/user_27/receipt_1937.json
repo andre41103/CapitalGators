@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Super\nGrocery",
+        "receipt_type": "receipt.retailMeal",
+        "total": 11.11,
+        "date": "2017-07-16",
+        "notes": "",
+        "recurring": false
+    }
+]

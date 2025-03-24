@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Transmetropolitan",
+        "receipt_type": "receipt.retailMeal",
+        "total": 17.76,
+        "date": "2013-04-30",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Main Street Restaurant",
+        "receipt_type": "receipt.retailMeal",
+        "total": 29.01,
+        "date": "2017-04-07",
+        "notes": "",
+        "recurring": false
+    }
+]

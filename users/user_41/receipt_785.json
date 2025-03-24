@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "TAP",
+        "receipt_type": "receipt.retailMeal",
+        "total": 484.0,
+        "date": "2016-04-06",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Hines Ltd",
+        "receipt_type": "receipt",
+        "total": 373.98,
+        "date": "2016-01-09",
+        "notes": "",
+        "recurring": false
+    }
+]

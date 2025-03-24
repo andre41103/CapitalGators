@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "RESTAURANT CROSTO",
+        "receipt_type": "receipt.retailMeal",
+        "total": 140.24,
+        "date": "2017-09-20",
+        "notes": "",
+        "recurring": false
+    }
+]

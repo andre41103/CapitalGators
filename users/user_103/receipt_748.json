@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Adams-Campbell",
+        "receipt_type": "receipt.retailMeal",
+        "total": 98.58,
+        "date": "2013-12-25",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Solis Group",
+        "receipt_type": "receipt.retailMeal",
+        "total": 23454.63,
+        "date": "2018-05-12",
+        "notes": "",
+        "recurring": false
+    }
+]

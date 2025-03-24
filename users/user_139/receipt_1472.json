@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Cook Group",
+        "receipt_type": "receipt",
+        "total": 60.49,
+        "date": "2020-02-20",
+        "notes": "",
+        "recurring": false
+    }
+]

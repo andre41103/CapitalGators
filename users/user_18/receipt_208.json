@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Jungle Jamboree",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": "2018-03-27",
+        "notes": "",
+        "recurring": false
+    }
+]

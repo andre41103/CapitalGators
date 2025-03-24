@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Walmart\nSupercentre",
+        "receipt_type": "receipt.retailMeal",
+        "total": 89.09,
+        "date": "2017-12-22",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Sushi Boat Town",
+        "receipt_type": "receipt.retailMeal",
+        "total": 35.18,
+        "date": "2014-08-28",
+        "notes": "",
+        "recurring": false
+    }
+]

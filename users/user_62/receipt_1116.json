@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Davis and Sons",
+        "receipt_type": "receipt.retailMeal",
+        "total": 7425.0,
+        "date": "2012-09-17",
+        "notes": "",
+        "recurring": false
+    }
+]

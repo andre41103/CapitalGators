@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Price-Williams",
+        "receipt_type": "receipt.retailMeal",
+        "total": 3762.43,
+        "date": "2020-05-09",
+        "notes": "",
+        "recurring": false
+    }
+]

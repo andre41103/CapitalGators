@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Publix",
+        "receipt_type": "receipt.retailMeal",
+        "total": 43.66,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

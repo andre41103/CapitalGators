@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "99 SPEED MART S/B",
+        "receipt_type": "receipt.retailMeal",
+        "total": 5.35,
+        "date": "2018-03-10",
+        "notes": "",
+        "recurring": false
+    }
+]

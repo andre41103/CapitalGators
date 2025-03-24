@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Coles Supermarkets Australia Pty Ltd",
+        "receipt_type": "receipt.retailMeal",
+        "total": 70.2,
+        "date": "2013-03-18",
+        "notes": "",
+        "recurring": false
+    }
+]

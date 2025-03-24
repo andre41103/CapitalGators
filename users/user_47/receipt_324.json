@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "New York Bagel",
+        "receipt_type": "receipt.retailMeal",
+        "total": 18.44,
+        "date": "2012-09-02",
+        "notes": "",
+        "recurring": false
+    }
+]

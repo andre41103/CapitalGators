@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Arnold, Mercer and Shelton",
+        "receipt_type": "receipt.retailMeal",
+        "total": 87.98,
+        "date": "2017-05-06",
+        "notes": "",
+        "recurring": false
+    }
+]

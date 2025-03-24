@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Albertsons\u00ae",
+        "receipt_type": "receipt.retailMeal",
+        "total": 0.0,
+        "date": "2012-08-08",
+        "notes": "",
+        "recurring": false
+    }
+]

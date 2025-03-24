@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Bernie's Burger Bus",
+        "receipt_type": "receipt.retailMeal",
+        "total": 75.09,
+        "date": "2016-01-12",
+        "notes": "",
+        "recurring": false
+    }
+]

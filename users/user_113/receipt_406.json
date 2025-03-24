@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Ferrara",
+        "receipt_type": "receipt.retailMeal",
+        "total": 24.17,
+        "date": "2015-09-02",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Hotel Indigo East Liberty",
+        "receipt_type": "receipt.retailMeal",
+        "total": 11.03,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

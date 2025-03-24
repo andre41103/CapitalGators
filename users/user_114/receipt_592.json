@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Barnes & Noble Booksellers",
+        "receipt_type": "receipt",
+        "total": 7.58,
+        "date": "2011-12-06",
+        "notes": "",
+        "recurring": false
+    }
+]

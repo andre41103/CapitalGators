@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Circle K/Marathon",
+        "receipt_type": "receipt.gas",
+        "total": 25.0,
+        "date": "2017-02-05",
+        "notes": "",
+        "recurring": false
+    }
+]

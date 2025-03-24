@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "IKEA FOOD",
+        "receipt_type": "receipt.retailMeal",
+        "total": 14.85,
+        "date": "2016-04-06",
+        "notes": "",
+        "recurring": false
+    }
+]

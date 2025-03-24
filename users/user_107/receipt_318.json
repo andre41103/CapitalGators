@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "The co-operative food",
+        "receipt_type": "receipt.retailMeal",
+        "total": 12.62,
+        "date": "2015-05-12",
+        "notes": "",
+        "recurring": false
+    }
+]

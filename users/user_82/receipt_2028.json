@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Maple Leaf Restaurant, Jumeirah",
+        "receipt_type": "receipt.retailMeal",
+        "total": null,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

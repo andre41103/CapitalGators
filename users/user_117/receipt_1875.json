@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "KFC/TB\u00e1",
+        "receipt_type": "receipt.retailMeal",
+        "total": 1.29,
+        "date": "2018-04-12",
+        "notes": "",
+        "recurring": false
+    }
+]

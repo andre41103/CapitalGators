@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "TIP TOP MEATS",
+        "receipt_type": "receipt.retailMeal",
+        "total": 76.59,
+        "date": "2014-06-29",
+        "notes": "",
+        "recurring": false
+    }
+]

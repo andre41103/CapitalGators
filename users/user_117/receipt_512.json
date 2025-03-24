@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Kinton Ramen 5",
+        "receipt_type": "receipt.retailMeal",
+        "total": 45.74,
+        "date": "2003-09-17",
+        "notes": "",
+        "recurring": false
+    }
+]

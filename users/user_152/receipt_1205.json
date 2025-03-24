@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Benson LLC",
+        "receipt_type": "receipt",
+        "total": 10.76,
+        "date": "2012-04-08",
+        "notes": "",
+        "recurring": false
+    }
+]

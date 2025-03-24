@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "*Nando's*",
+        "receipt_type": "receipt.retailMeal",
+        "total": 60.55,
+        "date": "2015-11-10",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "El Meson Mexican Restaurant",
+        "receipt_type": "receipt.retailMeal",
+        "total": 47.7,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Amalfi's\nITALIAN",
+        "receipt_type": "receipt.retailMeal",
+        "total": 24.0,
+        "date": "2011-09-17",
+        "notes": "",
+        "recurring": false
+    }
+]

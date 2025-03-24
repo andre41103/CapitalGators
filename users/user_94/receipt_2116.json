@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "TOMBALL RED ROBIN",
+        "receipt_type": "receipt.retailMeal",
+        "total": 47.34,
+        "date": "2012-08-02",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "PURNIMA RESTAURANT",
+        "receipt_type": "receipt.retailMeal",
+        "total": 64.2,
+        "date": "2014-12-11",
+        "notes": "",
+        "recurring": false
+    }
+]

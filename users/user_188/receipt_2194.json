@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "RESTAURANTE ENRIQUE S",
+        "receipt_type": "receipt.retailMeal",
+        "total": 38.45,
+        "date": "2018-09-18",
+        "notes": "",
+        "recurring": false
+    }
+]

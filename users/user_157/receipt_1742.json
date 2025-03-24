@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Walgreens",
+        "receipt_type": "receipt.retailMeal",
+        "total": 2.21,
+        "date": "2009-03-20",
+        "notes": "",
+        "recurring": false
+    }
+]

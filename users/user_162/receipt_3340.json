@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "McDonald's Mutiara Rini DT",
+        "receipt_type": "receipt.retailMeal",
+        "total": 12.8,
+        "date": "2018-06-24",
+        "notes": "",
+        "recurring": false
+    }
+]

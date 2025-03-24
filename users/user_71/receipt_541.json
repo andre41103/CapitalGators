@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "MACE RESTAURANT",
+        "receipt_type": "receipt.retailMeal",
+        "total": 63.55,
+        "date": "2016-10-01",
+        "notes": "",
+        "recurring": false
+    }
+]

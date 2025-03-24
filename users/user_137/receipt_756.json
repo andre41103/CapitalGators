@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "PUERCO",
+        "receipt_type": "receipt.retailMeal",
+        "total": 1.07,
+        "date": "2014-01-24",
+        "notes": "",
+        "recurring": false
+    }
+]

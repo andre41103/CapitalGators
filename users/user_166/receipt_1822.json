@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "C Thrift Store",
+        "receipt_type": "receipt.retailMeal",
+        "total": 8.58,
+        "date": "2015-09-10",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "RESTAURANT SIN DU",
+        "receipt_type": "receipt.retailMeal",
+        "total": 170.0,
+        "date": "2018-03-09",
+        "notes": "",
+        "recurring": false
+    }
+]

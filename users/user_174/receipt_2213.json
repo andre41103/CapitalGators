@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Smashburger",
+        "receipt_type": "receipt.retailMeal",
+        "total": 14.2,
+        "date": "2015-01-30",
+        "notes": "",
+        "recurring": false
+    }
+]

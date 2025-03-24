@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Henderson, Baker and Johnson",
+        "receipt_type": "receipt.retailMeal",
+        "total": 427.15,
+        "date": "2015-12-27",
+        "notes": "",
+        "recurring": false
+    }
+]

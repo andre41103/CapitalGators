@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "FRANK'S ITALIAN RESTAURAN",
+        "receipt_type": "receipt.retailMeal",
+        "total": 131.4,
+        "date": "2011-11-11",
+        "notes": "",
+        "recurring": false
+    }
+]

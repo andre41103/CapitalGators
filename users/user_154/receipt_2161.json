@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Din Tai Fung Restaurant",
+        "receipt_type": "receipt.retailMeal",
+        "total": 152.0,
+        "date": "2016-06-20",
+        "notes": "",
+        "recurring": false
+    }
+]

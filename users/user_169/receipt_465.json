@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "SIGDI RESTAURANT",
+        "receipt_type": "receipt.retailMeal",
+        "total": 540.0,
+        "date": "2018-02-11",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Worf Catering",
+        "receipt_type": "receipt.retailMeal",
+        "total": 19.8,
+        "date": "2017-01-19",
+        "notes": "",
+        "recurring": false
+    }
+]

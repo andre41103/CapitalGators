@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "MIGALatsar",
+        "receipt_type": "receipt.retailMeal",
+        "total": 29000.0,
+        "date": "2017-10-24",
+        "notes": "",
+        "recurring": false
+    }
+]
