@@ -3,27 +3,15 @@ import './profile.component.css';
 import avatarImage from '../assets/avatar.png';
 
 import { useNavigate } from 'react-router-dom';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 
 const Profile = () => {
   const navigate = useNavigate();
 
   const [isEditing, setIsEditing] = useState(false); // for the edit information button
-  const handleEditInformation = () => {
-    setIsEditing(true);
-  };
-  const handleSavedInfo = () => {
-    setIsEditing(false); 
-  };
+  const [userData, setUserData] = useState({ username: '', password: ' ', email: '', monthlyIncome: '', spendingGoal: '' });
 
-  const handleDashboard = () => {
-    navigate('/dashboard'); 
-  };
-
-  const handleLogin = () => {
-    navigate('/login');
-  }
   const [selectedCategories, setSelectedCategories] = useState([]);
   const [selectedTopics, setSelectedTopics] = useState([]);
   // Same as the create account page which is being edited for update to backend
@@ -56,14 +44,101 @@ const Profile = () => {
       );
   };
 
+
+  useEffect(() => {
+    // display the user name and email
+    const userEmail = localStorage.getItem('userEmail');
+
+    if (userEmail) {
+      fetch(`http://localhost:8080/profile/${userEmail}`)
+      .then(response => response.json())
+      .then(data => {
+        setUserData({
+          username: data.username,
+          email: data.email,
+          monthlyIncome: data.monthlyIncome || 0,
+          spendingGoal: data.spendingGoal || 0,
+        });
+        setSelectedCategories(data.selectedCategories || []);
+        setSelectedTopics(data.selectedTopics || []);
+      })
+
+      .catch(error => console.error("Error fetching user data:", error));
+
+  } else {
+    navigate('/login'); 
+  }
+
+  }, []);
+
+
+
+  const handleEditInformation = () => {
+    setIsEditing(true);
+  };
+
+  const handleSavedInfo = async () => {
+    const userEmail = localStorage.getItem('userEmail');
+    const userPassword = localStorage.getItem('userPassword');
+    const userName = userData.username;
+    console.log("Username: ", userName);
+    console.log("Password: ", userPassword);
+    console.log("Email being fetched: ", userEmail);
+  
+    if (!userEmail) {
+      console.error("Error: userEmail is null or undefined.");
+      return;
+    }
+  
+    try {
+      const response = await fetch(`http://localhost:8080/profile/${userEmail}`, {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          username: userName,
+          password: userPassword,
+          monthlyIncome: Number(userData.monthlyIncome),
+          spendingGoal: Number(userData.spendingGoal),
+          selectedCategories,
+          selectedTopics,
+        }),
+      });
+      console.log("Sending data:", JSON.stringify({
+        username: userName,
+        monthlyIncome: userData.monthlyIncome || 0,
+        spendingGoal: userData.spendingGoal || 0,
+        selectedCategories: selectedCategories || [],
+        selectedTopics: selectedTopics || [],
+      }));
+  
+      if (!response.ok) {
+        throw new Error(`Failed to update profile: ${response.status}`);
+      }
+  
+      setIsEditing(false);
+    } catch (error) {
+      console.error("Error updating profile:", error);
+    }
+  };
+  
+  
+  const handleDashboard = () => {
+    navigate('/dashboard'); 
+  };
+
+  const handleLogin = () => {
+    navigate('/login');
+  }
+  
+
     return (
       <div className="profile-container">
         <button onClick={handleLogin} className='sign-out-button'>Sign out</button>
         <div className='profile-header'>
           <img src={avatarImage} alt="Profile Avatar" className='avatar'/>
           <div className='profile-text-content'>
-           <h1 className='custom-h1-profile'> Hello Name </h1>
-            <h1 className='custom-h1-profile'>Email Address: example@gmail.com </h1>
+           <h1 className='custom-h1-profile'> Hello {userData.username} </h1>
+            <h1 className='custom-h1-profile'>Email Address: {userData.email} </h1>
           
             <button onClick={handleEditInformation} className='edit-information-button-style'>Edit information</button>
           </div>
@@ -72,14 +147,14 @@ const Profile = () => {
         <div className="info-container">
           <div className="form-group">
             <label className="label-profile" htmlFor='monthly income'>What is your monthly income? :</label>
-            <input className="input-profile" type="text" id="monthly income" name="monthly income" placeholder="$" />
+            <input className="input-profile" type="number" id="monthly income" name="monthly income" placeholder="$" value={userData.monthlyIncome} onChange={(e) => setUserData({ ...userData, monthlyIncome: e.target.value })}/>
           </div>
         </div>
 
         <div className="info-container">
           <div className="form-group">
             <label className="label-profile" htmlFor='monthly spending goal'>What is your ideal monthly spending goal? :</label>
-            <input className="input-profile" type="text" id="monthly spending goal" name="monthly spending goal" placeholder="$" />
+            <input className="input-profile" type="number" id="monthly spending goal" name="monthly spending goal" placeholder="$" value={userData.spendingGoal} onChange={(e) => setUserData({ ...userData, spendingGoal: e.target.value })}/>
           </div>
         </div>
 
