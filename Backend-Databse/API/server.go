@@ -6,11 +6,12 @@ import (
 	"log"
 	"net/http"
 
-	db "github.com/CapitalGators/DB"
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 
+	db "github.com/CapitalGators/DB"
 	pass "github.com/CapitalGators/Hash"
+	scrape "github.com/CapitalGators/WebScrape"
 )
 
 // this is our POST
@@ -114,7 +115,7 @@ func createAccount(w http.ResponseWriter, r *http.Request) {
 	json.NewEncoder(w).Encode(user)
 }
 
-// still in progress -> need to test
+// this officially works
 func updateProfile(w http.ResponseWriter, r *http.Request) {
 
 	w.Header().Set("Content-Type", "application/json")
@@ -142,6 +143,21 @@ func updateProfile(w http.ResponseWriter, r *http.Request) {
 	json.NewEncoder(w).Encode(map[string]string{"message": "User successfully updated"})
 }
 
+// get the information from the webscrape -> Credit Cards
+func retrieveCreditCards(w http.ResponseWriter, r *http.Request) {
+
+	w.Header().Set("Content-Type", "application/json ")
+	card := scrape.RequestPage()
+
+	err := json.NewEncoder(w).Encode(card)
+
+	//content could not be displayed
+	if err != nil {
+		http.Error(w, `{"error": "error retreiving credit cards"}`, http.StatusNoContent)
+	}
+
+}
+
 func RunServer() http.Handler {
 
 	//new rouuter
@@ -151,7 +167,7 @@ func RunServer() http.Handler {
 	router.HandleFunc("/create_account", createAccount).Methods("POST")
 	router.HandleFunc("/profile/{email}", read).Methods("GET")
 	router.HandleFunc("/profile/{email}", updateProfile).Methods("PUT")
-	//router.HandleFunc("/login", delete).Methods("DELETE")
+	router.HandleFunc("/resources", retrieveCreditCards).Methods("GET")
 
 	corsHandler := handlers.CORS(
 		handlers.AllowedOrigins([]string{"*"}),
