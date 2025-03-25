@@ -196,6 +196,7 @@ func RunServer() http.Handler {
 	router.HandleFunc("/profile/{email}", read).Methods("GET")
 	router.HandleFunc("/profile/{email}", updateProfile).Methods("PUT")
 	router.HandleFunc("/resources", retrieveCreditCards).Methods("GET")
+	router.HandleFunc("/receipts", uploadReceiptManual).Methods("POST")
 
 	corsHandler := handlers.CORS(
 		handlers.AllowedOrigins([]string{"*"}),
