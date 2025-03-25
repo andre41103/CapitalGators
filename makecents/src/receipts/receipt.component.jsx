@@ -26,32 +26,40 @@ const Receipts = () => {
       notes: notes,
       recurring: recurring,
     };
-
-    console.log('Submitting receipt data:', [receiptData]);
-    setTimeout(() => {
-      console.log('Receipt saved!');
-      resetForm();
-    }, 500);
-
-    // Example POST request to backend (optional for now)
-    /*
-    fetch('/your-backend-endpoint', {
+  
+    console.log('Submitting receipt data:', receiptData);
+  
+    // Get user email (from localStorage or another method)
+    const userEmail = localStorage.getItem('userEmail'); // or from state/context
+  
+    // Send data to backend via POST request
+    fetch(`http://localhost:8080/receipts/${userEmail}`, { // Replace 8080 with your backend's port if different
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify([receiptData]),
+      body: JSON.stringify(receiptData),
     })
-      .then(response => response.json())
+       
+      .then(response => {
+        // Check if the response is OK (status 200-299)
+        if (!response.ok) {
+          throw new Error('Failed to upload receipt');
+        }
+  
+        // Try to parse the response JSON
+        return response.json().catch((err) => {
+          throw new Error('Invalid JSON response');
+        });
+      })
       .then(data => {
         console.log('Success:', data);
-        // Optionally reset form state here
+        resetForm(); // Optionally reset the form after successful submission
       })
       .catch((error) => {
         console.error('Error:', error);
       });
-    */
-  };
+  };  
 
   const resetForm = () => {
     setMerchantName('');
