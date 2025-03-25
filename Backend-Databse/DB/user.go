@@ -101,6 +101,31 @@ func InsertUser(user User) (*User, error) {
 	return &user, nil
 }
 
+func InsertReceipt(email string, receipt ReceiptData) error {
+
+	coll := mongoClient.Database(db).Collection(collName)
+	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	defer cancel()
+
+	identifier := bson.M{"email": email}
+
+	update := bson.M{
+		"$push": bson.M{"userReceipt": receipt},
+	}
+
+	result, err := coll.UpdateOne(ctx, identifier, update)
+
+	if err != nil {
+		return fmt.Errorf("error updating receipt data for user %v", err)
+	}
+
+	if result.MatchedCount == 0 {
+		return fmt.Errorf("no user to update (invalid email) %v", err)
+	}
+
+	return nil
+}
+
 // update user profile
 func UpdateProfile(email string, updateUser User) error {
 

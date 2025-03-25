@@ -115,7 +115,7 @@ func createAccount(w http.ResponseWriter, r *http.Request) {
 	json.NewEncoder(w).Encode(user)
 }
 
-// this officially works
+// update Profile
 func updateProfile(w http.ResponseWriter, r *http.Request) {
 
 	w.Header().Set("Content-Type", "application/json")
@@ -141,6 +141,34 @@ func updateProfile(w http.ResponseWriter, r *http.Request) {
 	}
 
 	json.NewEncoder(w).Encode(map[string]string{"message": "User successfully updated"})
+}
+
+// upload receipt worked
+func uploadReceiptManual(w http.ResponseWriter, r *http.Request) {
+
+	w.Header().Set("Content-Type", "application/json")
+
+	var receipt db.ReceiptData
+
+	err := json.NewDecoder(r.Body).Decode(&receipt)
+
+	if err != nil {
+		http.Error(w, `{"error": "Invalid request payload"}`, http.StatusBadRequest)
+		return
+	}
+
+	//get the email from user
+	params := mux.Vars(r)
+	userEmail := params["email"]
+	err = db.InsertReceipt(userEmail, receipt)
+
+	//rewrite error if statement
+	if err != nil {
+		http.Error(w, `{"error": "error uploading receipt"}`, http.StatusUnauthorized)
+		return
+	}
+
+	json.NewEncoder(w).Encode(map[string]string{"message": "User receipt successfully uploaded"})
 }
 
 // get the information from the webscrape -> Credit Cards
