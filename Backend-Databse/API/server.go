@@ -115,7 +115,9 @@ func createAccount(w http.ResponseWriter, r *http.Request) {
 	json.NewEncoder(w).Encode(user)
 }
 
+
 // update Profile
+
 func updateProfile(w http.ResponseWriter, r *http.Request) {
 
 	w.Header().Set("Content-Type", "application/json")
@@ -143,6 +145,7 @@ func updateProfile(w http.ResponseWriter, r *http.Request) {
 
 	json.NewEncoder(w).Encode(map[string]string{"message": "User successfully updated"})
 }
+
 
 // upload receipt worked
 func uploadReceiptManual(w http.ResponseWriter, r *http.Request) {
@@ -198,6 +201,7 @@ func RunServer() http.Handler {
 	router.HandleFunc("/profile/{email}", updateProfile).Methods("PUT")
 	router.HandleFunc("/resources", retrieveCreditCards).Methods("GET")
 	router.HandleFunc("/receipts", uploadReceiptManual).Methods("POST")
+
 
 	corsHandler := handlers.CORS(
 		handlers.AllowedOrigins([]string{"*"}),
