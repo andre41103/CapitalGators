@@ -48,7 +48,7 @@ const Resources = () => {
       <div className="resources-content">
         <div className="vertical-containers">
           <div className='resources-container-wrapper'>
-            <h3 className='container-title'>Basic Spending Categories Info</h3>
+            <h3 className='container-title'>Important Credit Card Information</h3>
           <div className="individual-vertical-container scrollable-container">
             <div className='scroll-content'>
               {cards.length > 0 ? (
