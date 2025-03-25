@@ -1,23 +1,23 @@
 .resource-content {
     position: relative;
     display: flex;
-    align-items: center; 
-    gap: 45px; 
+    align-items: center;
+    gap: 45px;
     flex-direction: column;
     padding-top: 250px;
-    padding-bottom: 40px; 
+    padding-bottom: 40px;
 }
 
 .vertical-containers {
     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items: flex-start;
     gap: 150px;
     margin-top: 50px;
 }
 
 .individual-vertical-container {
-    width: 350px;
+    width: 600px;
     min-height: 550px;
     background-color: #5EC57E;
     padding: 20px;
@@ -25,7 +25,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
     text-align: center;
 }
 
@@ -50,6 +50,65 @@
 .container-title {
     font-size: 1.3em;
     font-weight: bold;
-    margin-bottom: 10px; 
+    margin-bottom: 10px;
     color: #213547;
+}
+
+.scroll-content {
+    line-height: 1.6;
+}
+
+.scrollable-container {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: flex-start;
+    width: 600px;
+    max-height: 600px; 
+    overflow-y: auto;  
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-sizing: border-box; 
+}
+
+.scrollable-container::-webkit-scrollbar {
+    width: 8px;
+}
+
+.scrollable-container::-webkit-scrollbar-thumb {
+    background: #5EC57E;
+    border-radius: 10px;
+}
+
+.scrollable-container::-webkit-scrollbar-thumb:hover {
+    background: #4caf50;
+}
+
+.card-info {
+    border: 1px solid #5EC57E;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin: 10px 0;
+    display: block;
+    width: 102%;  
+    box-sizing: border-box;
+}
+
+.card-info h4 {
+    font-size: 1.2em;
+    color: #213547;
+    margin: 0 0 10px 0;
+}
+
+.card-info p {
+    margin: 5px 0;
+    color: #555;
+}
+
+.card-info h5 {
+    font-weight: bold;
+    margin: 10px 0 5px;
+    color: #5EC57E;
 }
