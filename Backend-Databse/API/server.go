@@ -126,6 +126,7 @@ func updateProfile(w http.ResponseWriter, r *http.Request) {
 
 	if err != nil {
 		http.Error(w, `{"error": "Invalid request payload"}`, http.StatusBadRequest)
+		fmt.Println("Error inn backend: ", err)
 		return
 	}
 
