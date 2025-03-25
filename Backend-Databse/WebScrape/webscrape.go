@@ -9,9 +9,19 @@ import (
 )
 
 type CreditCard struct {
-	AssetPrefix string `json:"assetPrefix"`
-	Props       struct {
+	AssetPrefix           string `json:"assetPrefix"`
+	BuildID               string `json:"buildId"`
+	Gssp                  bool   `json:"gssp"`
+	IsExperimentalCompile bool   `json:"isExperimentalCompile"`
+	IsFallback            bool   `json:"isFallback"`
+	Page                  string `json:"page"`
+	Props                 struct {
+		NSSP      bool `json:"__N_SSP"`
 		PageProps struct {
+			FeatureFlags []struct {
+				Key   string `json:"key"`
+				Value bool   `json:"value"`
+			} `json:"featureFlags"`
 			PageData struct {
 				CategoryPage struct {
 					Collection struct {
