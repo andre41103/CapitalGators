@@ -13,6 +13,7 @@ import (
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 
+	chat "github.com/CapitalGators/Chatbot"
 	db "github.com/CapitalGators/DB"
 	pass "github.com/CapitalGators/Hash"
 	scrape "github.com/CapitalGators/WebScrape"
@@ -160,11 +161,6 @@ func createAccount(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	// if newUser.Email == user.Email {
-	// 	http.Error(w, `{"error": "Email is already in system. Use another email"}`, http.StatusUnauthorized)
-	// 	return
-	// }
-
 	json.NewEncoder(w).Encode(user)
 }
 
@@ -195,6 +191,29 @@ func updateProfile(w http.ResponseWriter, r *http.Request) {
 	}
 
 	json.NewEncoder(w).Encode(map[string]string{"message": "User successfully updated"})
+}
+
+func chatBot(w http.ResponseWriter, r *http.Request) {
+
+	w.Header().Set("Content-Type", "application/json")
+
+	var userinput chat.UserInput
+
+	err := json.NewDecoder(r.Body).Decode(&userinput)
+
+	if err != nil {
+		http.Error(w, `{"error": "Invalid request payload"}`, http.StatusBadRequest)
+		return
+	}
+
+	resp, err := chat.Query(userinput.UserInput)
+
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+
+	json.NewEncoder(w).Encode(map[string]string{"response": resp})
 }
 
 // upload receipt worked
