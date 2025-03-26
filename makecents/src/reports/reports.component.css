@@ -18,8 +18,8 @@
 }
 
 .report-left-box {
-  width: 500px;              
-  height: 150px;        
+  width: 700px;              
+  height: 200px;        
   background-color: #5EC57E;
   padding: 20px;
   border-radius: 10px;
@@ -44,12 +44,19 @@
   margin-top:0px;
 }
 
+.reports-left-side-row-container {
+  display: flex;
+  flex-direction: row;   
+  gap: 15px;             
+  width: 100%;
+  justify-content: center;
+}
 .reports-scrollable-container {
   display: flex;
   flex-direction:column;
   align-items: center;
   justify-content: flex-start;
-  width: 545px;
+  width: 745px;
   height: 250px;        
   overflow-y: auto;  
   border: 1px solid #ccc;
@@ -94,4 +101,42 @@
 .recurring-tag {
   color: #5EC57E;
   font-weight: bold;
+}
+
+.second-report-left-box {
+  width: 198px;              
+  height: 100px;        
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;   
+  text-align: center;
+  border: 4px solid #5EC57E;
+}
+
+.dollar-value {
+  font-size: 2em;
+  font-weight: bold;
+  color: #5EC57E;
+  margin: 0;
+}
+
+.numbers-container-title {
+  font-size: 1.1em;
+  color: #213547;
+  margin: 0;
+}
+.numbers-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;  
+  gap: 5px;
+}
+
+.second-report-left-box:hover {
+  transform: translateY(-5px);
 }

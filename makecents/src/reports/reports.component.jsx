@@ -51,7 +51,26 @@ const Reports = () => {
             <div className='report-left-box'></div>
           </div>
           <div className='reports-container-wrapper'>
-            <div className='report-left-box'></div>
+            <div className='reports-left-side-row-container'>
+              <div className='second-report-left-box'>
+                <div className='numbers-container'>
+                  <h1 className="dollar-value">$4,500</h1>
+                  <p className="numbers-container-title">Budget</p>
+                </div>
+              </div>
+              <div className='second-report-left-box'>
+              <div className='numbers-container'>
+                  <h1 className="dollar-value">$1,500</h1>
+                  <p className="numbers-container-title">Expenses</p>
+                </div>
+              </div>
+              <div className='second-report-left-box'>
+                <div className='numbers-container'>
+                  <h1 className="dollar-value">$3,000</h1>
+                  <p className="numbers-container-title">Remaining Money</p>
+                </div>
+              </div>
+            </div>
           </div>
           <div className='reports-container-wrapper'>
             <h1 className="reports-container-title">Transactions</h1>
