@@ -188,22 +188,6 @@ func retrieveCreditCards(w http.ResponseWriter, r *http.Request) {
 
 }
 
-func getReceipts(w http.ResponseWriter, r *http.Request) {
-	w.Header().Set("Content-Type", "application/json")
-
-	params := mux.Vars(r)
-	email := params["email"]
-
-	user, err := db.GetOneUser(email)
-	if err != nil {
-		http.Error(w, `{"error": "User not found"}`, http.StatusNotFound)
-		return
-	}
-
-	// Return only the userReceipt array
-	json.NewEncoder(w).Encode(user.UserReceipt)
-}
-
 func RunServer() http.Handler {
 
 	//new rouuter
@@ -215,7 +199,6 @@ func RunServer() http.Handler {
 	router.HandleFunc("/profile/{email}", updateProfile).Methods("PUT")
 	router.HandleFunc("/resources", retrieveCreditCards).Methods("GET")
 	router.HandleFunc("/receipts/{email}", uploadReceiptManual).Methods("POST")
-	router.HandleFunc("/reports/{email}", getReceipts).Methods("GET")
 
 	corsHandler := handlers.CORS(
 		handlers.AllowedOrigins([]string{"*"}),
