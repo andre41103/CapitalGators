@@ -55,7 +55,7 @@
 }
 
 .scroll-content {
-    line-height: 1.6;
+    line-height: 1.8; /* more readable*/
 }
 
 .scrollable-container {
@@ -109,6 +109,7 @@
 
 .card-info h5 {
     font-weight: bold;
+    font-size: 1em;
     margin: 10px 0 5px;
     color: #5EC57E;
 }
