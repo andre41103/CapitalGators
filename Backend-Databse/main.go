@@ -9,10 +9,13 @@ import (
 
 	handle "github.com/CapitalGators/API"
 	db "github.com/CapitalGators/DB"
+	scrape "github.com/CapitalGators/WebScrape"
 )
 
 func main() {
 
+	//print the output.txt
+	scrape.RequestPage()
 	//run database and server
 	db.Setup()
 	defer db.Disconnect()
