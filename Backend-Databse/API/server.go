@@ -3,16 +3,37 @@ package api
 import (
 	"encoding/json"
 	"fmt"
+	"io"
 	"log"
 	"net/http"
+	"os"
+	"os/exec"
+	"path/filepath"
 
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 
+	chat "github.com/CapitalGators/Chatbot"
 	db "github.com/CapitalGators/DB"
 	pass "github.com/CapitalGators/Hash"
 	scrape "github.com/CapitalGators/WebScrape"
 )
+
+func changeDirectory(parent, child string) string {
+	//change the file path to inside the ML Scripts folder.
+	newPath := filepath.Join(parent, child)
+
+	err := os.Chdir(newPath)
+
+	if err != nil {
+		fmt.Println("Error changing directory: ", err)
+		return ""
+	}
+
+	dir, _ := os.Getwd()
+
+	return dir
+}
 
 // this is our POST
 func post(w http.ResponseWriter, r *http.Request) {
@@ -35,7 +56,7 @@ func post(w http.ResponseWriter, r *http.Request) {
 }
 
 // this is our GET
-func read(w http.ResponseWriter, r *http.Request) {
+func readEmail(w http.ResponseWriter, r *http.Request) {
 
 	//set header type
 	w.Header().Set("Content-Type", "application/json")
@@ -52,6 +73,39 @@ func read(w http.ResponseWriter, r *http.Request) {
 
 	json.NewEncoder(w).Encode(user)
 
+}
+
+// get the information from the webscrape -> Credit Cards
+func retrieveCreditCards(w http.ResponseWriter, r *http.Request) {
+
+	w.Header().Set("Content-Type", "application/json ")
+	card := scrape.RequestPage()
+
+	err := json.NewEncoder(w).Encode(card)
+
+	//content could not be displayed
+	if err != nil {
+		http.Error(w, `{"error": "error retreiving credit cards"}`, http.StatusNoContent)
+	}
+
+}
+
+// gets the receipts
+func getReceipts(w http.ResponseWriter, r *http.Request) {
+
+	w.Header().Set("Content-Type", "application/json")
+
+	params := mux.Vars(r)
+	email := params["email"]
+
+	user, err := db.GetOneUser(email)
+
+	if err != nil {
+		http.Error(w, `{"error":"User not found"}`, http.StatusNotFound)
+		return
+	}
+
+	json.NewEncoder(w).Encode(user.UserReceipt)
 }
 
 // for login route
@@ -107,11 +161,6 @@ func createAccount(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	// if newUser.Email == user.Email {
-	// 	http.Error(w, `{"error": "Email is already in system. Use another email"}`, http.StatusUnauthorized)
-	// 	return
-	// }
-
 	json.NewEncoder(w).Encode(user)
 }
 
@@ -145,8 +194,31 @@ func updateProfile(w http.ResponseWriter, r *http.Request) {
 	json.NewEncoder(w).Encode(map[string]string{"message": "User successfully updated"})
 }
 
+func chatBot(w http.ResponseWriter, r *http.Request) {
+
+	w.Header().Set("Content-Type", "application/json")
+
+	var userinput chat.UserInput
+
+	err := json.NewDecoder(r.Body).Decode(&userinput)
+
+	if err != nil {
+		http.Error(w, `{"error": "Invalid request payload"}`, http.StatusBadRequest)
+		return
+	}
+
+	resp, err := chat.Query(userinput.UserInput)
+
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+
+	json.NewEncoder(w).Encode(map[string]string{"response": resp})
+}
+
 // upload receipt worked
-func uploadReceiptManual(w http.ResponseWriter, r *http.Request) {
+func uploadReceipt(w http.ResponseWriter, r *http.Request) {
 
 	w.Header().Set("Content-Type", "application/json")
 
@@ -173,18 +245,59 @@ func uploadReceiptManual(w http.ResponseWriter, r *http.Request) {
 	json.NewEncoder(w).Encode(map[string]string{"message": "User receipt successfully uploaded"})
 }
 
-// get the information from the webscrape -> Credit Cards
-func retrieveCreditCards(w http.ResponseWriter, r *http.Request) {
+// The function will get a receipt image and convert to json obj -> This needs to be tested
+func convertReceipt(w http.ResponseWriter, r *http.Request) {
 
-	w.Header().Set("Content-Type", "application/json ")
-	card := scrape.RequestPage()
+	dir := changeDirectory("..", "ML Scripts")
+	fmt.Println(dir)
+	w.Header().Set("Content-Type", "application/json")
 
-	err := json.NewEncoder(w).Encode(card)
+	//get the file from http Request
+	file, _, err := r.FormFile("receipt_upload")
 
-	//content could not be displayed
 	if err != nil {
-		http.Error(w, `{"error": "error retreiving credit cards"}`, http.StatusNoContent)
+		http.Error(w, "Failed to read image", http.StatusBadRequest)
+		return
 	}
+
+	defer file.Close()
+
+	//Save the image
+	imagePath := "uploaded_receipt.jpg"
+
+	output, err := os.Create(imagePath)
+	if err != nil {
+		http.Error(w, "Failed to save the image", http.StatusBadRequest)
+		return
+	}
+	defer output.Close()
+	io.Copy(output, file)
+
+	//execute script
+	scriptPath := dir + "receipt_converter.ipynb"
+	cmd := exec.Command("python3", scriptPath, imagePath)
+
+	out, err := cmd.Output()
+
+	if err != nil {
+		http.Error(w, "Cannot run analysis", http.StatusBadRequest)
+		return
+	}
+
+	//store the json obj
+	var receipt db.ReceiptData
+
+	err = json.Unmarshal(out, &receipt)
+
+	if err != nil {
+		http.Error(w, "cannot unmarshall the image file", http.StatusBadRequest)
+		return
+	}
+
+	dir = changeDirectory("..", "Backend-Databse")
+	fmt.Println(dir)
+
+	json.NewEncoder(w).Encode(receipt)
 
 }
 
@@ -195,10 +308,12 @@ func RunServer() http.Handler {
 
 	router.HandleFunc("/login", login).Methods("POST")
 	router.HandleFunc("/create_account", createAccount).Methods("POST")
-	router.HandleFunc("/profile/{email}", read).Methods("GET")
+	router.HandleFunc("/profile/{email}", readEmail).Methods("GET")
 	router.HandleFunc("/profile/{email}", updateProfile).Methods("PUT")
 	router.HandleFunc("/resources", retrieveCreditCards).Methods("GET")
-	router.HandleFunc("/receipts/{email}", uploadReceiptManual).Methods("POST")
+	router.HandleFunc("/receipts/{email}", uploadReceipt).Methods("POST")
+	router.HandleFunc("/reports/{email}", getReceipts).Methods("GET")
+	router.HandleFunc("/receipts", convertReceipt).Methods("GET")
 
 	corsHandler := handlers.CORS(
 		handlers.AllowedOrigins([]string{"*"}),
