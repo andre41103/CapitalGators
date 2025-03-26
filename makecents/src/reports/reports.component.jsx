@@ -19,8 +19,22 @@ const Reports = () => {
         <img src={avatarImage} alt="Profile" className="avatar-icon" onClick={handleProfile} />
       </div>
 
-      <div className="reports">
-        <h2>Welcome to the Reports Page!</h2>
+      <div className="reports-container">
+        <div className="left-side">
+          <div className='reports-container-wrapper'>
+            <h1 className="reports-container-title">Projected Spending</h1>
+            <div className='report-left-box'></div>
+          </div>
+          <div className='reports-container-wrapper'>
+            <div className='report-left-box'></div>
+          </div>
+          <div className='reports-container-wrapper'>
+            <h1 className="reports-container-title">Transactions</h1>
+            <div className='report-left-box'></div>
+          </div>
+          
+          
+        </div>
       </div></>
     );
   }
