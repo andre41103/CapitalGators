@@ -89,6 +89,24 @@ func retrieveCreditCards(w http.ResponseWriter, r *http.Request) {
 
 }
 
+// gets the receipts
+func getReceipts(w http.ResponseWriter, r *http.Request) {
+
+	w.Header().Set("Content-Type", "application/json")
+
+	params := mux.Vars(r)
+	email := params["email"]
+
+	user, err := db.GetOneUser(email)
+
+	if err != nil {
+		http.Error(w, `{"error":"User not found"}`, http.StatusNotFound)
+		return
+	}
+
+	json.NewEncoder(w).Encode(user.UserReceipt)
+}
+
 // for login route
 func login(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json")
@@ -259,7 +277,7 @@ func convertReceipt(w http.ResponseWriter, r *http.Request) {
 	dir = changeDirectory("..", "Backend-Databse")
 	fmt.Println(dir)
 
-	//json.NewEncoder(w).Encode(receipt)
+	json.NewEncoder(w).Encode(receipt)
 
 }
 
@@ -274,6 +292,7 @@ func RunServer() http.Handler {
 	router.HandleFunc("/profile/{email}", updateProfile).Methods("PUT")
 	router.HandleFunc("/resources", retrieveCreditCards).Methods("GET")
 	router.HandleFunc("/receipts/{email}", uploadReceipt).Methods("POST")
+	router.HandleFunc("/reports/{email}", getReceipts).Methods("GET")
 	router.HandleFunc("/receipts", convertReceipt).Methods("GET")
 
 	corsHandler := handlers.CORS(
