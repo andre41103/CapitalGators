@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Fresh Foods",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 4.86,
         "date": "2014-03-18",
         "notes": "",

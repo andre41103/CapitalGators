@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Harrison-Harris",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 7876.78,
         "date": "2017-01-07",
         "notes": "",

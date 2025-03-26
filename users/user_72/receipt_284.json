@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "La Cabana",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 34.13,
         "date": "2017-06-06",
         "notes": "",

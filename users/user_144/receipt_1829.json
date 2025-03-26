@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "TESCO",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 17.76,
         "date": "2011-08-23",
         "notes": "",

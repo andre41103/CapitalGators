@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "BLEND CAFE",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 60.48,
         "date": "2016-02-06",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "El Valle",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 17.75,
         "date": "2017-12-02",
         "notes": "",

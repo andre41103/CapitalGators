@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "BEST BUY",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 50.84,
         "date": "2014-07-25",
         "notes": "",

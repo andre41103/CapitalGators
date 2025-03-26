@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Haas and Sons",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 12973.88,
         "date": "2013-12-08",
         "notes": "",

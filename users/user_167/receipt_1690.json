@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "The Rose Club",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 71000.6,
         "date": "2011-12-08",
         "notes": "",

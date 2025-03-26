@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "CHEVRON MD27",
-        "receipt_type": "receipt.gas",
+        "receipt_type": "Transportation",
         "total": 3.35,
         "date": "2008-09-11",
         "notes": "",

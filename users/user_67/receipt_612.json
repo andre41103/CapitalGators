@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "IKEA Helsingborg",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 2216.0,
         "date": null,
         "notes": "",

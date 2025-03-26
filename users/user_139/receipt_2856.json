@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "TIMES BOOKSTORES",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 12.37,
         "date": "2017-04-23",
         "notes": "",

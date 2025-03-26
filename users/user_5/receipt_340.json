@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Bistecca\nRestaurant Pte Ltd",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 514.35,
         "date": "2012-10-21",
         "notes": "",

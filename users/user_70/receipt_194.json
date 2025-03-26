@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Marie Callender's Restaurant",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 19.19,
         "date": "2014-11-30",
         "notes": "",

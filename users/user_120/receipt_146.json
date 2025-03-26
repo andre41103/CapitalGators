@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "MIGUELS MEXICAN",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 65.14,
         "date": "2012-12-26",
         "notes": "",

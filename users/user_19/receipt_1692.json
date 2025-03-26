@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Tucker Inc",
-        "receipt_type": "receipt",
+        "receipt_type": "Transportation",
         "total": 63.69,
         "date": "2021-02-10",
         "notes": "",

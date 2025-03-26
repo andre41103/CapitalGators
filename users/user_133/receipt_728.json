@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Tails in the City",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 49.68,
         "date": "2017-04-12",
         "notes": "",

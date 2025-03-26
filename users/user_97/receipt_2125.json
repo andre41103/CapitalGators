@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "SNAPPY MOBIL",
-        "receipt_type": "receipt.gas",
+        "receipt_type": "Transportation",
         "total": 37.01,
         "date": "2015-06-07",
         "notes": "",

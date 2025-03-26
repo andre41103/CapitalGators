@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Sakae Sushi",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 93.24,
         "date": "2013-05-01",
         "notes": "",

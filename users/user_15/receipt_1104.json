@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "GREY GOOSE BAR",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 201150.0,
         "date": "2017-11-29",
         "notes": "",

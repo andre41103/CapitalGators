@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Nobu Malibu",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 294.3,
         "date": "2015-05-11",
         "notes": "",

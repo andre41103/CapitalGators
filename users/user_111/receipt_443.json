@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Gap -",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 97.33,
         "date": "2012-08-14",
         "notes": "",

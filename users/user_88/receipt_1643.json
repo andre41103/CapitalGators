@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "NIKE Factory Store",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 31.94,
         "date": null,
         "notes": "",

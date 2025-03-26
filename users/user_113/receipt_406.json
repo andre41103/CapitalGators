@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Ferrara",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 24.17,
         "date": "2015-09-02",
         "notes": "",

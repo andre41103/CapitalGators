@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "SONIC BURGER",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 6.46,
         "date": null,
         "notes": "",

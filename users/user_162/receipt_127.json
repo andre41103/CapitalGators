@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "SAGE\nFRENCH CAFE & WINE BAR",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 39.18,
         "date": "2015-06-02",
         "notes": "",

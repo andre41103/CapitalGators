@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "BERRY'S CAKE HOUSE",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 11.25,
         "date": "2018-04-18",
         "notes": "",

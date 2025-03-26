@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "WHOLE\nFOODS\u00ae",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 22.45,
         "date": null,
         "notes": "",

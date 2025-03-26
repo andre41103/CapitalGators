@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "GOLDEN CHOPSTICKS",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 26.5,
         "date": "2010-07-12",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Riley-Miller",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 120.51,
         "date": "2013-07-12",
         "notes": "",

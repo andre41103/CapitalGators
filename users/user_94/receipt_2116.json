@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "TOMBALL RED ROBIN",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 47.34,
         "date": "2012-08-02",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "COPPO",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 73.25,
         "date": null,
         "notes": "",

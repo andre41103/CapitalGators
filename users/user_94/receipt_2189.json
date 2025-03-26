@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Kung Fu Tea",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 11.65,
         "date": "2015-08-02",
         "notes": "",

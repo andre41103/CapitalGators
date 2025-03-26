@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "BEYOND BROTHERS HARDWARE",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 599.45,
         "date": "2018-03-14",
         "notes": "",

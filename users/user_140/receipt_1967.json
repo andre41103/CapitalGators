@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Panda Express",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 54.73,
         "date": "2014-06-25",
         "notes": "",

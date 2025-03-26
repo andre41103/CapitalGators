@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Thai Thai Restaurant",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 58.37,
         "date": "2017-08-27",
         "notes": "",

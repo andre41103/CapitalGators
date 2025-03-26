@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "FUEL KING SERVICE CENTER",
-        "receipt_type": "receipt.gas",
+        "receipt_type": "Transportation",
         "total": 937.76,
         "date": "2017-06-03",
         "notes": "",

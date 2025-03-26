@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Kenara Dion",
-        "receipt_type": "receipt.parking",
+        "receipt_type": "Transportation",
         "total": 5.0,
         "date": "2018-05-28",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "The Peanut Shop of Savannah",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 53.31,
         "date": "2014-02-27",
         "notes": "",

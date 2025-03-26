@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Shell",
-        "receipt_type": "receipt.gas",
+        "receipt_type": "Transportation",
         "total": 0.35,
         "date": null,
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Wagner-Weaver",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 23844.07,
         "date": "2020-09-28",
         "notes": "",

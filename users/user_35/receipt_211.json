@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "CARNATIC CAFE",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 1039.0,
         "date": "2014-02-27",
         "notes": "",

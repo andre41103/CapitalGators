@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "The co-operative food",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 12.62,
         "date": "2015-05-12",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Sushi Garden Restaurant",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 27.3,
         "date": "2015-08-06",
         "notes": "",

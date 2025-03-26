@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "KOHL'S",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": -108.85,
         "date": "2017-11-13",
         "notes": "",

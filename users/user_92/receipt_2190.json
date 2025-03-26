@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Cavendish & Ross",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 139.05,
         "date": "2016-03-04",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "COMPTOIR DU LOUVRE",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 20.8,
         "date": "2017-01-18",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Cracker Barrel",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 13.06,
         "date": "2014-01-15",
         "notes": "",

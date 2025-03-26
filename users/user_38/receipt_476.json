@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "TAQUERIA GUADALAJARA",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 9.45,
         "date": "2016-08-21",
         "notes": "",

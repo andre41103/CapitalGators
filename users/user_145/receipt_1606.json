@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Phillips-Barnes",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 165.94,
         "date": "2017-09-02",
         "notes": "",

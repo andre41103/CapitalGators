@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Yoder Inc",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 3729.94,
         "date": "2021-04-03",
         "notes": "",

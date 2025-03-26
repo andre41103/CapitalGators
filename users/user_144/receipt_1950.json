@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "DALUCA RESTAURANT",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 125.94,
         "date": null,
         "notes": "",

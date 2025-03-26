@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Spiral Diner & Bakery",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 50.38,
         "date": "2019-06-16",
         "notes": "",

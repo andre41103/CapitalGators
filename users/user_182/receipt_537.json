@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Jackson-Martinez",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 75.61,
         "date": "2019-06-07",
         "notes": "",

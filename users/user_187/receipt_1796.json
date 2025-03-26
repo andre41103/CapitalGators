@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "JOANN",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 8.68,
         "date": null,
         "notes": "",

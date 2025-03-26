@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Asia Bay",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 65.66,
         "date": "2012-12-09",
         "notes": "",

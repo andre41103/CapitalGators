@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "The UPS Store",
-        "receipt_type": "receipt",
+        "receipt_type": "Transportation",
         "total": null,
         "date": "2015-12-28",
         "notes": "",

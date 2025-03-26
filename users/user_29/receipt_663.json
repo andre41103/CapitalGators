@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "THYME",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 60.13,
         "date": "2017-07-22",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "NOODLE HOUSE",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 383.0,
         "date": "2016-10-23",
         "notes": "",

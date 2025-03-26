@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "California Pizza Kitchen",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 17.0,
         "date": "2018-04-21",
         "notes": "",

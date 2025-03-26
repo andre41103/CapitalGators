@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "HEMA RESTO",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 224400.0,
         "date": "2015-09-21",
         "notes": "",

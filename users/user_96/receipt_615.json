@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Hess and Sons",
-        "receipt_type": "receipt",
+        "receipt_type": "Transportation",
         "total": 1627.96,
         "date": "2014-08-11",
         "notes": "",

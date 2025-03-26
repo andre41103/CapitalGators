@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "BIG JO'S",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 56.5,
         "date": "2018-01-25",
         "notes": "",

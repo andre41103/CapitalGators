@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Diaz Ltd",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 397.51,
         "date": "2019-08-11",
         "notes": "",

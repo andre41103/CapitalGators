@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "QuikTrip",
-        "receipt_type": "receipt.gas",
+        "receipt_type": "Transportation",
         "total": 21.9,
         "date": "2015-12-21",
         "notes": "",

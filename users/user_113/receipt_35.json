@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Source",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 17.0,
         "date": "2015-06-02",
         "notes": "",

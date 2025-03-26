@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "MODERN DEPOT SDN BHD",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 150.0,
         "date": "2016-12-04",
         "notes": "",

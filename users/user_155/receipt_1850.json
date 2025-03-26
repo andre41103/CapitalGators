@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "WALMART",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 15.64,
         "date": "2008-02-10",
         "notes": "",

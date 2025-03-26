@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "SHOPPERS",
-        "receipt_type": "receipt",
+        "receipt_type": "Transportation",
         "total": 65.28,
         "date": "2017-03-10",
         "notes": "",

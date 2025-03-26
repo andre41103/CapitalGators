@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Esjay Fuel Enterprise",
-        "receipt_type": "receipt.gas",
+        "receipt_type": "Transportation",
         "total": 50.0,
         "date": "2018-06-30",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "NIQues",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 83.03,
         "date": "2016-11-14",
         "notes": "",

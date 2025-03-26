@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "YUM'S RESTAURANT",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 22.03,
         "date": "2018-06-24",
         "notes": "",

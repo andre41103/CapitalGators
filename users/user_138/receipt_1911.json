@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Austin Bergstrom\nInternational Airport",
-        "receipt_type": "receipt.parking",
+        "receipt_type": "Transportation",
         "total": 252.0,
         "date": "2016-10-25",
         "notes": "",

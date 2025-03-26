@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "H-4\nR-1-2",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 900.84,
         "date": "2017-09-20",
         "notes": "",

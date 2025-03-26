@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Subway#2457-0",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 5.39,
         "date": "2016-03-21",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Alamo Hand Car Wash",
-        "receipt_type": "receipt",
+        "receipt_type": "Transportation",
         "total": 8.99,
         "date": "2014-09-29",
         "notes": "",

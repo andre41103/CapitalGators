@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "McDonald's Boat Quay",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 8.5,
         "date": "2012-11-15",
         "notes": "",

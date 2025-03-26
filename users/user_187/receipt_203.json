@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Murray-Parsons",
-        "receipt_type": "receipt",
+        "receipt_type": "Transportation",
         "total": 6004.31,
         "date": "2019-07-03",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "TRADER JOE'S",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 99.82,
         "date": null,
         "notes": "",

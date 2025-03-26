@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "BERNSTEIN'S\nDELI",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 7.35,
         "date": "2003-05-16",
         "notes": "",

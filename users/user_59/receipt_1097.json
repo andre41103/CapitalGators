@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "LA FOGATA",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 27.14,
         "date": "2014-03-22",
         "notes": "",

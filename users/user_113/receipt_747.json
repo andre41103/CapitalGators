@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Movenpick JLT",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 500.0,
         "date": null,
         "notes": "",

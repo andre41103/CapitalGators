@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "LITTLE CAESARS\nPIZZA",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 14.04,
         "date": "2015-09-18",
         "notes": "",

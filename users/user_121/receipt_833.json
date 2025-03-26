@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "First watch",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 10.16,
         "date": "2017-10-15",
         "notes": "",

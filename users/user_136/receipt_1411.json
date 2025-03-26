@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Holt-Snow",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 5322.08,
         "date": "2014-11-27",
         "notes": "",

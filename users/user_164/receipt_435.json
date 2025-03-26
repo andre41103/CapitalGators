@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "MPH BOORTTORES\nSDN BHD",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 100.2,
         "date": null,
         "notes": "",

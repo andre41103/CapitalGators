@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "BRASAS RESTAURANT",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 9.97,
         "date": "2019-03-02",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Restaurant Ethan",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 67.17,
         "date": "2015-08-23",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Chili's",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 38.48,
         "date": "2011-04-14",
         "notes": "",

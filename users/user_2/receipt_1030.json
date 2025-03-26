@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "DIONYSUS MANSION",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 105.0,
         "date": "2016-07-26",
         "notes": "",

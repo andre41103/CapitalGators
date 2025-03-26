@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "HMS\nHOST",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 11.98,
         "date": null,
         "notes": "",

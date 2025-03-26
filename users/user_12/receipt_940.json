@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "UNO",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 34.02,
         "date": null,
         "notes": "",

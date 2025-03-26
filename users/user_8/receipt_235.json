@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "RETRO JUNCTION",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 37.79,
         "date": null,
         "notes": "",

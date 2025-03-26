@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "SmokeBoxBBQ",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 14.36,
         "date": "2014-05-22",
         "notes": "",

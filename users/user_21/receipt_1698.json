@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Jesus",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 13.57,
         "date": "2011-08-01",
         "notes": "",

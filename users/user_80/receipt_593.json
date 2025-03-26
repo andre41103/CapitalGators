@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Watson LLC",
-        "receipt_type": "receipt",
+        "receipt_type": "Transportation",
         "total": 1182.5,
         "date": "2011-10-26",
         "notes": "",

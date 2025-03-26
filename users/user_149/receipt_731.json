@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "KFC GOSIER DRIVE",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 7.0,
         "date": "2015-11-25",
         "notes": "",

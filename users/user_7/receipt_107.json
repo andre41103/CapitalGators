@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Lan Sheng",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 75.15,
         "date": "2017-06-13",
         "notes": "",

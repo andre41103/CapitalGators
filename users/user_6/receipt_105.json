@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Don Juan Mexican Restaurant",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 56.38,
         "date": "2013-11-06",
         "notes": "",

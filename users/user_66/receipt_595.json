@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "SONIC",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 12.82,
         "date": "2015-12-04",
         "notes": "",

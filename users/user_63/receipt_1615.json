@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "The Tower Bar",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 61.32,
         "date": null,
         "notes": "",

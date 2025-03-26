@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": null,
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Uncategorized",
         "total": 80.0,
         "date": "2018-12-15",
         "notes": "",

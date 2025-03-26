@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "SHAKE SHACK",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 25.47,
         "date": "2015-03-03",
         "notes": "",

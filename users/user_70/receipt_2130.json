@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "MORRISONS",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 2.68,
         "date": null,
         "notes": "",

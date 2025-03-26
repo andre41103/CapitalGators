@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "$9 SPEED MART S/D (519537.X)",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 141.5,
         "date": "2018-02-05",
         "notes": "",

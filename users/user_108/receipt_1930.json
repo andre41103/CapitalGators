@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "heesecake\nThe\nFactory.",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 57.14,
         "date": null,
         "notes": "",

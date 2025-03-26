@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "in the box",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": null,
         "date": "2016-10-31",
         "notes": "",

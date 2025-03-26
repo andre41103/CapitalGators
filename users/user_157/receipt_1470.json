@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Lewis Group",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 2521.04,
         "date": "2013-11-15",
         "notes": "",

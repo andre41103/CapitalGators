@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "BB",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 15.61,
         "date": null,
         "notes": "",

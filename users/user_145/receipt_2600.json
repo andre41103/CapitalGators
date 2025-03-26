@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "RESTORAN WAN SHENG",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 9.6,
         "date": "2018-03-17",
         "notes": "",

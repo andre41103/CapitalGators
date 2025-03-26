@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Dunkin' Donuts",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 3.33,
         "date": "2013-11-05",
         "notes": "",

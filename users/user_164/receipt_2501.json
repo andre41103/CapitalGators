@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "WAHIN HARDWARE SDN BHD",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 42.4,
         "date": "2017-12-04",
         "notes": "",

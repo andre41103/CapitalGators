@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Pacheco-Booker",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 3640.86,
         "date": "2016-02-08",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "SAKAE",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 33.0,
         "date": "2016-08-25",
         "notes": "",

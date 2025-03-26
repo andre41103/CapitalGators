@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Anderson Group",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 4007.31,
         "date": "2014-02-06",
         "notes": "",

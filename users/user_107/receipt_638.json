@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "TARGET",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 44.76,
         "date": "2014-01-25",
         "notes": "",

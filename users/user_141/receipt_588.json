@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "RED COW",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 37.39,
         "date": "2016-06-04",
         "notes": "",

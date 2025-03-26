@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Dollar Tree",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 15.5,
         "date": "2011-05-07",
         "notes": "",

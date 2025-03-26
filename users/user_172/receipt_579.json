@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Circle K",
-        "receipt_type": "receipt.gas",
+        "receipt_type": "Transportation",
         "total": 26.56,
         "date": "2016-12-20",
         "notes": "",

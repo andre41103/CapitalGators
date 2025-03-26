@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "CHEMNE PLAZA",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 95.51,
         "date": null,
         "notes": "",

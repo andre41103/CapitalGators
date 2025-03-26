@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "ITSILRESTAURANT",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 254.0,
         "date": "2016-03-31",
         "notes": "",

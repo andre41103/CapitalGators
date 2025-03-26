@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "*Nando's*",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 60.55,
         "date": "2015-11-10",
         "notes": "",

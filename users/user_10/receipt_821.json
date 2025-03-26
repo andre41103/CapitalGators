@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "CASINO SUPERMARCHE",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 17.29,
         "date": null,
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "PJ'S PET EXPRESS",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 5.64,
         "date": "2016-02-08",
         "notes": "",

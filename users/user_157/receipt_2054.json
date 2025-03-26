@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "CAFFE' TORINO",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 45.0,
         "date": "2018-10-07",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Spencer-Potter",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 434.42,
         "date": "2019-07-21",
         "notes": "",

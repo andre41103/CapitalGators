@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "H&M",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 109.9,
         "date": "2018-08-12",
         "notes": "",

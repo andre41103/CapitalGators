@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "LAX - Terminal 2",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 40.0,
         "date": "2015-07-28",
         "notes": "",

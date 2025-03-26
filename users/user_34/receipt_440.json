@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "TESCO",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": null,
         "date": null,
         "notes": "",

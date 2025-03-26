@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Kroger",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 3.04,
         "date": "2010-06-17",
         "notes": "",

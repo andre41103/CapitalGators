@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "SAFEWAY",
-        "receipt_type": "receipt.gas",
+        "receipt_type": "Transportation",
         "total": -15.0,
         "date": "2015-09-26",
         "notes": "",

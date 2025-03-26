@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "99 SPEED MART",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 2.5,
         "date": "2018-01-24",
         "notes": "",

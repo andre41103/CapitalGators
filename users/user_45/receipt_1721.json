@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Popeyes",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 38.96,
         "date": "2016-11-14",
         "notes": "",

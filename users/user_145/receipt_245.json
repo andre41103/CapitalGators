@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Crest Foods",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 35.47,
         "date": "2009-01-28",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Johnson Group",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 53078.96,
         "date": "2013-01-02",
         "notes": "",

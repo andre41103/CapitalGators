@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Publix",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 41.87,
         "date": null,
         "notes": "",

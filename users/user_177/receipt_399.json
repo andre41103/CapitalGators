@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "MIGROS",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 200.0,
         "date": null,
         "notes": "",

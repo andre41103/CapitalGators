@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Smith-Ross",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 59.0,
         "date": "2019-11-23",
         "notes": "",

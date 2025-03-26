@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "ICUSS",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 141.67,
         "date": null,
         "notes": "",

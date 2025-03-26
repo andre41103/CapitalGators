@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "MobiWeb",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 39.8,
         "date": "2014-09-30",
         "notes": "",

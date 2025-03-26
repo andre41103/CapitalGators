@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Cook LLC",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 18710.63,
         "date": "2017-12-25",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "PIZZA HUT",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 26.76,
         "date": "2018-10-25",
         "notes": "",

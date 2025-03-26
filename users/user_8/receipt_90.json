@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Firepoint Grill",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 142.93,
         "date": "2016-12-07",
         "notes": "",

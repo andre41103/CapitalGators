@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Zen and coffee 28 S/B",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 105.0,
         "date": "2018-03-25",
         "notes": "",

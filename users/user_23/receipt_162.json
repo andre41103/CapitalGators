@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Dominican Restaurant",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 53.23,
         "date": "2018-11-10",
         "notes": "",

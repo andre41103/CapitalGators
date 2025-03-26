@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "McDonald's Restaurant",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 1.1,
         "date": "2018-03-30",
         "notes": "",

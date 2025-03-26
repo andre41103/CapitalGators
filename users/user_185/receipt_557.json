@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Dreamland Aqua Park",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 85.0,
         "date": "2014-04-24",
         "notes": "",

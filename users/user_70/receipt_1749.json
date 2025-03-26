@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "BURGER\nKING",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 10.05,
         "date": null,
         "notes": "",

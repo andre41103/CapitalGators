@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "THE BUFFALO",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 38.36,
         "date": null,
         "notes": "",

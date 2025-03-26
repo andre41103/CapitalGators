@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Wise and Sons",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 201.06,
         "date": "2021-03-24",
         "notes": "",

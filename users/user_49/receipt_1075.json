@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "KABUKI",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 82.2,
         "date": "2016-08-01",
         "notes": "",

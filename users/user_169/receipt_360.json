@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Tran PLC",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 12627.75,
         "date": "2015-09-04",
         "notes": "",

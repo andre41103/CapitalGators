@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "FourthStreetMill",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 54.2,
         "date": "2018-09-29",
         "notes": "",

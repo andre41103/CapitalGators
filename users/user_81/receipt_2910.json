@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "The GeoVenture",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 98.0,
         "date": "2018-04-06",
         "notes": "",

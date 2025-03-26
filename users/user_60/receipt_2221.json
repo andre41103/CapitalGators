@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "COTTON:ON",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 10.7,
         "date": "2017-08-26",
         "notes": "",

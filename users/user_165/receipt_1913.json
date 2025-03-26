@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Wheeler-Dawson",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 403.25,
         "date": "2017-06-14",
         "notes": "",

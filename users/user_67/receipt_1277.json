@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "spirit\nairlines",
-        "receipt_type": "receipt",
+        "receipt_type": "Transportation",
         "total": 200.0,
         "date": "2014-10-25",
         "notes": "",

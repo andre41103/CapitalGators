@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "TTIVE",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": null,
         "date": "2012-09-14",
         "notes": "",

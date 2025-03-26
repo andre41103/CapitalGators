@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Aurum",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 5459.1,
         "date": null,
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Curious Palette",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 112.29,
         "date": "2016-01-16",
         "notes": "",

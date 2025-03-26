@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "The Old Spaghetti Factory",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 17.8,
         "date": "2015-06-01",
         "notes": "",

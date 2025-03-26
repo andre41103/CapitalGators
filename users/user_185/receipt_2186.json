@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "ASTONS\nSPECIALITIES-CT1",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 59.8,
         "date": "2013-03-13",
         "notes": "",

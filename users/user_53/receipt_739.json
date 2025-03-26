@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "ShopRite",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 92.58,
         "date": "2012-08-19",
         "notes": "",

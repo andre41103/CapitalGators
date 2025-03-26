@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Price-Williams",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 3762.43,
         "date": "2020-05-09",
         "notes": "",

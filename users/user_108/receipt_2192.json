@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "NOODLES RESTAURANT",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 22.7,
         "date": "2015-10-08",
         "notes": "",

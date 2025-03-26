@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "George's Restaurant",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 169.82,
         "date": "2013-01-19",
         "notes": "",

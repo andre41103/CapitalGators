@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "De Gulden Bock",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 46.5,
         "date": "2016-04-20",
         "notes": "",

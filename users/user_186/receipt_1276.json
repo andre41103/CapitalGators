@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Facci",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 100.0,
         "date": "2014-04-20",
         "notes": "",

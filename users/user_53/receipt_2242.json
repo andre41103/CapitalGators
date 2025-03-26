@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "THE PASTA BOWL COMPANY",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 2134.0,
         "date": "2014-09-06",
         "notes": "",

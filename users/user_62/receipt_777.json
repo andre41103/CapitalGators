@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "CANADIAN TIRE 235",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 38.85,
         "date": "2014-06-22",
         "notes": "",

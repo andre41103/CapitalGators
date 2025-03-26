@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "BORDER CAFE",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 33.97,
         "date": "2014-04-19",
         "notes": "",

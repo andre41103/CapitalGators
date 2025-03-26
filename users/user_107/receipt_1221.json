@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "IHOP",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 20.0,
         "date": "2014-11-15",
         "notes": "",

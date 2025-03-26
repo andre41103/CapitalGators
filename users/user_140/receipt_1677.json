@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Hardee's",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 9.73,
         "date": "2014-05-01",
         "notes": "",

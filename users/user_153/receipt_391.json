@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Hess 30300",
-        "receipt_type": "receipt.gas",
+        "receipt_type": "Transportation",
         "total": 58.19,
         "date": "2012-10-19",
         "notes": "",

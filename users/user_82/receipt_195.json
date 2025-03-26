@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Bar Rua",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 65.1,
         "date": "2018-08-17",
         "notes": "",

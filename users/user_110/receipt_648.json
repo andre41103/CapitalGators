@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Hoffman-Daniel",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 4.36,
         "date": "2017-10-23",
         "notes": "",

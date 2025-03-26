@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "California Pizza Kitchen(TKO)",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 124.6,
         "date": "2016-09-09",
         "notes": "",

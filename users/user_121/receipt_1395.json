@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Mcdowell PLC",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 43.98,
         "date": "2012-06-02",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "The Press Room",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 673.0,
         "date": null,
         "notes": "",

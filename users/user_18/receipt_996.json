@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Walgreens",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Personal Care & Education",
         "total": 0.0,
         "date": null,
         "notes": "",

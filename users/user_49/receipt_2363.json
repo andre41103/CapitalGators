@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "SWC ENTERPRISE SDN BHD",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 4.2,
         "date": "2018-01-02",
         "notes": "",

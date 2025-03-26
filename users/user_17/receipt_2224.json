@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Albertsons",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 8.51,
         "date": "2009-09-03",
         "notes": "",

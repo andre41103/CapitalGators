@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "CHESTNUT",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 3.05,
         "date": "2016-12-23",
         "notes": "",

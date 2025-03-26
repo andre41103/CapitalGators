@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "The Golden Spoon",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 7.2,
         "date": "2008-08-27",
         "notes": "",

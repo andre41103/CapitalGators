@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "SUBWAY",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 7.71,
         "date": "2017-03-25",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Reynolds PLC",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 362.42,
         "date": "2015-12-13",
         "notes": "",

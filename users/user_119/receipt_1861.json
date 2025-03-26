@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "LONG BEACH RESORT LTD",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 1875.0,
         "date": "2017-09-29",
         "notes": "",

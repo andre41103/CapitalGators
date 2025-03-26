@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "TAFIGET",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 21.23,
         "date": null,
         "notes": "",

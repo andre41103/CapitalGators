@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Whitaker-Galloway",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 13423.4,
         "date": "2016-06-25",
         "notes": "",

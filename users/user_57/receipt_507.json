@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "CPK",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 33.15,
         "date": null,
         "notes": "",

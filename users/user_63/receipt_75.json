@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Lin Buffet",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 33.73,
         "date": "2019-02-24",
         "notes": "",

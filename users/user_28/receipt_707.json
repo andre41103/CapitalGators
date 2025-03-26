@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "LION CITY\nRESTAURANT",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 54.24,
         "date": "2015-04-24",
         "notes": "",

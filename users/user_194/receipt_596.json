@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "JACK IN THE BOX.",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 6.48,
         "date": "2007-06-15",
         "notes": "",

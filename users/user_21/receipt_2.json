@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Katana Sushi",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 143.71,
         "date": "2018-05-11",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "GRISTEDES",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 23.2,
         "date": "2013-12-08",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "RENAISSANCE NASHVILLE",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 30.0,
         "date": "2017-01-21",
         "notes": "",

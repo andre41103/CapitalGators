@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "COSTCO WHOLESALE",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 120.04,
         "date": null,
         "notes": "",

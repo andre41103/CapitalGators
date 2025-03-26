@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "FILL IN ENTERPRISE",
-        "receipt_type": "receipt.gas",
+        "receipt_type": "Transportation",
         "total": 100.0,
         "date": "2018-06-03",
         "notes": "",

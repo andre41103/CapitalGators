@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "S&Y STATIONERY",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 1.4,
         "date": "2017-01-09",
         "notes": "",

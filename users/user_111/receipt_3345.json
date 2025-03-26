@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Abb 10",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 13.1,
         "date": "2018-06-02",
         "notes": "",

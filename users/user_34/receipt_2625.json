@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "GM Rack Enterprise",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 160.0,
         "date": "2018-03-20",
         "notes": "",

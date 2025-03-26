@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "EL GRECO",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 44.5,
         "date": "2016-06-23",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "NIKE",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 174.21,
         "date": null,
         "notes": "",

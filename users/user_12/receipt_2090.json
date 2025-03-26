@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Mc Food s.r.l.",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 24.5,
         "date": "2016-02-14",
         "notes": "",

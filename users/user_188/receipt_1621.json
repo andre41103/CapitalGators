@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "-ELEVEN",
-        "receipt_type": "receipt.gas",
+        "receipt_type": "Transportation",
         "total": 11.5,
         "date": "2016-09-10",
         "notes": "",

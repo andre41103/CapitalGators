@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Argonaut Diner 2000",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 26.38,
         "date": "2017-08-13",
         "notes": "",

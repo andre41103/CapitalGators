@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Crystal Palace",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": null,
         "date": null,
         "notes": "",

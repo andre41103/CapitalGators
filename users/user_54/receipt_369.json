@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Car Spa",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 164.82,
         "date": "2015-05-28",
         "notes": "",

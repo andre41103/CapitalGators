@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "The Fifty Six Bar & Lounge",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 66.49,
         "date": "2011-11-11",
         "notes": "",

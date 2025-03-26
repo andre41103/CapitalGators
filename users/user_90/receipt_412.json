@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Swlas Chalet",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 29.9,
         "date": null,
         "notes": "",

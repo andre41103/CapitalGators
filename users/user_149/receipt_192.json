@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "MOD Pizza",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 29.98,
         "date": "2019-05-19",
         "notes": "",

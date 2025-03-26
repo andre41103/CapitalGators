@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Thompson-Smith",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 35563.37,
         "date": "2016-02-19",
         "notes": "",

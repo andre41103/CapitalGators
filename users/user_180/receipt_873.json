@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Walmart",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 560.42,
         "date": "2014-02-05",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "THE SEA\nFish & Chips",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 16.75,
         "date": "2016-07-06",
         "notes": "",

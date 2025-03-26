@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Barnes and Miller",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 481.79,
         "date": "2020-02-08",
         "notes": "",

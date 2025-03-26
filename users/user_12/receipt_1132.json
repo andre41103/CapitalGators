@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Corner Bakery Cafe",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 7.72,
         "date": "2015-05-23",
         "notes": "",

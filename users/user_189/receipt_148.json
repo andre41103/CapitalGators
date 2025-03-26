@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "NEW DELHI\nINDIAN\nRESTAURANT",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 13.0,
         "date": "2016-11-24",
         "notes": "",

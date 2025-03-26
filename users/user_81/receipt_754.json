@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "SAFEWAY",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 25.5,
         "date": "2013-11-08",
         "notes": "",

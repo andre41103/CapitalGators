@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "BC Food & Beverages Sdn Bhd",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 213.05,
         "date": "2017-01-07",
         "notes": "",

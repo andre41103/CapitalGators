@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "rue 21",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 55.96,
         "date": "2012-05-14",
         "notes": "",

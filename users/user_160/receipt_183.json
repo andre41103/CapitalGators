@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Finnegan's",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 50.8,
         "date": "2017-08-21",
         "notes": "",

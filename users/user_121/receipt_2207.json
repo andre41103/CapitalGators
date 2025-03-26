@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "THE\nDEPOT",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 24.9,
         "date": null,
         "notes": "",

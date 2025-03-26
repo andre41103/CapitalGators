@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "SSAMBAP",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 42.0,
         "date": "2015-08-12",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Schultz-Garcia",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 29543.09,
         "date": "2020-10-28",
         "notes": "",

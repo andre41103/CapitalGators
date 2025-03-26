@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "7-ELEVEN",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 2.69,
         "date": "2015-05-11",
         "notes": "",

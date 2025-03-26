@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "SEOUL GARDEN",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 95.0,
         "date": "2016-03-10",
         "notes": "",

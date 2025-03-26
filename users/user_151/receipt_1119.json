@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Deli In The Park",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 67.1,
         "date": "2011-05-14",
         "notes": "",

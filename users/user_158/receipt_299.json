@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "99 Restaurant & Pub",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": null,
         "date": "2016-11-16",
         "notes": "",

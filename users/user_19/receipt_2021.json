@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "USA GASOLINE",
-        "receipt_type": "receipt.gas",
+        "receipt_type": "Transportation",
         "total": 40.0,
         "date": null,
         "notes": "",

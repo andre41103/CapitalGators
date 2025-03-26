@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Your Company",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 12.18,
         "date": null,
         "notes": "",

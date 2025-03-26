@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "FISH",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 30.98,
         "date": "2012-07-03",
         "notes": "",

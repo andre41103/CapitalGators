@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "IKEA NORTH LAKES",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 12.17,
         "date": null,
         "notes": "",

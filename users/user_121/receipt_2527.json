@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Super Terminal Sdn Bhd",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 132.5,
         "date": "2018-01-20",
         "notes": "",

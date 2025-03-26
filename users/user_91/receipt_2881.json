@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "RESTORAN WAN SHF",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 164.4,
         "date": "2017-09-29",
         "notes": "",

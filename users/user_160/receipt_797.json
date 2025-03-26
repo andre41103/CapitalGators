@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Pizza Hut India",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 664.0,
         "date": "2017-05-31",
         "notes": "",

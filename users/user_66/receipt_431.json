@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "ZANOTTO'S MARKET",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 0.96,
         "date": "2010-07-18",
         "notes": "",

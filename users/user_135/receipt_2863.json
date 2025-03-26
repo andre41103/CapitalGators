@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "CILIA",
-        "receipt_type": "receipt.parking",
+        "receipt_type": "Transportation",
         "total": 3.0,
         "date": "2017-04-30",
         "notes": "",

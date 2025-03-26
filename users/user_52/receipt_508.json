@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "TGI Fridays UK",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Leisure",
         "total": 44.18,
         "date": "2016-12-02",
         "notes": "",

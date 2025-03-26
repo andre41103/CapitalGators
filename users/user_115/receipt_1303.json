@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Port Charlotte Hotel",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 92.45,
         "date": "2018-07-22",
         "notes": "",

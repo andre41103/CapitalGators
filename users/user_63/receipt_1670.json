@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "ASDA",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Personal Care & Education",
         "total": 17.02,
         "date": null,
         "notes": "",

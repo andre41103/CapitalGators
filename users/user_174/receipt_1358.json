@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "IN-N-OUT BURGER REDONDO BEACH",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 18.89,
         "date": null,
         "notes": "",

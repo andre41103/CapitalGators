@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Red Robin Gourmet Burgers",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": null,
         "date": "2016-05-20",
         "notes": "",

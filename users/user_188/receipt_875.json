@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "STARBUCKS",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 8.24,
         "date": "2014-12-17",
         "notes": "",

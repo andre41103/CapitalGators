@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "The Henry",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 45.4,
         "date": "2013-06-19",
         "notes": "",

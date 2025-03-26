@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "THE WINE HOUSE",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": 33.92,
         "date": "2017-07-10",
         "notes": "",

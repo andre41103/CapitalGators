@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Sainsbury's Supermarkets Ltd",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Food & Dining",
         "total": null,
         "date": null,
         "notes": "",

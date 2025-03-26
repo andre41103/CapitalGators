@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "IKANO HANDEL SDN BHD",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 99.8,
         "date": "2017-08-09",
         "notes": "",

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "Harris and Sons",
-        "receipt_type": "receipt.retailMeal",
+        "receipt_type": "Transportation",
         "total": 5743.69,
         "date": "2017-06-12",
         "notes": "",
