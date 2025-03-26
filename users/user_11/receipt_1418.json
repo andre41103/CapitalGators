@@ -1,7 +1,7 @@
 [
     {
-        "merchant_name": null,
-        "receipt_type": "Uncategorized",
+        "merchant_name": "invoice",
+        "receipt_type": "Personal Care & Education",
         "total": 1129.04,
         "date": "2017-03-02",
         "notes": "",

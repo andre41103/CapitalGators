@@ -1,10 +1,10 @@
 [
     {
-        "merchant_name": null,
-        "receipt_type": "Uncategorized",
-        "total": null,
+        "merchant_name": "CAVA",
+        "receipt_type": "Food & Dining",
+        "total": 109.22,
         "date": "2017-04-28",
-        "notes": "",
+        "notes": "yummy food",
         "recurring": false
     }
 ]

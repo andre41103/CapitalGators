@@ -1,7 +1,7 @@
 [
     {
-        "merchant_name": null,
-        "receipt_type": "Uncategorized",
+        "merchant_name": "Olive Garden",
+        "receipt_type": "Food & Dining",
         "total": 35.6,
         "date": "2017-02-11",
         "notes": "",

@@ -2,7 +2,7 @@
     {
         "merchant_name": "ANY RESTAURANT\nANYWHERE",
         "receipt_type": "Food & Dining",
-        "total": null,
+        "total": 30.0,
         "date": "2014-02-02",
         "notes": "",
         "recurring": false

@@ -1,7 +1,7 @@
 [
     {
         "merchant_name": "ZARA",
-        "receipt_type": "Transportation",
+        "receipt_type": "Leisure",
         "total": 14.99,
         "date": "2018-01-31",
         "notes": "",
