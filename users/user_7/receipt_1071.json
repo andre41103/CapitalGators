@@ -1,7 +1,7 @@
 [
     {
-        "merchant_name": null,
-        "receipt_type": "Uncategorized",
+        "merchant_name": "Textbook Company",
+        "receipt_type": "Personal Care & Education",
         "total": 546.16,
         "date": "2017-06-27",
         "notes": "",

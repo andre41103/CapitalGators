@@ -1,7 +1,7 @@
 [
     {
-        "merchant_name": null,
-        "receipt_type": "Uncategorized",
+        "merchant_name": "Landlord",
+        "receipt_type": "Housing & Utilities",
         "total": 5906.47,
         "date": "2016-11-16",
         "notes": "",

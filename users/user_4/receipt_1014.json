@@ -1,7 +1,7 @@
 [
     {
-        "merchant_name": null,
-        "receipt_type": "Uncategorized",
+        "merchant_name": "Dollar Store",
+        "receipt_type": "Personal Care & Edication",
         "total": 0.41,
         "date": null,
         "notes": "",
