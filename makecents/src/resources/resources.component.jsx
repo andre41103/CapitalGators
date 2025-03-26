@@ -22,9 +22,10 @@ const Resources = () => {
               
               // some cards in the json have the trademark sign as the code number so we need to change it to the actual symbol
               const modifiedData = data.props.pageProps.pageData['category-page'].collection.cards.map(card => {
-                card.name = card.name.replace(/&#174;/g, '®');
+                card.name = card.name.replace(/&#174;|&reg;/g, '®');
                 return card;
               });
+
           
               setCards(modifiedData);  // Set the modified data with the trademark symbol
           } catch (error) {
