@@ -50,7 +50,7 @@ const Resources = () => {
         <div className="vertical-containers">
           <div className='resources-container-wrapper'>
             <h3 className='container-title'>Important Credit Card Information</h3>
-          <div className="individual-vertical-container scrollable-container">
+          <div className="individual-vertical-container resource-scrollable-container">
             <div className='scroll-content'>
               {cards.length > 0 ? (
                 cards.map((card, index) => (

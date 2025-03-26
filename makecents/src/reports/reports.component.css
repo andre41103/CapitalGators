@@ -1,10 +1,8 @@
 .reports-container {
   display: flex;
   flex-direction: row;  
-  padding-top: 100px;
-  padding-bottom: 40px;
+  padding-top: 20px;
   gap: 45px;
-  min-height: 100vh;
   width: 100%;
   margin-top: 70px;
 }
@@ -14,14 +12,14 @@
   flex-direction: column;   
   align-items: flex-start;
   gap: 30px;                
-  width: 35%;               
+  width: 50%;               
   margin-top: 0;
   padding: 20px;
 }
 
 .report-left-box {
   width: 500px;              
-  min-height: 150px;        
+  height: 150px;        
   background-color: #5EC57E;
   padding: 20px;
   border-radius: 10px;
@@ -44,4 +42,56 @@
   font-weight: bold;
   color: #213547;
   margin-top:0px;
+}
+
+.reports-scrollable-container {
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 545px;
+  height: 250px;        
+  overflow-y: auto;  
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-sizing: border-box; 
+}
+
+.reports-scrollable-container::-webkit-scrollbar {
+  width: 8px;
+}
+
+.reports-scrollable-container::-webkit-scrollbar-thumb {
+  background: #5EC57E;
+  border-radius: 10px;
+}
+
+.reports-scrollable-container::-webkit-scrollbar-thumb:hover {
+  background: #5EC57E;
+}
+
+.receipt-list {
+  list-style: none;
+  padding: 0;
+  width: 100%;
+  margin: 0;
+}
+
+.receipt-item {
+  background: #ffffff;
+  border: 1px solid #5EC57E;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.receipt-item p {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+.recurring-tag {
+  color: #5EC57E;
+  font-weight: bold;
 }
