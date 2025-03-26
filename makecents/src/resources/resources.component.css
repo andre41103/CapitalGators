@@ -55,10 +55,10 @@
 }
 
 .scroll-content {
-    line-height: 1.6;
+    line-height: 1.8; /* more readable*/
 }
 
-.scrollable-container {
+.resource-scrollable-container {
     display: flex;
     flex-direction:column;
     align-items: center;
@@ -72,16 +72,16 @@
     box-sizing: border-box; 
 }
 
-.scrollable-container::-webkit-scrollbar {
+.resource-scrollable-container::-webkit-scrollbar {
     width: 8px;
 }
 
-.scrollable-container::-webkit-scrollbar-thumb {
+.resource-scrollable-container::-webkit-scrollbar-thumb {
     background: #5EC57E;
     border-radius: 10px;
 }
 
-.scrollable-container::-webkit-scrollbar-thumb:hover {
+.resource-scrollable-container::-webkit-scrollbar-thumb:hover {
     background: #4caf50;
 }
 
@@ -109,6 +109,7 @@
 
 .card-info h5 {
     font-weight: bold;
+    font-size: 1em;
     margin: 10px 0 5px;
     color: #5EC57E;
 }
