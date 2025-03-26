@@ -165,6 +165,7 @@ func createAccount(w http.ResponseWriter, r *http.Request) {
 }
 
 // update Profile
+
 func updateProfile(w http.ResponseWriter, r *http.Request) {
 
 	w.Header().Set("Content-Type", "application/json")
