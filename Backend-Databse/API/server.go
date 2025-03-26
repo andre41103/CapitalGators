@@ -314,6 +314,7 @@ func RunServer() http.Handler {
 	router.HandleFunc("/receipts/{email}", uploadReceipt).Methods("POST")
 	router.HandleFunc("/reports/{email}", getReceipts).Methods("GET")
 	router.HandleFunc("/receipts", convertReceipt).Methods("GET")
+	router.HandleFunc("/chatbot", chatBot).Methods("POST")
 
 	corsHandler := handlers.CORS(
 		handlers.AllowedOrigins([]string{"*"}),
