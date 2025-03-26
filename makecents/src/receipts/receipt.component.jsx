@@ -133,7 +133,7 @@ const Receipts = () => {
                   type="text"
                   id="date"
                   name="date"
-                  placeholder="MM/DD/YYYY"
+                  placeholder="YYYY-MM-DD"
                   value={date}
                   onChange={(e) => setDate(e.target.value)} />
 
