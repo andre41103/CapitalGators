@@ -123,6 +123,7 @@ const Resources = () => {
                                         type="text"
                                         value={userMessage}
                                         onChange={(e) => setUserMessage(e.target.value)}
+                                        onKeyDown={(e) => e.key === "Enter" && sendMessage()}
                                         placeholder="Ask me something..."
                                     />
                                     <button onClick={sendMessage}>Send</button>
