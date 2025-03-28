@@ -108,6 +108,16 @@ func getReceipts(w http.ResponseWriter, r *http.Request) {
 	json.NewEncoder(w).Encode(user.UserReceipt)
 }
 
+// get the ticker display
+func getTickers(w http.ResponseWriter, r *http.Request) {
+
+	w.Header().Set("Content-Type", "applicatio/json")
+
+	stock := DisplayTickers()
+
+	json.NewEncoder(w).Encode(stock)
+}
+
 // for login route
 func login(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json")
