@@ -22,8 +22,27 @@ const Dashboard = () => {
         <img src={avatarImage} alt="Profile" className="avatar-icon" onClick={handleProfile} />
       </div>
           
-      <div className="dashboard">
-        <h2>Welcome to the Dashboard!</h2>
+      <div className="dashboard-container">
+        <div className='dashboard-rows'>
+          <div className='dashboard-container-wrapper top-row'>
+            <div className='dashboard-bottom-row-container centered'>
+              <div className='dashboard-container-title'>Pie charts</div>
+              <div className='bottom-row-boxes'></div>
+            </div>
+          </div>
+        </div>
+        <div className='dashboard-rows'>
+          <div className='dashboard-container-wrapper'>
+            <div className='dashboard-bottom-row-container'>
+              <div className='dashboard-container-title'>Projected Spendings</div>
+              <div className='bottom-row-boxes'></div>
+            </div>
+            <div className='dashboard-bottom-row-container'>
+              <div className='dashboard-container-title'>Stock Information</div>
+              <div className='bottom-row-boxes'></div>
+            </div>
+          </div>
+        </div>
        
       </div></>
     );
