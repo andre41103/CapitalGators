@@ -1,10 +1,25 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import './dashboard.component.css';
 import { useNavigate } from 'react-router-dom';
 import avatarImage from '../assets/avatar.png';
 
 const Dashboard = () => {
   const navigate = useNavigate();
+  const [stocks, setStocks] = useState([]);
+
+  useEffect(() => {
+    fetchStockData(); // Fetch stock data once when component mounts
+  }, []);
+
+  const fetchStockData = async () => {
+    try {
+      const response = await fetch("http://localhost:8080/dashboard"); 
+      const data = await response.json();
+      setStocks(data); // Store the fetched data once
+    } catch (error) {
+      console.error("Error fetching stock data:", error);
+    }
+  };
 
   const handleProfile = () => {
     navigate('/profile');
@@ -39,7 +54,19 @@ const Dashboard = () => {
             </div>
             <div className='dashboard-bottom-row-container'>
               <div className='dashboard-container-title'>Stock Information</div>
-              <div className='bottom-row-boxes'></div>
+              <div className='bottom-row-boxes'>
+                {stocks.length > 0 ? (
+                  <div className='stock-list'>
+                    {stocks.map((stock, index) => (
+                      <div className='stock-item' key={index}>
+                        <strong>{stock.ticker}</strong>: {stock.name} : ${stock.price.toFixed(2)}
+                      </div>
+                    ))}
+                  </div>
+                ) : (
+                  <p>Loading stock data...</p>
+                )}
+              </div>
             </div>
           </div>
         </div>

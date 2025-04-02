@@ -104,9 +104,9 @@
 
 .bottom-row-boxes {
     width: 700px;              
-  height: 200px;        
+  height: 300px;        
   background-color: #5EC57E;
-  padding: 20px;
+  padding: 10px;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
@@ -128,4 +128,22 @@
     flex-direction: column;
     align-items: center;
     text-align: center;
+}
+
+.stock-list {
+    width: 670px; /* Adjust width as needed */
+    height: 300px; /* Set a fixed height */
+    overflow-y: auto; /* Enables vertical scrolling */
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.stock-item {
+    background: #ffffff;
+    border: 1px solid #5EC57E;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
 }
