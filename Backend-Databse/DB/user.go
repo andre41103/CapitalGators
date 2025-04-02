@@ -141,7 +141,6 @@ func UpdateProfile(email string, updateUser User) error {
 	update := bson.M{
 		"$set": bson.M{
 			"username":           updateUser.Username,
-			"password":           updateUser.Password,
 			"monthlyIncome":      updateUser.Monthincome,
 			"spendingGoal":       updateUser.Spendinggoal,
 			"selectedCategories": updateUser.Categories,
