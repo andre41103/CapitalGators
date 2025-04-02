@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Delmonico's",
+        "receipt_type": "Food & Dining",
+        "total": 46.39,
+        "date": "2015-08-22",
+        "notes": "",
+        "recurring": false
+    }
+]

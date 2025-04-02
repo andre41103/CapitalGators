@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Morrisons",
+        "receipt_type": "Transportation",
+        "total": 5.55,
+        "date": "2016-12-05",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Cartwheel!",
+        "receipt_type": "Transportation",
+        "total": 38.38,
+        "date": "2017-09-07",
+        "notes": "",
+        "recurring": false
+    }
+]

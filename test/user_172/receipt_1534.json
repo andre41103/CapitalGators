@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Miller Group",
+        "receipt_type": "Transportation",
+        "total": 344.13,
+        "date": "2015-12-30",
+        "notes": "",
+        "recurring": false
+    }
+]

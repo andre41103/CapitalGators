@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Panda Express",
+        "receipt_type": "Transportation",
+        "total": 6.28,
+        "date": "2009-10-01",
+        "notes": "",
+        "recurring": false
+    }
+]

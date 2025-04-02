@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Movenpick JLT",
+        "receipt_type": "Transportation",
+        "total": 500.0,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

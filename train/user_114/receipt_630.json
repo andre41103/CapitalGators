@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Sage General Store",
+        "receipt_type": "Leisure",
+        "total": 19.6,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

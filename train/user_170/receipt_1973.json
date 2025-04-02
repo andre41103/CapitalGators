@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Taj Mahal",
+        "receipt_type": "Transportation",
+        "total": 99.33,
+        "date": "2007-04-18",
+        "notes": "",
+        "recurring": false
+    }
+]

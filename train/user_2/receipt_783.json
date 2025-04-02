@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "SAFEWAY",
+        "receipt_type": "Transportation",
+        "total": 105.95,
+        "date": "2011-07-21",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Zephyr Cafe",
+        "receipt_type": "Food & Dining",
+        "total": 5.5,
+        "date": "2016-08-09",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "more",
+        "receipt_type": "Transportation",
+        "total": 37.5,
+        "date": "2013-02-28",
+        "notes": "",
+        "recurring": false
+    }
+]

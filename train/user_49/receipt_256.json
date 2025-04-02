@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "USA GASOLINE",
+        "receipt_type": "Transportation",
+        "total": 16.24,
+        "date": "2015-11-28",
+        "notes": "",
+        "recurring": false
+    }
+]

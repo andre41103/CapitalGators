@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Johnson LLC",
+        "receipt_type": "Transportation",
+        "total": 6530.55,
+        "date": "2021-04-27",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Waitrose",
+        "receipt_type": "Transportation",
+        "total": 197.7,
+        "date": "2013-08-03",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Meatology",
+        "receipt_type": "Food & Dining",
+        "total": 8.15,
+        "date": "2017-12-01",
+        "notes": "",
+        "recurring": false
+    }
+]

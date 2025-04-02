@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Sam's Club",
+        "receipt_type": "Food & Dining",
+        "total": 50.01,
+        "date": "2013-02-06",
+        "notes": "",
+        "recurring": false
+    }
+]
