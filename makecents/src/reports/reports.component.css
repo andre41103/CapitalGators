@@ -140,3 +140,85 @@
 .second-report-left-box:hover {
   transform: translateY(-5px);
 }
+
+.right-side {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  width: 40%;
+  padding: 20px;
+}
+
+.section-title {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #213547;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.top-categories-container {
+  display: flex;
+  gap: 15px;
+  justify-content: space-between;
+}
+
+.category-box {
+  background-color: #f4f4f4;
+  padding: 15px 25px;
+  border-radius: 8px;
+  font-size: 1.2rem;
+  font-weight: 500;
+  flex: 1;
+  text-align: center;
+}
+
+.insights-box {
+  background-color: #e9f7ef;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.insights-box ul {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.insights-box li {
+  margin-bottom: 15px;
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.recurring-expenses-section {
+  margin-top: 30px;
+}
+
+.recurring-expenses-box {
+  background-color: #e9f7ef;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.recurring-list {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.recurring-item {
+  margin-bottom: 15px;
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.insights-box ul {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.insights-box li {
+  margin-bottom: 15px;
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+

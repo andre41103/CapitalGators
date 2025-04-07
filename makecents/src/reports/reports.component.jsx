@@ -12,6 +12,7 @@ const Reports = () => {
     const [budget, setBudget] = useState(0);
     const [expenses, setExpenses] = useState(0);
     const [remaining, setRemaining] = useState(0);
+    const [topCategories, setTopCategories] = useState([]);
 
 
     useEffect(() => {
@@ -57,6 +58,37 @@ const Reports = () => {
 
           setExpenses(totalExpenses + recurringExpenses);
           setReceipts(receiptData);
+          const categorySpending = {};
+      
+          // Initialize all categories with zero
+          const categories = [
+            'Food & Dining',
+            'Housing & Utilities',
+            'Transportation',
+            'Leisure',
+            'Personal Care & Education'
+          ];
+          
+          categories.forEach(cat => {
+            categorySpending[cat] = 0;
+          });
+          
+          // Sum spending by category
+          filteredReceipts.forEach(receipt => {
+            if (receipt.receipt_type && receipt.total) {
+              categorySpending[receipt.receipt_type] = 
+                (categorySpending[receipt.receipt_type] || 0) + receipt.total;
+            }
+          });
+          
+          // Sort categories by amount and get top 3
+          const sortedCategories = Object.entries(categorySpending)
+            .filter(([_, amount]) => amount > 0)
+            .sort(([_, amount1], [__, amount2]) => amount2 - amount1)
+            .slice(0, 3)
+            .map(([category]) => category);
+          
+          setTopCategories(sortedCategories);
         })
         .catch((error) => console.error('Error fetching receipts:', error));
     }, []);
@@ -65,6 +97,10 @@ const Reports = () => {
       setRemaining(budget - expenses);
     }, [budget, expenses]); // Recalculate when either value changes
     
+    const numericBudget = Number(budget) || 0;
+    const numericExpenses = Number(expenses) || 0;
+    const savedPercentage = numericBudget > 0
+      ? Math.round(((numericBudget - numericExpenses) / numericBudget) * 100): 0;
 
     return (
       <>
@@ -127,8 +163,74 @@ const Reports = () => {
           </div>
           
           
+          
         </div>
-      </div></>
+        
+        <div className="right-side">
+        <div className="top-categories-section">
+          <h2 className="section-title">Top 3 Categories You Spent the Most On</h2>
+          <div className="top-categories-container">
+            {topCategories.length === 0 ? (
+              <p>No spending data available</p>
+            ) : (
+              topCategories.map((category, index) => (
+                <div key={index} className="category-box">
+                  {category}
+                </div>
+              ))
+            )}
+          </div>
+        </div>
+
+        <div className="insights-section">
+          <h2 className="section-title">Insights</h2>
+          <div className="insights-box">
+            {receipts.length === 0 ? (
+              <p>Add a receipt to view your budgeting insights</p>
+            ) : (
+              <ul>
+                <li>
+                  You spent the most on {topCategories[0] || 'N/A'}, try buying items with deals or added savings.
+                </li>
+                <li>
+                  Your goal is to save ${numericBudget.toLocaleString()}, try an automatic savings plan.
+                </li>
+                <li>
+                  {remaining < 0 ? (
+                    <>
+                      You went over your budget by ${Math.abs(remaining).toLocaleString()} this month.
+                      Try breaking down your purchases to focus on essentials first.
+                    </>
+                  ) : (
+                    `You've saved ${savedPercentage}% of your $${numericBudget.toLocaleString()} goal this month!`
+                  )}
+                </li>
+              </ul>
+            )}
+          </div>
+        </div>
+
+
+        <div className="recurring-expenses-section">
+          <h2 className="section-title">Upcoming Bills</h2>
+          <div className="recurring-expenses-box">
+            {receipts.filter(receipt => receipt.recurring).length === 0 ? (
+              <p className="numbers-container-title">No recurring expenses found</p>
+            ) : (
+              <ul className="recurring-list">
+                {receipts.filter(receipt => receipt.recurring).map((receipt, index) => (
+                  <li key={index} className="recurring-item">
+                    Your {receipt.merchant_name} subscription (${receipt.total.toFixed(2)}) is due next month
+                  </li>
+                ))}
+              </ul>
+            )}
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </>
     );
   }
   
