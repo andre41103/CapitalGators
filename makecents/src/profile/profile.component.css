@@ -3,7 +3,6 @@
 .profile-container {
     position: relative;
     display: flex;
-    align-items: center; 
     gap: 45px; /* spacing between avatar and text */
     flex-direction: column;
     padding-bottom: 40px; /* Ensure space for footer */
@@ -55,6 +54,7 @@
     align-items: center;
     font-size: 1rem;
     margin-bottom:10px;
+    margin-left:10%
 }
 
 .selection-boxes {
@@ -109,8 +109,8 @@
 }
 
 .input-profile {
-    width: 450px; 
-    max-width: 500px; 
+    width: 650px; 
+    max-width: 650px; 
     padding: 10px;
     border: 1px solid #2cb67d;
     border-radius: 5px;
@@ -134,7 +134,7 @@
 
 .custom-h1-profile {
     font-family: 'Manrope', sans-serif;
-    font-size: 3.5rem;
+    font-size: 2.5rem;
     color: black;
     margin-top: 20px;
     margin-bottom: 10px; /* Reduce bottom margin */
@@ -159,7 +159,7 @@
 
 .sign-out-button{
     position: absolute;
-    top: 50px;  
+    top: 7.5%;  
     right: 10px; 
     background-color: #5EC57E;
     color: white;

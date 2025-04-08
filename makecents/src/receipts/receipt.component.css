@@ -166,3 +166,40 @@
   border-width: 0 2px 2px 0;
   transform: rotate(45deg);
 }
+
+.form-group-receipts select {
+  padding: 10px;
+  border: 1px solid #2cb67d;
+  border-radius: 5px;
+  width: 97%;
+  height: 45px;
+  margin-bottom: 10px;
+  background-color: white;
+  font-size: 1rem;
+  font-family: 'Manrope', sans-serif;
+  color: #717171;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  cursor: pointer;
+}
+
+.form-group-receipts select.valid-selection {
+  color: black;
+}
+
+
+/* Add a dropdown arrow */
+.form-group-receipts select {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='18' height='18' fill='gray'><path d='M7 10l5 5 5-5z'/></svg>");
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  background-size: 18px;
+  padding-right: 30px; /* Space for the dropdown arrow */
+}
+
+/* Optional: Style on focus */
+.form-group-receipts select:focus {
+  outline: none;
+  border-color: #5EC57E;
+}
