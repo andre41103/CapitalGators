@@ -11,6 +11,20 @@ import {
   ResponsiveContainer,
 } from 'recharts';
 
+import { Line } from 'react-chartjs-2';
+import {
+  Chart as ChartJS,
+  CategoryScale,
+  LinearScale,
+  PointElement,
+  LineElement,
+  Title,
+  Tooltip as ChartTooltip,
+  Legend as ChartLegend
+} from 'chart.js';
+
+ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, ChartTooltip, ChartLegend);
+
 const Dashboard = () => {
   const navigate = useNavigate();
   const [stocks, setStocks] = useState([]);
@@ -77,6 +91,51 @@ const Dashboard = () => {
 
   const handleProfile = () => {
     navigate('/profile');
+  };
+
+  const lineChartData = {
+    labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May'], // Example labels
+    datasets: [
+      {
+        label: 'Projected Spending',
+        data: [500, 750, 650, 900, 800], // Example data points
+        fill: false,
+        borderColor: 'black',
+        backgroundColor: 'black',
+        tension: 0.4,
+      },
+    ],
+  };
+  
+  const lineChartOptions = {
+    responsive: true,
+    maintainAspectRatio: false, // Allow the chart to fill its container dimensions
+    plugins: {
+      legend: {
+        display: false,
+      },
+      title: {
+        display: false,
+      },
+    },
+    scales: {
+      x: {
+        ticks: {
+          color: 'black', // x-axis number color
+        },
+        grid: {
+          color: 'rgba(0,0,0,0.1)', // Grid line color (optional)
+        },
+      },
+      y: {
+        ticks: {
+          color: 'black', // y-axis number color
+        },
+        grid: {
+          color: 'rgba(0,0,0,0.1)',
+        },
+      },
+    },
   };
 
   return (
@@ -153,8 +212,10 @@ const Dashboard = () => {
           <div className='dashboard-container-wrapper'>
             <div className='dashboard-bottom-row-container'>
               <div className='dashboard-container-title'>Projected Spendings</div>
-              <div className='bottom-row-boxes'>
-                <p>Coming soon!</p>
+              <div className='projected-spending-bottom-row-boxes'>
+                <div style={{ width: '100%', height: '100%' }}>
+                  <Line data={lineChartData} options={lineChartOptions} />
+                </div>
               </div>
             </div>
             <div className='dashboard-bottom-row-container'>

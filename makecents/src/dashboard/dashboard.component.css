@@ -127,15 +127,30 @@
     text-align: center;
 }
 
+.projected-spending-bottom-row-boxes {
+    width: 700px;              
+    height: 300px;        
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;   
+    text-align: center;
+    border: 4px solid #5EC57E;
+
+}
+
 .dashboard-container-wrapper.top-row {
     display: flex;
-    justify-content: center; /* Centers the top box */
+    justify-content: center; 
     align-items: center;
     width: 100%;
 }
 
 .dashboard-bottom-row-container.centered {
-    width: auto; /* Prevents it from taking full width */
+    width: auto; 
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -143,9 +158,9 @@
 }
 
 .stock-list {
-    width: 670px; /* Adjust width as needed */
-    height: 300px; /* Set a fixed height */
-    overflow-y: auto; /* Enables vertical scrolling */
+    width: 670px; 
+    height: 300px; 
+    overflow-y: auto; 
     border: 1px solid #ccc;
     padding: 10px;
     border-radius: 5px;

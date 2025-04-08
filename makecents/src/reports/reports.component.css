@@ -28,8 +28,23 @@
   align-items: center;
   justify-content: center;   
   text-align: center;
+  
 }
 
+.project-spending-report-left-box {
+  width: 700px;              
+  height: 200px;        
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;   
+  text-align: center;
+  border: 4px solid #5EC57E;
+
+}
 .reports-container-wrapper {
   display: flex;
   flex-direction: column;
@@ -63,6 +78,8 @@
   background-color: #f9f9f9;
   border-radius: 8px;
   box-sizing: border-box; 
+  border: 4px solid #5EC57E;
+
 }
 
 .reports-scrollable-container::-webkit-scrollbar {
@@ -83,6 +100,7 @@
   padding: 0;
   width: 100%;
   margin: 0;
+  
 }
 
 .receipt-item {
@@ -174,9 +192,11 @@
 }
 
 .insights-box {
-  background-color: #e9f7ef;
+  background-color: #f4f4f4;
   padding: 20px;
   border-radius: 10px;
+  border: 4px solid #5EC57E;
+
 }
 
 .insights-box ul {
@@ -195,9 +215,11 @@
 }
 
 .recurring-expenses-box {
-  background-color: #e9f7ef;
+  background-color: #f4f4f4;
   padding: 20px;
   border-radius: 10px;
+  border: 4px solid #5EC57E;
+
 }
 
 .recurring-list {

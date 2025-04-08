@@ -3,6 +3,21 @@ import './reports.component.css';
 import { data, useNavigate } from 'react-router-dom';
 import avatarImage from '../assets/avatar.png';
 
+// this is the projected spendings chart
+import { Line } from 'react-chartjs-2';
+import {
+  Chart as ChartJS,
+  CategoryScale,
+  LinearScale,
+  PointElement,
+  LineElement,
+  Title,
+  Tooltip,
+  Legend
+} from 'chart.js';
+
+ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
+
 const Reports = () => {
     const navigate = useNavigate();
     const handleProfile = () => {
@@ -102,6 +117,53 @@ const Reports = () => {
     const savedPercentage = numericBudget > 0
       ? Math.round(((numericBudget - numericExpenses) / numericBudget) * 100): 0;
 
+    
+      const lineChartData = {
+        labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May'], // Replace labels as appropriate
+        datasets: [
+          {
+            label: 'Projected Spending',
+            data: [500, 750, 650, 900, 800],  // 5 numbers to showcase
+            fill: false,
+            borderColor: 'green',
+            backgroundColor: 'black',
+            tension: 0.4,
+          },
+        ],
+      };
+    
+      const lineChartOptions = {
+        responsive: true,
+        maintainAspectRatio: false,
+        responsive: true,
+        plugins: {
+          legend: {
+            display: false,
+          },
+          title: {
+            display: false,
+          },
+        },
+        scales: {
+          x: {
+            ticks: {
+              color: 'black', // color of x-axis labels
+            },
+            grid: {
+              color: 'rgba(0,0,0,0.1)', // subtle grid line color
+            },
+          },
+          y: {
+            ticks: {
+              color: 'black', // color of y-axis labels
+            },
+            grid: {
+              color: 'rgba(0,0,0,0.1)', // subtle grid line color
+            },
+          },
+        },
+      };
+
     return (
       <>
       <div className="navbar">
@@ -116,7 +178,11 @@ const Reports = () => {
         <div className="left-side">
           <div className='reports-container-wrapper'>
             <h1 className="reports-container-title">Projected Spending</h1>
-            <div className='report-left-box'></div>
+            <div className="project-spending-report-left-box" style={{ position: 'relative' }}>
+              <div style={{ width: '100%', height: '100%' }}>
+                <Line data={lineChartData} options={lineChartOptions} />
+              </div>
+            </div>
           </div>
           <div className='reports-container-wrapper'>
             <div className='reports-left-side-row-container'>
