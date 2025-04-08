@@ -311,6 +311,28 @@ func convertReceipt(w http.ResponseWriter, r *http.Request) {
 
 }
 
+func getBudgetInfo(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Content-Type", "application/json")
+
+	params := mux.Vars(r)
+	email := params["email"]
+
+	user, err := db.GetOneUser(email)
+	if err != nil {
+		http.Error(w, `{"error":"User not found"}`, http.StatusNotFound)
+		return
+	}
+
+	// Selectively send only budget info and receipts
+	response := map[string]interface{}{
+		"monthlyIncome": user.Monthincome,
+		"spendingGoal":  user.Spendinggoal,
+		"userReceipt":   user.UserReceipt,
+	}
+
+	json.NewEncoder(w).Encode(response)
+}
+
 func RunServer() http.Handler {
 
 	//new rouuter
@@ -326,6 +348,8 @@ func RunServer() http.Handler {
 	router.HandleFunc("/receipts", convertReceipt).Methods("GET")
 	router.HandleFunc("/chatbot", chatBot).Methods("POST")
 	router.HandleFunc("/dashboard", getTickers).Methods("GET")
+	router.HandleFunc("/budget/{email}", getBudgetInfo).Methods("GET")
+
 
 	corsHandler := handlers.CORS(
 		handlers.AllowedOrigins([]string{"*"}),

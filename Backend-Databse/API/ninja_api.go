@@ -5,9 +5,7 @@ import (
 	"fmt"
 	"io"
 	"log"
-	"math/rand"
 	"net/http"
-	"time"
 )
 
 // stock struct to be displayed
@@ -63,40 +61,33 @@ func get_StockPrice(symbol string) Stock {
 	return stock
 }
 
-// there will need to be a function to randomly pick 5 companies
 // that will then be sent to the front end
-func rotateTickers() []string {
+func allTickers() []string {
 
-	tickers := []string{
+	return []string{
 		"AAPL", "MSFT", "AMZN", "GOOGL", "GOOG", "BRK.B", "TSLA", "META", "NVDA", "V",
 		"JNJ", "WMT", "JPM", "PG", "UNH", "HD", "MA", "XOM", "BAC", "PFE",
 		"KO", "DIS", "PEP", "CSCO", "NFLX", "MRK", "ABT", "VZ", "INTC", "CVX",
 		"ADBE", "T", "NKE", "MCD", "IBM", "PYPL", "CRM", "ORCL", "CMCSA", "COST",
 		"MDT", "TXN", "ACN", "LLY", "DHR", "HON", "UPS", "LIN", "BMY", "SBUX",
 	}
-
-	rand.New(rand.NewSource(time.Now().Unix()))
-
-	rand.Shuffle(len(tickers), func(i, j int) {
-		tickers[i], tickers[j] = tickers[j], tickers[i]
-	})
-
-	selectedTickers := tickers[:5]
-
-	return selectedTickers
 }
 
-// display the five Tickers for display on main page:
 func DisplayTickers() []Stock {
 
-	tickers := rotateTickers()
+	tickers := allTickers()
 
 	var display []Stock
 
-	for _, v := range tickers {
+	for i := 0; i < 15; i++ {
+		stock := get_StockPrice(tickers[i])
 
-		tempticker := get_StockPrice(v)
-		display = append(display, tempticker)
+		// Only add valid stocks
+		if stock.Price > 0 {
+			display = append(display, stock)
+		} else {
+			log.Printf("Skipping %s due to invalid price.", tickers[i])
+		}
 	}
 
 	return display

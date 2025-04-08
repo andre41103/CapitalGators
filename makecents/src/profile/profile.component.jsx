@@ -190,7 +190,7 @@ const Profile = () => {
          <button onClick={handleSavedInfo} className='saved-button'>Save</button>
          </div>
          <button onClick={handleDashboard} className='dashboard-button'>Return to Dashboard</button>
-         <footer className="profile-footer"></footer>
+         {/* <footer className="profile-footer"></footer> */}
       </div>
     );
   }
