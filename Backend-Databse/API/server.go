@@ -350,6 +350,7 @@ func RunServer() http.Handler {
 	router.HandleFunc("/dashboard", getTickers).Methods("GET")
 	router.HandleFunc("/budget/{email}", getBudgetInfo).Methods("GET")
 
+
 	corsHandler := handlers.CORS(
 		handlers.AllowedOrigins([]string{"*"}),
 		handlers.AllowedMethods([]string{"GET", "POST", "PUT", "DELETE"}),
