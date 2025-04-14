@@ -7,8 +7,26 @@ import { useState } from 'react';
 const Create_Account = () => {
     // useNavigate hook to navigate programmatically
     const navigate = useNavigate();
+    const [warning, setWarning] = useState('');
+
 
     const handleSubmit = async () => {
+      if (
+        !username.trim() ||
+        !email.trim() ||
+        !password.trim() ||
+        !monthlyIncome ||
+        !spendingGoal ||
+        selectedCategories.length === 0 ||
+        selectedTopics.length === 0
+      ) {
+        setWarning("Please complete all correctly fields and select at least one category and topic.");
+        return;
+      }
+    
+      setWarning("");
+
+
       const requestData = {
           username,
           password,
@@ -154,6 +172,8 @@ const Create_Account = () => {
             </div>
             </div>
          </div>
+
+         {warning && <p className="warning-message">{warning}</p>}
 
          <button onClick={handleSubmit} className='buttonStyle'>Return to Login</button>
             
