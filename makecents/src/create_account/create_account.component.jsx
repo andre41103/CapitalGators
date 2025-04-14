@@ -88,41 +88,42 @@ const Create_Account = () => {
           <h2 className='custom-h2'>Below we will ask you questions that will personalize your experience with us</h2>
           
           <div className="form-container">
-            <div className="form-group">
+            <div className="create-account-form-group">
               <label htmlFor='name'>Name:</label>
               <input type="text" id="name" name="name" placeholder="Full name" value={username} onChange={(e) => setName(e.target.value)} />
             </div>
           </div>
 
           <div className="form-container">
-            <div className="form-group">
+            <div className="create-account-form-group">
               <label htmlFor='email address'>Email Address:</label>
               <input type="text" id="email address" name="email address" placeholder="Valid Email Address" value={email} onChange={(e) => setEmail(e.target.value)}/>
             </div>
           </div>
 
           <div className="form-container">
-            <div className="form-group">
+            <div className="create-account-form-group">
               <label htmlFor='password'>Password:</label>
               <input type="password" id="password" name="password" placeholder="Enter Password" value={password} onChange={(e) => setPassword(e.target.value)}/>
             </div>
           </div>
 
           <div className="form-container">
-            <div className="form-group">
+            <div className="create-account-form-group">
               <label htmlFor='monthly income'>What is your monthly income? :</label>
               <input type="number" id="monthly income" name="monthly income" placeholder="$" value={monthlyIncome} onChange={(e) => setMonthlyIncome(parseInt(e.target.value, 10) || 0)}/>
             </div>
           </div>
 
           <div className="form-container">
-            <div className="form-group">
+            <div className="create-account-form-group">
               <label htmlFor='monthly spending goal'>What is your ideal monthly spending goal? :</label>
               <input type="number" id="monthly spending goal" name="monthly spending goal" placeholder="$" value={spendingGoal} onChange={(e) => setSpendingGoal(parseInt(e.target.value, 10) || 0)}/>
             </div>
           </div>
 
          <div className="form-container">
+          <div className='create-account-form-group'>
          <label htmlFor='categories'>What spending categories do you want to focus on? :</label>
             <div className="selection-boxes">
               {categories.map((category) => (
@@ -134,10 +135,12 @@ const Create_Account = () => {
                 </button>
               ))}
             </div>
+            </div>
          </div>
 
 
          <div className="form-container">
+          <div className='create-account-form-group'>
          <label htmlFor='newstopics'>What news topics most interest you to stay up to date? :</label>
             <div className="selection-boxes">
               {newsTopics.map((newsTopic) => (
@@ -149,12 +152,12 @@ const Create_Account = () => {
                 </button>
               ))}
             </div>
+            </div>
          </div>
 
          <button onClick={handleSubmit} className='buttonStyle'>Return to Login</button>
             
 
-         <footer className="footer"></footer>
         </div>
 
     );
