@@ -151,8 +151,8 @@ const Dashboard = () => {
       <div className="dashboard-container">
         {/* Pie Charts Row */}
         <div className='dashboard-rows'>
-          <div className='dashboard-container-wrapper top-row'>
-            <div className='dashboard-bottom-row-container centered'>
+          <div className='dashboard-container-wrapper'>
+            <div className='dashboard-bottom-row-container'>
               <div className='dashboard-container-title'>Spending by Category</div>
               <div className='top-row-boxes'>
                 <ResponsiveContainer width="100%" height={310}>
@@ -179,7 +179,7 @@ const Dashboard = () => {
                 </ResponsiveContainer>
               </div>
             </div>
-            <div className='dashboard-bottom-row-container centered'>
+            <div className='dashboard-bottom-row-container'>
               <div className='dashboard-container-title'>Budget Usage</div>
               <div className='top-row-boxes'>
                 <ResponsiveContainer width="100%" height={310}>
