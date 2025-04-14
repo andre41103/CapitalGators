@@ -80,12 +80,12 @@
 }
 
 .resource-scrollable-container::-webkit-scrollbar-thumb {
-    background: #5EC57E;
+    background: #aaabaa;
     border-radius: 10px;
 }
 
 .resource-scrollable-container::-webkit-scrollbar-thumb:hover {
-    background: #4caf50;
+    background: #aaabaa;
 }
 
 .card-info {
@@ -163,12 +163,12 @@
 }
 
 .chat-messages::-webkit-scrollbar-thumb {
-    background: #5EC57E;
+    background: #aaabaa;
     border-radius: 10px;
 }
 
 .chat-messages::-webkit-scrollbar-thumb:hover {
-    background: #4caf50;
+    background: #aaabaa;
 }
 
 .chat-message.user {
