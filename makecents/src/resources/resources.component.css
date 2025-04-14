@@ -27,6 +27,7 @@
     align-items: center;
     justify-content: flex-start;
     text-align: center;
+
 }
 
 .resources-footer {
@@ -70,6 +71,8 @@
     background-color: #f9f9f9;
     border-radius: 8px;
     box-sizing: border-box; 
+    border: 4px solid #5EC57E;
+
 }
 
 .resource-scrollable-container::-webkit-scrollbar {
@@ -126,6 +129,8 @@
     align-items: center;
     justify-content: flex-start;
     box-sizing: border-box;
+    border: 4px solid #5EC57E;
+
 }
 
 .chatbox {
