@@ -29,14 +29,17 @@ import (
 
 // This file will define/contain the main actions that can be done with the User schema
 type User struct {
-	Username     string        `json:"username" bson:"username"`
-	Password     string        `json:"password" bson:"password"`
-	Email        string        `json:"email" bson:"email"`
-	Monthincome  int           `json:"monthlyIncome" bson:"monthlyIncome"`
-	Spendinggoal int           `json:"spendingGoal" bson:"spendingGoal"`
-	Categories   []string      `json:"selectedCategories" bson:"selectedCategories"`
-	Newstopics   []string      `json:"selectedTopics" bson:"selectedTopics"`
-	UserReceipt  []ReceiptData `json:"userReceipt,omitempty" bson:"userReceipt,omitempty"` //this can be omitted when user originally created account
+	Username         string        `json:"username" bson:"username"`
+	Password         string        `json:"password" bson:"password"`
+	Email            string        `json:"email" bson:"email"`
+	Monthincome      int           `json:"monthlyIncome" bson:"monthlyIncome"`
+	Spendinggoal     int           `json:"spendingGoal" bson:"spendingGoal"`
+	Categories       []string      `json:"selectedCategories" bson:"selectedCategories"`
+	Newstopics       []string      `json:"selectedTopics" bson:"selectedTopics"`
+	UserReceipt      []ReceiptData `json:"userReceipt,omitempty" bson:"userReceipt,omitempty"` //this can be omitted when user originally created account
+	UserCurrentTotal float64       `json:"user_current_total" bson:"user_current_total"`
+	DateRange        int           `json:"date_range" bson:"date_range"`
+	RecurringTotal   float64       `json:"recurring_total" bson:"recurring_total"`
 }
 
 // nested Receipt for user
