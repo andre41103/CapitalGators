@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[9]:
-
-
 import os
 import json
 from azure.core.credentials import AzureKeyCredential
@@ -11,12 +8,16 @@ from azure.ai.documentintelligence import DocumentIntelligenceClient
 from PIL import Image
 
 def analyze_receipt(image_path):
+    
     endpoint = "https://resourceforimages.cognitiveservices.azure.com/"
     key = "FcpM8ICO9uWjpqUZjGMjcgu3TcBg363FsUTF2LhpObr4SAfJa3ngJQQJ99BCACYeBjFXJ3w3AAALACOGgWZc"
 
-    document_intelligence_client = DocumentIntelligenceClient(
-        endpoint=endpoint, credential=AzureKeyCredential(key)
-    )
+    try:
+        document_intelligence_client = DocumentIntelligenceClient(
+            endpoint=endpoint, credential=AzureKeyCredential(key)
+        )
+    except Exception as e:
+        return
 
     def get_field_value(field, field_type="string"):
         if field:
@@ -38,15 +39,28 @@ def analyze_receipt(image_path):
             img.save(resized_image_path, "JPEG", quality=max_quality)
         return resized_image_path
 
-    if os.path.getsize(image_path) > 4 * 1024 * 1024:
-        print("Resizing image...")
-        image_path = resize_image(image_path)
+    # Resize if image is too large
+    try:
+        if os.path.getsize(image_path) > 4 * 1024 * 1024:
+            image_path = resize_image(image_path)
 
-    with open(image_path, "rb") as receipt_file:
-        poller = document_intelligence_client.begin_analyze_document("prebuilt-receipt", receipt_file)
-        receipts = poller.result()
+    except Exception as e:
+        return
+
+    try:
+        with open(image_path, "rb") as receipt_file:
+            poller = document_intelligence_client.begin_analyze_document("prebuilt-receipt", receipt_file)
+            receipts = poller.result()
+    except Exception as e:
+        return
 
     cleaned_data = []
+
+    # Check if documents were found
+    if not receipts.documents:
+        return
+
+    # Process data and clean it for output
     for idx, receipt in enumerate(receipts.documents):
         receipt_info = {
             "merchant_name": get_field_value(receipt.fields.get("MerchantName")),
@@ -56,16 +70,12 @@ def analyze_receipt(image_path):
             "notes": "",
             "recurring": False
         }
+
         cleaned_data.append(receipt_info)
 
-    print(json.dumps(cleaned_data, indent=4))
-
-# function that takes in the receipt from the user
-# analyze_receipt("../new_images/receipt_2304.jpg")
+    # Final cleaned data (as JSON)
+    print(json.dumps(cleaned_data))
 
 
-# In[ ]:
-
-
-
-
+# Example usage
+analyze_receipt("uploaded_receipt.jpg")

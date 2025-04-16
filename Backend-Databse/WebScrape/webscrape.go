@@ -57,8 +57,6 @@ type CreditCard struct {
 
 func RequestPage() CreditCard {
 
-	fmt.Println("this is the start")
-
 	var card CreditCard
 
 	//get Working directory:

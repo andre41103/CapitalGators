@@ -284,10 +284,9 @@ func convertReceipt(w http.ResponseWriter, r *http.Request) {
 	defer output.Close()
 	io.Copy(output, file)
 
-	//execute script
-	scriptPath := dir + "/receipt_converter.py"
-	cmd := exec.Command("python3", scriptPath, imagePath)
-	fmt.Println(scriptPath)
+	fmt.Println("Dir:", dir)
+
+	cmd := exec.Command("python3", "receipt_converter.py")
 	out, err := cmd.CombinedOutput()
 
 	if err != nil {
@@ -297,10 +296,10 @@ func convertReceipt(w http.ResponseWriter, r *http.Request) {
 	}
 
 	//store the json obj
-	var receipt db.ReceiptData
+	var receipt []db.ReceiptData
 
 	err = json.Unmarshal(out, &receipt)
-
+	fmt.Println(err, out)
 	if err != nil {
 		http.Error(w, "cannot unmarshall the image file", http.StatusBadRequest)
 		return
