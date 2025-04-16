@@ -155,7 +155,7 @@ const Dashboard = () => {
             <div className='dashboard-bottom-row-container'>
               <div className='dashboard-container-title'>Spending by Category</div>
               <div className='top-row-boxes'>
-                <ResponsiveContainer width="100%" height={310}>
+                <ResponsiveContainer width="100%" height={315}>
                   <PieChart>
                     <Pie
                       data={categorySpending}
@@ -163,13 +163,14 @@ const Dashboard = () => {
                       nameKey="name"
                       cx="50%"
                       cy="50%"
+                      innerRadius={60}
                       outerRadius={100}
                       label
                     >
                       {categorySpending.map((entry, index) => (
                         <Cell
                           key={`cell-${index}`}
-                          fill={["#FF6347", "#8A2BE2", "#FFD700", "#FF1493", "#00BFFF", "#C71585"][index % 5]}
+                          fill={["#FF6347", "#8A2BE2", "#5ec57f", "#FF1493", "#00BFFF", "#C71585"][index % 5]}
                         />
                       ))}
                     </Pie>
@@ -182,7 +183,7 @@ const Dashboard = () => {
             <div className='dashboard-bottom-row-container'>
               <div className='dashboard-container-title'>Budget Usage</div>
               <div className='top-row-boxes'>
-                <ResponsiveContainer width="100%" height={310}>
+                <ResponsiveContainer width="100%" height={315}>
                   <PieChart>
                     <Pie
                       data={[
