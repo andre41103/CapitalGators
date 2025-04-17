@@ -9,6 +9,7 @@ import (
 	"os"
 	"os/exec"
 	"path/filepath"
+	"strconv"
 
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
@@ -33,6 +34,18 @@ func changeDirectory(parent, child string) string {
 	dir, _ := os.Getwd()
 
 	return dir
+}
+
+// helper function to turn date string into an int
+func parseStringtoInt(date string) int {
+
+	lastTwo := date[len(date)-2:] // Get last 2 characters
+	dayInt, err := strconv.Atoi(lastTwo)
+	if err != nil {
+		fmt.Println("Error converting to int:", err)
+	}
+
+	return dayInt
 }
 
 // this is our POST
@@ -334,6 +347,113 @@ func getBudgetInfo(w http.ResponseWriter, r *http.Request) {
 	json.NewEncoder(w).Encode(response)
 }
 
+// this function will add up the total and update it for the user
+func getReceiptTotal(w http.ResponseWriter, r *http.Request) {
+
+	w.Header().Set("Content-Type", "application/json")
+
+	params := mux.Vars(r)
+	email := params["email"]
+
+	user, err := db.GetOneUser(email)
+
+	total := 0.0
+
+	if err != nil {
+		http.Error(w, `{"error":"User not found"}`, http.StatusNotFound)
+		return
+	}
+
+	for _, receipt := range user.UserReceipt {
+
+		total += receipt.Total
+	}
+
+	user.UserCurrentTotal = total
+
+	err = db.UpdateReceiptTotal(email, *user)
+
+	//rewrite error if statement
+	if err != nil {
+		http.Error(w, `{"error": "error updating user"}`, http.StatusUnauthorized)
+		return
+	}
+
+	json.NewEncoder(w).Encode(user.UserCurrentTotal)
+}
+
+// this function will get the date range
+func getDateRange(w http.ResponseWriter, r *http.Request) {
+
+	w.Header().Set("Content-Type", "application/json")
+
+	params := mux.Vars(r)
+	email := params["email"]
+
+	user, err := db.GetOneUser(email)
+
+	dateRange := 0
+
+	if err != nil {
+		http.Error(w, `{"error":"User not found"}`, http.StatusNotFound)
+		return
+	}
+
+	for _, receipt := range user.UserReceipt {
+
+		if receiptDate := parseStringtoInt(receipt.Date); receiptDate > dateRange {
+
+			dateRange = receiptDate
+		}
+	}
+
+	err = db.UpdateDateRange(email, *user)
+
+	//rewrite error if statement
+	if err != nil {
+		http.Error(w, `{"error": "error updating user"}`, http.StatusUnauthorized)
+		return
+	}
+
+	json.NewEncoder(w).Encode(dateRange)
+}
+
+// this function will get the recurring total
+func getRecurringTotal(w http.ResponseWriter, r *http.Request) {
+
+	w.Header().Set("Content-Type", "application/json")
+
+	params := mux.Vars(r)
+	email := params["email"]
+
+	user, err := db.GetOneUser(email)
+
+	recurringTotal := 0.0
+
+	if err != nil {
+		http.Error(w, `{"error":"User not found"}`, http.StatusNotFound)
+		return
+	}
+
+	for _, receipt := range user.UserReceipt {
+
+		if receipt.Recurring {
+			recurringTotal += receipt.Total
+		}
+
+	}
+
+	err = db.UpdateRecurringTotal(email, *user)
+
+	//rewrite error if statement
+	if err != nil {
+		http.Error(w, `{"error": "error updating user"}`, http.StatusUnauthorized)
+		return
+	}
+
+	json.NewEncoder(w).Encode(recurringTotal)
+}
+
 func RunServer() http.Handler {
 
 	//new rouuter
@@ -349,6 +469,9 @@ func RunServer() http.Handler {
 	router.HandleFunc("/receipts/{email}", convertReceipt).Methods("PUT")
 	router.HandleFunc("/chatbot", chatBot).Methods("POST")
 	router.HandleFunc("/dashboard", getTickers).Methods("GET")
+	router.HandleFunc("/dashboard", getReceiptTotal).Methods("GET")
+	router.HandleFunc("/dashboard", getDateRange).Methods("GET")
+	router.HandleFunc("/dahsboard", getRecurringTotal).Methods("GET")
 	router.HandleFunc("/budget/{email}", getBudgetInfo).Methods("GET")
 
 	corsHandler := handlers.CORS(
