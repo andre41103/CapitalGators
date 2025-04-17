@@ -6,6 +6,25 @@ import json
 from azure.core.credentials import AzureKeyCredential
 from azure.ai.documentintelligence import DocumentIntelligenceClient
 from PIL import Image
+from sentence_transformers import SentenceTransformer, util
+
+model = SentenceTransformer('all-MiniLM-L6-v2')
+categories = [
+"Food & Dining",
+"Housing & Utilities",
+"Transportation",
+"Leisure",
+"Personal Care & Education"
+]
+category_embeddings = model.encode(categories, convert_to_tensor=True)
+
+def get_closest_category(merchant_name):
+    if not merchant_name:
+        return "Uncategorized"
+    merchant_embedding = model.encode(merchant_name, convert_to_tensor=True)
+    similarities = util.cos_sim(merchant_embedding, category_embeddings)
+    best_match_index = similarities.argmax().item()
+    return categories[best_match_index]
 
 def analyze_receipt(image_path):
     
@@ -64,7 +83,7 @@ def analyze_receipt(image_path):
     for idx, receipt in enumerate(receipts.documents):
         receipt_info = {
             "merchant_name": get_field_value(receipt.fields.get("MerchantName")),
-            "receipt_type": receipt.doc_type,
+            "receipt_type": get_closest_category(get_field_value(receipt.fields.get("MerchantName"))),
             "total": get_field_value(receipt.fields.get("Total"), "currency"),
             "date": get_field_value(receipt.fields.get("TransactionDate"), "date"),
             "notes": "",
