@@ -175,7 +175,6 @@ func createAccount(w http.ResponseWriter, r *http.Request) {
 }
 
 // update Profile
-
 func updateProfile(w http.ResponseWriter, r *http.Request) {
 
 	w.Header().Set("Content-Type", "application/json")
@@ -204,6 +203,7 @@ func updateProfile(w http.ResponseWriter, r *http.Request) {
 	json.NewEncoder(w).Encode(map[string]string{"message": "User successfully updated"})
 }
 
+// utilize chatbot functionality
 func chatBot(w http.ResponseWriter, r *http.Request) {
 
 	w.Header().Set("Content-Type", "application/json")
@@ -263,10 +263,11 @@ func convertReceipt(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json")
 
 	//get the file from http Request
-	file, _, err := r.FormFile("receipt_upload")
+	file, _, err := r.FormFile("image")
 
 	if err != nil {
 		http.Error(w, "Failed to read image", http.StatusBadRequest)
+		//fmt.Println(header.Filename)
 		return
 	}
 
@@ -283,22 +284,22 @@ func convertReceipt(w http.ResponseWriter, r *http.Request) {
 	defer output.Close()
 	io.Copy(output, file)
 
-	//execute script
-	scriptPath := dir + "receipt_converter.ipynb"
-	cmd := exec.Command("python3", scriptPath, imagePath)
+	fmt.Println("Dir:", dir)
 
-	out, err := cmd.Output()
+	cmd := exec.Command("python3", "receipt_converter.py")
+	out, err := cmd.CombinedOutput()
 
 	if err != nil {
 		http.Error(w, "Cannot run analysis", http.StatusBadRequest)
+		fmt.Println(string(out))
 		return
 	}
 
 	//store the json obj
-	var receipt db.ReceiptData
+	var receipt []db.ReceiptData
 
 	err = json.Unmarshal(out, &receipt)
-
+	fmt.Println(err, out)
 	if err != nil {
 		http.Error(w, "cannot unmarshall the image file", http.StatusBadRequest)
 		return
@@ -345,11 +346,10 @@ func RunServer() http.Handler {
 	router.HandleFunc("/resources", retrieveCreditCards).Methods("GET")
 	router.HandleFunc("/receipts/{email}", uploadReceipt).Methods("POST")
 	router.HandleFunc("/reports/{email}", getReceipts).Methods("GET")
-	router.HandleFunc("/receipts", convertReceipt).Methods("GET")
+	router.HandleFunc("/receipts/{email}", convertReceipt).Methods("PUT")
 	router.HandleFunc("/chatbot", chatBot).Methods("POST")
 	router.HandleFunc("/dashboard", getTickers).Methods("GET")
 	router.HandleFunc("/budget/{email}", getBudgetInfo).Methods("GET")
-
 
 	corsHandler := handlers.CORS(
 		handlers.AllowedOrigins([]string{"*"}),
