@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Armstrong Inc",
+        "receipt_type": "Leisure",
+        "total": 394.19,
+        "date": "2017-05-03",
+        "notes": "",
+        "recurring": true
+    }
+]

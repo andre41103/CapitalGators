@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Fuji",
+        "receipt_type": "Leisure",
+        "total": 1199.0,
+        "date": "2018-03-31",
+        "notes": "",
+        "recurring": true
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Cornerstone Cafe",
+        "receipt_type": "Food & Dining",
+        "total": 17.42,
+        "date": "2017-08-16",
+        "notes": "",
+        "recurring": false
+    }
+]

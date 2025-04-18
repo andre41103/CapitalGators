@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Lilly O'Briens",
+        "receipt_type": "Leisure",
+        "total": 23.0,
+        "date": "2016-03-15",
+        "notes": "",
+        "recurring": true
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Pumpkin Shop",
+        "receipt_type": "Food & Dining",
+        "total": 1.0,
+        "date": "2011-01-27",
+        "notes": "",
+        "recurring": false
+    }
+]

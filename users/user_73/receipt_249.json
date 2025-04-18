@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Foot Locker.",
+        "receipt_type": "Transportation",
+        "total": 217.5,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

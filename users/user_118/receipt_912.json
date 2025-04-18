@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Sakana of Tokyo",
+        "receipt_type": "Transportation",
+        "total": 20.74,
+        "date": "2016-12-31",
+        "notes": "",
+        "recurring": false
+    }
+]

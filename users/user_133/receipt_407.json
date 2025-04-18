@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Fatboy's\nBurger Bar",
+        "receipt_type": "Food & Dining",
+        "total": 57.5,
+        "date": "2013-02-22",
+        "notes": "",
+        "recurring": false
+    }
+]

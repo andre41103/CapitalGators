@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "CIRCLE K",
+        "receipt_type": "Transportation",
+        "total": 10.05,
+        "date": "2015-09-23",
+        "notes": "",
+        "recurring": false
+    }
+]

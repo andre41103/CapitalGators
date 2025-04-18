@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "ROSS",
+        "receipt_type": "Transportation",
+        "total": 1.99,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "COOL HARRY'S ATM",
+        "receipt_type": "Transportation",
+        "total": 100.0,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

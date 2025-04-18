@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "PETRON",
+        "receipt_type": "Transportation",
+        "total": 300.0,
+        "date": "2015-10-16",
+        "notes": "",
+        "recurring": false
+    }
+]
