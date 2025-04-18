@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "The Wild",
+        "receipt_type": "Leisure",
+        "total": 72.95,
+        "date": "2016-02-08",
+        "notes": "",
+        "recurring": true
+    }
+]

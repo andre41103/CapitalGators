@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Peter Chang",
+        "receipt_type": "Transportation",
+        "total": 114.95,
+        "date": "2016-05-07",
+        "notes": "",
+        "recurring": false
+    }
+]

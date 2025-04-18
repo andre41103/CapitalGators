@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Chick-fil-a",
+        "receipt_type": "Food & Dining",
+        "total": 6.66,
+        "date": "2009-07-10",
+        "notes": "",
+        "recurring": false
+    }
+]

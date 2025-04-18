@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Tire Shop",
+        "receipt_type": "Transportation",
+        "total": 15.0,
+        "date": null,
+        "notes": "Tire Repair",
+        "recurring": false
+    }
+]

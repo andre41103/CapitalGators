@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "WINDY CITY HARLEY-DAVIDSON",
+        "receipt_type": "Transportation",
+        "total": 22.05,
+        "date": "2017-09-06",
+        "notes": "",
+        "recurring": false
+    }
+]

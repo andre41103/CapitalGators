@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Smith-Petersen",
+        "receipt_type": "Transportation",
+        "total": 7920.0,
+        "date": "2014-01-03",
+        "notes": "",
+        "recurring": false
+    }
+]

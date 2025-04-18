@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "HP Pho Ga",
+        "receipt_type": "Transportation",
+        "total": 33.26,
+        "date": "2019-04-01",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "The Hyde",
+        "receipt_type": "Transportation",
+        "total": 6.2,
+        "date": "2018-04-12",
+        "notes": "",
+        "recurring": false
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "IHOP",
+        "receipt_type": "Food & Dining",
+        "total": null,
+        "date": "2016-02-29",
+        "notes": "",
+        "recurring": false
+    }
+]

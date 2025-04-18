@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "The Westin Detroit",
+        "receipt_type": "Transportation",
+        "total": 54.06,
+        "date": "2016-10-23",
+        "notes": "",
+        "recurring": false
+    }
+]

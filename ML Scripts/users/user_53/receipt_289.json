@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "BAR LOUIE",
+        "receipt_type": "Food & Dining",
+        "total": 5.45,
+        "date": "2014-09-18",
+        "notes": "",
+        "recurring": false
+    }
+]
