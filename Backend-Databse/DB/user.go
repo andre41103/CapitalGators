@@ -68,6 +68,7 @@ func GetOneUser(email string) (*User, error) {
 
 	err := coll.FindOne(context.TODO(), bson.D{{Key: "email", Value: email}}).Decode(&user)
 
+	print(err)
 	if err == mongo.ErrNoDocuments {
 		fmt.Println("Could not find the document title")
 		return nil, err
@@ -180,68 +181,8 @@ func UpdateReceiptTotal(email string, updateUser User) error {
 	update := bson.M{
 		"$set": bson.M{
 			"user_current_total": updateUser.UserCurrentTotal,
-		},
-	}
-
-	result, err := coll.UpdateOne(ctx, identifier, update)
-
-	if err != nil {
-		return fmt.Errorf("error updating user %v", err)
-	}
-
-	//There is no user in DB to update
-	if result.MatchedCount == 0 {
-		return fmt.Errorf("no user to update (invalid email) %v", err)
-	}
-
-	return nil
-}
-
-func UpdateDateRange(email string, updateUser User) error {
-
-	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
-	defer cancel()
-
-	//get the collection -> makeCents
-	coll := getCollection()
-
-	//an identifier
-	identifier := bson.M{"email": email}
-
-	update := bson.M{
-		"$set": bson.M{
-			"date_range": updateUser.DateRange,
-		},
-	}
-
-	result, err := coll.UpdateOne(ctx, identifier, update)
-
-	if err != nil {
-		return fmt.Errorf("error updating user %v", err)
-	}
-
-	//There is no user in DB to update
-	if result.MatchedCount == 0 {
-		return fmt.Errorf("no user to update (invalid email) %v", err)
-	}
-
-	return nil
-}
-
-func UpdateRecurringTotal(email string, updateUser User) error {
-
-	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
-	defer cancel()
-
-	//get the collection -> makeCents
-	coll := getCollection()
-
-	//an identifier
-	identifier := bson.M{"email": email}
-
-	update := bson.M{
-		"$set": bson.M{
-			"recurring_total": updateUser.RecurringTotal,
+			"date_range":         updateUser.DateRange,
+			"recurring_total":    updateUser.RecurringTotal,
 		},
 	}
 

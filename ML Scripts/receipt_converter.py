@@ -93,7 +93,7 @@ def analyze_receipt(image_path):
         cleaned_data.append(receipt_info)
 
     # Final cleaned data (as JSON)
-    print(json.dumps(cleaned_data))
+    print(json.dumps(cleaned_data), end='')
 
 
 # Example usage
