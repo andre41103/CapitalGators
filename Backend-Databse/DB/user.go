@@ -58,7 +58,7 @@ func getCollection() *mongo.Collection {
 	return client.Database(db).Collection(collName)
 }
 
-// Gets infor of One user: accepts a string, outputs a string (field info) and error (if there is one present)
+// Gets info of One user: accepts a string, outputs a string (field info) and error (if there is one present)
 func GetOneUser(email string) (*User, error) {
 
 	//lets get the collection Users
@@ -68,6 +68,7 @@ func GetOneUser(email string) (*User, error) {
 
 	err := coll.FindOne(context.TODO(), bson.D{{Key: "email", Value: email}}).Decode(&user)
 
+	print(err)
 	if err == mongo.ErrNoDocuments {
 		fmt.Println("Could not find the document title")
 		return nil, err
@@ -148,6 +149,40 @@ func UpdateProfile(email string, updateUser User) error {
 			"spendingGoal":       updateUser.Spendinggoal,
 			"selectedCategories": updateUser.Categories,
 			"selectedTopics":     updateUser.Newstopics,
+		},
+	}
+
+	result, err := coll.UpdateOne(ctx, identifier, update)
+
+	if err != nil {
+		return fmt.Errorf("error updating user %v", err)
+	}
+
+	//There is no user in DB to update
+	if result.MatchedCount == 0 {
+		return fmt.Errorf("no user to update (invalid email) %v", err)
+	}
+
+	return nil
+}
+
+// add up the receipt total:
+func UpdateReceiptTotal(email string, updateUser User) error {
+
+	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	defer cancel()
+
+	//get the collection -> makeCents
+	coll := getCollection()
+
+	//an identifier
+	identifier := bson.M{"email": email}
+
+	update := bson.M{
+		"$set": bson.M{
+			"user_current_total": updateUser.UserCurrentTotal,
+			"date_range":         updateUser.DateRange,
+			"recurring_total":    updateUser.RecurringTotal,
 		},
 	}
 

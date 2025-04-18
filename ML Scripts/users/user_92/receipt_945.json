@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "BURGER KING",
+        "receipt_type": "Food & Dining",
+        "total": 6.6,
+        "date": "2014-05-18",
+        "notes": "",
+        "recurring": false
+    }
+]

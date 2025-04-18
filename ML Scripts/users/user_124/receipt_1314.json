@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Walmart",
+        "receipt_type": "Food & Dining",
+        "total": 12.58,
+        "date": "2016-07-22",
+        "notes": "",
+        "recurring": false
+    }
+]

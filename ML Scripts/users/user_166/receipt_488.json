@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Texas Chicken",
+        "receipt_type": "Food & Dining",
+        "total": 50.0,
+        "date": "2017-01-06",
+        "notes": "",
+        "recurring": false
+    }
+]

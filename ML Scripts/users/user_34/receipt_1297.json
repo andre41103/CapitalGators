@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Jimmy Johns",
+        "receipt_type": "Leisure",
+        "total": 33.51,
+        "date": "2016-05-11",
+        "notes": "",
+        "recurring": false
+    }
+]

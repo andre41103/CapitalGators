@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Scott LLC",
+        "receipt_type": "Transportation",
+        "total": 237.49,
+        "date": "2015-01-10",
+        "notes": "",
+        "recurring": false
+    }
+]

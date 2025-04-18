@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Shell",
+        "receipt_type": "Transportation",
+        "total": 50.0,
+        "date": null,
+        "notes": "",
+        "recurring": false
+    }
+]

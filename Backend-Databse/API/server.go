@@ -1,6 +1,7 @@
 package api
 
 import (
+	"bytes"
 	"encoding/json"
 	"fmt"
 	"io"
@@ -9,6 +10,7 @@ import (
 	"os"
 	"os/exec"
 	"path/filepath"
+	"strconv"
 
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
@@ -33,6 +35,21 @@ func changeDirectory(parent, child string) string {
 	dir, _ := os.Getwd()
 
 	return dir
+}
+
+// helper function to turn date string into an int
+func parseStringtoInt(date string) int {
+
+	if date == "" {
+		return 0
+	}
+	lastTwo := date[len(date)-2:] // Get last 2 characters
+	dayInt, err := strconv.Atoi(lastTwo)
+	if err != nil {
+		fmt.Println("Error converting to int:", err)
+	}
+
+	return dayInt
 }
 
 // this is our POST
@@ -295,10 +312,19 @@ func convertReceipt(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
+	// capture the Python script's output (assuming it's in `out`)
+	jsonStart := bytes.IndexByte(out, byte('[')) // JSON starts with '['
+	if jsonStart == -1 {
+		http.Error(w, "could not find start of JSON in output", http.StatusBadRequest)
+		return
+	}
+
+	jsonOut := out[jsonStart:] // slice only the JSON portion
+
 	//store the json obj
 	var receipt []db.ReceiptData
 
-	err = json.Unmarshal(out, &receipt)
+	err = json.Unmarshal(jsonOut, &receipt)
 	fmt.Println(err, out)
 	if err != nil {
 		http.Error(w, "cannot unmarshall the image file", http.StatusBadRequest)
@@ -334,6 +360,56 @@ func getBudgetInfo(w http.ResponseWriter, r *http.Request) {
 	json.NewEncoder(w).Encode(response)
 }
 
+// this function will add up the total and update it for the user
+func updateMLInfo(w http.ResponseWriter, r *http.Request) {
+
+	w.Header().Set("Content-Type", "application/json")
+
+	params := mux.Vars(r)
+	email := params["email"]
+
+	user, err := db.GetOneUser(email)
+
+	total := 0.0
+	recurringTotal := 0.0
+	dateRange := 0
+
+	if err != nil {
+		http.Error(w, `{"error":"User not found"}`, http.StatusNotFound)
+		return
+	}
+
+	for _, receipt := range user.UserReceipt {
+
+		total += receipt.Total
+
+		if date := parseStringtoInt(receipt.Date); date > dateRange {
+			dateRange = date
+		}
+
+		if receipt.Recurring {
+			recurringTotal += receipt.Total
+		}
+	}
+
+	fmt.Println("The ")
+	user.UserCurrentTotal = total
+	user.RecurringTotal = recurringTotal
+	user.DateRange = dateRange
+
+	err = db.UpdateReceiptTotal(email, *user)
+
+	fmt.Println("after updateReceiptTotal function")
+
+	//rewrite error if statement
+	if err != nil {
+		http.Error(w, `{"error": "error updating user"}`, http.StatusUnauthorized)
+		return
+	}
+
+	json.NewEncoder(w).Encode(user)
+}
+
 func RunServer() http.Handler {
 
 	//new rouuter
@@ -349,6 +425,7 @@ func RunServer() http.Handler {
 	router.HandleFunc("/receipts/{email}", convertReceipt).Methods("PUT")
 	router.HandleFunc("/chatbot", chatBot).Methods("POST")
 	router.HandleFunc("/dashboard", getTickers).Methods("GET")
+	router.HandleFunc("/dashboard/{email}", updateMLInfo).Methods("GET")
 	router.HandleFunc("/budget/{email}", getBudgetInfo).Methods("GET")
 
 	corsHandler := handlers.CORS(

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Queensboro Car Wash",
+        "receipt_type": "Transportation",
+        "total": 48.98,
+        "date": "2016-06-10",
+        "notes": "",
+        "recurring": false
+    }
+]

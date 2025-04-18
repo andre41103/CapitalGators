@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Denny's Restaurant",
+        "receipt_type": "Food & Dining",
+        "total": 5.29,
+        "date": "2015-08-30",
+        "notes": "",
+        "recurring": false
+    }
+]

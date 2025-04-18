@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "PIZZA HUT",
+        "receipt_type": "Food & Dining",
+        "total": 29.25,
+        "date": "2009-09-27",
+        "notes": "",
+        "recurring": false
+    }
+]

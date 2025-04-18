@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Lucas Inc",
+        "receipt_type": "Leisure",
+        "total": 101.07,
+        "date": "2016-06-19",
+        "notes": "",
+        "recurring": true
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Williams and Sons",
+        "receipt_type": "Transportation",
+        "total": 538.67,
+        "date": "2015-08-23",
+        "notes": "",
+        "recurring": false
+    }
+]

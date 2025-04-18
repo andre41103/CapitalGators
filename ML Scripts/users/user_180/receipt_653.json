@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Starbucks Coffee",
+        "receipt_type": "Transportation",
+        "total": 2.1,
+        "date": "2011-12-31",
+        "notes": "",
+        "recurring": false
+    }
+]

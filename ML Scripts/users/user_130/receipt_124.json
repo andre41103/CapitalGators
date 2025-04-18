@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "El Gato Negro",
+        "receipt_type": "Leisure",
+        "total": 21.76,
+        "date": "2019-08-23",
+        "notes": "",
+        "recurring": true
+    }
+]

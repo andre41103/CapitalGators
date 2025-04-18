@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "SHELL",
+        "receipt_type": "Transportation",
+        "total": 10.0,
+        "date": "2014-01-02",
+        "notes": "",
+        "recurring": false
+    }
+]

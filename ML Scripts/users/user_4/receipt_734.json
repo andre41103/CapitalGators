@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "BARNEY'S BURGERS",
+        "receipt_type": "Food & Dining",
+        "total": 28.17,
+        "date": "2011-08-03",
+        "notes": "",
+        "recurring": false
+    }
+]

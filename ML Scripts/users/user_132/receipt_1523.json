@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Young LLC\nRodriguez LLC",
+        "receipt_type": "Leisure",
+        "total": 112.12,
+        "date": "2020-03-23",
+        "notes": "",
+        "recurring": true
+    }
+]

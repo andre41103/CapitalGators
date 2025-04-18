@@ -1,0 +1,10 @@
+[
+    {
+        "merchant_name": "Walgreens",
+        "receipt_type": "Personal Care & Education",
+        "total": 10.51,
+        "date": "2014-01-24",
+        "notes": "",
+        "recurring": true
+    }
+]
