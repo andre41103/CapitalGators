@@ -338,6 +338,62 @@ func convertReceipt(w http.ResponseWriter, r *http.Request) {
 
 }
 
+func displayGraph(w http.ResponseWriter, r *http.Request) {
+
+	w.Header().Set("Content-Type", "img/png")
+
+	dir := changeDirectory("..", "ML Scripts")
+	fmt.Println("Dir:", dir)
+
+	//get the email parameters -> get user -> just run script for now, parameters will be set later
+	params := mux.Vars(r)
+	email := params["email"]
+
+	user, err := db.GetOneUser(email)
+
+	if user.UserReceipt == nil && err != nil {
+		http.Error(w, "User has not uploaded any receipts", http.StatusMethodNotAllowed)
+		return
+	}
+
+	//run the Training script
+	cmd := exec.Command("python3", "TrainingScript.py")
+	out, err := cmd.CombinedOutput()
+
+	if err != nil {
+		http.Error(w, "Cannot run analysis training script", http.StatusBadRequest)
+		fmt.Println(string(out))
+		return
+	}
+
+	//convert into string
+	dateRange := strconv.Itoa(user.DateRange)
+	currentTotal := strconv.FormatFloat(user.UserCurrentTotal, 'f', 2, 64)
+	recurringTotal := strconv.FormatFloat(user.RecurringTotal, 'f', 2, 64)
+
+	//run the Backend ML script
+	cmd = exec.Command("python3", "BackendMLScript.py", currentTotal, dateRange, recurringTotal)
+	out, err = cmd.CombinedOutput()
+
+	if err != nil {
+		http.Error(w, "Cannot run backend ML script", http.StatusBadRequest)
+		fmt.Println(string(out))
+		return
+	}
+
+	// Read the graph image
+	imgPath := filepath.Join(dir, "spending_projection.png")
+	imgData, err := os.ReadFile(imgPath)
+	if err != nil {
+		http.Error(w, "Failed to read generated graph", http.StatusInternalServerError)
+		return
+	}
+
+	// Send the image in response
+	w.WriteHeader(http.StatusOK)
+	w.Write(imgData)
+}
+
 func getBudgetInfo(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json")
 
@@ -392,7 +448,6 @@ func updateMLInfo(w http.ResponseWriter, r *http.Request) {
 		}
 	}
 
-	fmt.Println("The ")
 	user.UserCurrentTotal = total
 	user.RecurringTotal = recurringTotal
 	user.DateRange = dateRange
@@ -426,6 +481,7 @@ func RunServer() http.Handler {
 	router.HandleFunc("/chatbot", chatBot).Methods("POST")
 	router.HandleFunc("/dashboard", getTickers).Methods("GET")
 	router.HandleFunc("/dashboard/{email}", updateMLInfo).Methods("GET")
+	router.HandleFunc("/dashboard/{email}/graph", displayGraph).Methods("GET")
 	router.HandleFunc("/budget/{email}", getBudgetInfo).Methods("GET")
 
 	corsHandler := handlers.CORS(
