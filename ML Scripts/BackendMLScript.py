@@ -10,6 +10,7 @@ import pandas as pd
 import pickle
 import calendar
 from datetime import datetime
+import sys
 
 
 # In[2]:
@@ -41,8 +42,21 @@ def predict_monthly_spending(total, date_range, recurring_total):
         'date_range': date_range,
         'recurring_total': recurring_total,
     }
+
+    # Add missing features as 0
+    for feature in features:
+        if feature not in data_dict:
+            data_dict[feature] = 0
+
+    # Build input DataFrame with expected feature columns
     X_new = pd.DataFrame([data_dict], columns=features)
+
+    # Replace any remaining NaNs with 0
+    X_new = X_new.fillna(0)
+
+    # Predict
     prediction = model.predict(X_new)[0]
+    
     
     return prediction
 
@@ -114,9 +128,13 @@ def plot_user_spending(prediction, daily_spending, purchase_dates, export_path='
 # # This is just a hard coded example of using the functions
 # # The data needs to be queried and passed in as parameters to the functions!!
 
-total = 900
-date_range = 29
-recurring_total = 400
+total = float(sys.argv[1])
+date_range = float(sys.argv[2])
+recurring_total = float(sys.argv[3])
+
+#check to see if it works or not
+print(f"Total: {total}, Date Range: {date_range}, Recurring Total: {recurring_total}")
+
 daily_spending = [15.2, 8.7, 12.4, 10.1, 18.3, 9.0, 7.5, 11.2, 16.5, 10.0, 13.1, 14.4]
 purchase_dates = ['2025-04-01', '2025-04-02', '2025-04-03', '2025-04-04', '2025-04-05', '2025-04-06', 
                   '2025-04-07', '2025-04-08', '2025-04-09', '2025-04-10', '2025-04-11', '2025-04-12']

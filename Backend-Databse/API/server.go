@@ -366,8 +366,13 @@ func displayGraph(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
+	//convert into string
+	dateRange := strconv.Itoa(user.DateRange)
+	currentTotal := strconv.FormatFloat(user.UserCurrentTotal, 'f', 2, 64)
+	recurringTotal := strconv.FormatFloat(user.RecurringTotal, 'f', 2, 64)
+
 	//run the Backend ML script
-	cmd = exec.Command("python3", "BackendMLScript.py")
+	cmd = exec.Command("python3", "BackendMLScript.py", currentTotal, dateRange, recurringTotal)
 	out, err = cmd.CombinedOutput()
 
 	if err != nil {
