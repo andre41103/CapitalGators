@@ -28,6 +28,11 @@ const Reports = () => {
     const [expenses, setExpenses] = useState(0);
     const [remaining, setRemaining] = useState(0);
     const [topCategories, setTopCategories] = useState([]);
+    const [currentMonthReceipts, setCurrentMonthReceipts] = useState([]);
+    const [graphUrl, setGraphUrl] = useState('');
+    const [graphLoading, setGraphLoading] = useState(true);
+
+
 
 
     useEffect(() => {
@@ -65,6 +70,9 @@ const Reports = () => {
 
           return receiptYear === currentYear && receiptMonth === currentMonth;
         });
+
+        setCurrentMonthReceipts(filteredReceipts);
+
 
           const totalExpenses = filteredReceipts.reduce((sum, receipt) => sum + (receipt.total || 0), 0);
           const recurringExpenses = receiptData.filter(receipt => receipt.recurring).reduce((sum, receipt) => {
@@ -106,6 +114,26 @@ const Reports = () => {
           setTopCategories(sortedCategories);
         })
         .catch((error) => console.error('Error fetching receipts:', error));
+
+        const fetchGraph = async () => {
+          const userEmail = localStorage.getItem('userEmail');
+          if (!userEmail) return;
+          setGraphLoading(true);
+    
+          try {
+            const response = await fetch(`http://localhost:8080/dashboard/${userEmail}/graph`);
+            const blob = await response.blob();
+            const imageUrl = URL.createObjectURL(blob);
+            setGraphUrl(imageUrl);
+            console.log("Graph URL:", imageUrl);
+            setGraphLoading(false);
+    
+          } catch (error) {
+            console.error('Error fetching graph image:', error);
+          }
+        };
+        fetchGraph();
+
     }, []);
     
     useEffect(() => {
@@ -116,53 +144,6 @@ const Reports = () => {
     const numericExpenses = Number(expenses) || 0;
     const savedPercentage = numericBudget > 0
       ? Math.round(((numericBudget - numericExpenses) / numericBudget) * 100): 0;
-
-    
-      const lineChartData = {
-        labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May'], // Replace labels as appropriate
-        datasets: [
-          {
-            label: 'Projected Spending',
-            data: [500, 750, 650, 900, 800],  // 5 numbers to showcase
-            fill: false,
-            borderColor: 'green',
-            backgroundColor: 'black',
-            tension: 0.4,
-          },
-        ],
-      };
-    
-      const lineChartOptions = {
-        responsive: true,
-        maintainAspectRatio: false,
-        responsive: true,
-        plugins: {
-          legend: {
-            display: false,
-          },
-          title: {
-            display: false,
-          },
-        },
-        scales: {
-          x: {
-            ticks: {
-              color: 'black', // color of x-axis labels
-            },
-            grid: {
-              color: 'rgba(0,0,0,0.1)', // subtle grid line color
-            },
-          },
-          y: {
-            ticks: {
-              color: 'black', // color of y-axis labels
-            },
-            grid: {
-              color: 'rgba(0,0,0,0.1)', // subtle grid line color
-            },
-          },
-        },
-      };
 
     return (
       <>
@@ -177,12 +158,19 @@ const Reports = () => {
       <div className="reports-container">
         <div className="left-side">
           <div className='reports-container-wrapper'>
-            <h1 className="reports-container-title">Projected Spending</h1>
-            <div className="project-spending-report-left-box" style={{ position: 'relative' }}>
-              <div style={{ width: '100%', height: '100%' }}>
-                <Line data={lineChartData} options={lineChartOptions} />
-              </div>
-            </div>
+            <h1 className="projected-spending-reports-container-title">Projected Spending</h1>
+            <div className='project-spending-report-left-box reports-graph-box-wrapper'>
+                {graphLoading ? (
+                  <div className="loading-spinner">Loading chart...</div>
+                  ) : currentMonthReceipts.length >= 4 && graphUrl ? (
+                    <img src={graphUrl} alt="Projected Spending Graph" className='reports-projected-graph-image'/>
+                  ) : (
+                  <>
+                  <img src={graphUrl || ''} alt="Blurred Projected Spending Graph" className='projected-graph-image reports-blurred'/>
+                   <div className='reports-graph-overlay-message'>Add at least 4 receipts from this month to view your projected spending chart</div>
+                  </>
+                  )}
+                </div>
           </div>
           <div className='reports-container-wrapper'>
             <div className='reports-left-side-row-container'>
