@@ -114,8 +114,7 @@ def plot_user_spending(prediction, daily_spending, purchase_dates, export_path='
 
     # Save the plot
     plt.tight_layout()
-    plt.savefig(export_path)
-    plt.show()
+    plt.savefig(export_path, bbox_inches='tight', pad_inches=0)
 
 
 # In[9]:
