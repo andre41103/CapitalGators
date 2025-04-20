@@ -86,6 +86,22 @@ func GetOneUser(email string) (*User, error) {
 		panic(err)
 	}
 
+	currentTime := time.Now()
+	currentYear, currentMonth, _ := currentTime.Date()
+
+	var filteredReceipts []ReceiptData
+	for _, receipt := range user.UserReceipt {
+		receiptTime, err := time.Parse("2006-01-02", receipt.Date)
+		if err != nil {
+			continue // Skip bad dates
+		}
+		if receiptTime.Year() == currentYear && receiptTime.Month() == currentMonth {
+			filteredReceipts = append(filteredReceipts, receipt)
+		}
+	}
+
+	user.UserReceipt = filteredReceipts
+
 	fmt.Printf("%s\n", jsonData)
 
 	return &user, nil

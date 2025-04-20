@@ -11,6 +11,7 @@ import (
 	"os/exec"
 	"path/filepath"
 	"strconv"
+	"strings"
 
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
@@ -366,13 +367,29 @@ func displayGraph(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
+	//grab the total and the date range into a slice
+	var dates []string
+	var dailySpending []string
+
+	//append the slices
+	for _, receipt := range user.UserReceipt {
+
+		dates = append(dates, receipt.Date)
+		totalConvert := strconv.FormatFloat(receipt.Total, 'f', 2, 64)
+		dailySpending = append(dailySpending, totalConvert)
+
+	}
+
+	dateArg := strings.Join(dates, ",")
+	dailySpendArg := strings.Join(dailySpending, ",")
+
 	//convert into string
 	dateRange := strconv.Itoa(user.DateRange)
 	currentTotal := strconv.FormatFloat(user.UserCurrentTotal, 'f', 2, 64)
 	recurringTotal := strconv.FormatFloat(user.RecurringTotal, 'f', 2, 64)
 
 	//run the Backend ML script
-	cmd = exec.Command("python3", "BackendMLScript.py", currentTotal, dateRange, recurringTotal)
+	cmd = exec.Command("python3", "BackendMLScript.py", currentTotal, dateRange, recurringTotal, dateArg, dailySpendArg)
 	out, err = cmd.CombinedOutput()
 
 	if err != nil {

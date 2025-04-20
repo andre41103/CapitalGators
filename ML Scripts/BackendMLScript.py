@@ -131,12 +131,26 @@ total = float(sys.argv[1])
 date_range = float(sys.argv[2])
 recurring_total = float(sys.argv[3])
 
+date = sys.argv[4]
+purchase_dates = date.split(",")
+spending = sys.argv[5]
+spending_string= spending.split(",")
+
+daily_spending = []
+#error handling in case we have an empty list
+for x in spending_string:
+    try:
+        daily_spending.append(float(x))
+    except ValueError:
+        daily_spending.append(0.0)
+
+
 #check to see if it works or not
 print(f"Total: {total}, Date Range: {date_range}, Recurring Total: {recurring_total}")
 
-daily_spending = [15.2, 8.7, 12.4, 10.1, 18.3, 9.0, 7.5, 11.2, 16.5, 10.0, 13.1, 14.4]
-purchase_dates = ['2025-04-01', '2025-04-02', '2025-04-03', '2025-04-04', '2025-04-05', '2025-04-06', 
-                  '2025-04-07', '2025-04-08', '2025-04-09', '2025-04-10', '2025-04-11', '2025-04-12']
+#daily_spending = [15.2, 8.7, 12.4, 10.1, 18.3, 9.0, 7.5, 11.2, 16.5, 10.0, 13.1, 14.4]
+#purchase_dates = ['2025-04-01', '2025-04-02', '2025-04-03', '2025-04-04', '2025-04-05', '2025-04-06', 
+#                  '2025-04-07', '2025-04-08', '2025-04-09', '2025-04-10', '2025-04-11', '2025-04-12']
 
 # # call model to make prediction
 prediction = predict_monthly_spending(total, date_range, recurring_total)
@@ -144,3 +158,5 @@ prediction = predict_monthly_spending(total, date_range, recurring_total)
 # # generate graph based on model
 plot_user_spending(prediction, daily_spending, purchase_dates)
 
+
+# %%
