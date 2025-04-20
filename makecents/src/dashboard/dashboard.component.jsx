@@ -31,11 +31,39 @@ const Dashboard = () => {
   const [budget, setBudget] = useState(0);
   const [expenses, setExpenses] = useState(0);
   const [categorySpending, setCategorySpending] = useState([]);
+  const [graphUrl, setGraphUrl] = useState('');
+  const [receipts, setReceipts] = useState([]);
+  const [currentMonthReceipts, setCurrentMonthReceipts] = useState([]);
+  const [graphLoading, setGraphLoading] = useState(true);
+
+
 
   useEffect(() => {
+
+    const fetchGraph = async () => {
+      const userEmail = localStorage.getItem('userEmail');
+      if (!userEmail) return;
+      setGraphLoading(true);
+
+      try {
+        const response = await fetch(`http://localhost:8080/dashboard/${userEmail}/graph`);
+        const blob = await response.blob();
+        const imageUrl = URL.createObjectURL(blob);
+        setGraphUrl(imageUrl);
+        console.log("Graph URL:", imageUrl);
+        setGraphLoading(false);
+
+      } catch (error) {
+        console.error('Error fetching graph image:', error);
+      }
+    };
+    
+
     fetchStockData();
     fetchDashboardData();
+    fetchGraph();
   }, []);
+  
 
   const fetchStockData = async () => {
     try {
@@ -58,6 +86,7 @@ const Dashboard = () => {
 
       const receiptRes = await fetch(`http://localhost:8080/reports/${userEmail}`);
       const receiptData = await receiptRes.json();
+      setReceipts(receiptData);
 
       const now = new Date();
       const currentMonth = now.getMonth();
@@ -67,6 +96,8 @@ const Dashboard = () => {
         const date = new Date(r.date);
         return date.getMonth() === currentMonth && date.getFullYear() === currentYear;
       });
+
+      setCurrentMonthReceipts(filteredReceipts);
 
       const spendingMap = {};
       filteredReceipts.forEach(r => {
@@ -91,51 +122,6 @@ const Dashboard = () => {
 
   const handleProfile = () => {
     navigate('/profile');
-  };
-
-  const lineChartData = {
-    labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May'], // Example labels
-    datasets: [
-      {
-        label: 'Projected Spending',
-        data: [500, 750, 650, 900, 800], // Example data points
-        fill: false,
-        borderColor: 'black',
-        backgroundColor: 'black',
-        tension: 0.4,
-      },
-    ],
-  };
-  
-  const lineChartOptions = {
-    responsive: true,
-    maintainAspectRatio: false, // Allow the chart to fill its container dimensions
-    plugins: {
-      legend: {
-        display: false,
-      },
-      title: {
-        display: false,
-      },
-    },
-    scales: {
-      x: {
-        ticks: {
-          color: 'black', // x-axis number color
-        },
-        grid: {
-          color: 'rgba(0,0,0,0.1)', // Grid line color (optional)
-        },
-      },
-      y: {
-        ticks: {
-          color: 'black', // y-axis number color
-        },
-        grid: {
-          color: 'rgba(0,0,0,0.1)',
-        },
-      },
-    },
   };
 
   return (
@@ -212,12 +198,19 @@ const Dashboard = () => {
         <div className='dashboard-rows'>
           <div className='dashboard-container-wrapper'>
             <div className='dashboard-bottom-row-container'>
-              <div className='dashboard-container-title'>Projected Spendings</div>
-              <div className='projected-spending-bottom-row-boxes'>
-                <div style={{ width: '100%', height: '100%' }}>
-                  <Line data={lineChartData} options={lineChartOptions} />
+              <div className='projected-spending-dashboard-container-title'>Projected Spendings</div>
+              <div className='projected-spending-bottom-row-boxes graph-box-wrapper'>
+                {graphLoading ? (
+                  <div className="loading-spinner">Loading chart...</div>
+                  ) : currentMonthReceipts.length >= 4 && graphUrl ? (
+                    <img src={graphUrl} alt="Projected Spending Graph" className='projected-graph-image'/>
+                  ) : (
+                  <>
+                  <img src={graphUrl || ''} alt="Blurred Projected Spending Graph" className='projected-graph-image blurred'/>
+                   <div className='graph-overlay-message'>Add at least 4 receipts from this month to view your projected spending chart</div>
+                  </>
+                  )}
                 </div>
-              </div>
             </div>
             <div className='dashboard-bottom-row-container'>
               <div className='dashboard-container-title'>Stock Information</div>

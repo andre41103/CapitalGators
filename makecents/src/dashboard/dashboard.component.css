@@ -101,6 +101,15 @@
     width: 100%; 
 }
 
+.projected-spending-dashboard-container-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #213547;
+    text-align: center; 
+    width: 100%; 
+    margin-left:75px;
+}
+
 .top-row-boxes {
     width: 700px;              
     height: 300px;        
@@ -130,9 +139,9 @@
 }
 
 .projected-spending-bottom-row-boxes {
-    width: 700px;              
+    width: 550px;              
     height: 300px;        
-    background-color: #f9f9f9;
+    background-color: #ffffff;
     padding: 10px;
     border-radius: 10px;
     display: flex;
@@ -141,6 +150,8 @@
     justify-content: center;   
     text-align: center;
     border: 4px solid #5EC57E;
+    overflow:auto;
+    margin-left: 70px;
 
 }
 
@@ -175,3 +186,33 @@
     padding: 15px;
     border-radius: 5px;
 }
+
+.projected-graph-image {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    border-radius: 10px;
+  }
+  
+  .blurred {
+    filter: blur(6px);
+    opacity: 0.5;
+  }
+  
+  .graph-box-wrapper {
+    position: relative;
+  }
+  
+  .graph-overlay-message {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #213547;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px 20px;
+    border-radius: 8px;
+  }
+  
