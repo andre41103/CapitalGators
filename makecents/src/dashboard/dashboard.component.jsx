@@ -107,8 +107,8 @@ const Dashboard = () => {
 
       const formattedData = Object.entries(spendingMap).map(([type, total]) => ({
         name: type,
-        value: total,
-      }));
+        value: parseFloat(total.toFixed(2)),
+      }));      
 
       setCategorySpending(formattedData);
 
@@ -181,8 +181,8 @@ const Dashboard = () => {
                   <PieChart>
                     <Pie
                       data={[
-                        { name: 'Spent', value: expenses },
-                        { name: 'Remaining', value: Math.max(budget - expenses, 0) },
+                        { name: 'Spent', value: parseFloat(expenses.toFixed(2)) },
+                        { name: 'Remaining', value: parseFloat(Math.max(budget - expenses, 0).toFixed(2)) },
                       ]}
                       cx="50%"
                       cy="50%"
