@@ -191,6 +191,7 @@
 
 .category-box {
   background-color: #f4f4f4;
+  align-content: center;
   padding: 15px 25px;
   border-radius: 8px;
   font-size: 1.3rem;

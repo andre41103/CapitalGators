@@ -57,7 +57,7 @@ const Login = () => {
         <img src={plantImage} alt="Plant" className="plant-image-login left-plant" />
 
         <div className="form-container-login">
-          <h2 className="form-title-login">Log In</h2>
+          <h2 className="form-title-login">Login</h2>
           <div className="form-group-login">
             <label htmlFor="email">Email Address:</label>
             <input 
@@ -77,7 +77,7 @@ const Login = () => {
               onKeyDown={handleKeyPress} 
             />
           </div>
-          <button onClick={handleLogin} className="button">Login</button>
+          <button onClick={handleLogin} className="button">Log In</button>
           {errorMessage && <div className='error-message'>{errorMessage}</div>}
           <p className="signup-prompt">
             Don't have an account yet?{" "}
