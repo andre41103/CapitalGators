@@ -80,25 +80,38 @@ const Resources = () => {
                                 {cards.length > 0 ? (
                                     cards.map((card, index) => (
                                         <div key={index} className="card-info">
-                                            <h4>{card.name}</h4>
-                                            <p><strong>Issuer:</strong> {card.relationships.issuer.name}</p>
-                                            
-                                            <h5>Intro Bonuses:</h5>
-                                            {card.attributes.introBonuses.map((bonus, idx) => (
-                                                <p key={idx}>{bonus.description}</p>
-                                            ))}
-
-                                            <h5>Reward Rates:</h5>
-                                            {card.attributes.rewardRates.map((rate, idx) => (
-                                                <p key={idx}>{rate.explanation}</p>
-                                            ))}
-
-                                            <h5>Why Like This:</h5>
-                                            {card.variations.map((variation, idx) => (
-                                                <p key={idx}>{variation.whyLikeThis}</p>
-                                            ))}
+                                          <h4>{card.name}</h4>
+                                          <p><strong>Issuer:</strong> {card.relationships?.issuer?.name || 'N/A'}</p>
+                                          
+                                          <h5>Intro Bonuses:</h5>
+                                          {card.attributes?.introBonuses?.length > 0 ? (
+                                            card.attributes.introBonuses.map((bonus, idx) => (
+                                              <p key={idx}>{bonus.description}</p>
+                                            ))
+                                          ) : (
+                                            <p>N/A</p>
+                                          )}
+                                      
+                                          <h5>Reward Rates:</h5>
+                                          {card.attributes?.rewardRates?.length > 0 ? (
+                                            card.attributes.rewardRates.map((rate, idx) => (
+                                              <p key={idx}>{rate.explanation}</p>
+                                            ))
+                                          ) : (
+                                            <p>N/A</p>
+                                          )}
+                                      
+                                          <h5>Why Like This:</h5>
+                                          {card.variations?.length > 0 && card.variations.some(v => v.whyLikeThis) ? (
+                                            card.variations.map((variation, idx) => (
+                                              <p key={idx}>{variation.whyLikeThis || 'N/A'}</p>
+                                            ))
+                                          ) : (
+                                            <p>N/A</p>
+                                          )}
                                         </div>
-                                    ))
+                                      ))
+                                      
                                 ) : (
                                     <p>Loading credit card data...</p>
                                 )}
