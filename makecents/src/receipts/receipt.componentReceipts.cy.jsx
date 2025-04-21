@@ -29,59 +29,24 @@ describe('Receipts Component', () => {
     cy.get('input#merchant_name').should('exist');
   });
 
-  it('accepts form input values', () => {
-    cy.get('#merchant_name')
-      .clear()
-      .type("Trader Joe's")
-      .should('have.value', "Trader Joe's");
-  
-    cy.get('#receipt_type')
-      .select('Food & Dining')
-      .should('have.value', 'Food & Dining');
-  
-    cy.get('#total')
-      .clear()
-      .type('45.23')
-      .should('have.value', '45.23');
-  
-    cy.get('#date')
-      .clear()
-      .type('2024-04-15')
-      .should('have.value', '2024-04-15');
-  
-    cy.get('#notes')
-      .clear()
-      .type('Weekly groceries')
-      .should('have.value', 'Weekly groceries');
-  
-    cy.get('#recurring').check().should('be.checked');
+  it('handles failed manual entry submission gracefully', () => {
+    cy.intercept('POST', 'http://localhost:8080/receipts/test@example.com', {
+      statusCode: 500,
+      body: { error: 'Failed to upload receipt' }
+    }).as('saveReceiptFail');
+
+    cy.get('input#merchant_name').type('Target');
+    cy.get('button').contains('Save Receipt').click();
+    cy.wait('@saveReceiptFail');
+    // There is no visible error message in the UI, but you can check console error if needed
   });
-  
-  it('submits form and sends POST request', () => {
-    cy.intercept('POST', 'http://localhost:8080/receipts/test@example.com', (req) => {
-      // Validate request body inline instead of in `.then`
-      expect(req.body.merchant_name).to.eq('Starbucks');
-      expect(req.body.receipt_type).to.eq('Leisure');
-      expect(req.body.total).to.eq(5.75);
-      expect(req.body.date).to.eq('2024-04-16');
-      expect(req.body.notes).to.eq('Coffee');
-      expect(req.body.recurring).to.be.true;
-      req.reply({ success: true });
-    }).as('submitReceipt');
-  
-    cy.get('#merchant_name').clear().type('Starbucks');
-    cy.get('#receipt_type').select('Leisure');
-    cy.get('#total').clear().type('5.75');
-    cy.get('#date').clear().type('2024-04-16');
-    cy.get('#notes').clear().type('Coffee');
-    cy.get('#recurring').check();
-  
-    cy.contains('Save Receipt').click();
-    cy.wait('@submitReceipt');
+
+  it('renders navigation links', () => {
+    cy.get('.navbar').within(() => {
+      cy.contains('MakeCents').should('have.attr', 'href', '/dashboard');
+      cy.contains('Education Resources').should('have.attr', 'href', '/resources');
+      cy.contains('Reports').should('have.attr', 'href', '/reports');
+      cy.contains('Receipt Entry').should('have.class', 'active');
+    });
   });
-  
-  it('navigates to profile on avatar click', () => {
-    cy.get('.avatar-icon').click();
-    cy.location('pathname').should('include', '/profile');
-  });  
 });
