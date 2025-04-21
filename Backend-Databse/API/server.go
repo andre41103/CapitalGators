@@ -339,6 +339,7 @@ func convertReceipt(w http.ResponseWriter, r *http.Request) {
 
 }
 
+// This function displays the graph
 func displayGraph(w http.ResponseWriter, r *http.Request) {
 
 	w.Header().Set("Content-Type", "img/png")
@@ -382,6 +383,8 @@ func displayGraph(w http.ResponseWriter, r *http.Request) {
 
 	dateArg := strings.Join(dates, ",")
 	dailySpendArg := strings.Join(dailySpending, ",")
+
+	fmt.Println(dateArg)
 
 	//convert into string
 	dateRange := strconv.Itoa(user.DateRange)
@@ -495,6 +498,8 @@ func RunServer() http.Handler {
 	router.HandleFunc("/receipts/{email}", uploadReceipt).Methods("POST")
 	router.HandleFunc("/reports/{email}", getReceipts).Methods("GET")
 	router.HandleFunc("/receipts/{email}", convertReceipt).Methods("PUT")
+	router.HandleFunc("/receipts/{email}/mlinfo", updateMLInfo).Methods("GET")
+	router.HandleFunc("/receipts/{email}/graph", displayGraph).Methods("GET")
 	router.HandleFunc("/chatbot", chatBot).Methods("POST")
 	router.HandleFunc("/dashboard", getTickers).Methods("GET")
 	router.HandleFunc("/dashboard/{email}", updateMLInfo).Methods("GET")
