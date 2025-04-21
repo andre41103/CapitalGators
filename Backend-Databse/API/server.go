@@ -359,14 +359,14 @@ func displayGraph(w http.ResponseWriter, r *http.Request) {
 	}
 
 	//run the Training script
-	cmd := exec.Command("python3", "TrainingScript.py")
-	out, err := cmd.CombinedOutput()
+	// cmd := exec.Command("python3", "TrainingScript.py")
+	// out, err := cmd.CombinedOutput()
 
-	if err != nil {
-		http.Error(w, "Cannot run analysis training script", http.StatusBadRequest)
-		fmt.Println(string(out))
-		return
-	}
+	// if err != nil {
+	// 	http.Error(w, "Cannot run analysis training script", http.StatusBadRequest)
+	// 	fmt.Println(string(out))
+	// 	return
+	// }
 
 	//grab the total and the date range into a slice
 	var dates []string
@@ -392,8 +392,8 @@ func displayGraph(w http.ResponseWriter, r *http.Request) {
 	recurringTotal := strconv.FormatFloat(user.RecurringTotal, 'f', 2, 64)
 
 	//run the Backend ML script
-	cmd = exec.Command("python3", "BackendMLScript.py", currentTotal, dateRange, recurringTotal, dateArg, dailySpendArg)
-	out, err = cmd.CombinedOutput()
+	cmd := exec.Command("python3", "BackendMLScript.py", currentTotal, dateRange, recurringTotal, dateArg, dailySpendArg)
+	out, err := cmd.CombinedOutput()
 
 	if err != nil {
 		http.Error(w, "Cannot run backend ML script", http.StatusBadRequest)
