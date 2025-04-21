@@ -98,3 +98,4 @@ logging.info(f"Daily Spending: {daily_spending}")
 # Predict and plot
 prediction = predict_monthly_spending(total, date_range, recurring_total)
 plot_user_spending(prediction, daily_spending, purchase_dates)
+
