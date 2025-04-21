@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[9]:
 
 
 import matplotlib.pyplot as plt
@@ -10,7 +10,6 @@ import pandas as pd
 import pickle
 import calendar
 from datetime import datetime
-import sys
 
 
 # In[2]:
@@ -27,7 +26,7 @@ import sys
 # and plot current_total += new_receipt_total) -- anytime current total updates add point to graph
 
 
-# In[4]:
+# In[11]:
 
 
 def predict_monthly_spending(total, date_range, recurring_total):
@@ -42,21 +41,8 @@ def predict_monthly_spending(total, date_range, recurring_total):
         'date_range': date_range,
         'recurring_total': recurring_total,
     }
-
-    # Add missing features as 0
-    for feature in features:
-        if feature not in data_dict:
-            data_dict[feature] = 0
-
-    # Build input DataFrame with expected feature columns
     X_new = pd.DataFrame([data_dict], columns=features)
-
-    # Replace any remaining NaNs with 0
-    X_new = X_new.fillna(0)
-
-    # Predict
     prediction = model.predict(X_new)[0]
-    
     
     return prediction
 
@@ -79,7 +65,7 @@ def predict_monthly_spending(total, date_range, recurring_total):
 # plot number above on day 30 or 31 depending on the month and make dashed line connecting them
 
 
-# In[8]:
+# In[53]:
 
 
 def plot_user_spending(prediction, daily_spending, purchase_dates, export_path='spending_projection.png'):
@@ -87,34 +73,43 @@ def plot_user_spending(prediction, daily_spending, purchase_dates, export_path='
     
     # Calculate cumulative spending
     cumulative_spending = np.cumsum(daily_spending)
-    days_so_far = len(daily_spending)
 
     # Get number of days in the month from the first purchase date
     first_date = datetime.strptime(purchase_dates[0], '%Y-%m-%d')
     _, total_days_in_month = calendar.monthrange(first_date.year, first_date.month)
+    
+    # Convert all purchase_dates to day-of-month integers
+    days_of_month = [datetime.strptime(date, '%Y-%m-%d').day for date in purchase_dates]
 
     # Create plot
     plt.figure(figsize=(8, 5))
-    plt.plot(range(1, days_so_far + 1), cumulative_spending, 'o', label='Actual Spending', color='darkgreen')
+
+    # Plot actual points with line
+    plt.plot(days_of_month, cumulative_spending, 'go-', label="Actual Spending")  # solid line + green dots
 
     # Projected dotted line
-    future_days = [days_so_far, total_days_in_month]
-    future_spending = [cumulative_spending[-1], prediction]
+    last_day = days_of_month[-1]
+    last_total = cumulative_spending[-1]
+    future_days = [last_day, total_days_in_month]
+    future_spending = [last_total, prediction]
     plt.plot(future_days, future_spending, '--', label='Predicted Spending', color='darkgreen')
+
+    # Plot estimated month target
+    plt.plot(total_days_in_month, prediction, marker='*', color='orange', markersize=12, label='Predicted Total')
 
     # Set the labels
     plt.xlabel("Day of the Month")
     plt.ylabel("Total Spent ($)")
     plt.title(f"Estimated Month Projection (Predicted: ${prediction:.2f})")
-    plt.xlim(1, total_days_in_month)
+    plt.xlim(1, total_days_in_month+1)
     plt.ylim(bottom=0)
-    plt.xlim(1, total_days_in_month)
     plt.grid(True)
     plt.legend()
 
     # Save the plot
     plt.tight_layout()
-    plt.savefig(export_path, bbox_inches='tight', pad_inches=0)
+    plt.savefig(export_path)
+    plt.show()
 
 
 # In[9]:
@@ -124,39 +119,27 @@ def plot_user_spending(prediction, daily_spending, purchase_dates, export_path='
 # otherwise blur out graph with note to add x more receipts to unlock porojected spending
 
 
-# # This is just a hard coded example of using the functions
-# # The data needs to be queried and passed in as parameters to the functions!!
-
-total = float(sys.argv[1])
-date_range = float(sys.argv[2])
-recurring_total = float(sys.argv[3])
-
-date = sys.argv[4]
-purchase_dates = date.split(",")
-spending = sys.argv[5]
-spending_string= spending.split(",")
-
-daily_spending = []
-#error handling in case we have an empty list
-for x in spending_string:
-    try:
-        daily_spending.append(float(x))
-    except ValueError:
-        daily_spending.append(0.0)
+# In[55]:
 
 
-#check to see if it works or not
-print(f"Total: {total}, Date Range: {date_range}, Recurring Total: {recurring_total}")
+# This is just a hard coded example of using the functions
+# The data needs to be queried and passed in as parameters to the functions!!
 
-#daily_spending = [15.2, 8.7, 12.4, 10.1, 18.3, 9.0, 7.5, 11.2, 16.5, 10.0, 13.1, 14.4]
-#purchase_dates = ['2025-04-01', '2025-04-02', '2025-04-03', '2025-04-04', '2025-04-05', '2025-04-06', 
-#                  '2025-04-07', '2025-04-08', '2025-04-09', '2025-04-10', '2025-04-11', '2025-04-12']
+# total = 996.62
+# date_range = 21
+# recurring_total = 900
+# daily_spending = [50, 900, 23.62, 23]
+# purchase_dates = ['2025-04-02', '2025-04-10', '2025-04-15', '2025-04-21']
 
 # # call model to make prediction
-prediction = predict_monthly_spending(total, date_range, recurring_total)
+# prediction = predict_monthly_spending(total, date_range, recurring_total)
 
 # # generate graph based on model
-plot_user_spending(prediction, daily_spending, purchase_dates)
+# plot_user_spending(prediction, daily_spending, purchase_dates)
 
 
-# %%
+# In[ ]:
+
+
+
+
