@@ -75,11 +75,18 @@ const Reports = () => {
 
 
           const totalExpenses = filteredReceipts.reduce((sum, receipt) => sum + (receipt.total || 0), 0);
-          const recurringExpenses = receiptData.filter(receipt => receipt.recurring).reduce((sum, receipt) => {
-            return sum + (receipt.total || 0);
-          }, 0);
 
+          const nonDuplicateRecurringExpenses = receiptData.filter((receipt) => {
+            const receiptDate = new Date(receipt.date);
+            const isRecurring = receipt.recurring;
+            const isCurrentMonth = receiptDate.getFullYear() === currentYear && receiptDate.getMonth() === currentMonth;
+            return isRecurring && !isCurrentMonth;
+          });
+          
+          const recurringExpenses = nonDuplicateRecurringExpenses.reduce((sum, receipt) => sum + (receipt.total || 0), 0);
+          
           setExpenses(totalExpenses + recurringExpenses);
+          
           setReceipts(receiptData);
           const categorySpending = {};
       
@@ -247,7 +254,7 @@ const Reports = () => {
                   You spent the most on {topCategories[0] || 'N/A'}, try buying items with deals or added savings.
                 </li>
                 <li>
-                  Your goal is to save ${numericBudget.toLocaleString()}, try an automatic savings plan.
+                  Your goal is to not spend more than ${numericBudget.toLocaleString()}, try an automatic savings plan.
                 </li>
                 <li>
                   {remaining < 0 ? (
