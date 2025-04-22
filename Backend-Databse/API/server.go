@@ -53,6 +53,28 @@ func parseStringtoInt(date string) int {
 	return dayInt
 }
 
+func UpdateUserReceiptStats(user *db.User) {
+	total := 0.0
+	recurringTotal := 0.0
+	dateRange := 0
+
+	for _, receipt := range user.UserReceipt {
+		total += receipt.Total
+
+		if date := parseStringtoInt(receipt.Date); date > dateRange {
+			dateRange = date
+		}
+
+		if receipt.Recurring {
+			recurringTotal += receipt.Total
+		}
+	}
+
+	user.UserCurrentTotal = total
+	user.RecurringTotal = recurringTotal
+	user.DateRange = dateRange
+}
+
 // this is our POST
 func post(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json")
@@ -358,6 +380,13 @@ func displayGraph(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
+	UpdateUserReceiptStats(user)
+	err = db.UpdateReceiptTotal(email, *user)
+
+	if err != nil {
+		http.Error(w, "Failed to update user receipt stats", http.StatusInternalServerError)
+		return
+	}
 	//run the Training script
 	// cmd := exec.Command("python3", "TrainingScript.py")
 	// out, err := cmd.CombinedOutput()
@@ -446,31 +475,12 @@ func updateMLInfo(w http.ResponseWriter, r *http.Request) {
 
 	user, err := db.GetOneUser(email)
 
-	total := 0.0
-	recurringTotal := 0.0
-	dateRange := 0
-
 	if err != nil {
 		http.Error(w, `{"error":"User not found"}`, http.StatusNotFound)
 		return
 	}
 
-	for _, receipt := range user.UserReceipt {
-
-		total += receipt.Total
-
-		if date := parseStringtoInt(receipt.Date); date > dateRange {
-			dateRange = date
-		}
-
-		if receipt.Recurring {
-			recurringTotal += receipt.Total
-		}
-	}
-
-	user.UserCurrentTotal = total
-	user.RecurringTotal = recurringTotal
-	user.DateRange = dateRange
+	UpdateUserReceiptStats(user)
 
 	err = db.UpdateReceiptTotal(email, *user)
 
