@@ -3,14 +3,18 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://your-username.github.io/your-repo-name",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "chart.js": "^4.4.8",
+    "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-chartjs-2": "^5.3.0",
     "react-dom": "^19.0.0",
