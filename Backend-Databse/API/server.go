@@ -16,10 +16,10 @@ import (
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 
-	chat "github.com/CapitalGators/Chatbot"
-	db "github.com/CapitalGators/DB"
-	pass "github.com/CapitalGators/Hash"
-	scrape "github.com/CapitalGators/WebScrape"
+	chat "github.com/CapitalGators/Backend-Databse/Chatbot"
+	db "github.com/CapitalGators/Backend-Databse/DB"
+	pass "github.com/CapitalGators/Backend-Databse/Hash"
+	scrape "github.com/CapitalGators/Backend-Databse/WebScrape"
 )
 
 func changeDirectory(parent, child string) string {
