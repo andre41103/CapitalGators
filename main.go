@@ -4,8 +4,10 @@ package main
 import (
 	//api "github.com/CapitalGators/API"
 
+	"fmt"
 	"log"
 	"net/http"
+	"os"
 
 	handle "github.com/CapitalGators/Backend-Databse/API"
 	db "github.com/CapitalGators/Backend-Databse/DB"
@@ -21,7 +23,14 @@ func main() {
 	defer db.Disconnect()
 
 	router := handle.RunServer()
-	err := http.ListenAndServe(":10000", router)
+
+	// Get port from environment variable (Render provides this)
+	port := os.Getenv("PORT")
+	if port == "" {
+		port = "10000" // fallback for local development
+	}
+
+	err := http.ListenAndServe(fmt.Sprintf(":%s", port), router)
 	if err != nil {
 		log.Fatal("error occurred when starting the server :(, ", err)
 	}
